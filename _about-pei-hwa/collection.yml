@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/School Safety and Security Procedures.md
       - General Information/School Rules and Regulations.md
       - General Information/School Hours and School Terms.md
       - General Information/Announcement.md
