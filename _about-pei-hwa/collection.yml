@@ -2,5 +2,6 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Song.md
       - School Motto and Crest.md
       - School Heritage.md
