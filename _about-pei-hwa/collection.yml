@@ -2,4 +2,5 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Motto and Crest.md
       - School Heritage.md
