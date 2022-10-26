@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/Financial Information.md
       - General Information/Financial Support.md
       - General Information/School Safety and Security Procedures.md
       - General Information/School Rules and Regulations.md
