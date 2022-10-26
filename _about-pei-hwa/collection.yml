@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - Quick Links.md
       - School Calendar.md
       - Privacy Policy.md
       - School Service Providers/.keep
