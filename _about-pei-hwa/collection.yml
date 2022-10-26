@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Service Providers/Quick Links.md
-      - School Service Providers/Privacy Policy.md
       - School Service Providers/School Calendar.md
       - School Service Providers/.keep
       - School Service Providers/School Bookshop & Uniforms.md
