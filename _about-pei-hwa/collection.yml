@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Service Providers/School Dental Clinic.md
       - School Service Providers/School Bus.md
       - School Service Providers/School Bookshop & Uniforms.md
       - School Service Providers/.keep
