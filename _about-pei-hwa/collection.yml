@@ -1,4 +1,5 @@
 collections:
   about-pei-hwa:
     output: true
-    order: []
+    order:
+      - School Heritage.md
