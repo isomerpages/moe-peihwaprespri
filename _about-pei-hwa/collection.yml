@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/.keep
       - School Staff/.keep
       - School Staff/Key Personnel.md
       - School Staff/Teaching Staff 2022 (Form Teachers).md
