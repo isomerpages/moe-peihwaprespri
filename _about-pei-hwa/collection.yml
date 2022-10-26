@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Staff/Administrative and Support Staff.md
       - School Staff/Teaching Staff 2022 (Non Form Teachers).md
       - School Staff/Teaching Staff 2022 (Form Teachers).md
       - School Staff/Key Personnel.md
