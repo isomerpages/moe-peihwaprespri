@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/School Hours and School Terms.md
       - General Information/Announcement.md
       - General Information/General Information.md
       - General Information/.keep
