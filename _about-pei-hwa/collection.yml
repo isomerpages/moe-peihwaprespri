@@ -2,18 +2,18 @@ collections:
   about-pei-hwa:
     output: true
     order:
-      - General Information/Terms of use.md
-      - General Information/Primary 1 Registration.md
-      - General Information/Traffic Management Plan.md
-      - General Information/School Booklist.md
-      - General Information/Financial Information.md
-      - General Information/Financial Support.md
-      - General Information/School Safety and Security Procedures.md
-      - General Information/School Rules and Regulations.md
-      - General Information/School Hours and School Terms.md
-      - General Information/Announcement.md
-      - General Information/General Information.md
       - General Information/.keep
+      - General Information/General Information.md
+      - General Information/Announcement.md
+      - General Information/School Hours and School Terms.md
+      - General Information/School Rules and Regulations.md
+      - General Information/School Safety and Security Procedures.md
+      - General Information/Financial Support.md
+      - General Information/Financial Information.md
+      - General Information/School Booklist.md
+      - General Information/Traffic Management Plan.md
+      - General Information/Primary 1 Registration.md
+      - General Information/Terms of use.md
       - School Staff/.keep
       - School Staff/Key Personnel.md
       - School Staff/Teaching Staff 2022 (Form Teachers).md
