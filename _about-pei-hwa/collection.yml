@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/Terms of use.md
       - General Information/Primary 1 Registration.md
       - General Information/Traffic Management Plan.md
       - General Information/School Booklist.md
