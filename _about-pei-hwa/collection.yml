@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - General Information/General Information.md
       - General Information/.keep
       - School Staff/.keep
       - School Staff/Key Personnel.md
