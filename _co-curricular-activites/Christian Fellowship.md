@@ -29,3 +29,26 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### Photos
+
+<figure>
+<img src="/images/cf%201.jpg">
+<figcaption>Preparing for VIA Chinese New Year Celebration 2020 ( Before Covid-19 )</figcaption>
+</figure>
+
+<figure>
+<img src="/images/cf%202.jpg">
+<figcaption>Internal VIA 2020 (Before Circuit Breaker) <br>
+CF members greet Happy New Year to our school non-teaching staff.</figcaption>
+</figure>
+
+<figure>
+<img src="/images/cf%203.jpg">
+<figcaption>Observe safe distancing during Christian Fellowship CCA 2021.</figcaption>
+</figure>
+
+<figure>
+<img src="/images/cf%204.jpg">
+<figcaption>Birthday Celebrations for every CF members</figcaption>
+</figure>
