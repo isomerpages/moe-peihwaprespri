@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Character Education/Sexuality Education.md
       - Character Education/Programme for Active Learning.md
       - Character Education/.keep
