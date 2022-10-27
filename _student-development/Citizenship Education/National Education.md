@@ -37,3 +37,58 @@ The learning journeys organized at each level further enrich the study of Social
 <img src="/images/P3%20Kampong%20Glam.jpg">
 <figcaption>Primary 3 pupils at Kampong Glam</figcaption>
 </figure>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-e14l{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">Primary</th>
+    <th class="tg-e14l">Learning Journey Location</th>
+    <th class="tg-a4yv">Learning Focus</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-baqh">1</td>
+    <td class="tg-0lax">Neighbourhood Walk</td>
+    <td class="tg-0lax">To recognize, relate and appreciate the places and people in the neighbourhood.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2</td>
+    <td class="tg-0lax">Singapore Philatelic Museum<br></td>
+    <td class="tg-0lax">To understand and appreciate how our cultures and heritage make up our identity and our diversity makes Singapore unique.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">3</td>
+    <td class="tg-0lax">Kampong Glam<br></td>
+    <td class="tg-0lax">To understand and appreciate the rich cultural and historical heritage of the Malay Community.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">4</td>
+    <td class="tg-0lax">Singapore River<br>Asian Civilization Museum<br></td>
+    <td class="tg-0lax">To appreciate and value our Singapore story and recognise how our lives are shaped by what happened in the past.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">5</td>
+    <td class="tg-0lax">P5 NE Show<br>NEWater Visitor Centre<br></td>
+    <td class="tg-0lax">To learn about the inventions and legacies in Singapore which impacted our lives today despite our challenges.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">6</td>
+    <td class="tg-0lax">Little India<br></td>
+    <td class="tg-0lax">To understand and appreciate the rich cultural and historical heritage of the Indian Community. To discover why countries around us are important to Singapore.<br></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/NE%202.png)
