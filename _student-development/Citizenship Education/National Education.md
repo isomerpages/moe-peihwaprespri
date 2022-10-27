@@ -10,3 +10,30 @@ The Citizenship Education at Pei Hwa Presbyterian Primary School (PHPPS) is part
      style="width:60%">
 
 *   **A Sense of Belonging**: To develop a deeper understanding of who we are and a shared understanding of the values that are important to us as a nation.
+
+*   **A Sense of Reality**: To be aware of the contemporary realities — including Singapore’s constraints and vulnerabilities — which affect us as a nation amidst the backdrop of a less predictable world.
+
+*   **A Sense of Hope**: Having confidence and optimism in Singapore’s future and the resilience to face the challenges ahead.
+
+*   Ultimately, the above 3 citizenship dispositions will cultivate **the will to act**: To be active citizens who have a collective resolve and a sense of shared mission towards building a Singapore for all.
+
+There is explicit teaching of National Education. For pupils to contribute, they first have to understand their country – the history, the fight for independence and how far we have come as a nation, from third world to first world. Then, the school provides pupils with authentic and engaging NE related experiences and these experiences help them develop an appreciation for their country. Pupils are also given opportunities to reflect and engage in discussions as they share how they have a part to play in nation building.
+  
+
+#### NE Commemorative Events
+
+The 4 NE commemorative events, namely Total Defence Day, International Friendship Day, Racial Harmony Day and National Day have been identified as defining moments in Singapore history. In PHPPS, festivals such as Hari Raya and Deepavali are also given greater emphasis to allow pupils to know more about and appreciate the culture and traditions of our Malay and Indian community.
+
+![](/images/NE%201.png)
+
+#### NE Learning Journeys
+
+NE learning journeys aim to develop pupils’ dispositions and competencies for citizenship through authentic, out-of-school learning experiences and enable pupils to explore personal and collective identity by engaging with the people, perspectives and places of Singapore.
+
+The learning journeys organized at each level further enrich the study of Social Studies. They are organized at least once a year to enable pupils to contextualize their learning experience in authentic real-world settings. The table below shows the learning journeys according to the various levels and its corresponding learning focus.
+
+
+<figure>
+<img src="/images/P3%20Kampong%20Glam.jpg">
+<figcaption>Primary 3 pupils at Kampong Glam</figcaption>
+</figure>
