@@ -47,4 +47,13 @@ Should you require assistance during FHBL period, the following are the helpline
 </tbody>
 </table>
 
+This issue of Parent Kit provides tips on how you can support your child’s HBL   
+
+and addresses some of your concerns.  
+
+  
+
+You may also download the [**PDF Parent Kit**](https://peihwapresbyterianpri.moe.edu.sg/qql/slot/u311/2020/SLS/HBL%20March/Resource%20Kit%20-%20HBL.pdf) 
+
+by clicking on the attached picture below
 
