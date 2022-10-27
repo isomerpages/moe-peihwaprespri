@@ -2,5 +2,6 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Drama Club.md
       - Christian Fellowship.md
       - Chinese Culture and Language.md
