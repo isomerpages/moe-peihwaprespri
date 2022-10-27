@@ -51,7 +51,7 @@ Each pupil will learn about the 5 PEL systematically, as planned in the 6-year l
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Primary 5</span><br><span style="font-weight:bold">Primary 6</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;text-decoration:underline">5 PEL (Revisit)</span><br><br>- Model the Way<br>    <br>- Inspire a Shared Vision<br>    <br>- Challenge the Process<br>    <br>- Enable Others to Act<br>    <br>- Encourage the Heart</td>
+    <td class="tg-0pky"><span style="font-weight:bold;text-decoration:underline">5 PEL (Revisit)</span><br><br>- Model the Way<br>- Inspire a Shared Vision<br>- Challenge the Process <br>- Enable Others to Act <br>- Encourage the Heart</td>
   </tr>
 </tbody>
 </table>
