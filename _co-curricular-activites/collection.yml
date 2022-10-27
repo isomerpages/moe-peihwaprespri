@@ -2,6 +2,7 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Robotics Club.md
       - ICT Club.md
       - Drama Club.md
       - Christian Fellowship.md
