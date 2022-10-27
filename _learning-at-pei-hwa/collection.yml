@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Home Based Learning/Briefing for Students.md
       - Home Based Learning/FAQs.md
       - Home Based Learning/Home Based Learning (HBL).md
       - Home Based Learning/.keep
