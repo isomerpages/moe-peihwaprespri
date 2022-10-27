@@ -116,3 +116,80 @@ c.Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rj1p">UNIT</td>
+    <td class="tg-rj1p">LESSONS / DURATION</td>
+    <td class="tg-rj1p">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-rj1p">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa" rowspan="5">Are We More Than Friends?</td>
+    <td class="tg-y7qa">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-y7qa">●       identify the qualities of a healthy friendship<br>●       recognise the importance of making wise choices in friendship</td>
+    <td class="tg-y7qa" rowspan="2">Term 1 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-y7qa">●       identify the qualities that they have as a friend<br>●       recognise the importance of developing in oneself the qualities of a good friend</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">What is Love?<br>(30 min)</td>
+    <td class="tg-y7qa">●       identify the characteristics of love and infatuation<br>●       distinguish between the characteristics of love versus infatuation<br>●       identify strong feelings arising from infatuation</td>
+    <td class="tg-y7qa" rowspan="3">Term 1 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Am I Falling In Love?<br>(30 min)</td>
+    <td class="tg-y7qa">●       manage strong feelings arising from infatuation<br>●       identify ways to manage and cope with teasing from peers</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Main Task<br> (30 min)</td>
+    <td class="tg-y7qa">Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. <br>They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa">Friends or Foes?</td>
+    <td class="tg-y7qa">Are You Really My Friend?<br>(30 min)</td>
+    <td class="tg-y7qa">●       identify the pros and cons of forming relationships through social networking websites<br>●       know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-y7qa">Term 1 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"></td>
+    <td class="tg-y7qa">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-y7qa">●       know that some information (like pornography) received through the Internet may be harmful<br>●       know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td class="tg-y7qa"></td>
+  </tr>
+  <tr>
+    <td class="tg-y7qa"></td>
+    <td class="tg-y7qa">Main Task<br> (30 min)</td>
+    <td class="tg-y7qa">Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. <br>They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  <br>These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
+    <td class="tg-y7qa"></td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**  
+
+8.Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9.Parents who wish to opt their children out of the Sexuality Education lessons are to complete an opt-out form in FORMSG via Parents Gateway. This form will be sent to parents at the start of the year and is also available **[here](http://form.gov.sg/61d63e2b454c22001265d259)**. The completed opt-out form is to be submitted by **14/01/2022.** 
+
+10.Parents can contact the school at [**phpps@moe.edu.sg**](mailto:phpps@moe.edu.sg) for discussion or seek clarification about the school’s sexuality education programme.  
+
+11.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
