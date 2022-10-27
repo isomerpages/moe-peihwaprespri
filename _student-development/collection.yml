@@ -2,11 +2,11 @@ collections:
   student-development:
     output: true
     order:
-      - Citizenship Education/National Education Art Designs by Students.md
-      - Citizenship Education/Social Studies (SS).md
-      - Citizenship Education/National Education.md
-      - Citizenship Education/Educational and Career Guidance (ECG).md
       - Citizenship Education/.keep
+      - Citizenship Education/Educational and Career Guidance (ECG).md
+      - Citizenship Education/National Education.md
+      - Citizenship Education/Social Studies (SS).md
+      - Citizenship Education/National Education Art Designs by Students.md
       - Character Education/.keep
       - Character Education/Programme for Active Learning.md
       - Character Education/Sexuality Education.md
