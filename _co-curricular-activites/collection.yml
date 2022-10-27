@@ -2,4 +2,5 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Christian Fellowship.md
       - Chinese Culture and Language.md
