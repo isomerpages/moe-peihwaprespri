@@ -2,9 +2,9 @@ collections:
   student-development:
     output: true
     order:
-      - Student's Well being/Student Management.md
-      - Student's Well being/Form Teacher Guidance Period (FTGP).md
       - Student's Well being/.keep
+      - Student's Well being/Form Teacher Guidance Period (FTGP).md
+      - Student's Well being/Student Management.md
       - Citizenship Education/.keep
       - Citizenship Education/Educational and Career Guidance (ECG).md
       - Citizenship Education/National Education.md
