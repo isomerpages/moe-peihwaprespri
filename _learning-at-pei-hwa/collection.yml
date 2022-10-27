@@ -2,5 +2,6 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - English.md
       - Chinese.md
       - Art.md
