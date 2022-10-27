@@ -27,3 +27,14 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<figure>
+<img src="/images/Adopt%20different%20personas%20at%20Drama%20Club.jpg">
+<figcaption>Learning to adopt different personas in Drama Club</figcaption>
+</figure>
+
+<figure>
+<img src="/images/School%20Performances%20during%20Teachers%20Day.jpg">
+<figcaption>Developing confidence in our students through school performances</figcaption>
+</figure>
+
