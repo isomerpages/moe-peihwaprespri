@@ -122,3 +122,11 @@ VIA is an important component of Character and Citizenship Education. It is a le
 In February, Singapore suddenly found herself in the middle of a health crisis as we saw our first Covid-19 infection in our lands. From then on, our healthcare personnel have found themselves placed in the frontline to help keep our people safe and fight to save those who have been infected with this novel virus. 
 
 At Pei Hwa Presbyterian, we see the importance of that job and understand the pressure that the healthcare workers must have felt throughout these months.  Thus, as part of our staff community outreach efforts, we have put together a total of 500 COVID (Carry On! Valiant In Defence) care packs for NUH healthcare workers who work tirelessly around the clock. Through the small packs and the notes of encouragement from our staff, we hope that it will lift the spirits of these frontline workers to continue the fight with us!
+
+![](/images/via%20staff%201.png)
+
+![](/images/VIA%20Staff%205.jpg)
+
+![](/images/VIA%20Staff%207.jpg)
+
+![](/images/via%20staff%202.png)
