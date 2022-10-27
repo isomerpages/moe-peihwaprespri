@@ -53,7 +53,12 @@ and addresses some of your concerns.
 
   
 
-You may also download the [**PDF Parent Kit**](https://peihwapresbyterianpri.moe.edu.sg/qql/slot/u311/2020/SLS/HBL%20March/Resource%20Kit%20-%20HBL.pdf) 
+You may also download the [**PDF Parent Kit**](/files/Resource%20Kit%20-%20HBL.pdf) by clicking on the attached picture below
 
-by clicking on the attached picture below
+![](/images/HBL%20Main%20Page%201.png)
 
+For more information on HBL using SLS 
+
+Please click on the link below
+
+[FAQ for Home-based learning using SLS](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u311/2020/SLS/FAQs%20for%20HBL_Using%20SLS.pdf)
