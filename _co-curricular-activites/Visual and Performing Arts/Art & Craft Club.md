@@ -35,3 +35,12 @@ third_nav_title: Visual and Performing Arts
 <figcaption> <strong>Going for visits to art exhibitions </strong></figcaption>
 </figure>
 
+<figure>
+<img src="/images/Sharing%20fruits%20of%20our%20labour.jpg">
+<figcaption> <strong>Sharing the fruits of our labour</strong></figcaption>
+</figure>
+
+<figure>
+<img src="/images/Creating%20bonds%20with%20community.png">
+<figcaption> <strong>Creating bonds with the community through arts</strong></figcaption>
+</figure>
