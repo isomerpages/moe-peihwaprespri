@@ -27,3 +27,14 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<figure>
+<img src="/images/Develop%20colloboration%20&%20information%20skills.jpg">
+<figcaption>Working together to develop collaboration and information skills</figcaption>
+</figure>
+
+<figure>
+<img src="/images/Share%20knowledge%20to%20build%20positive%20online%20community.jpg">
+<figcaption>Sharing our knowledge together to build a positive online community</figcaption>
+</figure>
+
