@@ -2,6 +2,7 @@ collections:
   learning-at-pei-hwa:
     output: true
     order:
+      - Home Based Learning/.keep
       - Special Programme/Thinkers Today, Leaders Tomorrow (TTLT) programme.md
       - Special Programme/Lifelong Learning Programme.md
       - Special Programme/Applied Learning Programme.md
