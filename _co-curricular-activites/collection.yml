@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs and Socities/.keep
-      - Chinese Culture and Language.md
       - Christian Fellowship.md
       - Drama Club.md
       - ICT Club.md
