@@ -2,6 +2,7 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Sports and Games/.keep
       - Sports and Games/Table Tennis.md
       - Sports and Games/Tchoukball.md
