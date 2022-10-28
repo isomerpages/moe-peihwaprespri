@@ -8,8 +8,7 @@ Please note you will **need to sign in with your own credentials** to access t
 
 <figure>
 <a href="https://zoom.us/">
-<img src="/images/zoom%20icon%202.png" style="width:50%">
+<img src="/images/zoom%20icon%202.png" style="width:30%">
 </a>
 <figcaption> <strong> Zoom Video Conferencing</strong> </figcaption>
 </figure>
-
