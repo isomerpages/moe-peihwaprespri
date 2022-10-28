@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: 认识培华 About Pei Hwa
+    collection: about-pei-hwa
+  - title: 学习@培华 Learning @ Pei Hwa
+    collection: learning-at-pei-hwa
+  - title: 学生发展 Student Development
+    collection: student-development
+  - title: 辅助活动 CCAs
+    collection: co-curricular-activites
+  - title: 我们的伙伴 Our Partners
+    collection: our-partners
