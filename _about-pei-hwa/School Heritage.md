@@ -34,6 +34,5 @@ As a SAP school, the school also capitalizes on its distinctiveness in its promo
 1995: Renaming of school as Pei Hwa Presbyterian Primary School. <br>
 2002: School moved to holding site for PRIME upgrading. <br>
 2009: Celebrated 120th Anniversary; started the flagship Chinese Arts Programme. <br>
-2014: Celebrated 125th Anniversary.
-
+2014: Celebrated 125th Anniversary. <br>
 2019: Celebrated 130th Anniversary.
