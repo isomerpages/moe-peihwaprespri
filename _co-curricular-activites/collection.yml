@@ -2,6 +2,21 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Clubs and Socities/.keep
+      - Clubs and Socities/Chinese Culture and Language.md
+      - Clubs and Socities/Christian Fellowship.md
+      - Clubs and Socities/Drama Club.md
+      - Clubs and Socities/ICT Club.md
+      - Clubs and Socities/Robotics Club.md
+      - Sports and Games/.keep
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Tchoukball.md
+      - Sports and Games/Track and Field.md
+      - Sports and Games/Wushu.md
+      - Sports and Games/Gymnastics.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Boys' Brigade.md
+      - Uniformed Groups/Girls' Brigade.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Art & Craft Club.md
       - Visual and Performing Arts/Chinese Dance.md
@@ -10,18 +25,3 @@ collections:
       - Visual and Performing Arts/Guitar Ensemble.md
       - Visual and Performing Arts/Guzheng Ensemble.md
       - Visual and Performing Arts/Modern Dance.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Boys' Brigade.md
-      - Uniformed Groups/Girls' Brigade.md
-      - Sports and Games/.keep
-      - Sports and Games/Table Tennis.md
-      - Sports and Games/Tchoukball.md
-      - Sports and Games/Track and Field.md
-      - Sports and Games/Wushu.md
-      - Sports and Games/Gymnastics.md
-      - Clubs and Socities/.keep
-      - Clubs and Socities/Chinese Culture and Language.md
-      - Clubs and Socities/Christian Fellowship.md
-      - Clubs and Socities/Drama Club.md
-      - Clubs and Socities/ICT Club.md
-      - Clubs and Socities/Robotics Club.md
