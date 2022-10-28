@@ -29,3 +29,8 @@ third_nav_title: Visual and Performing Arts
 </tbody>
 </table>
 
+
+<figure>
+<img src="/images/BUILDI_1.jpg">
+<figcaption> <strong>Building a cohesive relationship between the pupils and teachers </strong> </figcaption>
+</figure>
