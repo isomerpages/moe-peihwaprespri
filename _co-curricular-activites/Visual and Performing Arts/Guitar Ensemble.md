@@ -34,3 +34,18 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/BUILDI_1.jpg">
 <figcaption> <strong>Building a cohesive relationship between the pupils and teachers </strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/Community%20performance%20by%20pupils.jpg">
+<figcaption> <strong>Community performance to develop civic-mindedness among the pupils</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Community%20performance%20by%20pupils.jpg">
+<figcaption> <strong>Community performance to develop civic-mindedness among the pupils</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/A%20team%20work%20together%20at%20SG%20Youth%20Festival.jpg">
+<figcaption> <strong>Working together as a team at the Singapore Youth Festival</strong> </figcaption>
+</figure>
