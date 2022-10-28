@@ -71,9 +71,7 @@ Pupils will have opportunities to collaborate with their peers and engage in mat
 
   
 
-2 → **Approved Calculator list** for use in Primary 5 and Primary 6. 
-
-https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf?sfvrsn=d1864e5_8)           [Guidelines\_calculators.pdf](https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf?sfvrsn=d1864e5_8)   
+2 → **Approved Calculator list** for use in Primary 5 and Primary 6. (https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf?sfvrsn=d1864e5_8) [Guidelines_calculators.pdf](https://www.seab.gov.sg/docs/default-source/documents/guidelines_calculators.pdf?sfvrsn=d1864e5_8)   
 
   
 
