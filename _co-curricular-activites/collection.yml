@@ -2,14 +2,14 @@ collections:
   co-curricular-activites:
     output: true
     order:
-      - Visual and Performing Arts/Modern Dance.md
-      - Visual and Performing Arts/Guzheng Ensemble.md
-      - Visual and Performing Arts/Guitar Ensemble.md
-      - Visual and Performing Arts/Choir.md
-      - Visual and Performing Arts/Chinese Drums.md
-      - Visual and Performing Arts/Chinese Dance.md
-      - Visual and Performing Arts/Art & Craft Club.md
       - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Art & Craft Club.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Chinese Drums.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Guitar Ensemble.md
+      - Visual and Performing Arts/Guzheng Ensemble.md
+      - Visual and Performing Arts/Modern Dance.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade.md
       - Uniformed Groups/Girls' Brigade.md
