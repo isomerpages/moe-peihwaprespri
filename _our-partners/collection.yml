@@ -2,6 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - School Alumni/Show your appreciation to your Teachers online.md
-      - School Alumni/School Alumni.md
       - School Alumni/.keep
+      - School Alumni/School Alumni.md
+      - School Alumni/Show your appreciation to your Teachers online.md
