@@ -2,6 +2,7 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - Visual and Performing Arts/Guitar Ensemble.md
       - Visual and Performing Arts/Choir.md
       - Visual and Performing Arts/Chinese Drums.md
       - Visual and Performing Arts/Chinese Dance.md
