@@ -13,7 +13,7 @@ During the PRIME upgrading, the school moved to a holding site in 2002. It retur
 
 2019 was a significant milestone for us as we celebrated our 130th Anniversary. It was joyous celebration by generations of staff and students alike, in living out and upholding the values of our founders while staying current. The school’s vision and mission were refreshed to reflect the current educational focus and efforts. The school endeavors to develop students of character with a zest to learn and a heart to serve (**乐学乐善,以德为先**) and seeks to realise its mission to nurture bilingual students in a caring, bicultural environment, to serve God and nation.
 
-### Appreciation for Chinese language and culture**  
+### Appreciation for Chinese language and culture
 
 As a SAP school, the school also capitalizes on its distinctiveness in its promotion and inculcation of the Chinese values, culture and tradition. The school has designed the **Chinese Arts Programme (CAP)** and **Bi-Cultural Enrichment Programme** to deepen students’ appreciation of Chinese Language, culture and values. Students are offered a spread of culturally rich arts programmes, activities and learning experiences such as Chinese folk art and songs to Chinese musical instruments like Kuai Ban.  Every level has an anchor programme to further reinforce and extend what students have learnt in the curriculum.  CAP is also integrated into Modular CCAs such as Chinese Dance and Chinese Drum. Another highlight would be the cultural camp which is specially organised for the students to deepen their knowledge and appreciation of the Chinese Culture as bilingual students in a bicultural environment.
 
