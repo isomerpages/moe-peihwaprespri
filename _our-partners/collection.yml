@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - School Alumni/.keep
-      - School Alumni.md
