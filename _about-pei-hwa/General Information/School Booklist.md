@@ -30,3 +30,21 @@ third_nav_title: General Information
 <p><a href="/files/P6%20Booklist%202022.pdf">
 <img src="/images/P6%20booklist.png" style="width:30%">
 </a></p>
+
+<p><a href="/files/P5%20FDN%20Booklist%202022.pdf">
+<img src="/images/P5%20foundation%20booklist.png" style="width:30%">
+</a></p>
+
+<p><a href="/files/P6%20FDN%20Booklist%202022.pdf">
+<img src="/images/P6%20foundation%20booklist.png" style="width:30%">
+</a></p>
+
+
+<p><a href="/files/P5%20HCL%20Booklist%202022.pdf">
+<img src="/images/P5%20HCL%20booklist.png" style="width:30%">
+</a></p>
+
+<p><a href="/files/P6%20HCL%20Booklist%202022.pdf">
+<img src="/images/P6%20HCL%20booklist.png" style="width:30%">
+</a></p>
+
