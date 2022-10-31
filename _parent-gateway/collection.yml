@@ -1,4 +1,5 @@
 collections:
   parent-gateway:
     output: true
-    order: []
+    order:
+      - Parents Gateway.md
