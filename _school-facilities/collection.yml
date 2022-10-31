@@ -2,6 +2,7 @@ collections:
   school-facilities:
     output: true
     order:
+      - Bookshop.md
       - School Gates.md
       - General Office.md
       - Koi Pond.md
