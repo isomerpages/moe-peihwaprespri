@@ -2,5 +2,6 @@ collections:
   parent-gateway:
     output: true
     order:
+      - Parents Guide for PG Travel Declaration.md
       - Instructional Guide Annex A.md
       - Parents Gateway.md
