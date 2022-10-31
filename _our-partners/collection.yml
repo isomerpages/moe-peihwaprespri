@@ -2,12 +2,12 @@ collections:
   our-partners:
     output: true
     order:
+      - School Alumni/.keep
+      - School Alumni/School Alumni.md
+      - School Alumni/Show your appreciation to your Teachers online.md
+      - Invitation To Quote (ITQ) & Request For Quotation (RFQ).md
+      - Parents/.keep
       - Parents/Parents Gateway.md
       - Parents/Parents Support Group.md
       - Parents/Parent Volunteers.md
       - Parents/Parents.md
-      - Parents/.keep
-      - Invitation To Quote (ITQ) & Request For Quotation (RFQ).md
-      - School Alumni/.keep
-      - School Alumni/School Alumni.md
-      - School Alumni/Show your appreciation to your Teachers online.md
