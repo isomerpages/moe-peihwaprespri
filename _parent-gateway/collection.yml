@@ -2,8 +2,8 @@ collections:
   parent-gateway:
     output: true
     order:
-      - Home Based Learning (HBL).md
+      - Parents Gateway.md
+      - Instructional Guide Annex A.md
       - Frequently Ask Questions (FAQ).md
       - Parents Guide for PG Travel Declaration.md
-      - Instructional Guide Annex A.md
-      - Parents Gateway.md
+      - Home Based Learning (HBL).md
