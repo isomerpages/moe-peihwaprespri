@@ -2,6 +2,7 @@ collections:
   school-facilities:
     output: true
     order:
+      - Computer Laboratories.md
       - Science Laboratories.md
       - Art Studio.md
       - Dance Studio.md
