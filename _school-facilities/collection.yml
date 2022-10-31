@@ -2,6 +2,7 @@ collections:
   school-facilities:
     output: true
     order:
+      - Basketball court.md
       - The Vineyard.md
       - Computer Laboratories.md
       - Science Laboratories.md
