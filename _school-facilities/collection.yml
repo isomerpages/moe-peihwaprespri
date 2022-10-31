@@ -2,5 +2,6 @@ collections:
   school-facilities:
     output: true
     order:
+      - Auditorium.md
       - Student Care.md
       - Classrooms.md
