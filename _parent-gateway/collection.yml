@@ -2,4 +2,5 @@ collections:
   parent-gateway:
     output: true
     order:
+      - Instructional Guide Annex A.md
       - Parents Gateway.md
