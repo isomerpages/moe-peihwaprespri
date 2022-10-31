@@ -1,13 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Learning @ Pei Hwa
-    collection: learning-at-pei-hwa
-  - title: Student Development
-    collection: student-development
-  - title: Co-Curricular Activities (CCA)
-    collection: co-curricular-activites
-  - title: Our Partners
-    collection: our-partners
   - title: About Pei Hwa
     url: /about-pei-hwa/school-heritage/
     sublinks:
@@ -35,3 +27,11 @@ links:
         url: /about-pei-hwa/privacy-policy/pdpa/
       - title: Quick Links
         url: /about-pei-hwa/quick-links/
+  - title: Learning @ Pei Hwa
+    collection: learning-at-pei-hwa
+  - title: Student Development
+    collection: student-development
+  - title: Co-Curricular Activities (CCA)
+    collection: co-curricular-activites
+  - title: Our Partners
+    collection: our-partners
