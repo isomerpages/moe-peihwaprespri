@@ -3,8 +3,6 @@ title: Parents Gateway
 permalink: /our-partners-1/parents/parents-gateway/
 description: ""
 ---
-
-
 <img src="/images/Parent%20Gateway%20App%20Logo.png" 
      style="width:30%">
 		 
@@ -27,5 +25,18 @@ The free app will bring several benefits, including:
 We strongly encourage all parents to download and use the PG App as it will bring significant benefits for parents, teachers and the school.  
 
   
+![](/images/PG%20Animated%20Gif.gif)
 
-You may refer to these links below for more information;
+**"Why should you stay logged in?"**  
+
+Parents must stay logged in to receive Push Notifications  
+**Parents' SingPass ID and Password will not be stored in the app.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PCM5o8jAncc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
