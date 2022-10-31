@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Pei Hwa
-    collection: about-pei-hwa
   - title: Learning @ Pei Hwa
     collection: learning-at-pei-hwa
   - title: Student Development
@@ -10,3 +8,30 @@ links:
     collection: co-curricular-activites
   - title: Our Partners
     collection: our-partners
+  - title: About Pei Hwa
+    url: /about-pei-hwa/school-heritage/
+    sublinks:
+      - title: School Heritage
+        url: /about-pei-hwa/school-heritage/
+      - title: School Motto and Crest
+        url: /about-pei-hwa/school-motto-and-crest/
+      - title: School Song
+        url: /about-pei-hwa/school-song/
+      - title: Vision, Mission & Values
+        url: /about-pei-hwa/vision-mission-n-values/
+      - title: School Management Committee
+        url: /about-pei-hwa/school-management-committee/
+      - title: School Staff
+        url: /about-pei-hwa/school-staff/key-personnel/
+      - title: General Information
+        url: /about-pei-hwa/general-information/
+      - title: School Facilities
+        url: /about-pei-hwa/general-information/school-facilities/general-office/
+      - title: School Service Providers
+        url: /about-pei-hwa/school-service-providers/school-bookshop-uniforms/
+      - title: School Calendar
+        url: /about-pei-hwa/school-calendar/
+      - title: Privacy Policy
+        url: /about-pei-hwa/privacy-policy/pdpa/
+      - title: Quick Links
+        url: /about-pei-hwa/quick-links/
