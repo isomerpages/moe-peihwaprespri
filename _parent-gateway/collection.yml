@@ -2,5 +2,4 @@ collections:
   parent-gateway:
     output: true
     order:
-      - Parents Guide for PG Travel Declaration.md
       - Home Based Learning (HBL).md
