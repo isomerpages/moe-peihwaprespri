@@ -17,3 +17,23 @@ For more details please click on the [title](https://staging.d3ud1e33ljueqf.amp
 
 *For more information, please click on the link [HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/national-commendation-award-2022/).
 
+
+
+### WE STories 2022
+
+
+**For more information, please click on the link [HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/we-stories-2022).**
+
+
+
+### [Nominate your Teacher Awards 2022](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/nominate-your-teacher-awards-2022)
+
+For more information, please click on the link **[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/nominate-your-teacher-awards-2022)**.
+
+
+
+
+
+
+
+
