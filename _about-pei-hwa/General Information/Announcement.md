@@ -77,3 +77,7 @@ Dear Parents, <br>
 For more information on the P1 Registration, <br>
 Please refer to the MOE website as link below
 [https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration "2019 Primary One Registration Exercise for Admission to Primary One in 2020")
+
+### Upgrading Plan for PHPPS (Single Session in 2022)  
+
+For more information, please click on the link **[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/upgrading-plan-for-phpps-single-session-in-2022)**.
