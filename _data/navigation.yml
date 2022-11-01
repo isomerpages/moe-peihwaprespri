@@ -55,13 +55,4 @@ links:
   - title: Co-Curricular Activities (CCA)
     collection: co-curricular-activites
   - title: Our Partners
-    url: /our-partners-1/school-alumni/
-    sublinks:
-      - title: School Alumni
-        url: /our-partners-1/school-alumni/
-      - title: Parents
-        url: /our-partners-1/parents/
-      - title: Parents Gateway
-        url: /our-partners-1/parents/parents-gateway/
-      - title: ITQ & RFQ
-        url: /our-partners-1/invitation-to-quote-itq-request-for-quotation-rfq/
+    collection: our-partners
