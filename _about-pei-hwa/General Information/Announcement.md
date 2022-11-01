@@ -50,7 +50,11 @@ You may pen a message or share a memory to let our teachers know the difference 
 
 For more information, please click on the link [HERE](staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/p1-e-orientation/).
 
-### [Opening of new city-bound Upper Bukit Timah](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/opening-of-new-city-bound-upper-bukit-timah-road)  
+### [Opening of new city-bound Upper Bukit Timah](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/opening-of-new-city-bound-upper-bukit-timah-road/)  
 
 
-For more information, please click on the link **[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/opening-of-new-city-bound-upper-bukit-timah-road)**.
+For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/opening-of-new-city-bound-upper-bukit-timah-road/)**.
+
+### [Traffic Safety Announcement](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/)  
+
+For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/)**.
