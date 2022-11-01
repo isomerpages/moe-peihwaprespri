@@ -2,12 +2,12 @@ collections:
   co-curricular-activites:
     output: true
     order:
-      - Clubs and Socities/.keep
-      - Clubs and Socities/Chinese Culture and Language.md
-      - Clubs and Socities/Christian Fellowship.md
-      - Clubs and Socities/Drama Club.md
-      - Clubs and Socities/ICT Club.md
-      - Clubs and Socities/Robotics Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Chinese Culture and Language.md
+      - Clubs and Societies/Christian Fellowship.md
+      - Clubs and Societies/Drama Club.md
+      - Clubs and Societies/ICT Club.md
+      - Clubs and Societies/Robotics Club.md
       - Sports and Games/.keep
       - Sports and Games/Table Tennis.md
       - Sports and Games/Tchoukball.md
