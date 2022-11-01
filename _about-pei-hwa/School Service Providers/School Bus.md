@@ -6,7 +6,7 @@ third_nav_title: School Service Providers
 ---
 For school bus services, please contact the following:
 
-Company: Aik Shen Bus Service
+**Company: Aik Shen Bus Service**
 
 Mr Yeo Kah Hua <br>
 Mobile no.: 9632 7095 <br>
