@@ -16,7 +16,7 @@ We are glad to inform you that you may come to the school to purchase books and 
 <img src="/images/2023%20booklist.png" style="width:25%">
 </a></p>
 
-<p><a href="/files/PHPPS%20Uniform%20List%202023%20.pdff">
+<p><a href="/files/PHPPS%20Uniform%20List%202023%20.pdf">
 <img src="/images/2023%20uniform%20list.png" style="width:25%">
 </a></p>
 
