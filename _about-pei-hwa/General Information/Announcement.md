@@ -82,5 +82,4 @@ Please refer to the MOE website as link below
 
 For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/upgrading-plan-for-phpps-single-session-in-2022/)**.
 
-**[P1 Registration for Alumni members](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/school-alumni/)**
-
+### [P1 Registration for Alumni members](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/school-alumni/)
