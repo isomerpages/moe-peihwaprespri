@@ -26,3 +26,7 @@ For updated school **Announcements** please click [**HERE**](https://staging.
 
 For more details please click **[here](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2023-p1-parents/)** to find out more.
 
+### 2022 P1 Parents
+
+
+For more details please click **[here](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2022-p1-parents/)** to find out more.
