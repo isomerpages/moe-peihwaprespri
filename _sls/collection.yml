@@ -2,6 +2,7 @@ collections:
   sls:
     output: true
     order:
+      - Contact SLS Helpdesk.md
       - FAQ  (Annex B).md
       - Getting Started (Annex A).md
       - Student Learning Space (SLS).md
