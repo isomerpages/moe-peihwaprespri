@@ -56,8 +56,87 @@ Password Reset using Password Reset Link
 
 a)    Click the “**Forgot Password**” link at the login page **(refer to Fig. 2a)**.
 
-
 <figure>
 <img src="/images/2a.png">
 <figcaption> <strong>Fig. 2a: “Forgot Password” Link</strong> </figcaption>
 </figure>
+
+b)    You will need to enter your username **(refer to Fig. 2b)**.
+
+<figure>
+<img src="/images/2b.png">
+<figcaption> <strong>Fig. 2b: “Enter Your Username” Field</strong> </figcaption>
+</figure>
+
+c)    Select **“Send a password reset link to your email”** and click **Submit (refer to Fig. 2c)**.
+
+<figure>
+<img src="/images/2c.png">
+<figcaption> <strong>Fig. 2c: “Password Reset Link via Email” Method</strong> </figcaption>
+</figure>
+
+d)    An email with the password reset link will be sent to your email address **(refer to Fig. 2d)**. Click the reset password link in the email to bring you to the **Reset Password** Page. The link is valid for 10 minutes.
+
+<figure>
+<img src="/images/2d.png">
+<figcaption> <strong>Fig. 2d: “Reset Password” Link</strong> </figcaption>
+</figure>
+
+e)    In the **Reset Password** page, enter a new password **(refer to Fig. 2e)**. You will need to enter the new password twice to confirm that you have entered it correctly. Then click **Submit**.
+
+<figure>
+<img src="/images/2e.png">
+<figcaption> <strong>Fig. 2e: “Reset Password” Page</strong> </figcaption>
+</figure>
+
+f)     If your password was successfully reset, you will be brought to the SLS login page.
+
+Password Reset Using Security Questions
+
+8.         Perform the following steps to reset password by using **Security Questions:**
+
+a)    Click the “Forgot Password” button at the login page **(refer to Fig. 3a)**.
+
+<figure>
+<img src="/images/3a.png">
+<figcaption> <strong>Fig. 3a: “Forgot Password” Link</strong> </figcaption>
+</figure>
+
+b)    You will need to enter your username **(refer to Fig. 3b)**.
+
+<figure>
+<img src="/images/3b.png">
+<figcaption> <strong>Fig. 3b: “Enter Your Username” Field</strong> </figcaption>
+</figure>
+
+c)    Select **“Answer the Security Questions”** and click **Submit (refer to Fig. 3c)**.
+
+<figure>
+<img src="/images/3c.png">
+<figcaption> <strong>Fig. 3c: “Password Reset Link via Security Questions” Method</strong> </figcaption>
+</figure>
+
+d)    In the **“Security Questions”** page, key in the answers to the security questions **(refer to Fig. 3d)**. Please note that the answers are case-sensitive. Click **Submit**.
+
+<figure>
+<img src="/images/3d.png">
+<figcaption> <strong>Fig. 3d: “Security Questions” Page</strong> </figcaption>
+</figure>
+
+e)    If you have answered the security questions correctly, you will be brought to the **Reset Password** page **(refer to Fig. 3e)**. You will need to enter the new password twice to confirm that you have entered it correctly. Then click **Submit**.
+
+<figure>
+<img src="/images/3e.png">
+<figcaption> <strong>Fig. 3e: “Reset Password” Page</strong> </figcaption>
+</figure>
+
+f)     If your password was successfully reset, you will be brought to the SLS login page.
+
+g)    If you have answered the questions incorrectly, you will be brought to the **Password Reset Unsuccessful** page **(refer to Fig. 3f)**. Click on the **Retry** button to try again. You can attempt this up to **6 times** before your account is locked for security reasons.
+
+<figure>
+<img src="/images/3f.png">
+<figcaption> <strong>Fig. 3f: “Password Reset Unsuccessful” Page</strong> </figcaption>
+</figure>
+
+**To contact SLS Help Desk Click [HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/student-learning-space-sls/contact-sls-helpdesk)**
