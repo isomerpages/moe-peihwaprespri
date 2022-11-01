@@ -49,3 +49,8 @@ You may pen a message or share a memory to let our teachers know the difference 
 ### [P1 E-Orientation 2021](staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/p1-e-orientation/)
 
 For more information, please click on the link [HERE](staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/p1-e-orientation/).
+
+### [Opening of new city-bound Upper Bukit Timah](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/opening-of-new-city-bound-upper-bukit-timah-road)  
+
+
+For more information, please click on the link **[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/opening-of-new-city-bound-upper-bukit-timah-road)**.
