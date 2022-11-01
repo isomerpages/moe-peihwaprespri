@@ -2,9 +2,9 @@ collections:
   sls:
     output: true
     order:
-      - FAQ for HBL using SLS.md
-      - Guide to SLS Account Management.md
-      - Contact SLS Helpdesk.md
-      - FAQ  (Annex B).md
-      - Getting Started (Annex A).md
       - Student Learning Space (SLS).md
+      - Getting Started (Annex A).md
+      - FAQ  (Annex B).md
+      - Contact SLS Helpdesk.md
+      - Guide to SLS Account Management.md
+      - FAQ for HBL using SLS.md
