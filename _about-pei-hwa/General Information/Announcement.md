@@ -58,3 +58,13 @@ For more information, please click on the link **[HERE](https://staging.d3ud1e3
 ### [Traffic Safety Announcement](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/)  
 
 For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/)**.
+
+### [Parent Volunteers](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/parent-volunteers/)  
+
+For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/parent-volunteers/)**.
+
+
+### [National Education Art Designs by Students](https://staging.d3ud1e33ljueqf.amplifyapp.com/student-development/citizenship-education/national-education-art-designs-by-students/)
+
+For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/student-development/citizenship-education/national-education-art-designs-by-students/)**.
+
