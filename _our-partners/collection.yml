@@ -2,12 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Parents Gateway/Home Based Learning (HBL).md
-      - Parents Gateway/Parents Guide for PG Travel Declaration.md
-      - Parents Gateway/Frequently Ask Questions (FAQ).md
-      - Parents Gateway/Instructional Guide Annex A.md
-      - Parents Gateway/Parents Gateway.md
-      - Parents Gateway/.keep
       - School Alumni/.keep
       - School Alumni/School Alumni.md
       - School Alumni/Show your appreciation to your Teachers online.md
@@ -20,4 +14,10 @@ collections:
       - Parents/Parents Support Group.md
       - Parents/Parent Volunteers.md
       - Parents/Feedback Form.md
+      - Parents Gateway/.keep
+      - Parents Gateway/Home Based Learning (HBL).md
+      - Parents Gateway/Parents Guide for PG Travel Declaration.md
+      - Parents Gateway/Frequently Ask Questions (FAQ).md
+      - Parents Gateway/Instructional Guide Annex A.md
+      - Parents Gateway/Parents Gateway.md
       - Invitation To Quote (ITQ) & Request For Quotation (RFQ).md
