@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Nominate your Teacher Awards 2022.md
       - WE STories 2022.md
       - National Commendation Award 2022.md
