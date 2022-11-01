@@ -1,5 +1,4 @@
 collections:
   parent-gateway:
     output: true
-    order:
-      - Home Based Learning (HBL).md
+    order: []
