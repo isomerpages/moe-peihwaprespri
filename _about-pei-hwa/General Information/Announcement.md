@@ -46,3 +46,6 @@ You may enter the school to **visit your ex-teachers between 11.00 am and 12.0
 
 You may pen a message or share a memory to let our teachers know the difference they have made in your lives at [http://thankyoucher.edu.sg](http://thankyoucher.edu.sg/)
 
+### [P1 E-Orientation 2021](staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/p1-e-orientation/)
+
+For more information, please click on the link [HERE](staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/p1-e-orientation/).
