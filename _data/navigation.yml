@@ -28,7 +28,28 @@ links:
       - title: Quick Links
         url: /about-pei-hwa/quick-links/
   - title: Learning @ Pei Hwa
-    collection: learning-at-pei-hwa
+    url: /at-learning-at-pei-hwa/art/
+    sublinks:
+      - title: Art
+        url: /at-learning-at-pei-hwa/art/
+      - title: Chinese
+        url: /at-learning-at-pei-hwa/chinese/
+      - title: English
+        url: /at-learning-at-pei-hwa/english/
+      - title: Mathematics
+        url: /at-learning-at-pei-hwa/mathematics/
+      - title: Music
+        url: /at-learning-at-pei-hwa/music/
+      - title: Physical Education
+        url: /at-learning-at-pei-hwa/physical-education/
+      - title: Science
+        url: /at-learning-at-pei-hwa/science/
+      - title: Special Programme
+        url: /at-learning-at-pei-hwa/special-programme/chinese-arts-programme/
+      - title: Home-Based Learning
+        url: /at-learning-at-pei-hwa/home-based-learning-hbl/
+      - title: Student Learning Space ( SLS )
+        url: /at-learning-at-pei-hwa/home-based-learning-hbl/student-learning-space-sls/
   - title: Student Development
     collection: student-development
   - title: Co-Curricular Activities (CCA)
