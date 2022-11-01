@@ -2,5 +2,6 @@ collections:
   sls:
     output: true
     order:
+      - FAQ  (Annex B).md
       - Getting Started (Annex A).md
       - Student Learning Space (SLS).md
