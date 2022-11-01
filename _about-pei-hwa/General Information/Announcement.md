@@ -26,14 +26,23 @@ For more details please click on the [title](https://staging.d3ud1e33ljueqf.amp
 
 
 
-### [Nominate your Teacher Awards 2022](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/nominate-your-teacher-awards-2022)
+### [Nominate your Teacher Awards 2022](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/nominate-your-teacher-awards-2022/)
 
-For more information, please click on the link **[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/nominate-your-teacher-awards-2022)**.
+For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/nominate-your-teacher-awards-2022/)**.
 
+### **Show your Appreciation to your Teachers Online**  
 
+You may pen a message or share a memory to let our teachers know the difference they have made in your lives at [https://thankyoucher.edu.sg/.](https://thankyoucher.edu.sg/)  
 
+Do visit PHPPS alumni page to join us at (PHPPS) Alumni Association
 
+### Ex-students Visitation on Teachers’ Day 1 September 2022 (Thursday)
+ 
+School hours on Teachers’ Day on 1 September 2022 (Thursday) are on 7.30 am to 10.30 am.
 
+PHPPS ex-students who would like to visit your teachers please make **an appointment with** your teachers before heading down to the school to avoid disappointment. 
 
+You may enter the school to **visit your ex-teachers between 11.00 am and 12.00 pm**. You may find your teachers’ email addresses on the school website. 
 
+You may pen a message or share a memory to let our teachers know the difference they have made in your lives at [http://thankyoucher.edu.sg](http://thankyoucher.edu.sg/)
 
