@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Pei Hwa Presbyterian Primary School
+description: An Isomer site of the Singapore Government
+image: /images/School Logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -22,3 +22,4 @@ sections:
           description: Click here to find out more
           url: /about-pei-hwa/general-information/
 ---
+
