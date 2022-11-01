@@ -2,6 +2,7 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents Gateway/Home Based Learning (HBL).md
       - Parents Gateway/Parents Guide for PG Travel Declaration.md
       - Parents Gateway/Frequently Ask Questions (FAQ).md
       - Parents Gateway/Instructional Guide Annex A.md
