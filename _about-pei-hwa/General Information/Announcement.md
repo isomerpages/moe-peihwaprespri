@@ -68,3 +68,12 @@ For more information, please click on the link **[HERE](https://staging.d3ud1e3
 
 For more information, please click on the link **[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/student-development/citizenship-education/national-education-art-designs-by-students/)**.
 
+### Primary One Registration Exercise
+
+<img src="/images/Registeration%20Icon.png" 
+     style="width:15%">
+		 
+Dear Parents, <br>
+For more information on the P1 Registration, <br>
+Please refer to the MOE website as link below
+[https://www.moe.gov.sg/admissions/primary-one-registration](https://www.moe.gov.sg/admissions/primary-one-registration "2019 Primary One Registration Exercise for Admission to Primary One in 2020")
