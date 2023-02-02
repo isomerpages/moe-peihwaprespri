@@ -20,4 +20,5 @@ sections:
         - title: General Information
           description: Click here to find out more
           url: /about-pei-hwa/general-information/
+      background: /images/105_8451.jpg
 ---
