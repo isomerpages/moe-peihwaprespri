@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Pei Hwa Presbyterian Primary School
-      background: /images/Website Banners   Main/Isomer-GIF-5sec-per-photo.gif
+      background: /images/105_8451.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
