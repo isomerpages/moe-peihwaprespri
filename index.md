@@ -7,9 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Pei Hwa Presbyterian Primary School
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: Click here to find out more
