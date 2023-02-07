@@ -4,6 +4,7 @@ permalink: /co-curricular-activities-cca/club-and-societies/chinese-culture-and-
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 
 
 <style type="text/css">
