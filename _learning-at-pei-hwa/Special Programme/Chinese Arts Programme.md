@@ -4,6 +4,7 @@ permalink: /at-learning-at-pei-hwa/special-programme/chinese-arts-programme/
 description: ""
 third_nav_title: Special Programme
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 培华长老会小学是一所历史悠久的特选小学,　我校通过一系列有趣的活动，例如举办母语双周、三年级中华文化营、美艺旗舰计划活动和传统节日庆祝会等等，让全体学生在美丽的校园里可以深深感受到我们华族文化和母语的精髓与魅力。
 
 <figure>
@@ -40,4 +41,3 @@ third_nav_title: Special Programme
 <img src="/images/Hand-Made%20Dye%20Production.jpg">
 <figcaption>学生们开心地展示自己亲手制作的染布成果。</figcaption>
 </figure>
-
