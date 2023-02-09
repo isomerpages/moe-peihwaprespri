@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/general-information/terms-of-use/
 description: ""
 third_nav_title: General Information
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 Thank you for visiting Pei Hwa Presbyterian Primary School website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.  
 
   
