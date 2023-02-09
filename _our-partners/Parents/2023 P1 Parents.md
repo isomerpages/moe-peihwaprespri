@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/2023-p1-parents/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Dear Parents,    
 Welcome to Pei Hwa Presbyterian Primary School.  
   
