@@ -4,6 +4,7 @@ permalink: /student-development/students-well-being/student-management/
 description: ""
 third_nav_title: Student's Well being
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 #### Discipline
 
 Pei Hwa Presbyterian Primary School (PHPPS) adopts values-based discipline.  Discipline is not about only enforcing behavioural compliance in pupils according to school rules and regulations. Rather, it is an educative process that focuses on enduring gains in pupils. It is the development of our pupils’ moral faculties, by instruction and exercise, in accordance to established rules. Fundamentally, a school discipline programme aims to guide pupils to the truth of and internalize the school values and code of behaviour, and support pupils to:  
