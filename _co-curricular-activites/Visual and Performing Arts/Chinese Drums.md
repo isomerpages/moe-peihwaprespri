@@ -4,6 +4,7 @@ permalink: /co-curricular-activities-cca/visual-and-performing-arts/chinese-drum
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -33,4 +34,3 @@ third_nav_title: Visual and Performing Arts
 <img src="/images/Beating%20together%20with%20one%20heart.png">
 <figcaption><strong>Beating together with one heart! </strong> </figcaption>
 </figure>
-
