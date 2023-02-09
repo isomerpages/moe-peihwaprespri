@@ -3,6 +3,7 @@ title: English
 permalink: /at-learning-at-pei-hwa/english/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 ## **Our Goal:**  
 
 Every pupil a competent, confident & empathetic communicator with discernment in thought & creativity & clarity in expression
