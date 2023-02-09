@@ -4,6 +4,7 @@ permalink: /co-curricular-activities-cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 ### Boys' Brigade
 
 We offer a series of activities such as parades, camps, outdoor activities (e.g. obstacle challenge), hiking, community service and learning journeys.
