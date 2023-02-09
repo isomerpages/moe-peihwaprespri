@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: /about-pei-hwa/privacy-policy/pdpa/
 description: ""
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 #### Pei Hwa Presbyterian Primary School Privacy Statement
 
   
