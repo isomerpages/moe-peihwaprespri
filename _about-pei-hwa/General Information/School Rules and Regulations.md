@@ -42,8 +42,8 @@ The school seeks to create and sustain a learning environment that is safe, resp
     
     *   Attire shown in photo (a) or (c) for the boys
     *   Attire shown in photo (b) or (e) for the girls
+![](/images/school%20uniforms%20jpeg.jpg)
 
-![](/images/attire.png)
 
 #### 5.    Hair and Appearance
 
