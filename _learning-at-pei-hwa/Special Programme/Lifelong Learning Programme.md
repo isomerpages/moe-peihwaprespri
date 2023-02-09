@@ -4,6 +4,7 @@ permalink: /at-learning-at-pei-hwa/special-programme/lifelong-learning-programme
 description: ""
 third_nav_title: Special Programme
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 ### Objectives:
 
 *   Create a more diverse landscape for students to experience greater joy of learning by providing  pupils with more opportunities to develop their strengths, interests and passion
