@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/school-service-providers/school-dental-clinic/
 description: ""
 third_nav_title: School Service Providers
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 For Dental services, please note the opening hours and contact as follows:
 
 Location: #01 - 01 <br>
