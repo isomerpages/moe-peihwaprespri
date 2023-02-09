@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /at-learning-at-pei-hwa/physical-education/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 **Department Vision**  
 
 To develop physically active students who embrace a healthy lifestyle and enjoy sports and the outdoors.
@@ -31,4 +32,3 @@ To develop physically active students who embrace a healthy lifestyle and enjoy 
 <img src="/images/Focus%20on%20the%20goal%20with%20PE%20teachers.jpg">
 <figcaption> <strong>Learning to focus on the goal with PE teachers working on affective learning besides imparting physical skills.</strong> </figcaption>
 </figure>
-
