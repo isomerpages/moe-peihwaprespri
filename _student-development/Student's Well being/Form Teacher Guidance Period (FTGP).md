@@ -4,6 +4,7 @@ permalink: /student-development/students-well-being/form-teacher-guidance-period
 description: ""
 third_nav_title: Student's Well being
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 We believe that pupil development efforts would be optimized in a caring school culture.  We value relationships and seek to build positive relationships in our school community where all would feel safe, belonged and accepted.  We aim to build a caring school community as we look out for one another and no one gets left behind.  We recognise that positive teacher-student relationship (TSR) and positive student-student relationship (SSR) are significant contributors to the learning process and in building a caring culture. 
   
 
