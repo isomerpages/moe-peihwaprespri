@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/parent-volunteers/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 ### Parent Volunteer 2022
 
 The closing date for Phase 2B Parent Volunteer Scheme\* of children born between **2nd Jan 2018 to 1st Jan 2019** (both dates inclusive) is **31st May 2023**. Interested parents to write-in to [**phpps@moe.edu.sg.**](mailto:phpps@moe.edu.sg)
