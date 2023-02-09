@@ -4,6 +4,7 @@ permalink: /student-development/citizenship-education/national-education-art-des
 description: ""
 third_nav_title: Citizenship Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 **NDP 2020 - Singapore Together Pack, Art Work Design by Goh Kate Lynn**  
 
 Our pupil, Goh Kate Lynn from 5 Loyalty 4, took part in the NDP 2020 Funpack Artwork Contest on the theme "Emerge Stronger Together" to express her hopes and aspirations for Singapore. We are happy to share that her art work was selected as one of the NDP Fun Pack Designs.   
