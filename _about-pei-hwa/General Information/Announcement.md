@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/general-information/announcement/
 description: ""
 third_nav_title: General Information
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 ### *For most recent announcements will be from the top row.
 
 ### [2023 P1 Parents](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2023-p1-parents/)
