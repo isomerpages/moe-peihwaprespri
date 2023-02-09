@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/school-staff/teaching-staff-2023-form-teachers/
 description: ""
 third_nav_title: School Staff
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
