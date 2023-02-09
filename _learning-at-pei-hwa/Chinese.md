@@ -3,6 +3,7 @@ title: Chinese
 permalink: /at-learning-at-pei-hwa/chinese/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 #### 华文部
 
 部门宗旨：为培华学生培养良好的情意品德和正确的价值观，并让他们乐用华文华语，与他人沟通。
