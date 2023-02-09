@@ -4,7 +4,7 @@ permalink: /our-partners-1/parents/parents-gateway/instructional-guide-annex-a/
 description: ""
 third_nav_title: Parents Gateway
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 ### Step-by-Step Guide - Setting up the PG Mobile App
 
 **Step 1 – Setup your SingPass and 2FA** 
