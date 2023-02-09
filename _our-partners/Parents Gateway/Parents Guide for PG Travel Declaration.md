@@ -4,7 +4,7 @@ permalink: /our-partners-1/parents/parents-gateway/parents-guide-for-pg-travel-d
 description: ""
 third_nav_title: Parents Gateway
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 You may download the PDF guide link below
 
 [Travel Declaration Guide for Parents PDF](/files/Parents%20Guide%20for%20PG%20Travel%20Declaration%20Update%20Particulars%20-%208%20May%2019.pdf)
