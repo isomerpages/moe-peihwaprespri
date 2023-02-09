@@ -4,6 +4,7 @@ permalink: /at-learning-at-pei-hwa/special-programme/thinkers-today-leaders-tomo
 description: ""
 third_nav_title: Special Programme
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 TTLT is PHPSS’s cornerstone programme using the X3 development plan, focusing on the levels of extension and excellence.
 
   
