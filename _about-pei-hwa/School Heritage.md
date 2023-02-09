@@ -3,6 +3,7 @@ title: School Heritage
 permalink: /about-pei-hwa/school-heritage/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 ### School History
 
 Pei Hwa Presbyterian Primary School (PHPPS) was founded by preacher Joseph Koh in 1889 with the purpose of providing free education to the children from the villages around Bukit Timah. It was originally known as Road End Free School and the medium of instruction then was in Teochew.  In 1918, it became a Chinese-medium school. In 1922, it was renamed as Pei Hwa School. In 1941, with the outbreak of the Second World War, the school was closed temporarily from 1941 to 1945. Pei Hwa School reopened after the war in 1945 and the first School Management Board was formed.
