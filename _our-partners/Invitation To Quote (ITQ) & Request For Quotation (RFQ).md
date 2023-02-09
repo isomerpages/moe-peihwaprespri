@@ -3,6 +3,7 @@ title: Invitation To Quote (ITQ) & Request For Quotation (RFQ)
 permalink: /our-partners-1/invitation-to-quote-itq-request-for-quotation-rfq/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Interested vendors are requested to refer to the ITQ / RFQ number and submit the quotation together with the necessary supporting documents via the Government GeBIZ portal.  
   
 
