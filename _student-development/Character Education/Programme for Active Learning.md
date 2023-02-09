@@ -4,6 +4,7 @@ permalink: /student-development/character-education/programme-for-active-learnin
 description: ""
 third_nav_title: Character Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 Programme for Active Learning (PAL) aims to achieve a holistic primary education that goes beyond providing pupils with content knowledge and to equip them with the skills and values to thrive in a rapidly advancing globalised world. The programme encourages learning beyond the classroom by providing pupils at the lower primary levels with opportunities to try out activities in Sports and Outdoor Education, and the Performing and Visual Arts. PAL aims to promote the all-rounded development of pupils in five learning domains (cognitive, moral, social, aesthetics and physical) and enable students to cultivate social-emotional competencies with experiential learning opportunities through fun and varied activities.
 
 <style type="text/css">
