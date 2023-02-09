@@ -3,6 +3,7 @@ title: Science
 permalink: /at-learning-at-pei-hwa/science/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 #### Experiencing Science, Enriching Mind
 
 Central to the Science curriculum is the inculcation of the spirit of scientific inquiry. Taking cognizance of this, the Science department aims to provide our pupils with a range of learning experiences such as scientific investigations, authentic learning tasks and learning journeys. These will create the opportunities for our pupils to think, talk and inspire others about issues and pose questions that are related to the roles of science in our daily lives, society and the environment.  To develop in our pupils the skills, habits of mind and attitudes necessary for scientific inquiry, the school adopts the 5E (Engage, Explore, Explain, Elaborate and Evaluate) instructional model. This model advocates that teacher leverages and builds on pupils’ prior knowledge and experience to help them construct new knowledge or idea to innovate, and to continually assess their understanding of a concept.  
