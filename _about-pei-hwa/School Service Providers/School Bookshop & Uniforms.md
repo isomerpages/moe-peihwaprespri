@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/school-service-providers/school-bookshop-uniforms/
 description: ""
 third_nav_title: School Service Providers
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 For Retail Uniform services, please contact the following:
 
 **Company: My Uniform Shop** <br>
