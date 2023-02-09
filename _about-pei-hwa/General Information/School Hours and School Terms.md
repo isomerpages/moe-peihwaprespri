@@ -30,6 +30,6 @@ third_nav_title: General Information
 </tbody>
 </table>
 
-### School Terms and Holidays for 2022
+### School Terms and Holidays for 2023
 
-Please refer to the [**link**](https://www.moe.gov.sg/news/press-releases/20210811-school-terms-and-holidays-for-2022) here for more details
+Please refer to the [**link**](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023) here for more details
