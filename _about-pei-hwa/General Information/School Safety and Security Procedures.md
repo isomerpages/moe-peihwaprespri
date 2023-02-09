@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/general-information/school-safety-and-security-procedu
 description: ""
 third_nav_title: General Information
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 #### Road Safety
 
 We would like to seek your cooperation to work with the school in ensuring the safety of students coming to and leaving school. This is especially important as young children may not have the skills required to use roads properly and do not always fully appreciate the dangers presented. Their small physique also makes them less visible to motorists. Please take note of the following road safety pointers:  
