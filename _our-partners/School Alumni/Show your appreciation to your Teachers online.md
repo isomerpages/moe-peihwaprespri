@@ -4,6 +4,7 @@ permalink: /our-partners-1/school-alumni/show-your-appreciation-to-your-teachers
 description: ""
 third_nav_title: School Alumni
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 With the current tightened safe management measures (SMM), PHPPS alumni will not be allowed to enter school premises on Teachers’ Day.  
   
 Alumni may pen a message or share a memory to let our teachers know the difference they have made in their lives at **[https://thankyoucher.edu.sg/](https://thankyoucher.edu.sg/).**  
