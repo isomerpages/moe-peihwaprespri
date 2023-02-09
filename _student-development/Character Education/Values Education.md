@@ -4,6 +4,7 @@ permalink: /student-development/character-education/values-education/
 description: ""
 third_nav_title: Character Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 ### Character Education
 
 At Pei Hwa Presbyterian Primary School (PHPPS), we believe that Character and Citizenship Education (CCE) is key and critical in the holistic development of our pupils. As a Christian mission school, we are guided by the 6 school values of Integrity, Respect, Responsibility, Teamwork, Loyalty and Resilience and the school motto: Loyalty and Honesty. With these values as a foundation, pupils are guided to realise the school’s vision and mission, to have a heart for others and a love for home so that they will be good individuals and useful citizens who will serve God and the nation.
