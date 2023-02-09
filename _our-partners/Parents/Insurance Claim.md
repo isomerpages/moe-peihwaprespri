@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/insurance-claim/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 For student insurance information please submit online by clicking on the following links below;  
 
   
