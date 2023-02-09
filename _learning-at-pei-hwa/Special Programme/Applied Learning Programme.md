@@ -4,6 +4,7 @@ permalink: /at-learning-at-pei-hwa/special-programme/applied-learning-programme/
 description: ""
 third_nav_title: Special Programme
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 #### ALP – Competent & Confident Communicators (C3 )
 
 **Objective:**  
