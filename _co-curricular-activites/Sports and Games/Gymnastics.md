@@ -4,6 +4,7 @@ permalink: /co-curricular-activities-cca/sports-and-games/gymnastics/
 description: ""
 third_nav_title: Sports and Games
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 ### Rhythmic Gymnastics
 
 <style type="text/css">
