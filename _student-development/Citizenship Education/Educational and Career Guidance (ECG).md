@@ -4,6 +4,7 @@ permalink: /student-development/citizenship-education/educational-and-career-gui
 description: ""
 third_nav_title: Citizenship Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 Educational and Career Guidance (ECG) aims at equipping pupils with the necessary knowledge, skills and values to make informed education and career decisions. Through ECG, pupils are provided with opportunities to learn more about their own interests, abilities and passions. By exploring various education and career pathways across different industries, pupils can take positive steps towards realizing their aspirations.
 
   
