@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/general-information/school-rules-and-regulations/
 description: ""
 third_nav_title: General Information
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 The school seeks to create and sustain a learning environment that is safe, respectful and caring for all.  Every pupils is responsible in creating a positive learning environment through self-management and responsible decision making.  Each pupil is to be respectful of others and their property in the learning environment.
 
   
@@ -149,4 +150,3 @@ The school does not encourage pupils to bring mobile phones to school, however, 
 *   Service Work Order
 *   Suspension
 *   Other actions that are deemed appropriate by the school
-
