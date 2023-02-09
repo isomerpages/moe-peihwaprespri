@@ -4,7 +4,7 @@ permalink: /our-partners-1/parents/parents-gateway/
 description: ""
 third_nav_title: Parents Gateway
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 <img src="/images/Parent%20Gateway%20App%20Logo.png" 
      style="width:30%">
 		 
@@ -39,6 +39,3 @@ Parents must stay logged in to receive Push Notifications
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tW9jwyuovOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
