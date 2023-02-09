@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/2022-p1-parents/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Dear Parents,    
 Kindly for your information, please do refer to the links below
 
@@ -33,7 +34,3 @@ Kindly for your information, please do refer to the links below
 2. [Hardcopy: Edusave EPSO Form](/files/Edusave%20EPSO%20Addlication%20form%20Jan%202021.pdf)
 
 3. [Financial Assistant Scheme](/files/MOE%20FAS%202022.pdf)
-
-
-
-
