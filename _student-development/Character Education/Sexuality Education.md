@@ -4,6 +4,7 @@ permalink: /student-development/character-education/sexuality-education/
 description: ""
 third_nav_title: Character Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 #### PEI HWA PRESBYTERIAN PRIMARY SCHOOL
 
 **Moe Sexuaity Education in Schools**
