@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/parents-support-group/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 #### You are invited to join the Pei Hwa Presbyterian Primary School Parent Support Group today!
 
 
