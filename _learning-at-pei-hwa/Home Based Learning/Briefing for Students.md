@@ -4,6 +4,7 @@ permalink: /at-learning-at-pei-hwa/home-based-learning-hbl/briefing-for-students
 description: ""
 third_nav_title: Home Based Learning
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 Please refer to the material guides uploaded here.  
 Download the pdf version for more details.
 
