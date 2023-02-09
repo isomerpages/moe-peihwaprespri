@@ -4,6 +4,7 @@ permalink: /our-partners-1/parents/p1-e-orientation/
 description: ""
 third_nav_title: Parents
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Dear Parents  
   
 Please refer to the link below for your reference.
