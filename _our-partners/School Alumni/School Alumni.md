@@ -4,7 +4,7 @@ permalink: /our-partners-1/school-alumni/
 description: ""
 third_nav_title: School Alumni
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 #### Pei Hwa Presbyterian Primary School (PHPPS) Alumni Association
 
 Our Alumni Association was formed in July 2016 and our first Annual General Meeting (AGM) was conducted on 18 May 2017.   
@@ -52,4 +52,3 @@ Singapore 597610</center></b>
 Click **[HERE](/files/PHPPS%20Alumni%20Request%20Form%20to%20Update%20Address%20V20201130.pdf)** for Application Form or below
 
 [**Request Form for Change of Address V20201130.pdf**](/files/PHPPS%20Alumni%20Request%20Form%20to%20Update%20Address%20V20201130.pdf)
-
