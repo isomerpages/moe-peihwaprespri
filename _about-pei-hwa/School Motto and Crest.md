@@ -3,6 +3,8 @@ title: School Motto and Crest
 permalink: /about-pei-hwa/school-motto-and-crest/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
+
 <img src="/images/School%20Logo.png" 
      style="width:50%">
 		 
