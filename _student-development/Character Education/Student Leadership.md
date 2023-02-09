@@ -4,6 +4,7 @@ permalink: /student-development/character-education/student-leadership/
 description: ""
 third_nav_title: Character Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 Leadership is not just about an assigned position; it is not about a single person who runs an entire organisation neither is it something for a chosen few. We believe that a leader first learns to lead self before he or she leads others.  A leader is one who exerts positive influence within his or her sphere of influence, and thereby be a leader in his or her own right. The school adopts the 5 Practices of Exemplary Leadership (5 PEL) by James M. Kouzes and Barry Z Posner in the development of leadership qualities in all our students. The explicit teaching of the 5 PEL and related skills are taught over the 6 years through assembly talks or class-based leadership lessons. Pupils are given opportunities to apply their knowledge and skills learnt at class group work, Values-In-Action Projects, level camp and CCA sessions.  
 
   
