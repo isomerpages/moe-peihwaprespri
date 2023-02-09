@@ -4,6 +4,7 @@ permalink: /about-pei-hwa/general-information/traffic-management-plan/
 description: ""
 third_nav_title: General Information
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 #### For vehicles coming into and exiting schools
 
 Parents can drive into the school to drop off their children at the school porch from 6.30 am to 7.15 am. No waiting is allowed on the school porch.
