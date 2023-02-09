@@ -3,6 +3,7 @@ title: Art
 permalink: /at-learning-at-pei-hwa/art/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 ### Curricular Goal: Passionate Learners of Art  
 
 Our pupils will be passionate about, appreciate Art, and be able to express themselves through it.  They will be able to see the value and recognise the relevance of Art in their lives and society.  They will acquire skills for creative expressions and explore ways to communicate their imagination, thoughts and feelings.   
