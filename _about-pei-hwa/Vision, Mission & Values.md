@@ -3,6 +3,7 @@ title: Vision, Mission & Values
 permalink: /about-pei-hwa/vision-mission-n-values/
 description: ""
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 ## 培华的使命 Mission
 
 在培华关爱与双文化气息浓厚的学习环境下,培育为主和国家尽心尽力的双语人才。 <br>
