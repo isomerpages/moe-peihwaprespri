@@ -4,7 +4,7 @@ permalink: /our-partners-1/parents/parents-gateway/home-based-learning-hbl/
 description: ""
 third_nav_title: Parents Gateway
 ---
-
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Dear Parents,
 
 From 1 Apr 2020, schools will progressively transit to a blended learning model,starting with one day of Home-Based Learning (HBL) a week.  
