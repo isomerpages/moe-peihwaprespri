@@ -4,6 +4,7 @@ permalink: /student-development/citizenship-education/social-studies-ss/
 description: ""
 third_nav_title: Citizenship Education
 ---
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 Social Studies (SS) Curriculum seeks to inculcate in pupils a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in and demonstrate empathy in their relationships with others. The curriculum therefore envisions the SS pupil as an informed, concerned and participative citizen who is competent in quality decision-making with an impassioned spirit to contribute responsibly in the world he/she lives in. Inquiry is the key pedagogical tool used for the learning of concepts, skills and exploration of topics in SS. Each level is framed by a focus question to engage pupils in thoughtful inquiry.
 
 <style type="text/css">
