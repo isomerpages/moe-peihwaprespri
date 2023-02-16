@@ -141,7 +141,7 @@ third_nav_title: School Staff
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 3</span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Ho Meow Jin</span></td>
-    <td class="tg-gqk5"><a href="mailto:ho_mei_yin@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ho_mei_yin@moe.edu.sg</span></a></td>
+    <td class="tg-gqk5"><a href="mailto:ho_meow_jin@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ho_mei_yin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
