@@ -30,7 +30,7 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Chairman</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Dn Roger Wong Chok Yin</span></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Mr Roger Wong Chok Yin</span></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Treasurer</span></td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Johnson Lu Yi Qiang</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder (Dr) Johnson Lu Yi Qiang</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Lionel Khoo</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Lionel Khoo</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev (Dr) James Ng Keok Beng</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Roy Koh</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Elsie Poey</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Allison Lim</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Principal</span><br></td>
   </tr>
   <tr>
