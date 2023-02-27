@@ -7,9 +7,12 @@ third_nav_title: School Service Providers
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 For Dental services, please note the opening hours and contact as follows:
 
-Location: #01 - 01 <br>
-School Dental Clinic: 91153657 <br>
-Student Dental Centre, HPB: 64353782
+Location: 
+**#01 - 01** <br>
+School Dental Clinic: 
+**91153657** <br>
+Student Dental Centre, 
+**HPB: 64353782**
 
 
 **Opening Hours:**
@@ -22,5 +25,3 @@ Student Dental Centre, HPB: 64353782
 
 **The above schedule is subject to change.<br>
 Please call to make an appointment before visiting the dental clinic**
-
-
