@@ -14,12 +14,13 @@ Student Dental Centre, HPB: 64353782
 
 **Opening Hours:**
 
-*   Monday to Thursday: 8.00 a.m.  -  5.30 p.m.
-*   Friday: 8.00 a.m.  - 5.00 p.m.
-*   (Lunch Break: 1.00 p.m.  -  2.00 p.m.)
+*   **Monday to Thursday: 8.00 a.m.  -  5.30 p.m.**
+*   **Friday: 8.00 a.m.  - 5.00 p.m.**
+*   **(Lunch Break: 1.00 p.m.  -  2.00 p.m.)**
 
   
 
-The above schedule is subject to change.
+**The above schedule is subject to change.<br>
+Please call to make an appointment before visiting the dental clinic**
 
-Please call to make an appointment before visiting the dental clinic
+
