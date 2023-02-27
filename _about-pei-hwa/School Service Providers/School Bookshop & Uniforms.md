@@ -23,11 +23,10 @@ Contact numbers: <br>
 6469 2580 (School)
 
 **Monday to Friday:** <br>
-Opening Hours 8.00 a.m. -  3.00 p.m. <br>
-(Lunch Break) 12.00 p.m.  -  1.00 p.m.
+ **Mon**, **Tues**, **Thurs** & **Fri**: **8.30 a.m. -  3.30 p.m.** <br>
+**Wed**, **8.30 a.m. - 3.00 p.m.**<br>
+ **(Lunch Break) 12.00 p.m.  -  1.00 p.m.**
 
 Note: Sale of school books are made available online:  **[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)**
-
   
-
 **During school days only** parents who need to visit the bookshop are to **come after 1.45 pm.**
