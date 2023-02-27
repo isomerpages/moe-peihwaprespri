@@ -37,10 +37,24 @@ Please refer to the links below for your reference.
 |  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 [Pei Hwa - Our Partners Parents](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents|
+[Parents Gateway](https://pg.moe.edu.sg/)|https://pg.moe.edu.sg/|
+[Parents Gateway Informations](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/our-partners-1/parents/parents-gateway)|https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/our-partners-1/parents/parents-gateway|
+[Parents Support Group (PSG)](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-support-group)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-support-group|
+[Parent Volunteers Scheme](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers|
+[Ministry of Health](https://www.moh.gov.sg/)|https://www.moh.gov.sg/|
+[Haze Situation Update](https://www.haze.gov.sg/)|https://www.haze.gov.sg/|
+[Insurance Claim](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim
 
 
 
 #### For Students
 |  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+[Student Learning Space](https://vle.learning.moe.edu.sg/login)|https://vle.learning.moe.edu.sg/login|
+[Student Google Workspace](https://workspace.google.com/dashboard)|https://workspace.google.com/dashboard|
+[My Skills Future - Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|https://www.myskillsfuture.gov.sg/content/student/en/primary.html|
+[School Library Spydus Home](https://schoolibrary.moe.edu.sg/peihwapresbyterianpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|https://schoolibrary.moe.edu.sg/peihwapresbyterianpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME|
+[School Library SERR Home](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME|
+
+
+
