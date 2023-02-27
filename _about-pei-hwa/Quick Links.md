@@ -55,6 +55,3 @@ Please refer to the links below for your reference.
 [My Skills Future - Primary](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)|https://www.myskillsfuture.gov.sg/content/student/en/primary.html|
 [School Library Spydus Home](https://schoolibrary.moe.edu.sg/peihwapresbyterianpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|https://schoolibrary.moe.edu.sg/peihwapresbyterianpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME|
 [School Library SERR Home](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)|https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME|
-
-
-
