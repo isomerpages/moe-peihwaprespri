@@ -14,8 +14,6 @@ Mobile no.: 9632 7095 <br>
 Tel: 62694708 <br>
 Email: aikshen1@singnet.com.sg
 
-[School Bus Instructions.pdf](/files/School%20Bus%20Instructions.pdf)
-
-[School Bus Application Form.pdf](/files/School%20Bus%20Application%20Form.pdf)
+ #### Click Here for School Bus Application Form
 
 Note:  All arrangements and agreements are to be made directly with the bus operator.
