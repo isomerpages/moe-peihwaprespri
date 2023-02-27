@@ -5,9 +5,9 @@ description: ""
 third_nav_title: School Service Providers
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
-For school bus services, please contact the following:
+For school bus services, please contact the following:<br>
 
-**Company: Aik Shen Bus Service**
+#### Company: Aik Shen Bus Service
 
 Mr Yeo Kah Hua <br>
 Mobile no.: 9632 7095 <br>
