@@ -9,19 +9,19 @@ Please refer to the links below for your reference.
 #### For Staff - Portals
 | Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
-[MOE Intranet](https://intranet.moe.gov.sg) |	https://intranet.moe.gov.sg|VPN
-[iCON](https://workspace.google.com/dashboard)|https://workspace.google.com/dashboard|
-[MiMs](https://portal.mims.moe.gov.sg)|https://portal.mims.moe.gov.sg|
-[SC Mobile](https://scmobile.moe.edu.sg/)|https://scmobile.moe.edu.sg/|
-[School Cockpit](https://schoolcockpit.moe.gov.sg)|https://schoolcockpit.moe.gov.sg|VPN
-[Parent Gateway](https://pg.moe.edu.sg/)|https://pg.moe.edu.sg/|
-[HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)|http://intranet.moe.gov.sg/hronline/Pages/Home.aspx|VPN
-[HR and Payroll portal (HRP)](https://www.hrp.gov.sg)|https://www.hrp.gov.sg|VPN
-[Academy of Teachers](https://academyofsingaporeteachers.moe.edu.sg)|https://academyofsingaporeteachers.moe.edu.sg|
-[One Portal All Learners (OPAL 2.0)](https://www.opal2.moe.edu.sg)|https://www.opal2.moe.edu.sg|
-[SEAB](https://iexams.seab.gov.sg/login)|https://iexams.seab.gov.sg/login|VPN
-[FORM.SG](https://form.gov.sg/)|https://form.gov.sg/|
-[GO.GOV ShortLinks](https://go.gov.sg/)|https://go.gov.sg/
+|[MOE Intranet](https://intranet.moe.gov.sg) |	https://intranet.moe.gov.sg|VPN
+|[iCON](https://workspace.google.com/dashboard)|https://workspace.google.com/dashboard|
+|[MiMs](https://portal.mims.moe.gov.sg)|https://portal.mims.moe.gov.sg|
+|[SC Mobile](https://scmobile.moe.edu.sg/)|https://scmobile.moe.edu.sg/|
+|[School Cockpit](https://schoolcockpit.moe.gov.sg)|https://schoolcockpit.moe.gov.sg|VPN
+|[Parent Gateway](https://pg.moe.edu.sg/)|https://pg.moe.edu.sg/|
+|[HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)|http://intranet.moe.gov.sg/hronline/Pages/Home.aspx|VPN
+|[HR and Payroll portal (HRP)](https://www.hrp.gov.sg)|https://www.hrp.gov.sg|VPN
+|[Academy of Teachers](https://academyofsingaporeteachers.moe.edu.sg)|https://academyofsingaporeteachers.moe.edu.sg|
+|[One Portal All Learners (OPAL 2.0)](https://www.opal2.moe.edu.sg)|https://www.opal2.moe.edu.sg|
+|[SEAB](https://iexams.seab.gov.sg/login)|https://iexams.seab.gov.sg/login|VPN
+|[FORM.SG](https://form.gov.sg/)|https://form.gov.sg/|
+|[GO.GOV ShortLinks](https://go.gov.sg/)|https://go.gov.sg/|
 
 
 #### For Staff - Booking  Forms
