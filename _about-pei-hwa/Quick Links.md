@@ -20,50 +20,27 @@ Please refer to the links below for your reference.
 [Academy of Teachers](https://academyofsingaporeteachers.moe.edu.sg)|https://academyofsingaporeteachers.moe.edu.sg|
 [One Portal All Learners (OPAL 2.0)](https://www.opal2.moe.edu.sg)|https://www.opal2.moe.edu.sg|
 [SEAB](https://iexams.seab.gov.sg/login)|https://iexams.seab.gov.sg/login|VPN
-
+[FORM.SG](https://form.gov.sg/)|https://form.gov.sg/|
+[GO.GOV ShortLinks](https://go.gov.sg/)|https://go.gov.sg/
 
 
 #### For Staff - Booking  Forms
-| Column 1 | Column 2 | Column 3 |
+| Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
+[Resource Booking Services (RBS)](https://rbs.avero-tech.com/)|https://rbs.avero-tech.com/|
+[AV Request Forms](https://sites.google.com/moe.edu.sg/phppsgsite/phpps-av-team-1-stop)|https://sites.google.com/moe.edu.sg/phppsgsite/phpps-av-team-1-stop|
 
 
 
 
 #### For Parents
-| Column 1 | Column 2 | Column 3 |
+|  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+[Pei Hwa - Our Partners Parents](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents|
 
 
 
 #### For Students
-| Column 1 | Column 2 | Column 3 |
+|  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
