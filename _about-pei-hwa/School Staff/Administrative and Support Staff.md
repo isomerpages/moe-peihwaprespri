@@ -68,8 +68,8 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">School Counsellor</span><br><a href="mailto:Seah_Meng_Hwa@moe.edu.sg"><span style="text-decoration:none;color:#B29059">Seah_Meng_Hwa@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms Xiang Su</span><br></td>
-    <td class="tg-vqm8">Senior SEN Officer<br><a href="mailto:xiang_su@moe.edu.sg"><span style="text-decoration:none;color:#B29059">xiang_su@moe.edu.sg</span></a></td>
+    <td class="tg-lr6o"><span style="color:#222"> Ms Ho Xiang Ying, Jesca</span><br></td>
+    <td class="tg-vqm8">SEN Officer<br><a href="mailto:ho_xiang_ying_jesca@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ho_xiang_ying_jesca@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Ms Teng Hui Kin</span><br></td>
