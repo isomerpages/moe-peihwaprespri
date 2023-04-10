@@ -61,12 +61,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
 
 
 ### **2023 Sexuality Education Lessons in CCE 2021**
@@ -75,9 +69,6 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
 
 
 
@@ -91,7 +82,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 **Please Note:**
 
-**\*****For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
+**For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
 
   
 
