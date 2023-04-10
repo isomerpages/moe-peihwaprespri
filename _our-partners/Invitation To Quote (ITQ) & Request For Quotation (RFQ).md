@@ -32,8 +32,8 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 </thead>
 <tbody>
 	 <tr>
-	 </tr><tr>
-	</tr><tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23000880</span></td>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23000880</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> DESIGN &amp; RENOVATION OF EXISTING STAFF LOUNGE AND STAFF TRAINING ROOM @PEI HWA PRESBYTERIAN PRIMARY SCHOOL</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Feb 2023</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 15 Mar 2023 01:00 PM</span></td>
