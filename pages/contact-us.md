@@ -18,8 +18,8 @@ contacts:
       - other: Alternatively, you can also call +65 64663797
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 6466 4834
+      - phone: +65 6462 1944
       - email: ""
-      - other: "Staff Room Number 2: 64668214 <br>School Fax : 64621944"
-    title: Staff Room
+      - other: ""
+    title: School Fax
 ---
