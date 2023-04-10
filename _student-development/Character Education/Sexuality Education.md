@@ -13,27 +13,27 @@ third_nav_title: Character Education
 
 2.The goals of Sexuality Education are:
 
-(i)To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
+(i)To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
 
-(ii)To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+(ii)To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(iii)To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+(iii)To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
 3.The key messages of Sexuality Education are:
 
 (i)Love and respect yourself as you love and respect others;
 
-(ii)Build positive relationships based on love and respect (which are the foundation for strong families);                         
+(ii)Build positive relationships based on love and respect&nbsp;(which are the foundation for strong families);&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 (iii)Make responsible decisions for yourself, your family and society; and
 
-(iv)Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(iv)Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies.&nbsp;Casual sex can harm and hurt you and your loved ones.
 
-You may click **[HERE](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)**  for more information on MOE Sexuality Education.
+You may&nbsp;click&nbsp;**[HERE](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)**&nbsp;&nbsp;for more information on MOE Sexuality Education.
 
 **Overview of Pei Hwa Presbyterian Primary School’s Sexuality Education Programme for 2022.**
 
-4.Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[HERE](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)** for more information on the scope of Sexuality Education in the school curriculum.
+4.Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;**[HERE](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5.The subjects that incorporate topics on sexuality include:
 
@@ -41,15 +41,15 @@ a.Science <br>
 b.Form Teacher Guidance Period (FTGP)<br>
 c.Character and Citizenship Education (CCE)
 
-**Sexuality Education**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
+**Sexuality Education**: “Curious Minds (2nd&nbsp;Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
 
-6.The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
+6.The upper primary years mark the onset of puberty.&nbsp; With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
-7.The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+7.The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd&nbsp;Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping&nbsp;students navigate&nbsp;_changes_, build healthy&nbsp;_relationships_, especially online relationships, and exercise&nbsp;_safety_.
 
   
 
-**At Pei Hwa Presbyterian Primary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Pei Hwa Presbyterian Primary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2022:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -185,12 +185,16 @@ c.Character and Citizenship Education (CCE)
 </tbody>
 </table>
 
-**Information for Parents**  
+**Please Note:**
 
-8.Parents may opt their children out of the Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+**\*****For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
 
-9.Parents who wish to opt their children out of the Sexuality Education lessons are to complete an opt-out form in FORMSG via Parents Gateway. This form will be sent to parents at the start of the year and is also available **[here](http://form.gov.sg/61d63e2b454c22001265d259)**. The completed opt-out form is to be submitted by **14/01/2022.** 
+  
 
-10.Parents can contact the school at [**phpps@moe.edu.sg**](mailto:phpps@moe.edu.sg) for discussion or seek clarification about the school’s sexuality education programme.  
+**Information for Parents**
 
-11.Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;**[HERE](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u311/2023/CEE/SEd%20Education%20Letter%20%20Opt%20Out%20Form%202023.pdf)**. The completed opt-out form is to be submitted by&nbsp;**31/01/2023**.
+
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;[phpps@moe.edu.sg](mailto:phpps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
