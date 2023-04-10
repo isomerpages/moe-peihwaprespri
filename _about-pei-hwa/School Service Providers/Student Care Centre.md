@@ -12,10 +12,16 @@ For student care services, please contact the following:
   **Commit Learning Schoolhouse  
 Contact: Ms Poorvena  
 Tel: 89286418  
-Email: [admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
+Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
+
+<p><a href="/files/PHPPS%20P1%20Booklist%202023.pdf">
+<img src="/images/2023%20booklist.png" style="width:25%">
+</a></p>
 
 ##### [School Student Care Application](https://docs.google.com/forms/d/e/1FAIpQLSeh5oos_3HJrliSvMH8AoxE5Dd2ueBaxmbdgVLwnee5VScUWA/viewform)
+
 ##### [Introduction Letter](/files/Application%20Forms/INTRODUCTION%20LETTER%20COMMIT%20LEARNING%20(1).pdf)
+
 ##### [FAQs](/files/Application%20Forms/UPDATED%20Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%202023%20FAQs%20.pdf)
 
-**Note:  All arrangements and agreements are to be made directly with the student care service provider.**
+**Note:&nbsp; All arrangements and agreements are to be made directly with the student care service provider.**
