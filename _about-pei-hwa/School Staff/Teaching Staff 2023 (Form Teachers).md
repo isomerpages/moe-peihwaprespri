@@ -412,8 +412,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 4</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs Cheryl Ang</span></td>
-    <td class="tg-lmb7"><a href="mailto:cheryl_wang@moe.edu.sg"><span style="text-decoration:none;color:#B29059">cheryl_wang@moe.edu.sg</span></a><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Ang Yong Jia</span></td>
+    <td class="tg-lmb7"><a href="mailto:ang_yong_jia@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ang_yong_jia@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
