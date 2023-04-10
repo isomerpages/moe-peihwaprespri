@@ -1,0 +1,17 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Character Education/.keep
+      - Character Education/Programme for Active Learning.md
+      - Character Education/Sexuality Education.md
+      - Character Education/Student Leadership.md
+      - Character Education/Values Education.md
+      - Citizenship Education/.keep
+      - Citizenship Education/Educational and Career Guidance (ECG).md
+      - Citizenship Education/National Education.md
+      - Citizenship Education/Social Studies (SS).md
+      - Citizenship Education/National Education Art Designs by Students.md
+      - Student's Well being/.keep
+      - Student's Well being/Form Teacher Guidance Period (FTGP).md
+      - Student's Well being/Student Management.md

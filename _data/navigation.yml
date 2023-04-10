@@ -1,15 +1,58 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/School Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: 认识培华  About Pei Hwa
+    url: /about-pei-hwa/school-heritage/
+    sublinks:
+      - title: School Heritage
+        url: /about-pei-hwa/school-heritage/
+      - title: School Motto and Crest
+        url: /about-pei-hwa/school-motto-and-crest/
+      - title: School Song
+        url: /about-pei-hwa/school-song/
+      - title: Vision, Mission & Values
+        url: /about-pei-hwa/vision-mission-n-values/
+      - title: School Management Committee
+        url: /about-pei-hwa/school-management-committee/
+      - title: School Staff
+        url: /about-pei-hwa/school-staff/key-personnel/
+      - title: General Information
+        url: /about-pei-hwa/general-information/
+      - title: School Facilities
+        url: /about-pei-hwa/general-information/school-facilities/general-office/
+      - title: School Service Providers
+        url: /about-pei-hwa/school-service-providers/school-bookshop-uniforms/
+      - title: School Calendar
+        url: /about-pei-hwa/school-calendar/
+      - title: Privacy Policy
+        url: /about-pei-hwa/privacy-policy/pdpa/
+      - title: Quick Links
+        url: /about-pei-hwa/quick-links/
+  - title: 学习@培华  Learning @ Pei Hwa
+    url: /at-learning-at-pei-hwa/art/
+    sublinks:
+      - title: Art
+        url: /at-learning-at-pei-hwa/art/
+      - title: Chinese
+        url: /at-learning-at-pei-hwa/chinese/
+      - title: English
+        url: /at-learning-at-pei-hwa/english/
+      - title: Mathematics
+        url: /at-learning-at-pei-hwa/mathematics/
+      - title: Music
+        url: /at-learning-at-pei-hwa/music/
+      - title: Physical Education
+        url: /at-learning-at-pei-hwa/physical-education/
+      - title: Science
+        url: /at-learning-at-pei-hwa/science/
+      - title: Special Programme
+        url: /at-learning-at-pei-hwa/special-programme/chinese-arts-programme/
+      - title: Home-Based Learning
+        url: /at-learning-at-pei-hwa/home-based-learning-hbl/
+      - title: Student Learning Space ( SLS )
+        url: /at-learning-at-pei-hwa/home-based-learning-hbl/student-learning-space-sls/
+  - title: 学生发展 Student Development
+    collection: student-development
+  - title: 辅助活动  CCA
+    collection: co-curricular-activites
+  - title: 我们的伙伴  Our Partners
+    collection: our-partners

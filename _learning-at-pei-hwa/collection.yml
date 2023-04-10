@@ -1,0 +1,21 @@
+collections:
+  learning-at-pei-hwa:
+    output: true
+    order:
+      - Art.md
+      - Chinese.md
+      - English.md
+      - Mathematics.md
+      - Music.md
+      - Physical Education.md
+      - Science.md
+      - Special Programme/.keep
+      - Special Programme/Chinese Arts Programme.md
+      - Special Programme/Applied Learning Programme.md
+      - Special Programme/Lifelong Learning Programme.md
+      - Special Programme/Thinkers Today, Leaders Tomorrow (TTLT) programme.md
+      - Home Based Learning/.keep
+      - Home Based Learning/Home Based Learning (HBL).md
+      - Home Based Learning/FAQs.md
+      - Home Based Learning/Briefing for Students.md
+      - Home Based Learning/Link Pages.md
