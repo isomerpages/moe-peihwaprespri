@@ -14,9 +14,6 @@ Contact: Ms Poorvena
 Tel: 89286418  
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
-<p><a href="/files/PHPPS%20P1%20Booklist%202023.pdf">
-<img src="/images/2023%20booklist.png" style="width:25%">
-</a></p>
 
 ##### [School Student Care Application](https://docs.google.com/forms/d/e/1FAIpQLSeh5oos_3HJrliSvMH8AoxE5Dd2ueBaxmbdgVLwnee5VScUWA/viewform)
 
