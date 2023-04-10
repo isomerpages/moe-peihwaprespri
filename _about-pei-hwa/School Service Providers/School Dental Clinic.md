@@ -5,6 +5,7 @@ description: ""
 third_nav_title: School Service Providers
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
+
 For Dental services, please note the opening hours and contact as follows:
 
 Location: 
@@ -17,9 +18,9 @@ Student Dental Centre,
 
 **Opening Hours:**
 
-*   **Monday to Thursday: 8.00 a.m.  -  5.30 p.m.**
-*   **Friday: 8.00 a.m.  - 5.00 p.m.**
-*   **(Lunch Break: 1.00 p.m.  -  2.00 p.m.)**
+*   **Monday to Thursday: 8.00 a.m.&nbsp; -&nbsp; 5.30 p.m.**
+*   **Friday: 8.00 a.m.&nbsp; - 5.00 p.m.**
+*   **(Lunch Break: 1.00 p.m.&nbsp; -&nbsp; 2.00 p.m.)**
 
   
 
