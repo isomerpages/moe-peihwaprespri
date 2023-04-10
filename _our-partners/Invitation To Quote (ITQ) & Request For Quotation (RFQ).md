@@ -32,16 +32,17 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 </thead>
 <tbody>
 	 <tr>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> MOESCHETQ22003685</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> P6 Outdoor Education &amp; Team-Building Camp 2022 for PHPPS @ MOE Labrador Outdoor Adventure Learning Centre</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 31 Aug 2022</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 Sep 2022 01:00 PM</span></td>
+	 </tr><tr>
+	</tr><tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23000880</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> DESIGN &amp; RENOVATION OF EXISTING STAFF LOUNGE AND STAFF TRAINING ROOM @PEI HWA PRESBYTERIAN PRIMARY SCHOOL</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Feb 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 15 Mar 2023 01:00 PM</span></td>
   </tr>
-  <tr>
-    <td class="tg-lhoz"> MOESCHETQ22002988</td>
-    <td class="tg-lhoz">Setting up and operation of a school-based student care centre for the period of 1 Jan 2023 to 31 Dec 2028, 72 months (3+3 contract period) in PHPPS </td>
-    <td class="tg-lhoz"> 12 Jul 2022</td>
-    <td class="tg-lhoz"> 29 Jul 2022 01:00 PM</td>
+	<tr>
+    <td class="tg-lhoz"> MOESCHETQ23000787</td>
+    <td class="tg-lhoz">SSupply of Instructor for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School </td>
+    <td class="tg-lhoz"> 10 Feb 2023</td>
+    <td class="tg-lhoz"> 20 Feb 2023 01:00 PM </td>
   </tr>
   <tr>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> MOESCHETQ23000460 </span></td>
