@@ -76,8 +76,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Integrity 6</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ms Evelyn Wong</span></td>
-    <td class="tg-lmb7"><a href="mailto:wong_geok_lan_evelyn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_geok_lan_evelyn@moe.edu.sg</span></a></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Rose Henry</span></td>
+    <td class="tg-lmb7"><a href="mailto:rose_marie_kit_yee@moe.edu.sg"><span style="text-decoration:none;color:#B29059">rose_marie_kit_yee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
