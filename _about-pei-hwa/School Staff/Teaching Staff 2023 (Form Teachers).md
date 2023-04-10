@@ -407,8 +407,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mr Wong Phuay Hang</span></td>
-    <td class="tg-lmb7"><a href="mailto:wong_phuay_hang@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_phuay_hang@moe.edu.sg</span></a></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Rene Ng Junyi</span></td>
+    <td class="tg-lmb7"><a href="mailto:rene_ng@moe.edu.sg"><span style="text-decoration:none;color:#B29059">rene_ng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 4</span></td>
