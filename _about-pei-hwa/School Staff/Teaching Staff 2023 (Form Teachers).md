@@ -343,8 +343,8 @@ third_nav_title: School Staff
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Sim Ai Ling</span></td>
-    <td class="tg-gqk5"><a href="mailto:sim_ai_ling@moe.edu.sg"><span style="text-decoration:none;color:#B29059">sim_ai_ling@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Leong Kai Yun</span></td>
+    <td class="tg-gqk5"><a href="mailto:leong_kai_yun@moe.edu.sg"><span style="text-decoration:none;color:#B29059">leong_kai_yun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Teamwork 6</span></td>
