@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Canteen Advertisement.md
       - School Bus Advertisement.md
       - School Heritage.md
       - School Motto and Crest.md
