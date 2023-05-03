@@ -46,4 +46,3 @@ For more information, please click on the link&nbsp;**[HERE](https://staging.d3u
 ### [National Education Art Designs by Students](https://staging.d3ud1e33ljueqf.amplifyapp.com/student-development/citizenship-education/national-education-art-designs-by-students/)
 
 For more information, please click on the link&nbsp;**[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/student-development/citizenship-education/national-education-art-designs-by-students/)**.
-
