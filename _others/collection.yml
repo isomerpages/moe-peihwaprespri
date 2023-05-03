@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - P1 eOrientation.md
       - Upgrading Plan for PHPPS (Single Session in 2022).md
       - Opening of new city bound Upper Bukit Timah Road.md
       - Nominate your Teacher Awards 2022.md
