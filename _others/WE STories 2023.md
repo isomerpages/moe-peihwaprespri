@@ -10,7 +10,7 @@ WE STories is a collection of stories from our west zone secondary schools to pr
 
 #### The flipbook version can be accessed&nbsp;[**via Link HERE**](https://online.fliphtml5.com/obrr/qkde/#p=1)
 
+or clicking on the picture book below
 <p><a href="https://online.fliphtml5.com/obrr/qkde/#p=1">
 <img src="/images/Picture%20Cover/westories%202023.PNG">
 </a></p>
-
