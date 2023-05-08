@@ -15,33 +15,30 @@ description: ""
 
 ##### \*\*Application Procedure\*\*
 
-1\. Download and complete the application form. You may also request for a hardcopy from the [School General Office](https://www.peihwapresbyterianpri.moe.edu.sg/contact-us/)
+1\. Download and complete the application form. You may also request for a hardcopy from the School's General Office [[Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)]
 
-\* \[Application Form\][\[AK(2\]](#_msocom_2) 
 
-2\. Attached the following documents together with the application form:
+2.
+| Attached the following documents together with the application form |
+| -------- |
+| \* Photocopy of the NRIC (front and back)     |
+|\* List of proposed menu and pricing for all items     |
+| \* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc  |
 
-\* Photocopy of the NRIC (front and back)
 
-\* List of proposed menu and pricing for all items
-
-\* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3\. Submit the completed application form and documents by closing date via email OR to the [School General Office](https://www.peihwapresbyterianpri.moe.edu.sg/contact-us/)
 
-\* Address: 7 Pei Hwa Avenue
-Pei Wah Avenue
+\* Address: 7 Pei Hwa Avenue , Singapore 597610
 
-Singapore 597610
+\* Contact No: +65 6466 3787
 
-\* Contact No: 6666 4444
+\* Email: phpps@moe.edu.sg
 
-\* Email: abc\_ps@moe.edu.sg
+\* Contact Person: 
 
-\* Contact Person: Mdm Sally Tan [\[AK(3\]](#_msocom_3) 
 
 \*\*How to get there?\*\*
-
 \* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
 
 \* Bus number: 900 - 3 minutes walking distance
