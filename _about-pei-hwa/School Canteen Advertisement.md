@@ -60,15 +60,7 @@ description: ""
 |\*\*Applicants should preferably fulfil the following criteria:\*\*|
 |\* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.|
 |\* Possess catering experience or experience operating in a school environment.|
-|\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).[\[AK(4\]](#_msocom_4) |
+|\* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). |
 |\*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\*|
 
 * * *
-
- [\[AK(1\]](#_msoanchor_1)Advertisements. School to update their advertisements
-
- [\[AK(2\]](#_msoanchor_2)Insert attachment here
-
- [\[AK(3\]](#_msoanchor_3)School to update their address and details
-
- [\[AK(4\]](#_msoanchor_4)School to add any other requirements they require
