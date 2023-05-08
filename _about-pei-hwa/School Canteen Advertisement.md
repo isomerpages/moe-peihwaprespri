@@ -11,31 +11,33 @@ description: ""
 | Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
 | Western Food Stall | 15 Jul 2023 | NIL|
 | Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.|[\[AK(1\]](#_msocom_1) 
-
+| |
 
 ##### \*\*Application Procedure\*\*
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School's General Office [[Application Form](https://staging.d2rf20mnuqi9qi.amplifyapp.com/files/appexistingsch.pdf)]
 
 
-2.
-| Attached the following documents together with the application form |
+2\. Attached the following documents together with the application form
+| | 
 | -------- |
 | \* Photocopy of the NRIC (front and back)     |
 |\* List of proposed menu and pricing for all items     |
 | \* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc  |
+| |
 
 
 
 3\. Submit the completed application form and documents by closing date via email OR to the [School General Office](https://www.peihwapresbyterianpri.moe.edu.sg/contact-us/)
 
-\* Address: 7 Pei Hwa Avenue , Singapore 597610
+|School General Office|
+| -------- |
+|\* Address: 7 Pei Hwa Avenue , Singapore 597610|
+|\* Contact No: +65 6466 3787|
+|\* Email: phpps.moe.edu.sg|
+|\* Contact Person: |
+| |
 
-\* Contact No: +65 6466 3787
-
-\* Email: phpps.moe.edu.sg
-
-\* Contact Person: 
 
 
 ### \*\*How to get there?\*\*
@@ -45,6 +47,7 @@ description: ""
 
 \* Bus number: 41, 52, 61, 67, 75, 77, 157, 170, 174, 184, 852, 961, 961M, 970, 985,
   ( 3 minutes walking distance )
+
 
 ## Criteria
 |\*\*Interest Applicants Must meet the following criteria:\*\*|
