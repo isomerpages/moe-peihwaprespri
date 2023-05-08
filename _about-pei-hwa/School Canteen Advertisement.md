@@ -46,8 +46,8 @@ description: ""
 \* Bus number: 41, 52, 61, 67, 75, 77, 157, 170, 174, 184, 852, 961, 961M, 970, 985,
   ( 3 minutes walking distance )
 
-## Interest applicants
-|\*\*Must meet the following criteria:\*\*|
+## Criteria
+|\*\*Interest Applicants Must meet the following criteria:\*\*|
 | -------- |
 |\* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.|
 |\* Able to provide good service and quality food with prices determined in consultation with the school.|
