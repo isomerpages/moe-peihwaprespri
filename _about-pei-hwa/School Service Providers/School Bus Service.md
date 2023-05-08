@@ -1,5 +1,5 @@
 ---
-title: School Bus
+title: School Bus Service
 permalink: /about-pei-hwa/school-service-providers/school-bus/
 description: ""
 third_nav_title: School Service Providers

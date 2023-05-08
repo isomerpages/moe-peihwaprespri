@@ -1,5 +1,5 @@
 ---
-title: Invitation To Quote (ITQ) &amp; Request For Quotation (RFQ)
+title: Invitation To Quote (ITQ) & Request For Quotation (RFQ)
 permalink: /our-partners-1/invitation-to-quote-itq-request-for-quotation-rfq/
 description: ""
 ---
@@ -33,30 +33,44 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tbody>
 	 <tr>
 	</tr>	<tr>
-	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23000880</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> DESIGN &amp; RENOVATION OF EXISTING STAFF LOUNGE AND STAFF TRAINING ROOM @PEI HWA PRESBYTERIAN PRIMARY SCHOOL</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Feb 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 15 Mar 2023 01:00 PM</span></td>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23002158</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Designing and Production of 2023 School Annual</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 21 Apr 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 02 May 2023 01:00 PM</span></td>
+  </tr><tr>
+	</tr><tr>
+	</tr>	<tr><td class="tg-lhoz">  MOESCHETQ23000880</td>
+    <td class="tg-lhoz"> DESIGN &amp; RENOVATION OF EXISTING STAFF LOUNGE AND STAFF TRAINING ROOM @PEI HWA PRESBYTERIAN PRIMARY SCHOOL</td>
+    <td class="tg-lhoz"> 16 Feb 2023</td>
+    <td class="tg-lhoz"> 15 Mar 2023 01:00 PM</td>
   </tr>
 	<tr>
+	</tr><tr>
     <td class="tg-lhoz"> MOESCHETQ23000787</td>
     <td class="tg-lhoz">SSupply of Instructor for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School </td>
     <td class="tg-lhoz"> 10 Feb 2023</td>
     <td class="tg-lhoz"> 20 Feb 2023 01:00 PM </td>
   </tr>
-  <tr>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> MOESCHETQ23000460 </span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> PStudent Leaders Leadership Training in Pei Hwa Presbyterian Primary School </span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 30 Jan 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  07 Feb 2023 01:00 PMPM</span></td>
+	 <tr>
+  </tr><tr>
+    <td class="tg-lhoz">MOESCHETQ23000460 </td>
+    <td class="tg-lhoz"> PStudent Leaders Leadership Training in Pei Hwa Presbyterian Primary School </td>
+    <td class="tg-lhoz"> 30 Jan 2023</td>
+    <td class="tg-lhoz"> 07 Feb 2023 01:00 PMPM</td>
   </tr>
-  <tr>
+	 <tr>
+  </tr><tr>
     <td class="tg-lhoz"> MOESCHETQ23000219</td>
     <td class="tg-lhoz">Supply of Manpower Support Services (Operation Support Officer) from 1 March 2023 to 29 February 2024, with option to extend for another year</td>
     <td class="tg-lhoz"> 125 Jan 2023</td>
     <td class="tg-lhoz"> 07 Feb 2023 01:00 PM</td>
   </tr>
-  <tr>
-    
+	 <tr>
+  </tr><tr>
+    </tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  - </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> - </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> - </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">- </span></td>
+  </tr><tr>
 </tr></tbody>
 </table>
