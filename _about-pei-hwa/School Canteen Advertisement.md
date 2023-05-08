@@ -33,12 +33,14 @@ description: ""
 
 \* Contact No: +65 6466 3787
 
-\* Email: phpps@moe.edu.sg
+\* Email: phpps.moe.edu.sg
 
 \* Contact Person: 
 
 
-\*\*How to get there?\*\*
+### \*\*How to get there?\*\*
+##### [Google Map](https://www.google.com/maps/place/7+Pei+Wah+Ave,+Singapore+597610/@1.3379184,103.7739806,17z/data=!3m1!4b1!4m6!3m5!1s0x31da10883a3eec09:0x34436c0a47ab6e16!8m2!3d1.3379184!4d103.7761693!16s%2Fg%2F11c3q3xd2q)
+
 \* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
 
 \* Bus number: 900 - 3 minutes walking distance
