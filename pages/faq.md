@@ -44,25 +44,32 @@ permalink: /faq/
 |Q4.  Can parents drive in and let their child alight at the school porch?|
 | -------- |
 > * Monday to Friday: (Opening Hours)
->  *   6.30 a.m. -  7.30 a.m.
->  *   1.30 p.m. -  1.50 p.m.
+>  *   6.30 a.m. -  7.15 a.m.
 > * (Closed on weekends, public holidays and non-school days.)
 >  * [More information from link here](   )
 ||
 | -------- |
 ||
 
-  
 
-Q4.  Can parents drive in and let their child alight at the school porch?|---> For those who drive into the school, you can let your child alight at the porch.  The timings are as follows; 
-	
-	AM Session (Drop-off):
-	6.30 a.m. -  7.15 a.m.
-    
-   
-  
-Q5.  Can parents park in the school?|---> There are no visitor lots in the school. Parents are to park at nearby public carpark.
-Parents are advised not to park illegally along Pei Wah Avenue or outside the school gate.
+|Q5.  Can parents park in the school?|
+| -------- |
+> There are no visitor lots in the school. Parents are to park at nearby public carpark. Parents are advised not to park illegally along Pei Wah Avenue or outside the school gate.
+ >  * [More information from link here](   )
+||
+| -------- |
+||
+
+|Q6.  When can parents/guardians enter the school to buy things from the bookshop?|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.15 a.m.
+> * (Closed on weekends, public holidays and non-school days.)
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
 
   
 
