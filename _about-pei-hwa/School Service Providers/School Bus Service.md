@@ -22,7 +22,7 @@ Email: aikshen1@singnet.com.sg
 School Bus Operator and Bus Fare
 
 [School Bus Operator and NTE Price]
-
+![](/images/2023%20bus%20nte%20price.png)
 
 
 
