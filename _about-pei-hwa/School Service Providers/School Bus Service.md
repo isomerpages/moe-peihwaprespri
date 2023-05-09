@@ -16,4 +16,15 @@ Email: aikshen1@singnet.com.sg
 
  #### [Click Here for School Bus Application](/files/Application%20Forms/Bus%20Form%20PHPPS%202023%201.pdf)
 
+
+
+**School Bus Services**
+School Bus Operator and Bus Fare
+
+[School Bus Operator and NTE Price]
+
+
+
+
+
 **Note:&nbsp; All arrangements and agreements are to be made directly with the bus operator.**
