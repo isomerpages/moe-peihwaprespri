@@ -27,7 +27,11 @@ permalink: /privacy/
 
 6\. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 
+
+7\.  Photographs or video images of you and your legal guardians may be taken during school activities and events such as classroom lessons, CCA, school camps, or school concerts. The school may use and publish such photographs or video recordings in school publications, the school’s website, social media channels, or other communication channels.
+    
+
+**
   
 
 Copyright @ 2023 Pei Hwa Presbyterian Primary School
-
