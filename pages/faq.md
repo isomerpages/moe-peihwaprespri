@@ -28,8 +28,20 @@ permalink: /faq/
 ||
 
 
-|Q3.  When will the school back gate and side gate be opened?
-|
+|Q3.  When will the school back gate and side gate be opened?|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.30 a.m.
+>  *   1.30 p.m. -  1.50 p.m.
+> * (Closed on weekends, public holidays and non-school days.)x
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
+
+      
+|Q4.  Can parents drive in and let their child alight at the school porch?|
 | -------- |
 > * Monday to Friday: (Opening Hours)
 >  *   6.30 a.m. -  7.30 a.m.
@@ -39,16 +51,6 @@ permalink: /faq/
 ||
 | -------- |
 ||
-
-
-      
-Q3.  When will the school back gate and side gate be opened?
-
-Monday to Friday: (Opening Hours)
-*   6.30 a.m. -  7.30 a.m.
-*   1.30 p.m. -  1.50 p.m.
-
-(Closed on weekends, public holidays and non-school days.)
 
   
 
