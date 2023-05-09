@@ -2,7 +2,7 @@
 title: FAQ
 permalink: /faq/
 ---
-### **FAQ**
+### **Frequently Asked Questions**
 
 
 
@@ -11,6 +11,7 @@ permalink: /faq/
 > * Monday to Friday: 
 > * 7.30 a.m. -  6.30 p.m. 
 > * (Closed on weekends and public holidays) 
+> * [More information from link here](   )
 ||
 | -------- |
 ||
@@ -21,15 +22,24 @@ permalink: /faq/
 | -------- |
 > * Monday to Friday: 
 >  *   7.30 a.m.  -  1.30 p.m.  
-> ||
+>  * [More information from link here](   )
+||
 | -------- |
 ||
 
-Q2.  What time does school classes start?
 
-Monday to Friday: 
-*   7.30 a.m.  -  1.30 p.m.  
-    
+|Q3.  When will the school back gate and side gate be opened?
+|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.30 a.m.
+>  *   1.30 p.m. -  1.50 p.m.
+> * (Closed on weekends, public holidays and non-school days.)
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
 
       
 Q3.  When will the school back gate and side gate be opened?
