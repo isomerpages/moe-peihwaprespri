@@ -1,5 +1,5 @@
 ---
 title: School Bus Advertisement
-permalink: /about-pei-hwa/permalink/
+permalink: /about-pei-hwa/school-bus-advertisement/
 description: ""
 ---

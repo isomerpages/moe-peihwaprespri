@@ -71,5 +71,9 @@ third_nav_title: School Staff
     <td class="tg-02ww"><span style="color:#222">Mdm Chok Huey Chyn</span></td>
     <td class="tg-3dls"><a href="mailto:chok_huey_chyn@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#B29059">chok_huey_chyn@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-02ww"><span style="color:#222">Mdm Sim Ai Ling</span></td>
+    <td class="tg-3dls"><a href="mailto:sim_ai_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none;color:#B29059">sim_ai_ling@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>

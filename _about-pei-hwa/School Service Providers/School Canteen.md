@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /about-pei-hwa/general-information/permalink/
+permalink: /about-pei-hwa/general-information/school-canteen/
 description: ""
 third_nav_title: School Service Providers
 ---

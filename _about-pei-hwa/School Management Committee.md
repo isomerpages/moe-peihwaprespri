@@ -82,12 +82,10 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Yong Mun Chong</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
-  </tr>
-  <tr>
+  
+  </tr><tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
   </tr>
 </tbody>
 </table>
