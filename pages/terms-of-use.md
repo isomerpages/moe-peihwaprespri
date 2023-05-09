@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **General Terms and Conditions on the Use of Pei Hwa Presbyterian Primary School Website**
 
 #### **General Legal Information**
 
