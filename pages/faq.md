@@ -4,13 +4,27 @@ permalink: /faq/
 ---
 ### **FAQ**
 
-Q1.  What are the operating hours of the General Office?
 
-Monday to Friday: 
-* 7.30 a.m. -  6.30 p.m. 
-(Closed on weekends and public holidays)
 
-  
+|Q1  What are the operating hours of the General Office?|
+| -------- |
+> * Monday to Friday: 
+> * 7.30 a.m. -  6.30 p.m. 
+> * (Closed on weekends and public holidays) 
+||
+| -------- |
+||
+
+
+
+|Q2  What time does school classes start?|
+| -------- |
+> * Monday to Friday: 
+>  *   7.30 a.m.  -  1.30 p.m.  
+> ||
+| -------- |
+||
+
 Q2.  What time does school classes start?
 
 Monday to Friday: 
@@ -72,5 +86,3 @@ Q13. How can parents to talk to their child’s teacher if they have a question?
 
 **
 For any enquiries on Pei Hwa Presbyterian Primary School, you can write to [phpps@moe.edu.sg](mailto:phpps@moe.edu.sg) or call 64663787 / 64663797**
-
-
