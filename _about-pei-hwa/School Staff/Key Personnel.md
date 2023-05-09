@@ -28,10 +28,7 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Mrs Allison Lim </span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Principal</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr Yong Mun Chong</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">Vice-Principal</span><br></td>
-  </tr>
+  
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Chloe Yong</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Vice-Principal</span><br></td>
@@ -43,7 +40,7 @@ third_nav_title: School Staff
 </tbody>
 </table>
 
-####   Key Personnel
+#### &nbsp; Key Personnel
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
