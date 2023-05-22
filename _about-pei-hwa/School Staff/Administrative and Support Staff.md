@@ -44,7 +44,7 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
 	  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Cecilia Tan</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Cecilia Chan</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
   <tr>
