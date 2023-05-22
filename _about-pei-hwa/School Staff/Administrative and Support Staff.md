@@ -43,6 +43,10 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Ms. Tan Kah Gek</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
+	  <tr>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Cecilia Chan</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
+  </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Joyce Kweh Fen Fen</span></td>
     <td class="tg-lr6o"><span style="color:#222">School Librarian Assistant</span><br><a href="mailto:phpps@moe.edu.sg"><span style="text-decoration:none;color:#B29059">phpps@moe.edu.sg</span></a></td>

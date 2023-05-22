@@ -2,11 +2,106 @@
 title: FAQ
 permalink: /faq/
 ---
+### **Frequently Asked Questions**
 
-### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+|Q1  What are the operating hours of the General Office?|
+| -------- |
+> * Monday to Friday: 
+> * 7.30 a.m. -  6.30 p.m. 
+> * (Closed on weekends and public holidays) 
+> * [More information from link here](   )
+||
+| -------- |
+||
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+
+
+|Q2  What time does school classes start?|
+| -------- |
+> * Monday to Friday: 
+>  *   7.30 a.m.  -  1.30 p.m.  
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
+
+|Q3.  When will the school back gate and side gate be opened?|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.30 a.m.
+>  *   1.30 p.m. -  1.50 p.m.
+> * (Closed on weekends, public holidays and non-school days.)x
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
+
+      
+|Q4.  Can parents drive in and let their child alight at the school porch?|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.15 a.m.
+> * (Closed on weekends, public holidays and non-school days.)
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
+
+|Q5.  Can parents park in the school?|
+| -------- |
+> There are no visitor lots in the school. Parents are to park at nearby public carpark. Parents are advised not to park illegally along Pei Wah Avenue or outside the school gate.
+ >  * [More information from link here](   )
+||
+| -------- |
+||
+
+|Q6.  When can parents/guardians enter the school to buy things from the bookshop?|
+| -------- |
+> * Monday to Friday: (Opening Hours)
+>  *   6.30 a.m. -  7.15 a.m.
+> * (Closed on weekends, public holidays and non-school days.)
+>  * [More information from link here](   )
+||
+| -------- |
+||
+
+
+  
+
+Q6.  When can parents/guardians enter the school to buy things from the bookshop? |---> 
+
+
+Q7.  Are there student care services available in Pei Hwa Presbyterian Primary School?|---> 
+
+ 
+
+Q8. How do I contact the school uniform supplier?|---> 
+
+  
+
+Q9. Is there school bus service available? |---> 
+
+ 
+
+Q10. Is there a dental service in the school?|---> 
+
+  
+
+Q11. What is the opening hours of the school library? |---> 
+
+ 
+
+Q12.  Can students cycle to school? |---> No, the school does not allow students to cycle to school due to safety concerns.
+
+  
+
+Q13. How can parents to talk to their child’s teacher if they have a question?  |--->Please do contact the General Office and leave your message with the staff for the teacher to return your call when they are available.
+
+
+**
+For any enquiries on Pei Hwa Presbyterian Primary School, you can write to [phpps@moe.edu.sg](mailto:phpps@moe.edu.sg) or call 64663787 / 64663797**
