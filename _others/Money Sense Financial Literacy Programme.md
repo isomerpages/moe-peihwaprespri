@@ -12,5 +12,3 @@ Join **Institute for Financial Literacy (IFL)** in the **“Ask-Me-Anything”**
 
 
 ![](/images/Others%20Folder%20Images/ms%20workshops%20and%20talks%20june%202023.jpg)
-
-
