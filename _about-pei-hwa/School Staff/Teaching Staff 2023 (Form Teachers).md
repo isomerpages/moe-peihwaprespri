@@ -120,8 +120,8 @@ third_nav_title: School Staff
 <tbody>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 1</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Tan Lay Yen</span></td>
-    <td class="tg-gqk5"><a href="mailto:tan_lay_yen@moe.edu.sg"><span style="text-decoration:none;color:#B29059">tan_lay_yen@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Emily Chin</span></td>
+    <td class="tg-gqk5"><a href="mailto:tan_hwee_leng_emily@moe.edu.sg"><span style="text-decoration:none;color:#B29059">tan_hwee_leng_emily@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
