@@ -395,10 +395,15 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Mdm Celestine Ong</span></td>
     <td class="tg-lmb7"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
+	 <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
     <td class="tg-lr6o"><span style="color:#222">Mdm Alice Tan</span></td>
     <td class="tg-lmb7"><a href="mailto:tan_li_choo_alice@moe.edu.sg"><span style="text-decoration:none;color:#B29059">tan_li_choo_alice@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> </span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm Teo Jing Wen</span></td>
+    <td class="tg-lmb7"><a href="mailto:teo_jing_wen@moe.edu.sg"><span style="text-decoration:none;color:#B29059">teo_jing_wen@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 3</span></td>
