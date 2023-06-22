@@ -60,7 +60,7 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Desktop Engineer (DE)</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms Venesha D/O Rajeswari Brown</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Yeosini D/O Rajinderan</span></td>
     <td class="tg-lr6o"><span style="color:#222"> Desktop Engineer (DE)</span></td>
   </tr>
   <tr>
