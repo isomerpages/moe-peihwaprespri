@@ -55,10 +55,10 @@ Please keep this copy for your reference. For those events that are marked with 
 |T4W6	|Mon 16 Oct – Wed 18 Oct	|PSLE Marking	|No school for all students|
 ||Tues 17 Oct – Wed 18 Oct	|P3 GEP Selection Exercise*	|For selected P3 students|
 ||Fri 20 Oct	|SA2 Year End Written Examinations*	|For P5 students. School as usual for P1, P2, P3, P4 and P6 students|
-|T4W7|	Mon 23 Oct – Thurs 26 Oct	|SA2 Year End Written Examinations*	|For P3 to P5 students|
+|T4W7|	Mon 23 Oct – Thurs 26 Oct	|SA2 Year End Written Examinations*	|For P3 to P5 students. School as usual for P1, P2 and P6 students|
+|T4W9|	Tues 07 Nov	|P6 Graduation Ceremony	|For P6 students.School as usual for all students|
 |
 
-School as usual for P1, P2 and P6 students
 
 
 
