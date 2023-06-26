@@ -35,6 +35,7 @@ Please keep this copy for your reference. For those events that are marked with 
 
 
 #### 2023 Term 4
+
 | Term Week | Day / Date | School Event| Remarks |
 | -------- | -------- | -------- | -------- |
 |T4W1|	Fri 15 Sept	|PSLE Listening Comprehension – English Language and Chinese Language*	|For P6 students No school for P1-5 students|
@@ -57,22 +58,10 @@ Please keep this copy for your reference. For those events that are marked with 
 ||Fri 20 Oct	|SA2 Year End Written Examinations*	|For P5 students. School as usual for P1, P2, P3, P4 and P6 students|
 |T4W7|	Mon 23 Oct – Thurs 26 Oct	|SA2 Year End Written Examinations*	|For P3 to P5 students. School as usual for P1, P2 and P6 students|
 |T4W9|	Tues 07 Nov	|P6 Graduation Ceremony	|For P6 students.School as usual for all students|
-|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+||Thurs 09 Nov	|SA2 Admin Day for Staff	|No school for all students|
+|T4W10|	Mon 13 Nov	|Public Holiday in-lieu of Deepavali	|No school for all students|
+||Thurs 16 Nov – Fri 17 Nov	|P1 to P5 Meet the Parents Day	|No school for all students|
+| -------- | -------- | -------- | -------- |
 
 
 We seek your understanding that there might be changes made to the calendar due to unforeseen circumstances. The school calendar will be uploaded onto the school website. We look forward to partnering with you in the education of our students. Thank you.
