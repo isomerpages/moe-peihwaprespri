@@ -6,7 +6,7 @@ description: ""
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 Please keep this copy for your reference. For those events that are marked with an asterisk (\*), more details will be given to you nearer the date.
 
-#### 2023 Term 3
+#### 2023 Term 3 and Term 4
 | Term Week | Day / Date | School Event| Remarks |
 | -------- | -------- | -------- | -------- |
 |T3W1|Thurs 29 June|Hari Raya Haji Public Holiday|No school for all students|
@@ -26,16 +26,12 @@ Please keep this copy for your reference. For those events that are marked with 
 ||Thurs 24 Aug|	P6 Preliminary Examination* - Listening Comprehension for English Language and Chinese Language|	For P6 students
 |T3W10|	Thurs 31 Aug|	Teachers’ Day Celebration*	||
 ||Fri 01 Sept|	Teachers’ Day School Holiday|	No school for all students|
-|Sept School Holidays|	Thurs 07 Sept – Fri 08 Sept	|TTLT Camp*	|For TTLT students|
-|Sept School Holidays|	Thurs 07 Sept – Fri 08 Sept	|P6 Supplementary Class*	|For P6 students|
-
-
-
-
-
-#### 2023 Term 4
-| Term Week | Day / Date | School Event| Remarks |
+|||**End of Term 3**|
 | -------- | -------- | -------- | -------- |
+|**Sept School Holidays**|	Thurs 07 Sept – Fri 08 Sept	|TTLT Camp*	|For TTLT students|
+|**Sept School Holidays**|	Thurs 07 Sept – Fri 08 Sept	|P6 Supplementary Class*	|For P6 students|
+| -------- | -------- | -------- | -------- |
+||| **Start of Term 4** |
 |T4W1|	Fri 15 Sept	|PSLE Listening Comprehension – English Language and Chinese Language*	|For P6 students No school for P1-5 students|
 |T4W2	| Mon 18 Sept - Tues 19 Sept|	P3 Oral Examinations*	|For P3 students|
 ||Thurs 21 Sept – Fri 22 Sept	|P5 Oral Examinations*	|For P5 students|
@@ -60,6 +56,5 @@ Please keep this copy for your reference. For those events that are marked with 
 |T4W10|	Mon 13 Nov	|Public Holiday in-lieu of Deepavali	|No school for all students|
 ||Thurs 16 Nov – Fri 17 Nov	|P1 to P5 Meet the Parents Day	|No school for all students|
 | -------- | -------- | -------- | -------- |
-
 
 We seek your understanding that there might be changes made to the calendar due to unforeseen circumstances. The school calendar will be uploaded onto the school website. We look forward to partnering with you in the education of our students. Thank you.
