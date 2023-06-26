@@ -24,14 +24,10 @@ Please keep this copy for your reference. For those events that are marked with 
 ||Thurs 17 Aug – Fri 18 Aug|P6 Preliminary Written Examination*|For P6 students|
 |T3W9|Mon 21 Aug – Wed 23 Aug|P6 Preliminary Written Examination*	| For P6 students|
 ||Thurs 24 Aug|	P6 Preliminary Examination* - Listening Comprehension for English Language and Chinese Language|	For P6 students
-|T3W10|	Thurs 31 Aug|	Teachers’ Day Celebration*	||
+|T3W10|	Thurs 31 Aug|	Teachers’ Day Celebration*	|
 ||Fri 01 Sept|	Teachers’ Day School Holiday|	No school for all students|
-|||**End of Term 3**|
-| -------- | -------- | -------- | -------- |
 |**Sept School Holidays**|	Thurs 07 Sept – Fri 08 Sept	|TTLT Camp*	|For TTLT students|
 |**Sept School Holidays**|	Thurs 07 Sept – Fri 08 Sept	|P6 Supplementary Class*	|For P6 students|
-| -------- | -------- | -------- | -------- |
-||| **Start of Term 4** |
 |T4W1|	Fri 15 Sept	|PSLE Listening Comprehension – English Language and Chinese Language*	|For P6 students No school for P1-5 students|
 |T4W2	| Mon 18 Sept - Tues 19 Sept|	P3 Oral Examinations*	|For P3 students|
 ||Thurs 21 Sept – Fri 22 Sept	|P5 Oral Examinations*	|For P5 students|
