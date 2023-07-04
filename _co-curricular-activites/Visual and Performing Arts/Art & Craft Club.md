@@ -25,10 +25,18 @@ third_nav_title: Visual and Performing Arts
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Ms. Jao Pei Jung (CCA Head) </span><a href="mailto:jao_pei-jung@moe.edu.sg" target="_blank" rel="noopener noreferrer">jao_pei-jung@moe.edu.sg</a><br><span style="font-weight:bold">Ms</span>.<span style="font-weight:700">Felicia Ting</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Ms. Jao Pei Jung (CCA Head) </span><a href="mailto:jao_pei-jung@moe.edu.sg" target="_blank" rel="noopener noreferrer">jao_pei-jung@moe.edu.sg</a>
+			<br><span style="font-weight:normal">Ms Felicia Ting
+			</span></td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : ART Rooms 1 and 2
+<br>
+**Day**: Monday
+ 
+
 
 
 <figure>
