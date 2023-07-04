@@ -30,6 +30,12 @@ third_nav_title: Visual and Performing Arts
 </tbody>
 </table>
 
+**Venue** : Guzheng Room
+<br>
+**Day**: Monday
+ 
+
+
+
 ![](/images/guzheng.png)
 
-![](/images/105_8451.jpg)
