@@ -30,7 +30,7 @@ third_nav_title: Clubs and Societies
 </tbody>
 </table>
 
-**Venue** : IT Resource Room
+**Venue** : Comp Lab 2
 <br>
 **Day**: Monday
  
