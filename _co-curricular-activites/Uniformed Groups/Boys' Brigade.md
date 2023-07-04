@@ -29,7 +29,7 @@ We offer a series of activities such as parades, camps, outdoor activities (e.g.
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mr. Woon Ta-Li (CCA Head) </span><a href="mailto:woon_ta-li@moe.edu.sg" target="_blank" rel="noopener noreferrer">woon_ta-li@moe.edu.sg</a>
+    <td class="tg-0pky"><span style="font-weight:800;font-style:normal">Mr. Woon Ta-Li (CCA Head) </span><a href="mailto:woon_ta-li@moe.edu.sg" target="_blank" rel="noopener noreferrer">woon_ta-li@moe.edu.sg</a>
 			<br><span style="font-weight:400;font-style:normal">Mr. John Leung (2IC)
 </span><br><span style="font-weight:400;font-style:normal">Mr. Mok Yin Jia
 </span><br><span style="font-weight:400;font-style:normal">Ms. Ong Li Hui Celestine
