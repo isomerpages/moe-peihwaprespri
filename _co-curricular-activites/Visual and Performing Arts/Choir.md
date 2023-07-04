@@ -29,13 +29,14 @@ third_nav_title: Visual and Performing Arts
 			<br><span style="font-weight:font-style:normal">Mdm. Agnes Ho
 			</span></td>
   </tr>
-</tbody>
-</table>
+	</tbody>
+	</table>
 
 **Venue** : Music Room 2
 <br>
 **Day**: Monday
  
+
 
 
 <figure>
