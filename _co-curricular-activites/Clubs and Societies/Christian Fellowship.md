@@ -31,6 +31,11 @@ third_nav_title: Clubs and Societies
 </tbody>
 </table>
 
+**Venue** : Comp Lab 1  
+**Day** :  Friday
+  
+
+
 ### Photos
 
 <figure>
