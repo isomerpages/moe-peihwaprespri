@@ -30,6 +30,12 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
+**Venue** : Tabel Tennis Room
+<br>
+**Day**: Monday to Friday
+ 
+
+
 <figure>
 <img src="/images/Celebrating%20as%20a%20team%20for%20winning.png">
 <figcaption>Celebrating our win as a team.</figcaption>
