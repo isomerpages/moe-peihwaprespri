@@ -29,8 +29,14 @@ We offer a series of activities such as parades, camps, outdoor activities (e.g.
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mr. Woon Ta-Li (CCA Head) </span><a href="mailto:woon_ta-li@moe.edu.sg" target="_blank" rel="noopener noreferrer">woon_ta-li@moe.edu.sg</a><br><span style="font-weight:700;font-style:normal">Mr. Mok Ying Jia</span><br><span style="font-weight:700;font-style:normal">Ms. Ong Li Hui Celestine</span><br><span style="font-weight:700;font-style:normal">Mr. John Leung</span><br><span style="font-weight:700">Mr. Timothy Chua</span></td>
-  </tr>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mr. Woon Ta-Li (CCA Head) </span><a href="mailto:woon_ta-li@moe.edu.sg" target="_blank" rel="noopener noreferrer">woon_ta-li@moe.edu.sg</a>
+			<br><span style="font-weight:400;font-style:normal">Mr. John Leung (2IC)
+</span><br><span style="font-weight:400;font-style:normal">Mr. Mok Yin Jia
+</span><br><span style="font-weight:400;font-style:normal">Ms. Ong Li Hui Celestine
+</span><br><span style="font-weight:400">Ms. Emily Tan Hwee Leng
+</span></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -38,7 +44,7 @@ We offer a series of activities such as parades, camps, outdoor activities (e.g.
 
 <figure>
 <img src="/images/bb%201.jpg">
-<figcaption>Overnight camp in S.E.A. Aquarium in 2017</figcaption>
+<figcaption>Overnight camp in&nbsp;S.E.A. Aquarium&nbsp;in 2017</figcaption>
 </figure>
 
 <figure>
