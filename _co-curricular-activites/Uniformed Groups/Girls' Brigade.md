@@ -25,10 +25,21 @@ third_nav_title: Uniformed Groups
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:normal">Mrs Rebecca Wong (CCA Head) </span><a href="mailto:rebecca_wong@moe.edu.sg" target="_blank" rel="noopener noreferrer">rebecca_wong@moe.edu.sg</a><br>Mrs Sharon Wang<br><span style="font-weight:normal">Mrs Rebekah Lim</span><br><span style="font-weight:normal">Ms Sieow Je Yun</span></td>
+    <td class="tg-0pky"><span style="font-weight:800;normal">Mrs Rebecca Wong (CCA Head) </span><a href="mailto:rebecca_wong@moe.edu.sg" target="_blank" rel="noopener noreferrer">rebecca_wong@moe.edu.sg</a>
+			<br>Mrs Sharon Wang<br><span style="font-weight:normal">Mrs Rebekah Lim
+			</span><br><span style="font-weight:normal">Ms Sieow Je Yun
+			</span></td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Classrooms
+<br>
+**Day**: Monday
+ 
+
+
+
 
 ### Photos
 
