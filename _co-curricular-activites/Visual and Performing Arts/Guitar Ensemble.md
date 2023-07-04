@@ -25,10 +25,17 @@ third_nav_title: Visual and Performing Arts
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:400">Ms Rena Yeo (CCA Head) </span><a href="mailto:yeo_gek_yong_rena@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_gek_yong_rena@moe.edu.sg</a><br><span style="font-weight:400">Ms Fronia Eng</span></td>
+    <td class="tg-0pky"><span style="font-weight:800">Ms Rena Yeo (CCA Head) </span><a href="mailto:yeo_gek_yong_rena@moe.edu.sg" target="_blank" rel="noopener noreferrer">yeo_gek_yong_rena@moe.edu.sg</a><br><span style="font-weight:400">Ms Rose Marie</span></td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Music Room 1
+<br>
+**Day**: Monday
+ 
+
+
 
 
 <figure>
