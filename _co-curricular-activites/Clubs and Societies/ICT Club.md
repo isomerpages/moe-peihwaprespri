@@ -25,7 +25,7 @@ third_nav_title: Clubs and Societies
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Teachers IC:</span></td>
-    <td class="tg-0lax"><span style="font-weight:normal">Mr </span>Chua Kah Leong (CCA Head) <a href="mailto:chua_kah_leong@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_kah_leong@moe.edu.sg</a><br>Mdm Christine Har<br>
+    <td class="tg-0lax"><span style="font-weight:normal">Mr </span>Chua Kah Leong (CCA Head) <a href="mailto:chua_kah_leong@moe.edu.sg" target="_blank" rel="noopener noreferrer">chua_kah_leong@moe.edu.sg</a><br>Mdm Ishatika<br>
 		</td>
   </tr>
 </tbody>
