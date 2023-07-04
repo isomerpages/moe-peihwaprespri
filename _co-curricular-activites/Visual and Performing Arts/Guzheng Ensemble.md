@@ -34,8 +34,4 @@ third_nav_title: Visual and Performing Arts
 <br>
 **Day**: Monday
  
-
-
-
 ![](/images/guzheng.png)
-
