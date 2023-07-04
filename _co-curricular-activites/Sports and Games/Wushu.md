@@ -37,6 +37,16 @@ Renee Ng Jun Yi<br>
 </tbody>
 </table>
 
+**Venue** : Hall
+<br>
+**Day**: Monday and Friday
+ 
+
+
+
+
+
+
 ### Photos
 
 ![](/images/wushu%201.jpg)
