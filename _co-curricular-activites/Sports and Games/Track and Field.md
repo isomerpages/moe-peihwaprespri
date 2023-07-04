@@ -30,10 +30,15 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
+**Venue** : Driveway / Field
+<br>
+**Day**: Monday , Tuesday , Thursday , Friday
+ 
+
+
+
+
 ### Photo
-
-
-
 <figure>
 <img src="/images/DSC05144.jpg">
 <figcaption>Baton Relay Sprint</figcaption>
