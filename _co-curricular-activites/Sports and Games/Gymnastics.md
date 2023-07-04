@@ -27,14 +27,24 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:normal">Leong Kai Yun (CCA Head) </span><a href="mailto:leong_kai_yun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:700">leong_kai_yun@moe.edu.sg</span></a><br><span style="font-weight:normal">Chin Kim Keow</span><br><span style="font-weight:normal">Li Jing</span><br><span style="font-weight:normal">Winnie Chen</span><br><span style="font-weight:normal">Nurulhuda</span></td>
+    <td class="tg-0pky"><span style="font-weight:normal">Leong Kai Yun (CCA Head) </span><a href="mailto:leong_kai_yun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:700">leong_kai_yun@moe.edu.sg</span></a>
+			<br><span style="font-weight:normal">Sharon Wang
+</span><br><span style="font-weight:normal">Li Jing
+</span><br><span style="font-weight:normal">Nurulhuda
+</span><br><span style="font-weight:normal">Regina Yeo
+</span></td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Hall
+<br>
+**Day**: Monday, Tuesday, Wednesday, Friday
+ 
+
 
 ### Photos
 
 ![](/images/Rgym1.jpg)
 
-<img src="/images/Rgym.jpg" 
-     style="width:60%">
+<img src="/images/Rgym.jpg" style="width:60%">
