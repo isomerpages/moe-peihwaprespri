@@ -39,6 +39,14 @@ We offer a series of activities such as parades, camps, outdoor activities (e.g.
 </tbody>
 </table>
 
+
+**Venue** : Classrooms
+<br>
+**Day**: Friday
+ 
+
+
+
 ### Photos
 
 <figure>
