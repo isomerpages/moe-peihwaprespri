@@ -30,8 +30,15 @@ third_nav_title: Clubs and Societies
 </tbody>
 </table>
 
+**Venue** : IT Resource Room
+<br>
+**Day**: Monday
+ 
+
+
+
 <figure>
-<img src="/images/Develop%20colloboration%20&%20information%20skills.jpg">
+<img src="/images/Develop%20colloboration%20&amp;%20information%20skills.jpg">
 <figcaption>Working together to develop collaboration and information skills</figcaption>
 </figure>
 
