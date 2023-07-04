@@ -25,11 +25,13 @@ third_nav_title: Visual and Performing Arts
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mdm. Yu Hee Mui (CCA Head) </span><a href="mailto:yu_hee_mui@moe.edu.sg" target="_blank" rel="noopener noreferrer">yu_hee_mui@moe.edu.sg</a><br><span style="font-weight:700;font-style:normal">Mdm. Wong Chin Ping</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mdm. Yu Hee Mui (CCA Head) </span><a href="mailto:yu_hee_mui@moe.edu.sg" target="_blank" rel="noopener noreferrer">yu_hee_mui@moe.edu.sg</a><br><span style="font-weight:400;font-style:normal">.</span></td>
   </tr>
 </tbody>
 </table>
 
+**Venue** : Guzheng Room
+<br>
+**Day**: Monday
+ 
 ![](/images/guzheng.png)
-
-![](/images/105_8451.jpg)

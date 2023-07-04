@@ -30,9 +30,13 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
+**Venue** : Parade Square
+<br>
+**Day**: Monday to Friday
+ 
+
+
 ![](/images/Different%20levels%20working%20as%20team.jpg)
-
-
 <figure>
 <img src="/images/Catching%20the%20ball.jpg">
 <figcaption> <strong>We come from different levels and we put aside our differences to learn together as a team</strong> </figcaption>

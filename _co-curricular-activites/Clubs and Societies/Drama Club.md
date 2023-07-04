@@ -30,6 +30,14 @@ third_nav_title: Clubs and Societies
 </tbody>
 </table>
 
+**Venue** : IT Resource Room
+<br>
+**Day**: Monday
+ 
+
+
+
+
 <figure>
 <img src="/images/Adopt%20different%20personas%20at%20Drama%20Club.jpg">
 <figcaption>Learning to adopt different personas in Drama Club</figcaption>

@@ -7,6 +7,8 @@ description: ""
 Please refer to the links below for your reference.  
 
 #### For Staff - Portals
+
+
 | Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 |[MOE Intranet](https://intranet.moe.gov.sg) |	https://intranet.moe.gov.sg|VPN
@@ -25,6 +27,8 @@ Please refer to the links below for your reference.
 
 
 #### For Staff - Booking  Forms
+
+
 | Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 [Resource Booking Services (RBS)](https://rbs.avero-tech.com/)|https://rbs.avero-tech.com/|
@@ -34,6 +38,8 @@ Please refer to the links below for your reference.
 
 
 #### For Parents
+
+
 |  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 [Pei Hwa - Our Partners Parents](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents|
@@ -48,6 +54,8 @@ Please refer to the links below for your reference.
 
 
 #### For Students
+
+
 |  Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)|https://vle.learning.moe.edu.sg/login|

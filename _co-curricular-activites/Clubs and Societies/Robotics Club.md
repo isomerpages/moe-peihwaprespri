@@ -25,10 +25,16 @@ third_nav_title: Clubs and Societies
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:400">Mr Lim Wee Ming (CCA Head)  </span><a href="mailto:lim_wee_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_wee_ming@moe.edu.sg</a><br>Mdm Christine Har<br><span style="font-weight:400">Ms </span>Regina Yeo</td>
-  </tr>
+    <td class="tg-0pky"><span style="font-weight:400">Mr Lim Wee Ming (CCA Head)  </span><a href="mailto:lim_wee_ming@moe.edu.sg" target="_blank" rel="noopener noreferrer">lim_wee_ming@moe.edu.sg</a><br>Mdm Christine Har<br>
+</td></tr>
 </tbody>
 </table>
+
+**Venue** : Comp Lab 3
+<br>
+**Day**: Monday and Friday
+ 
+
 
 
 <figure>

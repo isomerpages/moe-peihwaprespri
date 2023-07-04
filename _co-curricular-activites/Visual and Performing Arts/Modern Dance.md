@@ -25,10 +25,17 @@ third_nav_title: Visual and Performing Arts
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Foo Yean Fung (CCA Head) </span><a href="mailto:foo_yean_fung@moe.edu.sg" target="_blank" rel="noopener noreferrer">foo_yean_fung@moe.edu.sg</a><br><span style="font-weight:700;font-style:normal">Chua Lay Kwan</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Mdm Foo Yean Fung (CCA Head) </span><a href="mailto:foo_yean_fung@moe.edu.sg" target="_blank" rel="noopener noreferrer">foo_yean_fung@moe.edu.sg</a><br><span style="font-weight:400;font-style:normal">Mrs Leow Pei Ling</span></td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Dance Studio 1 and 2
+<br>
+**Day**: Friday
+ 
+
+
 
 ### Photos
 

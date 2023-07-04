@@ -25,10 +25,16 @@ third_nav_title: Clubs and Societies
   </tr>
   <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Teachers IC</span></td>
-    <td class="tg-0lax">Kelly Wang (CCA Head) <a href="mailto:wang-ng_mui_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer">wang-ng_mui_yin@moe.edu.sg</a><br>Preacher Sally</td>
-  </tr>
+    <td class="tg-0lax">Kelly Wang (CCA Head)
+			<a href="mailto:wang-ng_mui_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer">wang-ng_mui_yin@moe.edu.sg</a><br> . </td>
+</tr>
 </tbody>
 </table>
+
+**Venue** : Comp Lab 1  
+**Day** :  Friday
+  
+
 
 ### Photos
 
@@ -39,7 +45,7 @@ third_nav_title: Clubs and Societies
 
 <figure>
 <img src="/images/cf%202.jpg">
-<figcaption>Internal VIA 2020 (Before Circuit Breaker) <br>
+<figcaption>Internal VIA 2020 (Before Circuit Breaker)&nbsp;<br>
 CF members greet Happy New Year to our school non-teaching staff.</figcaption>
 </figure>
 

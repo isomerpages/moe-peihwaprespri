@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
-### Wushu CCA （培华武术)  
+### Wushu CCA&nbsp;（培华武术)  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,10 +27,25 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky">Mdm Hu Ying  (CCA Head) <a href="mailto:hu_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer">hu_ying@moe.edu.sg</a><br><span style="font-weight:normal">Mdm Yu Liting</span><br><span style="font-weight:normal">Mdm Wendy Koh</span><br></td>
+    <td class="tg-0pky">Mdm Hu Ying  (CCA Head) <a href="mailto:hu_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer">hu_ying@moe.edu.sg</a><br><span style="font-weight:normal">Mdm Yu Liting</span>
+<br>
+<span style="font-weight:normal"></span>
+      Winnie Chen<br>
+Renee Ng Jun Yi<br>
+</td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Hall
+<br>
+**Day**: Monday and Friday
+ 
+
+
+
+
+
 
 ### Photos
 

@@ -24,8 +24,10 @@ third_nav_title: Visual and Performing Arts
     <td class="tg-0pky" colspan="2"><span style="font-weight:bold;font-style:normal">CCA Highlights (Key Programmes &amp; Activities)</span><br><br><span style="font-weight:400;font-style:normal">舞蹈团会安排学生每年1-2 次的表演机会，展示学生的舞蹈才华。被选为校队的学生会代表舞蹈团参加青年艺术节汇演 SYF。</span><br><br><br><span style="font-weight:400;font-style:normal"> 1. </span>Practice basic skills<br> 2. Learn dance skills<br> 3. Rehearsal dance performances based on music<br></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky">Guo Ting Ting (CCA Head) <a href="mailto:guo_ting_ting@moe.edu.sg" target="_blank" rel="noopener noreferrer">guo_ting_ting@moe.edu.sg</a><br><span style="font-weight:400;font-style:normal">Alice Tan</span></td>
+     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Ms Alice Tan (CCA Head) </span><a href="mailto:tan_li_choo_alice@moe.edu.sg" target="_blank" rel="noopener noreferrer">tan_li_choo_alice@moe.edu.sg</a>
+			<br><span style="font-weight:normal">Mrs. Wendy Koh
+</span></td>
   </tr>
 </tbody>
 </table>

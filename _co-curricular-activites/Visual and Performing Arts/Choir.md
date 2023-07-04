@@ -25,10 +25,19 @@ third_nav_title: Visual and Performing Arts
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Ms. Neo Eng Leng (CCA Head) </span><a href="mailto:neo_eng_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_eng_leng@moe.edu.sg</a><br><span style="font-weight:700;font-style:normal">Mdm. Agnes Ho</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Ms. Neo Eng Leng (CCA Head) </span><a href="mailto:neo_eng_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_eng_leng@moe.edu.sg</a>
+			<br><span style="font-weight:font-style:normal">Mdm. Agnes Ho
+			</span></td>
   </tr>
-</tbody>
-</table>
+	</tbody>
+	</table>
+
+**Venue** : Music Room 2
+<br>
+**Day**: Monday
+ 
+
+
 
 <figure>
 <img src="/images/Achieved%20Distinction%20Award%20SYF%202018.jpg">

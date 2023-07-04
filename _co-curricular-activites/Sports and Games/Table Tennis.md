@@ -25,10 +25,16 @@ third_nav_title: Sports and Games
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky">Pang Xin Yi (CCA Head) <a href="mailto:pang_xin_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">pang_xin_yi@moe.edu.sg</a><br>Andy Goh<br><span style="font-weight:400;font-style:normal">Tang Wei Kok</span><br>Loh Seow Hwei<br><span style="font-weight:400;font-style:normal">Ishatika</span><br>Candice Chen</td>
+    <td class="tg-0pky">Pang Xin Yi (CCA Head) <a href="mailto:pang_xin_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">pang_xin_yi@moe.edu.sg</a><br>Andy Goh<br><span style="font-weight:400;font-style:normal">Tang Wei Kok</span><br>Loh Seow Hwei<br><span style="font-weight:400;font-style:normal">Gou Ting Ting</span><br>.</td>
   </tr>
 </tbody>
 </table>
+
+**Venue** : Tabel Tennis Room
+<br>
+**Day**: Monday to Friday
+ 
+
 
 <figure>
 <img src="/images/Celebrating%20as%20a%20team%20for%20winning.png">
