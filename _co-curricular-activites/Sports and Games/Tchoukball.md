@@ -32,7 +32,7 @@ third_nav_title: Sports and Games
 
 **Venue** : Parade Square
 <br>
-**Day**: Monday to Friday
+**Day**: Monday and Friday
  
 
 
