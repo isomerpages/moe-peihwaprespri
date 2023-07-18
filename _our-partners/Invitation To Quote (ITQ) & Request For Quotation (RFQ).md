@@ -33,18 +33,39 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tbody>
 	 <tr>
 	</tr>	<tr>
-	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23002158</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Designing and Production of 2023 School Annual</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 21 Apr 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 02 May 2023 01:00 PM</span></td>
+		</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003287</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 18 July 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 26 July 2023 01:00 PM</span></td>
   </tr><tr>
+		</tr>	<tr>
+	</tr>	<tr>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003070</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Chinese Dance CCA Training Programme in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 04 July 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 12 July 2023 01:00 PM</span></td>
+  </tr><tr>
+		</tr>	<tr>
+			</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-lhoz"><span style="">  MOESCHETQ23002158</span></td>
+    <td class="tg-lhoz"><span style=""> Designing and Production of 2023 School Annual</span></td>
+    <td class="tg-lhoz"><span style=""> 21 Apr 2023</span></td>
+    <td class="tg-lhoz"><span style=""> 02 May 2023 01:00 PM</span></td>
+  </tr><tr>
+	</tr>	<tr>
 	</tr><tr>
 	</tr>	<tr><td class="tg-lhoz">  MOESCHETQ23000880</td>
     <td class="tg-lhoz"> DESIGN &amp; RENOVATION OF EXISTING STAFF LOUNGE AND STAFF TRAINING ROOM @PEI HWA PRESBYTERIAN PRIMARY SCHOOL</td>
     <td class="tg-lhoz"> 16 Feb 2023</td>
     <td class="tg-lhoz"> 15 Mar 2023 01:00 PM</td>
   </tr>
-	<tr>
+		<tr>
+	</tr>	<tr>
+	</tr><tr>
 	</tr><tr>
     <td class="tg-lhoz"> MOESCHETQ23000787</td>
     <td class="tg-lhoz">SSupply of Instructor for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School </td>
