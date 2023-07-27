@@ -12,7 +12,7 @@ Contact numbers: <br>
 6276 6689 (Main Office)<br>
 6469 2580 (School)
 
-Note: Sale of uniform is made available online:   **[https://www.myuniformshop.com.sg/](https://www.myuniformshop.com.sg/)**
+Note: Sale of uniform is made available&nbsp;online:&nbsp;&nbsp;&nbsp;**[https://www.myuniformshop.com.sg/](https://www.myuniformshop.com.sg/)**
 
 
 Please note the bookshop opening hours and contact as follows:
@@ -20,13 +20,12 @@ Please note the bookshop opening hours and contact as follows:
 **Company: Pacific Bookstores** <br>
 Contact numbers: <br>
 6464 0111 (Main Office)<br>
-6469 2580 (School)
+9047 9417 (School)
 
 **Monday to Friday:** <br>
- **Mon**, **Tues**, **Thurs** & **Fri**: **8.30 a.m. -  3.30 p.m.** <br>
-**Wed**, **8.30 a.m. - 3.00 p.m.**<br>
- **(Lunch Break) 12.00 p.m.  -  1.00 p.m.**
+**8.30 a.m. -&nbsp; 3.00 p.m.** <br>
+&nbsp;**(Lunch Break) 12.00 p.m.&nbsp; -&nbsp; 1.00 p.m.**
 
-Note: Sale of school books are made available online:  **[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)**
+Note: Sale of school books are made available&nbsp;online:&nbsp;&nbsp;**[https://www.pacificbookstores.com/](https://www.pacificbookstores.com/)**
   
-**During school days only** parents who need to visit the bookshop are to **come after 1.45 pm.**
+**During school days only**&nbsp;parents who need to visit the bookshop&nbsp;are to&nbsp;**come after 1.45 pm.**
