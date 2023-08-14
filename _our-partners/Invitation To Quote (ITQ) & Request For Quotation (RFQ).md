@@ -36,7 +36,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 		</tr>	<tr>
 		</tr>	<tr>
 	</tr>	<tr>
-		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003287</span></td>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003635</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor(s) for P6 Learn to Play Skateboarding Programme</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 07 Aug 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Aug 2023 01:00 PM</span></td>
+  </tr><tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003287</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2023</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 18 July 2023</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 26 July 2023 01:00 PM</span></td>
