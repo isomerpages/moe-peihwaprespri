@@ -46,17 +46,17 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 07 Aug 2023</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Aug 2023 01:00 PM</span></td>
   </tr><tr>
-	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003287</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 18 July 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 26 July 2023 01:00 PM</span></td>
+	</tr>	<tr><td class="tg-lhoz"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003287</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2023</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> 18 July 2023</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> 26 July 2023 01:00 PM</span></td>
   </tr><tr>
 		</tr>	<tr>
 	</tr>	<tr>
-		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003070</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Chinese Dance CCA Training Programme in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 04 July 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 12 July 2023 01:00 PM</span></td>
+		</tr>	<tr><td class="tg-lhoz"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003070</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Chinese Dance CCA Training Programme in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> 04 July 2023</span></td>
+    <td class="tg-lhoz"><span style="color:#282828;background-color:transparent"> 12 July 2023 01:00 PM</span></td>
   </tr><tr>
 		</tr>	<tr>
 			</tr>	<tr>
