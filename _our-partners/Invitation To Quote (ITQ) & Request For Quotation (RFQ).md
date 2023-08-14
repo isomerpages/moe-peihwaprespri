@@ -36,12 +36,7 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 		</tr>	<tr>
 		</tr>	<tr>
 	</tr>	<tr>
-		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003641</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructor for Choir CCA Training Programme in PHPPS from Jan 2024 to Dec 2024, with option to extend from Jan 2025 to Dec 2025</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 07 Aug 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 17 Aug 2023 01:00 PM</span></td>
-  </tr><tr>
-		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003641</span></td>
+			</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23003641</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructor for Choir CCA Training Programme in PHPPS from Jan 2024 to Dec 2024, with option to extend from Jan 2025 to Dec 2025</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 07 Aug 2023</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 17 Aug 2023 01:00 PM</span></td>
