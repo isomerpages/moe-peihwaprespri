@@ -8,8 +8,8 @@ third_nav_title: General Information
 ### *For most recent announcements will be from the top row.
 
 
-##### [Teachers' Day Visitation](https://www.peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/teachers-day-visitation/)
-**For more information, please click on the link&nbsp;[HERE](https://www.peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/others/teachers-day-visitation/).**
+##### [Teachers' Day Visitation](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/teachers-day-visitation/)
+**For more information, please click on the link&nbsp;[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/teachers-day-visitation/).**
 
 
 ##### [MoneySense Financial Literacy Programme](https://staging.d3ud1e33ljueqf.amplifyapp.com/others/financial-literacy)
