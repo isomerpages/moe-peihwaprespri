@@ -30,7 +30,7 @@ third_nav_title: Sports and Games
 </tbody>
 </table>
 
-**Venue** : Tabel Tennis Room
+**Venue** : Table Tennis Room
 <br>
 **Day**: Monday to Friday
  
