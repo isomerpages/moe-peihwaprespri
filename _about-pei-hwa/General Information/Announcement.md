@@ -23,5 +23,3 @@ For more information, please click on the link&nbsp;**[HERE](https://staging.d3u
 
 ##### [Parent Volunteers](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/parent-volunteers/)  
 For more information, please click on the link&nbsp;**[HERE](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/parent-volunteers/)**.
-
-
