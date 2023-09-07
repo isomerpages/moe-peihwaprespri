@@ -1,4 +1,5 @@
 collections:
   removed-site-pages:
     output: true
-    order: []
+    order:
+      - example-page.md
