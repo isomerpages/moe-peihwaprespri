@@ -2,5 +2,6 @@ collections:
   removed-site-pages:
     output: true
     order:
+      - 2022 P1 Parents.md
       - 2023 P1 Parents.md
       - example-page.md
