@@ -2,16 +2,15 @@
 title: 2023 P1 Parents
 permalink: /our-partners-1/parents/2023-p1-parents/
 description: ""
-third_nav_title: Parents
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
-Dear Parents,    
+Dear Parents, &nbsp;  
 Welcome to Pei Hwa Presbyterian Primary School.  
   
 
 ### 2023 P1 School Books and Uniform Sale Schedule
 
-We are glad to inform you that you may come to the school to purchase books and uniform for your child according to the schedule below.  The P1 Book and Uniform Lists are attached.
+We are glad to inform you that you may come to the school to purchase books and uniform for your child according to the schedule below.&nbsp; The P1 Book and Uniform Lists are attached.
 
 <p><a href="/files/PHPPS%20P1%20Booklist%202023.pdf">
 <img src="/images/2023%20booklist.png" style="width:25%">
@@ -76,10 +75,10 @@ We are glad to inform you that you may come to the school to purchase books and 
 </tbody>
 </table>
 
-### ### **P1 Orientation Day** 
+### ### **P1 Orientation Day**&nbsp;
 
-Please be updated that the P1 Orientation Day will be held on the **10 November 2022 (Thursday)** morning in school.  
+Please be updated that the P1 Orientation Day will be held on the&nbsp;**10 November 2022 (Thursday)**&nbsp;morning in school.&nbsp;&nbsp;
 
 More details on the timing and programme will be provided.
 
-For any query, please contact our school General Office at 64663787 or write to [phpps@moe.edu.sg](mailto:phpps@moe.edu.sg) for assistance.
+For any query, please contact our school General Office at 64663787 or write to&nbsp;[phpps@moe.edu.sg](mailto:phpps@moe.edu.sg)&nbsp;for assistance.
