@@ -1,0 +1,4 @@
+collections:
+  removed-site-pages:
+    output: true
+    order: []
