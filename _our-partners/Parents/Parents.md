@@ -19,18 +19,11 @@ For more details you may refer to these title links below;
 **[Parent Volunteers](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/parent-volunteers/)**
 
   
-For more school information you may click [**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/)  for the school **General Information** page  
+For more school information you may click&nbsp;[**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/)&nbsp;&nbsp;for the school&nbsp;**General Information**&nbsp;page  
   
-For updated school **Announcements** please click [**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/announcement/).
-
-### 2023 P1 Parents
-
-For more details please click **[here](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2023-p1-parents/)** to find out more.
-
-### 2022 P1 Parents
+For updated school&nbsp;**Announcements**&nbsp;please click&nbsp;[**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/announcement/).
 
 
-For more details please click **[here](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2022-p1-parents/)** to find out more.
 
 ### Parents One Stop Links
 
