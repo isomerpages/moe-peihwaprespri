@@ -10,8 +10,8 @@ description: ""
 
 
 #### 2023 Term 4
-![](/images/Calendar/2023term4a.JPG)
-![](/images/Calendar/2023term4b.JPG)
+![](/images/Calendar/2023%20t4%20-%201.JPG)
+![](/images/Calendar/2023%20t4%20-%202.JPG)
 
 
 We seek your understanding that there might be changes made to the calendar due to unforeseen circumstances. The school calendar will be uploaded onto the school website. We look forward to partnering with you in the education of our students. Thank you.
