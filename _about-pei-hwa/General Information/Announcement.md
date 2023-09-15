@@ -7,6 +7,11 @@ third_nav_title: General Information
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 ### Latest announcement can be found at the top row
 
+
+
+**Announcement Update**:  1 Orientation for 2024 cohort is on **9 Nov 2023**
+
+
 ##### [Traffic Safety Announcement](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/)
 For more information, please click on the link [**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/traffic-management-plan/).
 
