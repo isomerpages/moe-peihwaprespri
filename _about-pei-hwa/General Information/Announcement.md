@@ -8,7 +8,6 @@ third_nav_title: General Information
 ### Latest announcement can be found at the top row
 
 
-
 **Announcement Update**:  Primary 1 Orientation for 2024 cohort is on **9 Nov 2023 , Thursday.**
 
 
