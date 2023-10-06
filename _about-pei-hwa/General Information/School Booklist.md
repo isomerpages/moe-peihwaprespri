@@ -28,7 +28,7 @@ third_nav_title: General Information
 <img src="/images/P5%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---f">
+<p><a href="---">
 <img src="/images/P6%20booklist.png" style="width:30%">
 </a></p>
 
