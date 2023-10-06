@@ -10,7 +10,10 @@ Welcome to Pei Hwa Presbyterian Primary School.
 
 ### 2024 P1 School Books and Uniform Sale Schedule
 
-We are glad to inform you that you may come to the school to purchase books and uniform for your child according to the schedule below.&nbsp; The P1 Book and Uniform Lists are attached.
+We are glad to inform you that you are able to purchase books and uniform for your child.
+
+&nbsp;
+The P1 Book and Uniform Lists are attached.
 
 
 <p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf"> 
@@ -21,13 +24,4 @@ We are glad to inform you that you may come to the school to purchase books and 
 <img src="/images/Buttons/school%20uniform.JPG" style="width:40%">
 </a></p>
 
-
-
-
-
-
-
-<p><a href="/files/PHPPS%20P1%20Booklist%202023.pdf">
-<img src="/images/2023%20booklist.png" style="width:25%">
-</a></p>
 
