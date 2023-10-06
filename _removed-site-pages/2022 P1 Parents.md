@@ -1,6 +1,6 @@
 ---
 title: 2022 P1 Parents
-permalink: /our-partners-1/parents/2022-p1-parents/
+permalink: /removed-site-pages/2022-p1-parents/
 description: ""
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
