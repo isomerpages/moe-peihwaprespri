@@ -5,7 +5,7 @@ description: ""
 third_nav_title: General Information
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
-### Please click on the following links below to download the PDF format for the school booklist 2022.
+### Please click on the following links below to download the PDF format for the school booklist 2023.
 
 
 <p><a href="---">
