@@ -12,7 +12,7 @@ Welcome to Pei Hwa Presbyterian Primary School.
 We are glad to inform you that you are able to purchase books and uniform for your child. 
 For more information details,
 please refer to the P1 Book and Uniform 2024 lists attached.
-
+**Note:  P1 Chinese and CCE Textbooks would only be available in early Dec 2023.**
 
 <p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf"> 
 	<img src="/images/Buttons/p1%20booklist.JPG" style="width:40%">
