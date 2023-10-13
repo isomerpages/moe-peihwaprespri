@@ -26,6 +26,3 @@ please refer to the P1 Book and Uniform 2024 lists attached.
 
 &nbsp; 
 &nbsp; 
-
-* [P1 Booklist 2024](/files/Booklist/2024/p1%20booklist%202024%20revised.pdf)
-* [Uniform List 2024](/files/Booklist/2024/phpps%20uniform%20list%202024.pdf)
