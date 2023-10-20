@@ -46,15 +46,4 @@ Contact **89286418**
  ##### C)	Others:
  1.	Financial Assistant Scheme Application via either method:, &nbsp;  
 •	eFAS FormSG Link: https://go.gov.sg/moe-efas, &nbsp;  
-•	Parents Gateway App (Services tap -  Financial Assistance), &nbsp;  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+•	Parents Gateway App (Services tap -  Financial Assistance), &nbsp;
