@@ -42,13 +42,13 @@ Contact **89286418**
 
  [For SCC Programme Application,  please click HERE](https://cutt.ly/Pei_Hwa_Presbyterian-_SCC_programme_application_form)
  
+ [SCC Introduction Letter](/files/Application%20Forms/scc%20introduction%20letter%202024.pdf)
  
- 
- 
+ [SCC FAQ](/files/Application%20Forms/student%20care%20centre%202024%20faq.pdf)
  
  
  
  ##### C)	Others:
  1.	Financial Assistant Scheme Application via either method:, &nbsp;  
 •	eFAS FormSG Link: https://go.gov.sg/moe-efas, &nbsp;  
-•	Parents Gateway App (Services tap -  Financial Assistance), &nbsp;
+•	Parents Gateway App (Services tap - &gt; Financial Assistance), &nbsp;
