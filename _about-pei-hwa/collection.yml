@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - School Heritage.md
       - Celebrate 135 Anniversary/.keep
       - School Motto and Crest.md
       - School Song.md
