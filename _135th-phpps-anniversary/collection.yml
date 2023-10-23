@@ -1,5 +1,4 @@
 collections:
   135th-phpps-anniversary:
     output: true
-    order:
-      - 135th PHPPS Anniversary.md
+    order: []
