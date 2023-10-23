@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parents
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
-#### You are invited to join the Pei Hwa Presbyterian Primary School Parent Support Group today!
+#### You&nbsp;are invited to join&nbsp;the&nbsp;Pei Hwa Presbyterian Primary School Parent&nbsp;Support Group today!
 
 
 <figure>
@@ -21,18 +21,17 @@ third_nav_title: Parents
 
   
 
-**Chairman:** Mr Chua Ming Kok <br>
-**Email Add.:** **[psgpeihwa@gmail.com](mailto:psgpeihwa@gmail.com)**
+**Chairman:**&nbsp;Mr Chua Ming Kok <br>
+**Email Add.:**&nbsp;**[psgpeihwa@gmail.com](mailto:psgpeihwa@gmail.com)**
 
   
 
-If you will like to volunteer your time and lend your support to selected school activities/programmes, 
+If you will like to&nbsp;volunteer your time&nbsp;and&nbsp;lend your support&nbsp;to selected school activities/programmes,&nbsp;
 
-please click on the URL below 
+please click on the URL below&nbsp;
 
 [https://forms.gle/oE5toaJKPyVLeuin7](https://forms.gle/oE5toaJKPyVLeuin7)
 
 or scan the QR code to join the PHPPS Parent Support Group.
 
-<img src="/images/join%20the%20Pei%20Hwa%20Presbyterian%20Primary%20School%20Parent%20Support%20Group%20today!.jpg" 
-     style="width:50%">
+<img src="/images/join%20the%20Pei%20Hwa%20Presbyterian%20Primary%20School%20Parent%20Support%20Group%20today!.jpg" style="width:50%">
