@@ -2,6 +2,7 @@ collections:
   about-pei-hwa:
     output: true
     order:
+      - 135th PHPPS Anniversary/.keep
       - Our PHPPS Heritage/School Heritage.md
       - Our PHPPS Heritage/.keep
       - School Motto and Crest.md
