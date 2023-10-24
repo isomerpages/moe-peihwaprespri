@@ -21,11 +21,11 @@ Below is the information required for your **P1 Admin Matters.**
 Please refer to the P1 Book and Uniform 2024 lists attached.
 **Note:  P1 Chinese and CCE Textbooks would only be available in early Dec 2023.**
 
-1.<p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf"> 
+<p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf"> 
 	<img src="/images/Buttons/p1%20booklist.JPG" style="width:40%">
 </a></p>
 
-2.<p><a href="/files/Booklist/2024/phpps%20uniform%20list%202024.pdf">	
+<p><a href="/files/Booklist/2024/phpps%20uniform%20list%202024.pdf">	
 <img src="/images/Buttons/school%20uniform.JPG" style="width:40%">
 </a></p>
 
@@ -44,8 +44,7 @@ Contact **89286418**  or email to
  
 [SCC Introduction Letter](/files/Application%20Forms/scc%20intro%20letter%202024.pdf)
  
- 
- [SCC FAQ](/files/Application%20Forms/scc%20faq%202024.pdf)
+  [SCC FAQ](/files/Application%20Forms/scc%20faq%202024.pdf)
  
  ##### C)	Others:
  1.	Financial Assistant Scheme Application via either method:, &nbsp;  
