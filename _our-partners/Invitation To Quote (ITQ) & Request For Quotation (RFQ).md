@@ -54,7 +54,7 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23005141</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Provision of School Uniform Services in PHPPS from Jan 2024 to Dec 2025, with option to extend from Jan 2026 to Dec 2027</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 03 Oct 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 11 Oct 2023 01:00 PM</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 20 Oct 2023 01:00 PM</span></td>
   </tr><tr>
 	 </tr><tr>
 	 </tr><tr>
