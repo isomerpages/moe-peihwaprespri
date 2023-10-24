@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our PHPPS Heritage/.keep
-      - School Heritage.md
       - School Motto and Crest.md
       - School Song.md
       - Vision, Mission & Values.md
