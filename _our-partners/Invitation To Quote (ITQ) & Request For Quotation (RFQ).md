@@ -36,10 +36,25 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 		</tr>	<tr>
 		</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23006257</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply &amp; Overlay of New Flooring for the Existing Table Tennis Room</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 23 Oct 20233</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 02 Nov 2023 01:00 PM</span></td>
+  </tr><tr>	
+	</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23005591</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Wushu CCA Programme in PHPPS from January 2024 to December 2024, with option to extend from January 2025 to December 2025</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 11 Oct 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 19 Oct 2023 01:00 PM</span></td>
+  </tr><tr>
+	 </tr><tr>
+	</tr>	<tr>
+	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23005141</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Provision of School Uniform Services in PHPPS from Jan 2024 to Dec 2025, with option to extend from Jan 2026 to Dec 2027</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 03 Oct 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 11 Oct 2023 01:00 PM</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 20 Oct 2023 01:00 PM</span></td>
   </tr><tr>
 	 </tr><tr>
 	 </tr><tr>
