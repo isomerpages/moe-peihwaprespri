@@ -40,7 +40,7 @@ For all SCC enquiries: &nbsp;
 Contact **89286418**  or email to
 [admission_cls_phpps@commitlearning.com.sg](admission_cls_phpps@commitlearning.com.sg)
 
- [For SCC Programme Application,  please click HERE](https://cutt.ly/Pei_Hwa_Presbyterian-_SCC_programme_application_form)
+ [For SCC Programme Application,  please click HERE](https://docs.google.com/forms/d/e/1FAIpQLSfJ86sNDZfknl4AeixyzmIhvQ82O0DhatHbNNpFpyefyRkP4w/viewform?pli=1)
  
 
  
