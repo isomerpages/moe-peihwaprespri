@@ -37,17 +37,12 @@ Mobile  Hp: **96327095**   , Office: **62694708** .
 
 ###### 4. School Student Care Application: Commit Learning Schoolhouse
 For all SCC enquiries: &nbsp;  
-Contact **89286418**  
+Contact **89286418**  or email to
 [admission_cls_phpps@commitlearning.com.sg](admission_cls_phpps@commitlearning.com.sg)
 
- [For SCC Programme Application,  please click HERE]https://docs.google.com/forms/d/e/1FAIpQLSfJ86sNDZfknl4AeixyzmIhvQ82O0DhatHbNNpFpyefyRkP4w/viewform?pli=1)
+ [For SCC Programme Application,  please click HERE](https://cutt.ly/Pei_Hwa_Presbyterian-_SCC_programme_application_form)
  
- [SCC Introduction Letter](/files/Application%20Forms/scc%20introduction%20letter%202024.pdf)
 
-[SCC Introduction Letter 2024](/files/Application%20Forms/UPDATED%20Commit%20Learning%20SchoolHouse%20CLS%20Student%20Care%20Centre%20SCC%202023%20FAQs%20.pdf)
- 
- [SCC FAQ](/files/Application%20Forms/student%20care%20centre%202024%20faq.pdf)
- 
  
  
  ##### C)	Others:
