@@ -44,9 +44,7 @@ Contact **89286418**  or email to
 
  [For SCC Programme Application,  please click HERE](https://docs.google.com/forms/d/e/1FAIpQLSfJ86sNDZfknl4AeixyzmIhvQ82O0DhatHbNNpFpyefyRkP4w/viewform?pli=1)
  
-[SCC Introduction Letter](/files/Application%20Forms/scc%20intro%20letter%202024.pdf)
- 
-  [SCC FAQ](/files/Application%20Forms/scc%20faq%202024.pdf)
+
  
  ##### C)	Others:
  1.	Financial Assistant Scheme Application via either method:, &nbsp;  
