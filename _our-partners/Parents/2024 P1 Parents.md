@@ -13,10 +13,11 @@ Welcome to Pei Hwa Presbyterian Primary School.
 Below is the information required for your **P1 Admin Matters.**
 
 ##### A)	Parents to submit or apply:
-1.	FormSG 2024 P1 Records Submission:  [https://go.gov.sg/p1registrationphpps](https://go.gov.sg/p1registrationphpps)  
-2.	Student Details Form (SDF): [https://pg.moe.edu.sg/forms/sdf ](https://pg.moe.edu.sg/forms/sdf)
-3.	For eGIRO Application:   https://www.moe.gov.sg/financial-matters/fees/egiro 
-4.	For Edusave Online Application:   https://go.gov.sg/moe-edusave-signup 
+1.	FormSG 2024 P1 Records Submission:   https://go.gov.sg/p1registrationphpps 
+2.	Student Details Form (SDF):    https://pg.moe.edu.sg/forms/sdf  
+3.	For eGIRO Application: [https://www.moe.gov.sg/financial-matters/fees/egiro](https://www.moe.gov.sg/financial-matters/fees/egiro)
+4.	For Edusave Online Application: 
+[https://go.gov.sg/moe-edusave-signup ](https://go.gov.sg/moe-edusave-signup)
 &nbsp; 
 
 ##### B)	School Vendor:
