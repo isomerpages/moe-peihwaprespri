@@ -32,7 +32,7 @@ Please refer to the P1 Book and Uniform 2024 lists attached.
 <img src="/images/Buttons/school%20uniform.JPG" style="width:40%">
 </a></p>
 
-###### 3. School Bus Application Form
+##### 3. School Bus Application Form
 School Bus Contact: **Mr Yeo Kah Hua**, &nbsp;  
 Mobile  Hp: **96327095**   , Office: **62694708** .  
  https://go.gov.sg/phpps-school-bus-application 
