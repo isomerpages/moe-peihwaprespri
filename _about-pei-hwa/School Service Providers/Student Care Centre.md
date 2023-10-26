@@ -20,7 +20,7 @@ Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_p
 ##### [Introduction Letter](/files/Application%20Forms/scc%20introduction%20letter%202024.pdf)
 
 
-##### [FAQs]()
+##### [FAQs](/files/Application%20Forms/student%20care%20centre%202024%20faq.pdf)
 
 
 **Note: All arrangements and agreements are to be made directly with the student care service provider.**
