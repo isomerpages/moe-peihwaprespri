@@ -38,7 +38,7 @@ Mobile  Hp: **96327095**   , Office: **62694708** .
  https://go.gov.sg/phpps-school-bus-application 
 
 
-###### 4. School Student Care Application: Commit Learning Schoolhouse
+##### 4. School Student Care Application: Commit Learning Schoolhouse
 For all SCC enquiries: &nbsp;  
 Contact **89286418**  or email to   admission_cls_phpps@commitlearning.com.sg
 
