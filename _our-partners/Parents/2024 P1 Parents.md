@@ -46,12 +46,12 @@ Contact **89286418**  or email to   admission_cls_phpps@commitlearning.com.sg
  
  [SCC Introduction Letter](/files/Application%20Forms/scc%20introduction%20letter%202024.pdf)
  
-
 [SCC FAQ](/files/Application%20Forms/student%20care%20centre%202024%20faq.pdf)
 
- &nbsp;
+
+
  ##### C)	Others:
- 1.	Financial Assistant Scheme Application via either method:, &nbsp;  
+ Financial Assistant Scheme Application via either method:, &nbsp;  
 •	eFAS FormSG Link: https://go.gov.sg/moe-efas, &nbsp;  
 •	Parents Gateway App (Services tap - &gt; Financial Assistance), &nbsp;
 
