@@ -50,7 +50,7 @@ Contact **89286418**  or email to   admission_cls_phpps@commitlearning.com.sg
 
 
 
- ##### C)	Others:
+ #### C) Others:
  **Financial Assistant Scheme Application** via either method:, &nbsp;  
 •	eFAS FormSG Link: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) &nbsp;  
 •	Parents Gateway App (Services tap - &gt; Financial Assistance ), &nbsp;
