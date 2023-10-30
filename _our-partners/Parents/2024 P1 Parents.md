@@ -24,21 +24,23 @@ Below is the information required for your **P1 Admin Matters.**
 Please refer to the P1 Book and Uniform 2024 lists attached.
 **Note:  P1 Chinese and CCE Textbooks would only be available in early Dec 2023.**
 
+<p></p>
 <p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf"> 
 	<img src="/images/Buttons/p1%20booklist.JPG" style="width:40%">
 </a></p>
-
+<p></p>
 <p><a href="/files/Booklist/2024/phpps%20uniform%20list%202024.pdf">	
 <img src="/images/Buttons/school%20uniform.JPG" style="width:40%">
 </a></p>
+<p></p>
 
 ##### 3. School Bus Application Form
 School Bus Contact: **Mr Yeo Kah Hua**, &nbsp;  
 Mobile  Hp: **96327095**   , Office: **62694708** .  
- https://go.gov.sg/phpps-school-bus-application 
+ [https://go.gov.sg/phpps-school-bus-application](https://go.gov.sg/phpps-school-bus-application)
+ 
 
-
-###### 4. School Student Care Application: Commit Learning Schoolhouse
+##### 4. School Student Care Application: Commit Learning Schoolhouse
 For all SCC enquiries: &nbsp;  
 Contact **89286418**  or email to   admission_cls_phpps@commitlearning.com.sg
 
@@ -50,10 +52,10 @@ Contact **89286418**  or email to   admission_cls_phpps@commitlearning.com.sg
 
 
 
- ##### C)	Others:
+ #### C) Others:
  **Financial Assistant Scheme Application** via either method:, &nbsp;  
-•	eFAS FormSG Link: https://go.gov.sg/moe-efas, &nbsp;  
-•	Parents Gateway App (Services tap - &gt; Financial Assistance), &nbsp;
+•	eFAS FormSG Link: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) &nbsp;  
+•	Parents Gateway App (**Services tap -&gt; Financial Assistance** ), &nbsp;
 
 
 
