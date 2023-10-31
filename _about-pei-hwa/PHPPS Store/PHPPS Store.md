@@ -4,8 +4,13 @@ permalink: /about-pei-hwa/phpps-store/
 description: ""
 third_nav_title: PHPPS Store
 ---
-### Online Orders 
 
+![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
+
+Welcome to our PHPPS Store. &bnsp
+
+
+##### Online Orders 
 Please make your orders and payment online via the Store Link below. 
 
 Please **allow 10 working days** for orders 
