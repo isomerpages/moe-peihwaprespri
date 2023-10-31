@@ -2,10 +2,9 @@ collections:
   about-pei-hwa:
     output: true
     order:
-      - PHPPS Store/.keep
       - 135th PHPPS Anniversary/.keep
-      - Our PHPPS Heritage/School Heritage.md
       - Our PHPPS Heritage/.keep
+      - Our PHPPS Heritage/School Heritage.md
       - School Motto and Crest.md
       - School Song.md
       - Vision, Mission & Values.md
@@ -36,4 +35,5 @@ collections:
       - School Bus Advertisement.md
       - School Canteen Advertisement.md
       - Privacy Policy.md
+      - PHPPS Store/.keep
       - Quick Links.md
