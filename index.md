@@ -33,10 +33,13 @@ sections:
       title: PAT2024
       subtitle: President Award for Teachers
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: The Presidents Award for Teachers (PAT) gives national recognition
+        to experience teachers who are role models whom inspire both student and
+        peers.
+      button: Nomination is now open here
       alt: Image alt text
       image: /images/Picture Cover/PAT_2024_website_publicity_image.gif
+      url: https://go.gov.sg/pat2024
   - textcards:
       title: Text Cards
       subtitle: Add informational text
