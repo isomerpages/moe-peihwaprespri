@@ -25,6 +25,8 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Picture Cover/OYEA_2024_website_publicity_image.jpg
+      url: https://go.gov.sg/oyea2024
   - infopic:
       title: Infopic
       subtitle: Add an image and text
