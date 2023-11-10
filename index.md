@@ -19,11 +19,13 @@ sections:
           url: /at-learning-at-pei-hwa/home-based-learning-hbl/
       background: /images/Isomer-GIF-5sec-per-photo.gif
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: OYEA 2024
+      subtitle: "Outstanding Youth Education  "
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Gives national recognition to young teachers who are role models
+        and enthusiasm whom inspires both students and peers through their words
+        and deeds.
+      button: Nomination is now open here
       alt: Image alt text
       image: /images/Picture Cover/OYEA_2024_website_publicity_image.jpg
       url: https://go.gov.sg/oyea2024
