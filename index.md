@@ -30,7 +30,7 @@ sections:
       image: /images/Picture Cover/OYEA_2024_website_publicity_image.jpg
       url: https://go.gov.sg/oyea2024
   - infopic:
-      title: PAT2024
+      title: PAT 2024
       subtitle: President Award for Teachers
       id: infopic
       description: The Presidents Award for Teachers (PAT) gives national recognition
