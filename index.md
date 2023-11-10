@@ -40,22 +40,4 @@ sections:
       alt: Image alt text
       image: /images/Picture Cover/PAT_2024_website_publicity_image.gif
       url: https://go.gov.sg/pat2024
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: OYEA 2024
-          description: Outstanding Youth in Education Award
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
