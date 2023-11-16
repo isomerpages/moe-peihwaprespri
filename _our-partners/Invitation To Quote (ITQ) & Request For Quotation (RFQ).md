@@ -41,16 +41,16 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 	</tr>	<tr>	
 	</tr>	<tr>
 		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23007138</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors for Robotics Club CCA in PHPPS from Jan to Dec 204, with option to extend from Jan to Dec 2025.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors for Robotics Club CCA in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025.</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 Nov 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 14 Nov 2023 01:00 PM</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 17 Nov 2023 01:00 PM</span></td>
   </tr><tr>	
 	</tr>	<tr>
 	</tr>	<tr>
 		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23007136</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors to conduct Tchoukball CCA in PHPPS from Jan to Dec 204, with option to extend from Jan to Dec 2025.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors to conduct Tchoukball CCA in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025.</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 Nov 2023</span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 14 Nov 2023 01:00 PM</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 17 Nov 2023 01:00 PM</span></td>
   </tr><tr>	
 	</tr>	<tr>
 	</tr>	<tr>
