@@ -14,5 +14,3 @@ third_nav_title: Our PHPPS Heritage
 ![PHPPS LEGO School Building](/images/Others%20Folder%20Images/135th%20Anniversary/lego%20school%20building.jpeg)
 
 **PHPPS 135 Gift Memorabilia Online Order Form** will go live on Monday, 20 November 2023! 
-
-[Make your Orders Now](_)
