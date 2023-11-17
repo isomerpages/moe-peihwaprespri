@@ -19,8 +19,17 @@ sections:
           url: /at-learning-at-pei-hwa/home-based-learning-hbl/
       background: /images/Isomer-GIF-5sec-per-photo.gif
   - infopic:
+      title: PHPPS 135 Anniversary
+      subtitle: Pre-order begins soon!
+      id: infopic
+      description: LEGO Minibuild & Minifigure Gift Memorabilia
+      button: Click to find out more
+      url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
+      image: /images/LEGO_Minibuild_Final.jpg
+      alt: Image alt text
+  - infopic:
       title: OYEA 2024
-      subtitle: "Outstanding Youth Education  "
+      subtitle: Outstanding Youth Education
       id: infopic
       description: Gives national recognition to young teachers who are role models
         and enthusiasm whom inspires both students and peers through their words
