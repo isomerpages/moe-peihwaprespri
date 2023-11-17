@@ -9,7 +9,7 @@ third_nav_title: Our PHPPS Heritage
 
 ### Limited Edition 135th PHPPS Annivesary LEGO Gift Memorabilia of the School Building and Minifigure  
 
-3 more days before our Pre-order begins! Our 135th-anniversary gift memorabilia has finally arrived! Secure your Limited Edition 135th Anniversary LEGO PHPPS School Building and the dynamic LEGO Minifigure Bundle. Reserve yours today and build the magic!
+3 more days before our pre-order begins! Our 135th-anniversary gift memorabilia has finally arrived! Secure your Limited Edition 135th Anniversary LEGO PHPPS School Building and the dynamic LEGO Minifigure Bundle. Reserve yours today and build the magic!
 
 ![PHPPS LEGO School Building](/images/Others%20Folder%20Images/135th%20Anniversary/lego%20school%20building.jpeg)
 
