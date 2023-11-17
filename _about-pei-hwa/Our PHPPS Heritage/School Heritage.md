@@ -3,6 +3,7 @@ title: School Heritage
 permalink: /about-pei-hwa/school-heritage/
 description: ""
 third_nav_title: Our PHPPS Heritage
+variant: tiptap
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 ### School History
