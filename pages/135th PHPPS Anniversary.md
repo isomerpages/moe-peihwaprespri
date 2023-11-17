@@ -12,6 +12,6 @@ Pre-order now and be the architect of history! Our 135th-anniversary gift memora
 
 ![PHPPS LEGO School Building](/images/Others%20Folder%20Images/135th%20Anniversary/lego%20school%20building.jpeg)
 
-To make your orders please go to our **PHPPS Store** Via the Link below. 
+To make your orders please go to our **PHPPS 135 Gift Memorabilia Online Order Form** Via the Link below. 
 
 [Make your Orders Now](https://form.jotform.com/221370850063448)
