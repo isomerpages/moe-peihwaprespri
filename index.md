@@ -20,7 +20,7 @@ sections:
       background: /images/Isomer-GIF-5sec-per-photo.gif
   - infopic:
       title: PHPPS 135 Anniversary
-      subtitle: Pre-order begins soon!
+      subtitle: Pre-order till 4 dec 2023!
       id: infopic
       description: LEGO Minibuild & Minifigure Gift Memorabilia
       button: Click to find out more
