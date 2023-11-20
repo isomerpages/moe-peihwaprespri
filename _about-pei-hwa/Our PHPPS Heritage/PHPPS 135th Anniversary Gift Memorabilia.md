@@ -7,9 +7,9 @@ third_nav_title: Our PHPPS Heritage
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20student%20development2.jpg)
 
-### Limited Edition PHPPS 135th Anniversary LEGO Gift Memorabilia of the School Building and Minifigure  
+### Limited Edition PHPPS 135th Anniversary Gift Memorabilia of the School Building and Minifigure  
 
-Our 135th-anniversary gift memorabilia has finally arrived! Secure your Limited Edition 135th Anniversary LEGO PHPPS School Building and the dynamic LEGO Minifigure Bundle. Reserve yours today and build the magic!
+Our 135th-anniversary gift memorabilia has finally arrived! Secure your Limited Edition 135th Anniversary PHPPS School Building and the dynamic Minifigure Bundle. Reserve yours today and build the magic!
 
 Parents of P6 graduation cohort can place your orders and collect them from the school's General Office in March 2024
 
