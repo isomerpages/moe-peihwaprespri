@@ -16,15 +16,15 @@ variant: markdown
 <img src="/images/P2%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P3_Booklist_2024.pdf">
 <img src="/images/P3%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P4_Booklist_2024.pdf">
 <img src="/images/P4%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P5_Booklist_2024.pdf">
 <img src="/images/P5%20booklist.png" style="width:30%">
 </a></p>
 
