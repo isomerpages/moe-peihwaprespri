@@ -17,4 +17,4 @@ Parents of P6 graduation cohort can place your orders and collect them from the 
 
 **PHPPS 135 Gift Memorabilia Online Order Form** will be live from 20 November 2023 till 4 December 2023
 
-[**Place your orders HERE.**](https://form.jotform.com/233030738895462)
+[**Place Your Orders HERE.**](https://form.jotform.com/233030738895462)
