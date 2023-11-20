@@ -28,7 +28,7 @@ variant: markdown
 <img src="/images/P5%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P6_Booklist_2024.pdf">
 <img src="/images/P6%20booklist.png" style="width:30%">
 </a></p>
 
