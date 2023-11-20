@@ -10,7 +10,10 @@ third_nav_title: Our PHPPS Heritage
 ### Limited Edition PHPPS 135th Anniversary LEGO Gift Memorabilia of the School Building and Minifigure  
 
 3 more days before our pre-order begins! Our 135th-anniversary gift memorabilia has finally arrived! Secure your Limited Edition 135th Anniversary LEGO PHPPS School Building and the dynamic LEGO Minifigure Bundle. Reserve yours today and build the magic!
+Parents of the P6 graduation cohort can place your orders and collect them from the school's General Office in March 2024
 
 ![PHPPS LEGO School Building](/images/Others%20Folder%20Images/135th%20Anniversary/lego%20school%20building.jpeg)
 
-**PHPPS 135 Gift Memorabilia Online Order Form** will go live on Monday, 20 November 2023! 
+**PHPPS 135 Gift Memorabilia Online Order Form** will go live on Monday, 20 November 2023!
+
+[**Place your orders HERE.**](https://form.jotform.com/233030738895462)
