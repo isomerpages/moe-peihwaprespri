@@ -49,5 +49,3 @@ variant: markdown
 <p><a href="/files/Booklist/2024/P6__HCL__Booklist_2024.pdf">
 <img src="/images/P6%20HCL%20booklist.png" style="width:40%">
 </a></p>
-
-
