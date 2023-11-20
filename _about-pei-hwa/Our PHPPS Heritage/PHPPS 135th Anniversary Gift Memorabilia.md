@@ -22,4 +22,3 @@ Parents of P6 graduation cohort can place your orders and collect them from the 
 <p><a href="https://form.jotform.com/233030738895462">
 	<img src="/images/Buttons/click%20here.PNG" style="width:40%">
 	</a></p>
-	
