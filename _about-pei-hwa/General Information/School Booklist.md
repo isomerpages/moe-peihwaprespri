@@ -42,13 +42,12 @@ variant: markdown
 </a></p>
 
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P5__HCL__Booklist_2024.pdf">
 <img src="/images/P5%20HCL%20booklist.png" style="width:30%">
 </a></p>
 
-<p><a href="---">
+<p><a href="/files/Booklist/2024/P6__HCL__Booklist_2024.pdf">
 <img src="/images/P6%20HCL%20booklist.png" style="width:30%">
 </a></p>
 
 
-[]("/files/Booklist/2024/p1%20booklist%202024%20revised.pdf")
