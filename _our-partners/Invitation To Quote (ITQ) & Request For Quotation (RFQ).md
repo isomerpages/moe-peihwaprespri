@@ -40,6 +40,22 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 	</tr>	<tr>
 	</tr>	<tr>	
 	</tr>	<tr>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23008019</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Table Tennis Recreational CCA Training Programme in Pei Hwa Presbyterian Primary School.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 05 Dec 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 15 Dec 2023 01:00 PM</span></td>
+  </tr><tr>	
+	</tr>	<tr>
+	</tr>	<tr>	
+	</tr>	<tr>
+		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23008018</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Main &amp; Assistant Instructor for Table Tennis Competitive CCA Training Programme in Pei Hwa Presbyterian Primary School.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 05 Dec 2023</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 15 Dec 2023 01:00 PM</span></td>
+  </tr><tr>	
+	</tr>	<tr>
+	</tr>	<tr>	
+	</tr>	<tr>
 		</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ23007138</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors for Robotics Club CCA in PHPPS from Jan to Dec 2024, with option to extend from Jan to Dec 2025.</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 Nov 2023</span></td>
