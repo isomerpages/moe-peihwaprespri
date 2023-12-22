@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 description: ""
+variant: markdown
 ---
 ### **Pei Hwa Presbyterian Primary School Privacy Statement**
 
@@ -35,4 +36,4 @@ description: ""
 **
   
 
-Copyright @ 2023 Pei Hwa Presbyterian Primary School
+Copyright @ 2024 Pei Hwa Presbyterian Primary School

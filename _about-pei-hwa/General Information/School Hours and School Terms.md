@@ -3,6 +3,7 @@ title: School Hours and School Terms
 permalink: /about-pei-hwa/general-information/school-hours-and-school-terms/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
@@ -30,6 +31,6 @@ third_nav_title: General Information
 </tbody>
 </table>
 
-### School Terms and Holidays for 2023
+### [School Terms and Holidays for 2024](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
 
-Please refer to the [**link**](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023) here for more details
+Please refer to the&nbsp;[**link**](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024) for more details
