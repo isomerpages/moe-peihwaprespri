@@ -3,6 +3,7 @@ title: Home Based Learning (HBL)
 permalink: /at-learning-at-pei-hwa/home-based-learning-hbl/
 description: ""
 third_nav_title: Home Based Learning
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 Dear Parents,
@@ -38,7 +39,7 @@ Should you require assistance during FHBL period, the following are the helpline
   <tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">General enquires about FHBL</span></td>
-    <td class="tg-0lax"><span style="font-weight:bold">School General Office</span><br><br><br>School-based Helpline: 64663787<br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br>(please refer to the school website for the email addresses of the teachers)<br> <br><a href="https://peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-staff/teaching-staff-2022-form-teachers" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">Teaching staff 2022 form teachers</span></a><br></td>
+    <td class="tg-0lax"><span style="font-weight:bold">School General Office</span><br><br><br>School-based Helpline: 64663787<br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br>(please refer to the school website for the email addresses of the teachers)<br> <br><a href="https://peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-staff/teaching-staff-2023-form-teachers" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">Teaching staff 2023 form teachers</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-0lax">3</td>
@@ -48,17 +49,17 @@ Should you require assistance during FHBL period, the following are the helpline
 </tbody>
 </table>
 
-This issue of Parent Kit provides tips on how you can support your child’s HBL   
+This issue of Parent Kit provides tips on how you can support your child’s HBL&nbsp;  
 
 and addresses some of your concerns.  
 
   
 
-You may also download the [**PDF Parent Kit**](/files/Resource%20Kit%20-%20HBL.pdf) by clicking on the attached picture below
+You may also download the&nbsp;[**PDF Parent Kit**](/files/Resource%20Kit%20-%20HBL.pdf)&nbsp;by clicking on the attached picture below
 
 ![](/images/HBL%20Main%20Page%201.png)
 
-For more information on HBL using SLS 
+For more information on HBL using SLS&nbsp;
 
 Please click on the link below
 
