@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-pei-hwa/school-management-committee/
 description: ""
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
@@ -22,11 +23,11 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chew Soon Boon</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Thng Chiok Meng </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Chairman</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Leong Kok Ho</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Tay Tiong Choon</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Chairman</span><br></td>
   </tr>
   <tr>
@@ -34,11 +35,11 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Treasurer</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Thng Chiok Meng</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Johnson Lu Yi Qiang </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Secretary</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Heng Cho Seng James</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder James Heng Cho Seng</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
@@ -49,20 +50,32 @@ description: ""
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder (Dr) Johnson Lu Yi Qiang</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yvonne Gan</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chan Joo Kai Steven</span><br></td>
+	  <tr><td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chan Joo Kai Steven</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Lionel Khoo</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr><tr>
+		</tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Casey Lee Kar Choon  </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr><tr>
+		</tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chew Soon Boon  </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr><tr>
+  </tr>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Chua Yian Shing Sherrin</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Chua Yian Shing Sherrin</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Ng Huan Yong </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yvonne Gan</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
