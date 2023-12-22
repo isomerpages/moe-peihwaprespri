@@ -32,11 +32,13 @@ Should you require assistance during FHBL period, the following are the helpline
 </thead>
 <tbody>
   <tr>
+  </tr><tr>
     <td class="tg-0lax">1</td>
     <td class="tg-baqh"><span style="font-weight:400;font-style:normal">SLS matters such as password reset and unlocking of accounts.</span></td>
     <td class="tg-0lax"><span style="font-weight:bold;text-decoration:underline">For School Operating Hours</span><br><br>School-based Helpline: 64663787<br>Email: <a href="mailto:phpps@moe.edu.sg" target="_blank" rel="noopener noreferrer">phpps@moe.edu.sg</a><br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br><span style="font-weight:bold;text-decoration:underline">For Non-School Operating Hours</span><br><br>Outside the school operating hours, students should contact the SLS Helpdesk for support.  <br>SLS Helpdesk line: 6702 6513<br><br>Email SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" target="_blank" rel="noopener noreferrer">helpdesk@sls.ufinity.com</a><br><br>When emailing the SLS Helpdesk, students should include their full name, name of school and form class.<br>Mondays to Fridays: 2 p.m. to 9 p.m.<br>Saturdays:  9 a.m. to 3 p.m.<br>Closed on Sundays &amp; Public Holiday<br> <br><br>You may also click <a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html#" target="_blank" rel="noopener noreferrer">HERE </a>for SLS user login troubleshooting guide.<br></td>
   </tr>
-  <tr>
+	<tr>
+  </tr><tr>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">General enquires about FHBL</span></td>
     <td class="tg-0lax"><span style="font-weight:bold">School General Office</span><br><br><br>School-based Helpline: 64663787<br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br>(please refer to the school website for the email addresses of the teachers)<br> <br><a href="https://peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-staff/teaching-staff-2023-form-teachers" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">Teaching staff 2023 form teachers</span></a><br></td>
