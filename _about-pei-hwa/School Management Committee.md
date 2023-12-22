@@ -74,8 +74,12 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Ng Huan Yong </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-	  <tr>
+	<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yvonne Gan</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr>
+	  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Stellicia Sim Hui Si </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
