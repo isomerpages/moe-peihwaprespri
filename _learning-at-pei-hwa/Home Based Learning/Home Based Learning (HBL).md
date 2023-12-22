@@ -42,25 +42,24 @@ Should you require assistance during FHBL period, the following are the helpline
     <td class="tg-0lax"><span style="font-weight:bold">School General Office</span><br><br><br>School-based Helpline: 64663787<br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br>(please refer to the school website for the email addresses of the teachers)<br> <br><a href="https://peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-staff/teaching-staff-2023-form-teachers" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">Teaching staff 2023 form teachers</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Briefing for Students</span></td>
-    <td class="tg-0lax">Please click on the links below for their schedules.<br><br><a href="/files/Home%20based%20learning%20for%20students_AM%20.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">FULL Home-Based Learning (FHBL) AM</span></a><br><br><a href="/files/Home%20based%20learning%20for%20students_PM.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">FULL Home-Based Learning (FHBL) PM</span></a></td>
-  </tr>
+	 <td class="tg-0lax"> - </td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal"> - </span></td>
+    <td class="tg-0lax"><span style="font-weight:bold"> - </span><br>
+		<br> - <br>
+						
+  </td></tr>
 </tbody>
 </table>
 
-This issue of Parent Kit provides tips on how you can support your child’s HBL&nbsp;  
 
+This issue of Parent Kit provides tips on how you can support your child’s HBL
 and addresses some of your concerns.  
 
-  
-
-You may also download the&nbsp;[**PDF Parent Kit**](/files/Resource%20Kit%20-%20HBL.pdf)&nbsp;by clicking on the attached picture below
+You may also download the&nbsp;[**PDF Parent Kit**](/files/Resource%20Kit%20-%20HBL.pdf) by clicking on the attached picture below
 
 ![](/images/HBL%20Main%20Page%201.png)
+For more information on HBL using SLS
+&nbsp;
 
-For more information on HBL using SLS&nbsp;
-
-Please click on the link below
-
+Please click on the link 
 [FAQ for Home-based learning using SLS](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/qql/slot/u311/2020/SLS/FAQs%20for%20HBL_Using%20SLS.pdf)
