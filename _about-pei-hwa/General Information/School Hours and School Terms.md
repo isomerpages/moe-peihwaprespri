@@ -31,6 +31,6 @@ variant: markdown
 </tbody>
 </table>
 
-### School Terms and Holidays for 2024
+### [School Terms and Holidays for 2024](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
 
-Please refer to the&nbsp;[**link**](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024) here for more details
+Please refer to the&nbsp;[**link**](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024) for more details
