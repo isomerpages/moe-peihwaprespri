@@ -50,15 +50,7 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder James Heng Cho Seng</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Tay Tiong Choon</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder (Dr) Johnson Lu Yi Qiang</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-	  <tr>
+   	  <tr>
 		</tr><tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Casey Lee Kar Choon  </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
