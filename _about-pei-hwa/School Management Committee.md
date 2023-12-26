@@ -99,10 +99,15 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
   </tr>
   <tr>
+		 </tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Caleb Leong</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
+  </tr>
   
-  </tr><tr>
+  <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
   </tr>
 </tbody>
 </table>
+
