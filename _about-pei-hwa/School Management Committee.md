@@ -35,7 +35,7 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> Treasurer</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Johnson Lu Yi Qiang </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder (Dr) Johnson Lu Yi Qiang </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Secretary</span><br></td>
   </tr>
 		<tr>
