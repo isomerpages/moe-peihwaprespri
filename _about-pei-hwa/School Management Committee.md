@@ -38,7 +38,15 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Johnson Lu Yi Qiang </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Secretary</span><br></td>
   </tr>
-  <tr>
+		<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chew Soon Boon  </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Goh Yong Kuang</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
+  </tr>
+	  <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder James Heng Cho Seng</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
@@ -50,48 +58,26 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder (Dr) Johnson Lu Yi Qiang</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-	  <tr><td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chan Joo Kai Steven</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Lionel Khoo</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr><tr>
+	  <tr>
 		</tr><tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Casey Lee Kar Choon  </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr><tr>
 		</tr><tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Chew Soon Boon  </span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr><tr>
   </tr>
-	<tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Chua Yian Shing Sherrin</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Dn Ng Huan Yong </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-	<tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Yvonne Gan</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
-  </tr>
-	  <tr>
+		  <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Ms Stellicia Sim Hui Si </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Roy Koh</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
   </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Goh Yong Kuang</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Allison Lim</span><br></td>
+  <tr><td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Allison Lim</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Principal</span><br></td>
   </tr>
   <tr>
@@ -99,10 +85,15 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
   </tr>
   <tr>
-  
-  </tr><tr>
+		 </tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Caleb Leong</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
+  </tr>
+    <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
   </tr>
-</tbody>
+	  <tr>
+   
+</tr></tbody>
 </table>

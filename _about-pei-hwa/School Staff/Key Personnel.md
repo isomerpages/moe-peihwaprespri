@@ -34,7 +34,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Vice-Principal</span><br></td>
   </tr>
 	  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr Leong Wei Ming</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mr Caleb Leong</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Vice-Principal</span><br></td>
   </tr>
   <tr>
