@@ -38,6 +38,27 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder Johnson Lu Yi Qiang </span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Secretary</span><br></td>
   </tr>
+	  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Roy Koh</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
+  </tr>
+	 <tr><td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Allison Lim</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Principal</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Chloe Yong</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
+  </tr>
+  <tr>
+		 </tr><tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Caleb Leong</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
+  </tr>
   <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Elder James Heng Cho Seng</span><br></td>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
@@ -83,31 +104,11 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Roy Koh</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
-  </tr>
-  <tr>
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Rev Goh Yong Kuang</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Advisor</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Member</span><br></td>
   </tr>
   <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mrs Allison Lim</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Principal</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mdm Chloe Yong</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
-  </tr>
-  <tr>
-		 </tr><tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Caleb Leong</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
-  </tr>
-  
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
-  </tr>
-</tbody>
+   
+</tr></tbody>
 </table>
 
