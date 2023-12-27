@@ -113,7 +113,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Teo Jing Wen</span></td>
-    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head ( P2 &amp; P4 )</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head</span></td>
+  </tr>
+	<tr>
+    <td class="tg-lr6o"><span style="color:#222">Mr John Leung</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head</span></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Chye Xiao Wei</span><br></td>
