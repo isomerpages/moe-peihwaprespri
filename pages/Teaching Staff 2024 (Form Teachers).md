@@ -269,7 +269,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mr Woon Ta-li/span&gt;</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mr Woon Ta-li</span></td>
     <td class="tg-lmb7"><a href="mailto:woon_ta-li@moe.edu.sg"><span style="text-decoration:none;color:#B29059">woon_ta-li@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
