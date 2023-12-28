@@ -17,14 +17,14 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+	<tr>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Primary 1</span></th>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Form Teachers</span></th>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
+<tr>
     <td class="tg-lr6o"><span style="color:#222">Integrity 1</span></td>
     <td class="tg-lr6o"><span style="color:#222">Mdm Li Jing</span></td>
     <td class="tg-lmb7"><a href="mailto:li_jing_c@moe.edu.sg"><span style="text-decoration:none;color:#B29059">li_jing_c@moe.edu.sg</span></a></td>
@@ -66,7 +66,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Integrity 5</span></td>
-    <td class="tg-lr6o"><span style="color:#222">Ms Siti Nafsiyah/span&gt;</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms Siti Nafsiyah</span></td>
     <td class="tg-lmb7"><a href="mailto:siti_nafsiyah_riduan@moe.edu.sg"><span style="text-decoration:none;color:#B29059">siti_nafsiyah_riduan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -111,21 +111,21 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+<tr>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Primary 2</span></th>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Form Teachers</span></th>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
+	<tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 1</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mdm Dawn Ling</span></td>
     <td class="tg-gqk5"><a href="mailto:ling_poh_kiow_dawn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ling_poh_kiow_dawn@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Chin Kim Keow/span&gt;</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Chin Kim Keow</span></td>
     <td class="tg-gqk5"><a href="mailto:chin_kim_keow@moe.edu.sg"><span style="text-decoration:none;color:#B29059">chin_kim_keow@moe.edu.sg</span></a></td>
   </tr>
   <tr>
