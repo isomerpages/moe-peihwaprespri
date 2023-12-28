@@ -125,7 +125,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Chin Kim Keow/span&gt;</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Chin Kim Keow</span></td>
     <td class="tg-gqk5"><a href="mailto:chin_kim_keow@moe.edu.sg"><span style="text-decoration:none;color:#B29059">chin_kim_keow@moe.edu.sg</span></a></td>
   </tr>
   <tr>
