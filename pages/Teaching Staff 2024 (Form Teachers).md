@@ -17,14 +17,14 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+	<tr>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Primary 1</span></th>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Form Teachers</span></th>
     <th class="tg-ys2m"><span style="font-weight:700;color:#B29059">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
+<tr>
     <td class="tg-lr6o"><span style="color:#222">Integrity 1</span></td>
     <td class="tg-lr6o"><span style="color:#222">Mdm Li Jing</span></td>
     <td class="tg-lmb7"><a href="mailto:li_jing_c@moe.edu.sg"><span style="text-decoration:none;color:#B29059">li_jing_c@moe.edu.sg</span></a></td>
@@ -111,14 +111,14 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-  <tr>
+<tr>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Primary 2</span></th>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Form Teachers</span></th>
     <th class="tg-2x16"><span style="font-weight:700;color:#B29059">Email Address</span></th>
   </tr>
 </thead>
 <tbody>
-  <tr>
+	<tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 1</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mdm Dawn Ling</span></td>
     <td class="tg-gqk5"><a href="mailto:ling_poh_kiow_dawn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ling_poh_kiow_dawn@moe.edu.sg</span></a></td>
@@ -192,7 +192,6 @@ description: ""
 </table>
 
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -276,7 +275,6 @@ description: ""
 </table>
 
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -360,7 +358,6 @@ description: ""
 </table>
 
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -449,7 +446,6 @@ description: ""
 </table>
 
 <br>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -541,3 +537,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
