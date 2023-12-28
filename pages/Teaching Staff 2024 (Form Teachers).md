@@ -318,7 +318,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Teamwork 3</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Andy Goh/span&gt;</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Andy Goh</span></td>
     <td class="tg-gqk5"><a href="mailto:goh_kok_hwee@moe.edu.sg"><span style="text-decoration:none;color:#B29059">goh_kok_hwee@moe.edu.sg</span></a></td>
   </tr>
   <tr>
