@@ -26,15 +26,14 @@ sections:
       title: PHPPS 135th Anniversary
       subtitle: PHPPS 135th 周年纪念
       id: infopic
-      description: >
-        Mini school building & Mini figurines Gift Memorabilia. Note: Pre-order
-        till 4 Dec 2023!
+      description: "Mini school building & Mini figurines Gift Memorabilia. Note:
+        Pre-order till 4 Dec 2023!"
       button: Click to find out more
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
       alt: Image alt text
   - textcards:
-      title: Highlights
+      title: Event Highlights
       id: textcards
       cards:
         - title: OYEA 2024 Outstanding Youth Education
@@ -47,4 +46,6 @@ sections:
             inspire students
           linktext: Now OPEN till 10 Jan 2024
           url: https://go.gov.sg/pat2024
+      subtitle: 强调
+      description: School Events & Highlights
 ---
