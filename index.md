@@ -20,7 +20,7 @@ sections:
           description: 我们的合作伙伴、家长
           url: https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/
         - title: School Calendar
-          description: 学校日历
+          description: 校历
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-calendar/
   - infopic:
       title: PHPPS 135 Anniversary
