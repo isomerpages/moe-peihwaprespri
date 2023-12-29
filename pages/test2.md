@@ -35,7 +35,7 @@ description: ""
 </tbody></table>
 
 
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
 
-
+<p>Here's another glacier in New Zealand:
+	<a target="_blank" href="https://en.wikipedia.org/wiki/Fox_Glacier">Fox Glacier</a></p>
 
