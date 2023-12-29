@@ -7,17 +7,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Announcements
-          description: Click here to find out more
-          url: /about-pei-hwa/general-information/announcement/
-        - title: General Information
-          description: Click here to find out more
-          url: /about-pei-hwa/general-information/
-        - title: Home-Based Learning
-          description: Click here to find out more
-          url: /at-learning-at-pei-hwa/home-based-learning-hbl/
       background: /images/Isomer-GIF-5sec-per-photo.gif
+  - textcards:
+      title: School Information
+      id: textcards
+      cards:
+        - title: Announcements
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/announcement/
+        - title: General Information
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/
+        - title: Our Partners, Parents
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/
   - infopic:
       title: PHPPS 135 Anniversary
       subtitle: Pre-order till 4 dec 2023!
@@ -54,9 +60,8 @@ sections:
       id: textcards
       cards:
         - title: OYEA 2024 Outstanding Youth Education
-          description: >
-            A national recognition to young teachers and role models who inspire
-            students 
+          description: A national recognition to young teachers and role models who
+            inspire students
           linktext: Now OPEN till 10 Jan 2024
           url: https://go.gov.sg/oyea2024
         - title: PAT 2024 President Award for Teachers
