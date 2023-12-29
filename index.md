@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Isomer-GIF-5sec-per-photo.gif
   - textcards:
-      title: "-"
+      title: School Information
       id: textcards
       cards:
         - title: Announcements
@@ -24,7 +24,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/
-      subtitle: School Information
+        - title: School Calendar
+          description: ""
+          linktext: Learn more
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-calendar/
   - infopic:
       title: PHPPS 135 Anniversary
       subtitle: Pre-order till 4 dec 2023!
@@ -70,8 +73,12 @@ sections:
             inspire students
           linktext: Now OPEN till 10 Jan 2024
           url: https://go.gov.sg/pat2024
-        - title: Card
-          description: Card description
-          linktext: Learn more
+        - title: "-"
+          description: ""
+          linktext: "-"
+          url: ""
+        - title: "-"
+          description: ""
+          linktext: "-"
           url: ""
 ---
