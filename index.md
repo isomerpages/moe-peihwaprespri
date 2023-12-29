@@ -8,22 +8,20 @@ notification: ""
 sections:
   - hero:
       background: /images/Isomer-GIF-5sec-per-photo.gif
-  - textcards:
-      title: School Information
-      id: textcards
-      cards:
+      variant: center
+      key_highlights:
         - title: Announcements
-          description: ""
-          linktext: Learn more
-          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/announcement/
+          description: " 公告"
+          url: ""
         - title: General Information
-          description: ""
-          linktext: Learn more
-          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/
+          description: 一般信息
+          url: ""
         - title: Our Partners, Parents
-          description: ""
-          linktext: Learn more
-          url: https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/
+          description: " 我们的合作伙伴、家长"
+          url: ""
+        - title: School Calendar
+          description: "学校日历 "
+          url: ""
   - infopic:
       title: PHPPS 135 Anniversary
       subtitle: Pre-order till 4 dec 2023!
