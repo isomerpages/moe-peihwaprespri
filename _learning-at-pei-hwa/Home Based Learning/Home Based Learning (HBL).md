@@ -40,7 +40,7 @@ Should you require assistance during FHBL period, the following are the helpline
 	<tr>
   </tr><tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">General enquires about FHBL</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">General enquires about HBL</span></td>
     <td class="tg-0lax"><span style="font-weight:bold">School General Office</span><br><br><br>School-based Helpline: 64663787<br>Mondays to Fridays: 8 a.m. to 2 p.m.<br><br>(please refer to the school website for the email addresses of the teachers)<br> <br><a href="https://peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-staff/teaching-staff-2024-form-teachers" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">Teaching Staff (Form Teachers)</span></a><br></td>
   </tr>
   <tr>
