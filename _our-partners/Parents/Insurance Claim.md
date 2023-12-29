@@ -11,7 +11,7 @@ variant: markdown
 ### Student Insurance - NTUC Income
 
 
-For student insurance information please submit online vai the NTUC Income Main page  
+For student insurance information please submit online on the [NTUC Income Main page ](https://studentgpa.incomegroupins.com.sg/#/) 
 
 *   For the updated [Product Fact Sheet](https://studentgpa.incomegroupins.com.sg/#/) link, 
  please refer to the NTUC income main page as shown below.
