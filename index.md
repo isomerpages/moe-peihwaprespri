@@ -37,32 +37,14 @@ sections:
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
       alt: Image alt text
-  - infopic:
-      title: OYEA 2024
-      subtitle: Outstanding Youth Education
-      id: infopic
-      description: Gives national recognition to young teachers who are role models
-        and enthusiasm whom inspires both students and peers through their words
-        and deeds.
-      button: Nomination is now open here
-      alt: Image alt text
-      image: /images/Picture Cover/OYEA_2024_website_publicity_image.jpg
-      url: https://go.gov.sg/oyea2024
-  - infopic:
-      title: PAT 2024
-      subtitle: President Award for Teachers
-      id: infopic
-      description: The Presidents Award for Teachers (PAT) gives national recognition
-        to experience teachers who are role models whom inspire both student and
-        peers.
-      button: Nomination is now open here
-      alt: Image alt text
-      image: /images/Picture Cover/PAT_2024_website_publicity_image.gif
-      url: https://go.gov.sg/pat2024
   - textcards:
-      title: "-"
+      title: Highlights
       id: textcards
       cards:
+        - title: PHPPS 135th Anniversary
+          description: "Mini School building & Mini figure Gift Memorabilia "
+          linktext: PRE-ORDER TILL 4 DEC 2023!
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
         - title: OYEA 2024 Outstanding Youth Education
           description: A national recognition to young teachers and role models who
             inspire students
@@ -73,10 +55,6 @@ sections:
             inspire students
           linktext: Now OPEN till 10 Jan 2024
           url: https://go.gov.sg/pat2024
-        - title: "-"
-          description: ""
-          linktext: "-"
-          url: ""
         - title: "-"
           description: ""
           linktext: "-"
