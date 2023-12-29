@@ -23,10 +23,12 @@ sections:
           description: 校历
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-calendar/
   - infopic:
-      title: PHPPS 135 Anniversary
-      subtitle: Pre-order till 4 dec 2023!
+      title: PHPPS 135th Anniversary
+      subtitle: PHPPS 135th 周年纪念
       id: infopic
-      description: Minibuilding & Minifigure Gift Memorabilia
+      description: |
+        Pre-order till 4 Dec 2023!
+        Minibuilding & Minifigure Gift Memorabilia
       button: Click to find out more
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
