@@ -93,7 +93,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mr Erman Abu Bakar</span></td>
-    <td class="tg-lr6o"><span style="color:#222">HOD Technology for Learning &amp; Communication </span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">HOD Technology for Learning &amp; Communication (TfLC) </span><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Lim Siew Eng Francisca</span><br></td>
