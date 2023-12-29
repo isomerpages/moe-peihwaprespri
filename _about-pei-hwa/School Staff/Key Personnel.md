@@ -71,11 +71,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Mrs Cheryl Ang</span>   </td>
     <td class="tg-lr6o"><span style="color:#222">HOD Mathematics </span></td>
   </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr Lim Kian Tiong</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">HOD Chinese</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mr Idris Chua Mohd Shafiq</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Science</span><br></td>
   </tr>
