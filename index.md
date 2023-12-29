@@ -11,17 +11,17 @@ sections:
       variant: center
       key_highlights:
         - title: Announcements
-          description: " 公告"
-          url: ""
+          description: 公告
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/announcement/
         - title: General Information
           description: 一般信息
-          url: ""
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/
         - title: Our Partners, Parents
-          description: " 我们的合作伙伴、家长"
-          url: ""
+          description: 我们的合作伙伴、家长
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/
         - title: School Calendar
-          description: "学校日历 "
-          url: ""
+          description: 学校日历
+          url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-calendar/
   - infopic:
       title: PHPPS 135 Anniversary
       subtitle: Pre-order till 4 dec 2023!
