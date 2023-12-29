@@ -49,4 +49,23 @@ sections:
       alt: Image alt text
       image: /images/Picture Cover/PAT_2024_website_publicity_image.gif
       url: https://go.gov.sg/pat2024
+  - textcards:
+      title: "-"
+      id: textcards
+      cards:
+        - title: OYEA 2024 Outstanding Youth Education
+          description: >
+            A national recognition to young teachers and role models who inspire
+            students 
+          linktext: Now OPEN till 10 Jan 2024
+          url: https://go.gov.sg/oyea2024
+        - title: PAT 2024 President Award for Teachers
+          description: A national recognition to young teachers and role models who
+            inspire students
+          linktext: Now OPEN till 10 Jan 2024
+          url: https://go.gov.sg/pat2024
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
