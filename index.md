@@ -42,7 +42,7 @@ sections:
       id: textcards
       cards:
         - title: PHPPS 135th Anniversary
-          description: "Mini School building & Mini figure Gift Memorabilia "
+          description: Mini School building & Mini figure Gift Memorabilia
           linktext: PRE-ORDER TILL 4 DEC 2023!
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
         - title: OYEA 2024 Outstanding Youth Education
