@@ -1,8 +1,9 @@
 ---
 title: Teaching Staff 2024 (Form Teachers)
-permalink: /permalink/
-variant: markdown
+permalink: /about-pei-hwa/school-staff/teaching-staff-2024-form-teachers/
 description: ""
+third_nav_title: School Staff
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
@@ -428,11 +429,6 @@ description: ""
     <td class="tg-lmb7"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Hazwani</span></td>
-    <td class="tg-lmb7"><a href="mailto:nur_hazwani_rahmat@moe.edu.sg"><span style="text-decoration:none;color:#B29059">nur_hazwani_rahmat@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 6</span></td>
     <td class="tg-lr6o"><span style="color:#222">Mr Timothy Chua</span></td>
     <td class="tg-lmb7"><a href="mailto:timothy_chua_cheng_jie@moe.edu.sg"><span style="text-decoration:none;color:#B29059">timothy_chua_cheng_jie@moe.edu.sg</span></a></td>
@@ -537,5 +533,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-

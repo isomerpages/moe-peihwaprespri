@@ -71,11 +71,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Mrs Cheryl Ang</span>   </td>
     <td class="tg-lr6o"><span style="color:#222">HOD Mathematics </span></td>
   </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr Lim Kian Tiong</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">HOD Chinese</span></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mr Idris Chua Mohd Shafiq</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Science</span><br></td>
   </tr>
@@ -97,7 +93,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mr Erman Abu Bakar</span></td>
-    <td class="tg-lr6o"><span style="color:#222">HOD Technology for Learning &amp; Communication </span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">HOD Technology for Learning &amp; Communication (TfLC) </span><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Lim Siew Eng Francisca</span><br></td>
@@ -113,7 +109,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Teo Jing Wen</span></td>
-    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head ( P2 &amp; P4 )</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head</span></td>
+  </tr>
+	<tr>
+    <td class="tg-lr6o"><span style="color:#222">Mr John Leung</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head</span></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm Chye Xiao Wei</span><br></td>
