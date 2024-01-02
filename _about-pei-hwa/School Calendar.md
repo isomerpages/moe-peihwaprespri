@@ -10,9 +10,11 @@ Please keep this copy for your reference.
 For those events that are marked with an asterisk (\*), 
 more details will be given to you nearer the date.
 
-### 2023 Term 4
-![](/images/Calendar/2023%20t4%20-%201.JPG)
-![](/images/Calendar/2023%20t4%20-%202.JPG)
+### 2024 Term 1 
+
+
+
+### 2024 Term 2 
 
 
 We seek your understanding that there might be changes made to the calendar due to unforeseen circumstances. The school calendar will be uploaded onto the school website. We look forward to partnering with you in the education of our students. Thank you.
