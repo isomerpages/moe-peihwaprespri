@@ -239,7 +239,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs Fronia Chengg</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs Fronia Toh</span></td>
     <td class="tg-lmb7"><a href="mailto:eng_pei_sze_fronia@moe.edu.sg%C2%A0"><span style="text-decoration:none;color:#B29059">eng_pei_sze_fronia@moe.edu.sg </span></a></td>
   </tr>
   <tr>
