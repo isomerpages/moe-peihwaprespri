@@ -10,11 +10,11 @@ Please keep this copy for your reference.
 For those events that are marked with an asterisk (\*), 
 more details will be given to you nearer the date.
 
-### 2024 Term 1 
+### 2024 Semester 1
+![](/images/Calendar/2024_sem_1.JPG)
 
 
 
-### 2024 Term 2 
 
 
 We seek your understanding that there might be changes made to the calendar due to unforeseen circumstances. The school calendar will be uploaded onto the school website. We look forward to partnering with you in the education of our students. Thank you.
