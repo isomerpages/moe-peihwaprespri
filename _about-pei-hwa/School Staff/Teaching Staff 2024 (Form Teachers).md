@@ -523,7 +523,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Nandini/span&gt;</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nandini</span></td>
     <td class="tg-gqk5"><a href="mailto:nandini_thavarajalingam@moe.edu.sg"><span style="text-decoration:none;color:#B29059">nandini_thavarajalingam@moe.edu.sg</span></a></td>
   </tr>
   <tr>
