@@ -45,30 +45,18 @@ b.	Character and Citizenship Education (CCE)
 At Pei Hwa Presbyterian Primary School, the following Sexuality Education lessons will be taught in 2024:
 
  
-### 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 
+#### **2024 SEXUALITY EDUCATION LESSONS IN CCE 2021** 
 
-##### PRIMARY 5
+##### **PRIMARY 5**
+![](/images/Info%20Tables/sex_education_2024_p5_table.JPG)
 
-
-##### PRIMARY 6
-
-
-
+##### **PRIMARY 6**
+![](/images/Info%20Tables/sex_education_2024_p6_table.JPG)
 
 
 
 
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
-
-
-##### INFORMATION FOR PARENTS
+##### **INFORMATION FOR PARENTS**
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
