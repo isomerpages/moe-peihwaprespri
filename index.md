@@ -27,7 +27,7 @@ sections:
       subtitle: PHPPS 135th 周年纪念
       id: infopic
       description: "Mini school building & Mini figurines Gift Memorabilia. Note:
-        Pre-order till 4 Dec 2023!"
+        Pre-order will start soon! "
       button: Click to find out more
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg

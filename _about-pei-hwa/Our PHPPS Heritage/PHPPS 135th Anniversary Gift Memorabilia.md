@@ -15,7 +15,7 @@ Parents of P6 graduation cohort can place your orders and collect them from the 
 
 ![PHPPS LEGO School Building](/images/Others%20Folder%20Images/135th%20Anniversary/lego%20school%20building.jpeg)
 
-**PHPPS 135 Gift Memorabilia Online Order Form** will be live from 20 November 2023 till 4 December 2023
+**PHPPS 135 Gift Memorabilia Online Order Form** will be live from 6 January till 22 January 2024
 
 [**Place Your Orders HERE.**](---)
 
