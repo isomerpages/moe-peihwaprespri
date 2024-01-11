@@ -31,8 +31,8 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0pky" colspan="2"><br><span style="font-weight:bold">Key Programmes Activities</span><br>
-			<br>March 2021 : SAA Kids Athletics (TBC)<br>
-			<span style="font-weight:400;font-style:normal">April 2021 : National School Games (TBC)<br></span><br>
+			<br>March  : SAA Kids Athletics (TBC)<br>
+			<span style="font-weight:400;font-style:normal">April  : National School Games (TBC)<br></span><br>
 		</td>
 		</tr>
   <tr>
