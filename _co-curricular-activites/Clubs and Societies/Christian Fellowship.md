@@ -6,6 +6,10 @@ third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
+
+
+### Aims &amp; Objectives
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
@@ -17,7 +21,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" colspan="2"><span style="font-weight:700;font-style:normal">Aims &amp; Objectives</span><br><br>- To develop the child holistically especially in his/her emotional and spiritual well-being.<br>- Inculcate school values in character building.<br>- To develop the leader in the child to set a fine example for others in speech, in life, in love, in faith and in purity.</th>
+    <th class="tg-0lax" colspan="2"><span style="font-weight:700;font-style:normal">  </span><br><br>- To develop the child holistically especially in his/her emotional and spiritual well-being.<br>- Inculcate school values in character building.<br>- To develop the leader in the child to set a fine example for others in speech, in life, in love, in faith and in purity.</th>
   </tr>
 </thead>
 <tbody>
