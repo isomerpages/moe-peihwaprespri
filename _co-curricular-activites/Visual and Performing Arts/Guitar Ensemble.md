@@ -20,10 +20,11 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky" colspan="2"><span style="font-weight:bold">       </span><br>
+    <th class="tg-0pky" colspan="2"><span style="font-weight:bold">       </span>
 			<span style="font-weight:400">- To instill a love of guitar music in members ·         </span><br>
 			<span style="font-weight:400">- To Develop school values, especially teamwork and socio-emotional skills through the CCA </span><br>
-			<span style="font-weight:400">- To provide a platform for guitar performance</span><br></th>
+			<span style="font-weight:400">- To provide a platform for guitar performance</span><br>
+		</th>
   </tr>
 </thead>
 <tbody>
