@@ -30,17 +30,21 @@ variant: markdown
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Teachers IC</span></td>
     <td class="tg-0lax">Low Yoke Kiat (CCA Head) <a href="mailto:low_yoke_kiat@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_yoke_kiat@moe.edu.sg</a><br>Zhou Xiao Feng<br></td>
 		</tr>
+	
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Venue:</span></td>
+    <td class="tg-0lax">Computer Lab 1</td>
+		</tr>
+		
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Day:</span></td>
+    <td class="tg-0lax">Monday</td>
+		</tr>
 </tbody>
 </table>
 
-**Venue** : Comp Lab 1  
-**Day** :  Monday
-  
-	
+
 ### Photos
-
-
-
 <figure>
 <img src="/images/cs%201.jpg">
 <figcaption>1.&nbsp;&nbsp;2021年新年庆祝活动表演——群口讲故事</figcaption>
