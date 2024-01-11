@@ -48,18 +48,16 @@ variant: markdown
   <tr>
     <td class="tg-0pky"><br><span style="font-weight:bold">Teachers IC</span></td>
     <td class="tg-0pky"><br>Mdm Hu Ying  (CCA Head) <a href="mailto:hu_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer">hu_ying@moe.edu.sg</a><br>
-			<span style="font-weight:normal">Mdm Yu Liting</span><br>
+			<span style="font-weight:normal">Mdm Winnie Chen</span><br>
 <span style="font-weight:normal">
-			</span>Winnie Chen<br>
-			Renee Ng Jun Yi<br>
-</td>
+			</span>Ms Renee Ng<br>
+			</td>
   </tr>	
   <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Venue:</span></td>
     <td class="tg-0lax">Hall</td>
 		</tr>
-		
-  <tr>
+		 <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Day:</span></td>
     <td class="tg-0lax">Monday and Friday</td>
 		</tr>
