@@ -29,12 +29,11 @@ variant: markdown
   <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Teachers IC</span></td>
     <td class="tg-0lax">Low Yoke Kiat (CCA Head) <a href="mailto:low_yoke_kiat@moe.edu.sg" target="_blank" rel="noopener noreferrer">low_yoke_kiat@moe.edu.sg</a><br>Zhou Xiao Feng<br></td>
-  </tr>
+		</tr>
 </tbody>
 </table>
 
 **Venue** : Comp Lab 1  
-
 **Day** :  Monday
   
 	
