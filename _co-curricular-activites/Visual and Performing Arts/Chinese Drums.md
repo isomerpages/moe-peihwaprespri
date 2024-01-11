@@ -3,6 +3,7 @@ title: Chinese Drums
 permalink: /co-curricular-activities-cca/visual-and-performing-arts/chinese-drums/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 <style type="text/css">
