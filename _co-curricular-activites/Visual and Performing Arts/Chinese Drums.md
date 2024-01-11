@@ -33,7 +33,7 @@ variant: markdown
   </tr>
   <tr>
      <td class="tg-0pky"><br><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><br><span style="font-weight:700;font-style:normal">Ms. Sim Shan Ting  (CCA Head) </span><br><a href="mailto:sim_shan_ting@moe.edu.sg" target="_blank" rel="noopener noreferrer">sim_shan_ting@moe.edu.sg</a>
+    <td class="tg-0pky"><br><span style="font-weight:400;font-style:normal">Ms. Sim Shan Ting  (CCA Head) </span><br><a href="mailto:sim_shan_ting@moe.edu.sg" target="_blank" rel="noopener noreferrer">sim_shan_ting@moe.edu.sg</a>
 		</td>
   </tr>
 </tbody>
