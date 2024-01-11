@@ -8,7 +8,7 @@ variant: markdown
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 
 
-##### Aims &amp; Objectives
+#### Aims &amp; Objectives
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
