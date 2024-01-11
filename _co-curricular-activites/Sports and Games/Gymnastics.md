@@ -36,20 +36,26 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky"><br><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><br><span style="font-weight:normal">Mrs Sharon Wang  (CCA Head) </span><a href="mailto:quek_shing_ting_sharon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:700">quek_shing_ting_sharon@moe.edu.sg</span></a>
+    <td class="tg-0pky"><br><span style="font-weight:normal">Mrs Sharon Wang  (CCA Head) </span><a href="mailto:quek_shing_ting_sharon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">quek_shing_ting_sharon@moe.edu.sg</span></a>
 			<br><span style="font-weight:normal">Sharon Wang
 </span><br><span style="font-weight:normal">Li Jing
 </span><br><span style="font-weight:normal">Nurulhuda
 </span><br><span style="font-weight:normal">Regina Yeo
 </span></td>
   </tr>
+		
+	
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Venue:</span></td>
+    <td class="tg-0lax">Hall</td>
+		</tr>
+		
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Day:</span></td>
+    <td class="tg-0lax">Tuesday , Wednesday </td>
+		</tr>
 </tbody>
 </table>
-
-**Venue** : Hall
-<br>
-**Day**: Monday, Tuesday, Wednesday, Friday
- 
 
 
 ### Photos
