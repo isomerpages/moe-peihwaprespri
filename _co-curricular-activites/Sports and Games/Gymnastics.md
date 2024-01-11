@@ -42,7 +42,6 @@ variant: markdown
 </span><br><span style="font-weight:normal">Ms Regina Yeo
 </span></td>
   </tr>
-		
 	
   <tr>
     <td class="tg-0lax"><span style="font-weight:bold;font-style:normal">Venue:</span></td>
