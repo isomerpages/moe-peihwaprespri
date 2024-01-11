@@ -37,8 +37,8 @@ variant: markdown
     <td class="tg-0pky"><br><span style="font-weight:400;font-style:normal">Mr. Woon Ta-Li (CCA Head) </span><a href="mailto:woon_ta-li@moe.edu.sg" target="_blank" rel="noopener noreferrer">woon_ta-li@moe.edu.sg</a>
 			<br><span style="font-weight:400;font-style:normal">Mr. John Leung (2IC)
 </span><br><span style="font-weight:400;font-style:normal">Mr. Mok Yin Jia
-</span><br><span style="font-weight:400;font-style:normal">Ms. Ong Li Hui Celestine
-</span><br><span style="font-weight:400">Ms. Emily Tan Hwee Leng
+</span><br><span style="font-weight:400;font-style:normal">Mrs. Ong Li Hui Celestine
+</span><br><span style="font-weight:400">Mrs. Emily Tan Hwee Leng
 </span></td>
 </tr>
   <tr>
