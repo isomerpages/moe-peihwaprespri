@@ -37,10 +37,9 @@ variant: markdown
   <tr>
     <td class="tg-0pky"><br><span style="font-weight:bold">Teachers IC</span></td>
     <td class="tg-0pky"><br><span style="font-weight:normal">Mrs Sharon Wang  (CCA Head) </span><a href="mailto:quek_shing_ting_sharon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">quek_shing_ting_sharon@moe.edu.sg</span></a>
-			<br><span style="font-weight:normal">Sharon Wang
-</span><br><span style="font-weight:normal">Li Jing
-</span><br><span style="font-weight:normal">Nurulhuda
-</span><br><span style="font-weight:normal">Regina Yeo
+			<br><span style="font-weight:normal">Mrs Sharon Wang
+</span><br><span style="font-weight:normal">Ms Li Jing
+</span><br><span style="font-weight:normal">Ms Regina Yeo
 </span></td>
   </tr>
 		
