@@ -34,7 +34,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-0pky"><br><span style="font-weight:bold">Teachers IC</span></td>
-    <td class="tg-0pky"><br><span style="font-weight:700;font-style:normal">Ms. Neo Eng Leng (CCA Head) </span><a href="mailto:neo_eng_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_eng_leng@moe.edu.sg</a>
+    <td class="tg-0pky"><br><span style="font-weight:400;font-style:normal">Ms. Neo Eng Leng (CCA Head) </span><a href="mailto:neo_eng_leng@moe.edu.sg" target="_blank" rel="noopener noreferrer">neo_eng_leng@moe.edu.sg</a>
 			<br><span style="font-weight:font-style:normal">Mdm. Agnes Ho
 			</span></td>
   </tr>	
@@ -63,4 +63,3 @@ variant: markdown
 <img src="/images/Performing%20the%20community.jpg">
 <figcaption> <strong>We achieved the Distinction Award in SYF 2018</strong> </figcaption>
 </figure>
-
