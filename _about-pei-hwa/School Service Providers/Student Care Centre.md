@@ -11,7 +11,6 @@ For student care services, please contact the following:
 ![commit learning student care](/images/commit%20learning%20logo.png)
 
   **Commit Learning Schoolhouse  
-Contact: Ms Pooevena  
 Tel: 89286418  
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
