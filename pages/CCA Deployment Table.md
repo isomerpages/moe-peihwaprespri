@@ -12,11 +12,11 @@ description: ""
 
 | No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
 | ----- | ----- | ----- | ---- | --- | --- |
-| 1     | Rhythmic Gymnastics  | Text     | text | text |  Tesxt |<br>
-|2|Table-Tennis|asdasd|asdasd|ffsdsadw|gasfad|
-|2|Tchoukball |asdasd|asdasd|ffsdsadw|gasfad|
-|3|Track and Field|asdasd|asdasd|ffsdsadw|gasfad|
-|4|Wushu|asdasd|asdasd|ffsdsadw|gasfad|
+| 1 | Rhythmic Gymnastics | Sharon Wang (CCA Head)<br>Li Jing<br>Regina Yeo| text | text |  Tesxt |<br>
+|2      |Table-Tennis|asdasd|asdasd|ffsdsadw|gasfad|
+|2      |Tchoukball |asdasd|asdasd|ffsdsadw|gasfad|
+|3      |Track and Field|asdasd|asdasd|ffsdsadw|gasfad|
+|4      |Wushu|asdasd|asdasd|ffsdsadw|gasfad|
 |asdasfqf<br>sdassdada|
 
 
