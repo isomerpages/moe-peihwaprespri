@@ -6,17 +6,17 @@ description: ""
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
 
-  Kindly note an Overall View of Preference Table on the CCA Deployment
+  ##### Overall View of Preference Table on the CCA Deployment
 	
 #### 	SPORTS &amp; GAMES (SNG)
 
 | No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
 | ----- | ----- | ----- | ---- | --- | --- |
-| 1 | Rhythmic Gymnastics | Sharon Wang (CCA Head)<br>Li Jing<br>Regina Yeo| text | text |  Tesxt |<br>
-|2      |Table-Tennis|asdasd|asdasd|ffsdsadw|gasfad|
-|2      |Tchoukball |asdasd|asdasd|ffsdsadw|gasfad|
-|3      |Track and Field|asdasd|asdasd|ffsdsadw|gasfad|
-|4      |Wushu|asdasd|asdasd|ffsdsadw|gasfad|
+| 1 | Rhythmic Gymnastics | Sharon Wang (CCA Head)<br>Li Jing<br>Regina Yeo| Hall | text |  Tesxt |<br>
+|2      |Table-Tennis| Pang Xin Yi (CCA Head)<br>Andy Goh<br>oh Seow Hwei<br>Guo Ting Ting<br>Tang Wei Kok<br>Yu Liting | Hall |ffsdsadw|gasfad|
+|2      |Tchoukball |Razak (CCA Head) |Hall|ffsdsadw|gasfad|
+|3      |Track and Field|Ong Jun Liang (CCA Head)|Hall|ffsdsadw|gasfad|
+|4      |Wushu|Hu Ying (CCA Head)|Hall|xxxx|gasfad|
 |asdasfqf<br>sdassdada|
 
 
