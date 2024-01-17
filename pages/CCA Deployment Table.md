@@ -13,11 +13,11 @@ description: ""
 | No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
 | ----- | ----- | ----- | ---- | --- | --- |
 | 1 | Rhythmic Gymnastics | Sharon Wang (CCA Head)<br>Li Jing<br>Regina Yeo| Hall | text |  Tesxt |<br>
-|2      |Table-Tennis| Pang Xin Yi (CCA Head)<br>Andy Goh<br>oh Seow Hwei<br>Guo Ting Ting<br>Tang Wei Kok<br>Yu Liting | Table Tennis Room |ffsdsadw|gasfad|
-|2      |Tchoukball |Razak (CCA Head) |Parade Sq|ffsdsadw|gasfad|
+|2      |Table-Tennis| Pang Xin Yi (CCA Head)<br>Andy Goh<br>oh Seow Hwei<br>Guo Ting Ting<br>Tang Wei Kok<br>Yu Liting | Table Tennis Room |Mon to Fri|gasfad|
+|2      |Tchoukball |Razak (CCA Head) |Parade Sq|Mon &amp; Fri|gasfad|
 |3      |Track and Field|Ong Jun Liang (CCA Head)<br>Nafsiyah<br>Dawn Ling<br>Teo Jing Wen<br>
-)|Hall|ffsdsadw|gasfad|
-|4      |Wushu|Hu Ying (CCA Head)|Hall|xxxx|gasfad|
+| | |Hall|Mon, Tue, Thur, Fri|gasfad|
+|4      |Wushu|Hu Ying (CCA Head)|Hall|Mon &amp; Fri|gasfad|
 |   |   |   |    |
 
 
