@@ -10,10 +10,13 @@ description: ""
 	
 #### 	SPORTS &amp; GAMES (SNG)
 
-| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
+| No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
 | ----- | ----- | ----- | ---- | --- | --- |
-| Text     | Text     | Text     | text | text |  Tesxt |<br>
-|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
+| 1     | Rhythmic Gymnastics  | Text     | text | text |  Tesxt |<br>
+|2|Table-Tennis|asdasd|asdasd|ffsdsadw|gasfad|
+|2|Tchoukball |asdasd|asdasd|ffsdsadw|gasfad|
+|3|Track and Field|asdasd|asdasd|ffsdsadw|gasfad|
+|4|Wushu|asdasd|asdasd|ffsdsadw|gasfad|
 |asdasfqf<br>sdassdada|
 
 
@@ -39,6 +42,16 @@ description: ""
 
 
 #### 	CLUBS &amp; SOCIETIES (CNS)
+| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
+| ----- | ----- | ----- | ---- | --- | --- |
+| Text     | Text     | Text     | text | text |  Tesxt |<br>
+|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
+|asdasfqf<br>sdassdada|
+
+
+
+
+#### 	TTLT
 | Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
 | ----- | ----- | ----- | ---- | --- | --- |
 | Text     | Text     | Text     | text | text |  Tesxt |<br>
