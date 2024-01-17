@@ -15,3 +15,32 @@ description: ""
 | Text     | Text     | Text     | text | text |  Tesxt |<br>
 |das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
 |asdasfqf<br>sdassdada|
+
+
+
+#### 	VISUAL &amp; PERFORMING ARTS (VPA)
+
+| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
+| ----- | ----- | ----- | ---- | --- | --- |
+| Text     | Text     | Text     | text | text |  Tesxt |<br>
+|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
+|asdasfqf<br>sdassdada|
+
+
+
+#### 	UNIFORMED GROUPS (UG)
+
+| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
+| ----- | ----- | ----- | ---- | --- | --- |
+| Text     | Text     | Text     | text | text |  Tesxt |<br>
+|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
+|asdasfqf<br>sdassdada|
+
+
+
+#### 	CLUBS &amp; SOCIETIES (CNS)
+| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
+| ----- | ----- | ----- | ---- | --- | --- |
+| Text     | Text     | Text     | text | text |  Tesxt |<br>
+|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
+|asdasfqf<br>sdassdada|
