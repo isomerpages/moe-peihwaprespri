@@ -4,7 +4,6 @@ permalink: /permalink/
 variant: markdown
 description: ""
 ---
-
 <table style="background-color:#FFFFE0;">
 <tbody><tr style="background-color:#BDB76B;color:#ffffff;">
 <th>Table Header 1</th><th>Table Header 2</th><th>Table Header 3</th><th>Table Header 4</th>
@@ -38,4 +37,5 @@ description: ""
 
 <p>Here's another glacier in New Zealand:
 	<a target="_blank" href="https://en.wikipedia.org/wiki/Fox_Glacier">Fox Glacier</a></p>
-
+	
+<p><a target="_blank" href="mailto:low_yoke_kiat@moe.edu.sg">low_yoke_kiat@moe.edu.sg</a></p>
