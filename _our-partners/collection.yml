@@ -1,0 +1,21 @@
+collections:
+  our-partners:
+    output: true
+    order:
+      - School Alumni/.keep
+      - School Alumni/School Alumni.md
+      - School Alumni/Show your appreciation to your Teachers online.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - Parents/2024 P1 Parents.md
+      - Parents/Insurance Claim.md
+      - Parents/Parents Support Group.md
+      - Parents/Parent Volunteers.md
+      - Parents/Feedback Form.md
+      - Parents Gateway/.keep
+      - Parents Gateway/Home Based Learning (HBL).md
+      - Parents Gateway/Parents Guide for PG Travel Declaration.md
+      - Parents Gateway/Frequently Ask Questions (FAQ).md
+      - Parents Gateway/Instructional Guide Annex A.md
+      - Parents Gateway/Parents Gateway.md
+      - Invitation To Quote (ITQ) & Request For Quotation (RFQ).md

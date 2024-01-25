@@ -1,0 +1,38 @@
+collections:
+  about-pei-hwa:
+    output: true
+    order:
+      - Our PHPPS Heritage/.keep
+      - Our PHPPS Heritage/School Heritage.md
+      - Our PHPPS Heritage/PHPPS 135th Anniversary Gift Memorabilia.md
+      - School Motto and Crest.md
+      - School Song.md
+      - Vision, Mission & Values.md
+      - School Management Committee.md
+      - School Staff/.keep
+      - School Staff/Key Personnel.md
+      - School Staff/Teaching Staff 2024 (Form Teachers).md
+      - School Staff/Teaching Staff 2024 (Non Form Teachers).md
+      - School Staff/Administrative and Support Staff.md
+      - General Information/.keep
+      - General Information/General Information.md
+      - General Information/Announcement.md
+      - General Information/School Hours and School Terms.md
+      - General Information/School Rules and Regulations.md
+      - General Information/School Safety and Security Procedures.md
+      - General Information/Financial Support.md
+      - General Information/Financial Information.md
+      - General Information/School Booklist.md
+      - General Information/Traffic Management Plan.md
+      - General Information/Primary 1 Registration.md
+      - General Information/Terms of use.md
+      - School Calendar.md
+      - School Service Providers/.keep
+      - School Service Providers/School Bus Service.md
+      - School Service Providers/School Bookshop & Uniforms.md
+      - School Service Providers/School Dental Clinic.md
+      - School Service Providers/Student Care Centre.md
+      - School Bus Advertisement.md
+      - School Canteen Advertisement.md
+      - Privacy Policy.md
+      - Quick Links.md

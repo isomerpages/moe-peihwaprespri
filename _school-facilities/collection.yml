@@ -1,0 +1,24 @@
+collections:
+  school-facilities:
+    output: true
+    order:
+      - General Office.md
+      - Classrooms.md
+      - Student Care.md
+      - Auditorium.md
+      - School Hall.md
+      - Canteen.md
+      - The Parade Square.md
+      - Library.md
+      - Music Studio.md
+      - Dance Studio.md
+      - Art Studio.md
+      - Science Laboratories.md
+      - Computer Laboratories.md
+      - The Vineyard.md
+      - Basketball court.md
+      - The Foyer.md
+      - School Field.md
+      - Koi Pond.md
+      - School Gates.md
+      - Bookshop.md
