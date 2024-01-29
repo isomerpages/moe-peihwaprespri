@@ -32,20 +32,17 @@ sections:
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
       alt: Image alt text
-  - textcards:
-      title: Event Highlights
-      id: textcards
-      cards:
-        - title: OYEA 2024 Outstanding Youth Education
-          description: A national recognition to young teachers and role models who
-            inspire students
-          linktext: Now OPEN till 10 Jan 2024
-          url: https://go.gov.sg/oyea2024
-        - title: PAT 2024 President Award for Teachers
-          description: A national recognition to young teachers and role models who
-            inspire students
-          linktext: Now OPEN till 10 Jan 2024
-          url: https://go.gov.sg/pat2024
-      subtitle: 强调
-      description: School Events & Highlights
+  - announcements:
+      title: School Announcements
+      id: announcements
+      announcement_items:
+        - title: No Visitation by Alumni Students on CNY Eve 9 Feb 2024
+          date: 29 January 2024
+          announcement: Please be informed that the school will not be open for visitation
+            by Alumni students on Chinese New Year's Eve on 9 Feb 2024 as we
+            would like all students and staff to leave early and spend time with
+            their families. We take this opportunity to wish everyone a Blessed
+            Chinese New Year and holidays.
+          link_text: ""
+          link_url: ""
 ---
