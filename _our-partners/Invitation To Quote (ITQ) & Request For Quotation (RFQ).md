@@ -33,7 +33,19 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 </thead>
 <tbody>
 <tr>
-
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000426</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 26 Jan 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 05 Feb 2024 01:00 PM</span></td>
+  </tr><tr>
+	 </tr><tr>
+	 </tr><tr>
+			</tr>	<tr><td class="tg-lhoz"><span style=""> ---</span></td>
+    <td class="tg-lhoz"><span style="">--- </span></td>
+    <td class="tg-lhoz"><span style=""> --- </span></td>
+    <td class="tg-lhoz"><span style=""> --- </span></td>
+  </tr><tr>
 </tr>
 </tbody>
 </table>
