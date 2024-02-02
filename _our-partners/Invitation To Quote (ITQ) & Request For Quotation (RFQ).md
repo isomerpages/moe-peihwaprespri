@@ -33,6 +33,13 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 </thead>
 <tbody>
 <tr>
+		</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000609</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Peer Support Training for School Peer Supporters (SPS) and CCA Leaders</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 01 Feb 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 16 Feb 2024 01:00 PM</span></td>
+  </tr><tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000601</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Student Leaders Leadership Camp</span></td>
