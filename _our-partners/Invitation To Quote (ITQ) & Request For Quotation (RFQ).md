@@ -41,6 +41,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 28 Feb 2024 01:00 PM</span></td>
   </tr><tr>
 	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000720</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Production of Video Highlights and Photography and Videography services for 7th National Text Recital Competition 2024 Finals and Awards Ceremony</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 Feb 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 29 Feb 2024 01:00 PM</span></td>
+  </tr><tr>
+	</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000609</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Peer Support Training for School Peer Supporters (SPS) and CCA Leaders</span></td>
