@@ -35,14 +35,4 @@ sections:
   - announcements:
       title: School Announcements
       id: announcements
-      announcement_items:
-        - title: No Visitation by Alumni Students on CNY Eve 9 Feb 2024
-          date: 29 January 2024
-          announcement: Please be informed that the school will not be open for visitation
-            by Alumni students on Chinese New Year's Eve on 9 Feb 2024 as we
-            would like all students and staff to leave early and spend time with
-            their families. We take this opportunity to wish everyone a Blessed
-            Chinese New Year and holidays.
-          link_text: ""
-          link_url: ""
 ---
