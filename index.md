@@ -22,6 +22,9 @@ sections:
         - title: Quick Links
           description: 快速链接
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/quick-links/
+  - announcements:
+      title: School Announcements
+      id: announcements
   - infopic:
       title: PHPPS 135th Anniversary
       subtitle: PHPPS 135th 周年纪念
@@ -32,7 +35,4 @@ sections:
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
       alt: Image alt text
-  - announcements:
-      title: School Announcements
-      id: announcements
 ---
