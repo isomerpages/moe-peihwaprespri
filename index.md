@@ -22,6 +22,9 @@ sections:
         - title: Quick Links
           description: 快速链接
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/quick-links/
+  - announcements:
+      title: School Announcements
+      id: announcements
   - infopic:
       title: PHPPS 135th Anniversary
       subtitle: PHPPS 135th 周年纪念
@@ -32,17 +35,4 @@ sections:
       url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/135th-phpps-anniversary/
       image: /images/LEGO_Minibuild_Final.jpg
       alt: Image alt text
-  - announcements:
-      title: School Announcements
-      id: announcements
-      announcement_items:
-        - title: No Visitation by Alumni Students on CNY Eve 9 Feb 2024
-          date: 29 January 2024
-          announcement: Please be informed that the school will not be open for visitation
-            by Alumni students on Chinese New Year's Eve on 9 Feb 2024 as we
-            would like all students and staff to leave early and spend time with
-            their families. We take this opportunity to wish everyone a Blessed
-            Chinese New Year and holidays.
-          link_text: ""
-          link_url: ""
 ---
