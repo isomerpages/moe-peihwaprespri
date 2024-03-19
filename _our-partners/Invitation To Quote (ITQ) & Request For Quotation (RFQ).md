@@ -8,8 +8,6 @@ variant: markdown
 Interested vendors are requested to refer to the ITQ / RFQ number and submit the quotation together with the necessary supporting documents via the Government GeBIZ portal.  
   
 
-**Note**: Items listed that are already greyed out reflect that it has already been closed/over.
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -35,6 +33,13 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001333</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">REQUIREMENT SPECIFICATIONS FOR THE DESIGN AND PRODUCTION OF 2024 SCHOOL ANNUAL FOR PEI HWA PRESBYTERIAN PRIMARY SCHOOL</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 19 Mar 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 27 Mar 2024 01:00 PM</span></td>
+  </tr><tr>
+		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24000956</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of manpower for Operations Support Officer from 1 April 2024 to 31 March 2025, with option to extend from 1 April 2025 to 31 March 2026</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 26 Feb 2024</span></td>
