@@ -24,7 +24,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics
-<br><a href="mailto:cheryl_wang@moe.edu.sg" rel="noopener noreferrer" target="_blank">cheryl_wang@moe.edu.sg</a>
+<br><a href="mailto:cheryl_wang@moe.edu.sg" rel="noopener noreferrer" target="_blank">cheryl_wang@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -55,7 +55,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Management
-<br><a href="mailto:loh_sheau_mei@moe.edu.sg" rel="noopener noreferrer" target="_blank">loh_sheau_mei@moe.edu.sg</a>
+<br><a href="mailto:loh_sheau_mei@moe.edu.sg" rel="noopener noreferrer" target="_blank">loh_sheau_mei@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>Mdm Sim Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_ai_ling@moe.edu.sg" rel="noopener noreferrer" target="_blank">sim_ai_ling@moe.edu.sg</a>
+<p><a href="mailto:sim_ai_ling@moe.edu.sg" rel="noopener noreferrer" target="_blank">sim_ai_ling@moe.edu.sg</a> 
 <br>
 </p>
 </td>
