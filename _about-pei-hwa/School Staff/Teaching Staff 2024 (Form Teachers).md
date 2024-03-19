@@ -435,8 +435,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs Celestine Wong</span></td>
-    <td class="tg-lmb7"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs Esther Teoh</span></td>
+    <td class="tg-lmb7"><a href="mailto:teoh_sze_miin@moe.edu.sg"><span style="text-decoration:none;color:#B29059">teoh_sze_miin@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 6</span></td>
