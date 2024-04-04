@@ -3,6 +3,7 @@ title: School Alumni
 permalink: /our-partners-1/school-alumni/
 description: ""
 third_nav_title: School Alumni
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 #### Pei Hwa Presbyterian Primary School (PHPPS) Alumni Association
@@ -34,12 +35,10 @@ Click&nbsp;**[HERE](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)*
 
 **[PHPPS Alumni Application Form V20210910](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)**
 
-**Information on the Changes to P1 Registration****:**
 
-For those who are registering your child into P1 in 2023, you may check the MOE website at the following link for more information on the latest changes to the P1 Registration Framework:
+**Information for P1 Registration****:**
 
-
-[**https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration**](https://www.moe.gov.sg/primary/p1-registration/changes-to-p1-registration)
+For those who are registering your child, you may check the MOE website at the following link for more information [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 #### _Request Form for Change of Address or Updates on Personal Particulars_
 
