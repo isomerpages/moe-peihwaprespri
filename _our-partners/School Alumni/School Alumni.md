@@ -35,9 +35,10 @@ Click&nbsp;**[HERE](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)*
 
 **[PHPPS Alumni Application Form V20210910](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)**
 
-**Information on the Changes to P1 Registration****:**
 
-For those who are registering your child, you may check the MOE website at the following link for more information [**https://www.moe.gov.sg/primary/p1-registration**](https://www.moe.gov.sg/primary/p1-registration)
+**Information for P1 Registration****:**
+
+For those who are registering your child, you may check the MOE website at the following link for more information [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
 
 #### _Request Form for Change of Address or Updates on Personal Particulars_
 
