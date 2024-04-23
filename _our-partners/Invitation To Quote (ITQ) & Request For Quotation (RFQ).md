@@ -34,6 +34,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001865</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply &amp; Delivery of Book Vouchers for 7th National Text Recital Competition</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 22 Apr 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 30 Apr 2024 01:00 PM</span></td>
+  </tr><tr>
+		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001333</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">REQUIREMENT SPECIFICATIONS FOR THE DESIGN AND PRODUCTION OF 2024 SCHOOL ANNUAL FOR PEI HWA PRESBYTERIAN PRIMARY SCHOOL</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 19 Mar 2024</span></td>
