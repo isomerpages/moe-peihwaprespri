@@ -35,6 +35,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 	</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001865</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 25 Apr 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 06 May 2024 01:00 PM</span></td>
+  </tr><tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001865</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply &amp; Delivery of Book Vouchers for 7th National Text Recital Competition</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 22 Apr 2024</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 30 Apr 2024 01:00 PM</span></td>
