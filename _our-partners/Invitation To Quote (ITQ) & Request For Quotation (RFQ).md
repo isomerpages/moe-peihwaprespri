@@ -34,6 +34,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24002006</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Part Time Office Attendant to Support Office Administration from 1 July 2024 to 30 June 2025 with Option to extend for another one year</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 29 Apr 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 08 May 2024 01:00 PM</span></td>
+  </tr><tr>
+	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24001865</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor(s) for Two-Days Thinkers Today Leaders Tomorrow (TTLT) Leadership Service Camp 2024</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 25 Apr 2024</span></td>
