@@ -3,6 +3,7 @@ title: Administrative and Support Staff
 permalink: /about-pei-hwa/school-staff/administrative-and-support-staff/
 description: ""
 third_nav_title: School Staff
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
@@ -40,7 +41,7 @@ third_nav_title: School Staff
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Tan Kah Gek</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Lau Kum Ying</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
 	  <tr>
