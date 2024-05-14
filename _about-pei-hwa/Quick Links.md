@@ -45,7 +45,6 @@ Please refer to the links below for your reference.
 | -------- | -------- | -------- |
 [Pei Hwa - Our Partners Parents](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents|
 [Parents Gateway](https://pg.moe.edu.sg/)|https://pg.moe.edu.sg/|
-[Parents Gateway Informations](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/our-partners-1/parents/parents-gateway)|https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/our-partners-1/parents/parents-gateway|
 [Parents Support Group (PSG)](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-support-group)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-support-group|
 [Parent Volunteers Scheme](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers|
 [Ministry of Health](https://www.moh.gov.sg/)|https://www.moh.gov.sg/|
