@@ -3,6 +3,7 @@ title: School Rules and Regulations
 permalink: /about-pei-hwa/general-information/school-rules-and-regulations/
 description: ""
 third_nav_title: General Information
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 The school seeks to create and sustain a learning environment that is safe, respectful and caring for all.  Every pupils is responsible in creating a positive learning environment through self-management and responsible decision making.  Each pupil is to be respectful of others and their property in the learning environment.
@@ -27,7 +28,7 @@ The school seeks to create and sustain a learning environment that is safe, resp
 
 *   It is compulsory for every pupil to attend school. Absence from school is only permitted when it is supported by a medical certificate from a doctor or a letter of excuse from the parents / guardians.
 *   Pupils will not be granted permission for vacation before the term ends.
-*   Pupils must observe punctuality at all times. Students are to be in school by 7.20 am (morning session) and 12.30 pm (afternoon session) during school days (unless otherwise stated) for the flag-raising and pledge-taking ceremony.
+*   Pupils must observe punctuality at all times. Students are to be in school by 7.25 am during school days (unless otherwise stated) for the flag-raising and pledge-taking ceremony.
 *   Pupils are not allowed to leave the school premises during curriculum time or before supplementary / remedial lessons / CCA without the permission of the Principal, Vice-Principal or Heads of Department. Any such act will be considered as truancy.
 
   
