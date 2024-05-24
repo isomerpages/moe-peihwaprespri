@@ -33,6 +33,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24002325</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Part Time Office Attendant to Support Office Administration from 1 July 2024 to 30 June 2025 with Option to extend for another one year</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 24 May 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 03 June 2024 01:00 PM</span></td>
+  </tr><tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24002006</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Part Time Office Attendant to Support Office Administration from 1 July 2024 to 30 June 2025 with Option to extend for another one year</span></td>
