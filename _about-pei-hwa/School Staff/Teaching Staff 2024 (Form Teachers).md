@@ -181,8 +181,8 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Regina Yeo</span></td>
-    <td class="tg-gqk5"><a href="mailto:regina_yeo_shu_wen@moe.edu.sg"><span style="text-decoration:none;color:#B29059">regina_yeo_shu_wen@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ong Shue Li</span></td>
+    <td class="tg-gqk5"><a href="mailto:ong_shue_li@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_shue_li@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -322,8 +322,8 @@ variant: markdown
   </tr>
 	 <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Evelyn Wong</span></td>
-    <td class="tg-gqk5"><a href="mailto:wong_geok_lan_evelyn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_geok_lan_evelyn@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ong Li Hui Celestine Ong</span></td>
+    <td class="tg-gqk5"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Teamwork 3</span></td>
@@ -513,13 +513,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Guo Ting Ting</span></td>
-    <td class="tg-gqk5"><a href="mailto:guo_ting_tingmoe.edu.sg"><span style="text-decoration:none;color:#B29059">guo_ting_ting@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Jiang Yanyan</span></td>
+    <td class="tg-gqk5"><a href="mailto:jiang_yanyan@moe.edu.sg"><span style="text-decoration:none;color:#B29059">jiang_yanyan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Choy Kum Yoke</span></td>
-    <td class="tg-gqk5"><a href="mailto:choy_kum_yoke@moe.edu.sg"><span style="text-decoration:none;color:#B29059">choy_kum_yoke@moe.edu.sg</span></a></td>
+    <td class="tg-gqk5"><a href="mailto:choy_kum_yoken@moe.edu.sg"><span style="text-decoration:none;color:#B29059">choy_kum_yoke@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 6</span></td>
