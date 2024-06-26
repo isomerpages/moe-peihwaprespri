@@ -513,13 +513,13 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Guo Ting Ting</span></td>
-    <td class="tg-gqk5"><a href="mailto:guo_ting_tingmoe.edu.sg"><span style="text-decoration:none;color:#B29059">guo_ting_ting@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Jiang Yanyan</span></td>
+    <td class="tg-gqk5"><a href="mailto:jiang_yanyan@moe.edu.sg"><span style="text-decoration:none;color:#B29059">jiang_yanyan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Jiang Yanyan</span></td>
-    <td class="tg-gqk5"><a href="mailto:jiang_yanyan@moe.edu.sg"><span style="text-decoration:none;color:#B29059">jiang_yanyan@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Choy Kum Yoke</span></td>
+    <td class="tg-gqk5"><a href="mailto:choy_kum_yoken@moe.edu.sg"><span style="text-decoration:none;color:#B29059">choy_kum_yoke@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 6</span></td>
