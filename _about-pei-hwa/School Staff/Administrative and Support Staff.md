@@ -33,7 +33,7 @@ variant: markdown
     <td class="tg-vqm8">Operations Manager<br><a href="mailto:phpps@moe.edu.sg"><span style="text-decoration:none;color:#B29059">phpps@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Chew Jan Ling</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm. Chew Jan Ling</span></td>
     <td class="tg-lr6o"><span style="color:#222">Administrative Executive </span></td>
   </tr>
   <tr>
@@ -41,15 +41,15 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Lau Kum Ying</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm. Ginny Liang</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
 	  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Ms. Cecilia Chan</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm. Cecilia Chan</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">Corporate Support Officer</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Joyce Kweh Fen Fen</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Ms. Joyce Kweh Fen Fen</span></td>
     <td class="tg-lr6o"><span style="color:#222">School Librarian Assistant</span><br><a href="mailto:phpps@moe.edu.sg"><span style="text-decoration:none;color:#B29059">phpps@moe.edu.sg</span></a></td>
   </tr>
   <tr>
