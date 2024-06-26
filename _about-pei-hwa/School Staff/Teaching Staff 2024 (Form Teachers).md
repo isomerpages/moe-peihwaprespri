@@ -322,8 +322,8 @@ variant: markdown
   </tr>
 	 <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Evelyn Wong</span></td>
-    <td class="tg-gqk5"><a href="mailto:wong_geok_lan_evelyn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_geok_lan_evelyn@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ong Li Hui Celestine Ong</span></td>
+    <td class="tg-gqk5"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Teamwork 3</span></td>
