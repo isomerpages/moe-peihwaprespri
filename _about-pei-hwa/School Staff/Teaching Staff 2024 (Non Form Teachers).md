@@ -36,7 +36,7 @@ variant: tiptap
 <p>Mdm Sim Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_ai_ling@moe.edu.sg" rel="noopener noreferrer" target="_blank">sim_ai_ling@moe.edu.sg</a> 
+<p><a href="mailto:sim_ai_ling@moe.edu.sg" rel="noopener noreferrer" target="_blank">sim_ai_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
