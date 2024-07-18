@@ -39,7 +39,7 @@ variant: markdown
     <td class="tg-0pky"><br><span style="font-weight:normal">Mrs Sharon Wang  (CCA Head) </span><a href="mailto:quek_shing_ting_sharon@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400">quek_shing_ting_sharon@moe.edu.sg</span></a>
 			<br><span style="font-weight:normal">Mrs Sharon Wang
 </span><br><span style="font-weight:normal">Ms Li Jing
-</span><br><span style="font-weight:normal">Ms Kimberly
+</span><br><span style="font-weight:normal">Ms Kimberly Hay
 </span></td>
   </tr>
 	
