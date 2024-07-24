@@ -25,4 +25,15 @@ sections:
   - announcements:
       title: School Announcements
       id: announcements
+      subtitle: "-"
+      announcement_items:
+        - title: School Visitation
+          date: 29 August 2024
+          announcement: The school will be opened on 29 Aug 2024 between 11 am – 12 noon
+            to allow ex-PHPPS students who have made appointments with their
+            teachers to visit. To avoid disappointments, ex-PHPPS students who
+            would like to meet your teachers please make an appointment with
+            your teachers. Thank you.
+          link_text: ""
+          link_url: ""
 ---
