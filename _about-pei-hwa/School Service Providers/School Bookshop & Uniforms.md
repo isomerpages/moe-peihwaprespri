@@ -3,6 +3,7 @@ title: School Bookshop & Uniforms
 permalink: /about-pei-hwa/school-service-providers/school-bookshop-uniforms/
 description: ""
 third_nav_title: School Service Providers
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 For Retail Uniform services, please contact the following:
@@ -10,7 +11,7 @@ For Retail Uniform services, please contact the following:
 **Company: My Uniform Shop** <br>
 Contact numbers: <br>
 6276 6689 (Main Office)<br>
-6469 2580 (School)
+
 
 Note: Sale of uniform is made available&nbsp;online:&nbsp;&nbsp;&nbsp;**[https://www.myuniformshop.com.sg/](https://www.myuniformshop.com.sg/)**
 
