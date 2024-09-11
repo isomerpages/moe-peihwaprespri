@@ -25,5 +25,14 @@ sections:
   - announcements:
       title: School Announcements
       id: announcements
-      subtitle: "-"
+      subtitle: Pei Hwa Presbyterian Primary
+      announcement_items:
+        - title: 2025 P1 Parents
+          date: 11 September 2024
+          announcement: "Join us in our P1 Orientation Programme on 7 November, Thursday.
+            Objective: To share useful information to help your child/ward to
+            transit into Primary 1 next year. More details of the Orientation
+            Programme will be shared with you via Parents Gateway in October."
+          link_text: ""
+          link_url: ""
 ---
