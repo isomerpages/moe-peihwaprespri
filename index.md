@@ -22,8 +22,4 @@ sections:
         - title: Quick Links
           description: 快速链接
           url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/quick-links/
-  - announcements:
-      title: School Announcements
-      id: announcements
-      subtitle: "-"
 ---
