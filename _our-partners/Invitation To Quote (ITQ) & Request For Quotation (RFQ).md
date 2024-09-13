@@ -33,6 +33,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24004087</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Conversational Malay Programme (CCM) in Pei Hwa Presbyterian Primary School</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 12 Sept 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 20 Sep 2024 01:00 PM</span></td>
+  </tr><tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24003600</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Design, supply &amp; construction of Science Garden (Including supply of garden elements and outdoor learning spaces)</span></td>
