@@ -149,6 +149,11 @@ variant: markdown
     <td class="tg-fxx4"><span style="color:#222">Ms Evelyn Wong</span></td>
     <td class="tg-gqk5"><a href="mailto:wong_geok_lan_evelyn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_geok_lan_evelyn@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Wong Phuay Hang</span></td>
+    <td class="tg-gqk5"><a href="mailto:wong_phuay_hang@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_phuay_hang@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 4</span></td>
     <td class="tg-fxx4"><span style="color:#222">Mrs Cynthia Yang</span></td>
@@ -314,11 +319,6 @@ variant: markdown
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Mr Mok Ying Jia</span></td>
     <td class="tg-gqk5"><a href="mailto:mok_ying_jia@moe.edu.sg"><span style="text-decoration:none;color:#B29059">mok_ying_jia@moe.edu.sg</span></a></td>
-  </tr>
-	 <tr>
-    <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Wong Phuay Hang</span></td>
-    <td class="tg-gqk5"><a href="mailto:wong_phuay_hang@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_phuay_hang@moe.edu.sg</span></a></td>
   </tr>
 	 <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
