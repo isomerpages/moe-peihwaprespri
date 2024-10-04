@@ -13,7 +13,10 @@ Welcome to Pei Hwa Presbyterian Primary School.
 
 We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **P1 Book List and P1 Uniform List**.  They will also be made available on the school website, https://www.peihwapresbyterianpri.moe.edu.sg/ from **10 October 2024**.     
 
-![50%](/images/Buttons/p1%20booklist.JPG)
+
+<p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf">
+<img src="/images/P1%20booklist.png" style="width:40%">
+</a></p>
 
 
 **Schedule for Sale of Books and Uniform in School**
@@ -39,7 +42,3 @@ The **P1 Orientation Day will be held on 7 November 2024 (morning)** in school. 
 
 #### Commit Learning SchoolHouse @ Pei Hwa Presbyterian Primary School
 For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our school website at https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/
-
-
-
-
