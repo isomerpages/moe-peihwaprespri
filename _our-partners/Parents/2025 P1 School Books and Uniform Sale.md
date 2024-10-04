@@ -46,4 +46,4 @@ The **P1 Orientation Day will be held on 7 November 2024 (morning)** in school. 
 
 
 #### Commit Learning SchoolHouse @ Pei Hwa Presbyterian Primary School
-For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our school website at [HERE]( https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/) 
+For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our school website at [HERE]( https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/)
