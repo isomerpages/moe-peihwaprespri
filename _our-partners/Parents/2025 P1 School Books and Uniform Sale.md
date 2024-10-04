@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Parents
 ---
+
 ### 2025 P1 School Books and Uniform Sale Schedule
 
 Dear 2025 P1 Parents/Guardians,
@@ -13,7 +14,10 @@ Welcome to Pei Hwa Presbyterian Primary School.
 
 We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **P1 Book List and P1 Uniform List**.  They will also be made available on the school website, https://www.peihwapresbyterianpri.moe.edu.sg/ from **10 October 2024**.     
 
-<p><a href="/files/Booklist/2024/p1%20booklist%202024%20revised.pdf">
+[--](/files/Booklist/2025/P1_Booklist_2025.pdf)
+
+
+<p><a href="/files/Booklist/2025/P1_Booklist_2025.pdf">
 <img src="/images/Buttons/p1%20booklist.JPG" style="width:30%">
 </a></p>
 .
