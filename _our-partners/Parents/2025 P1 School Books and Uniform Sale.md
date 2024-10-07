@@ -11,10 +11,8 @@ Dear 2025 P1 Parents/Guardians,
 
 Welcome to Pei Hwa Presbyterian Primary School.
 
-We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **[P1 Book List](/files/Booklist/2025/P1_Booklist_2025_up.pdf) and [P1 Uniform List](/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf)**.  They will also be made available on the school website, https://www.peihwapresbyterianpri.moe.edu.sg/ from **10 October 2024**.     
+We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **[P1 Book List](/files/Booklist/2025/P1_Booklist_2025_up.pdf) and [P1 Uniform List](/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf)**.  Its available on the school website from **10 October 2024**.     
 
-[?](/files/Booklist/2025/P1_Booklist_2025_up.pdf)
-[/](/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf)
 
 <p><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf">
 <img src="/images/Buttons/p1%20booklist.JPG" style="width:30%">
@@ -46,7 +44,7 @@ The **P1 Orientation Day will be held on 7 November 2024 (morning)** in school. 
 
 
 #### Commit Learning SchoolHouse @ Pei Hwa Presbyterian Primary School
-For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our school website at [HERE]( https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/)
+For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our [school website]( https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/)
 
 For student care services, please contact the following:
 <img src="/images/commit%20learning%20logo.png" style="width:30%">
