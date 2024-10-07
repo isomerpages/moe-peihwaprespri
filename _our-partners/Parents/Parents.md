@@ -3,6 +3,7 @@ title: Parents
 permalink: /our-partners-1/parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 Dear Parents,  
@@ -20,13 +21,10 @@ For more details you may refer to these title links below;
 
 **[2024 P1 Parents](https://staging.d3ud1e33ljueqf.amplifyapp.com/our-partners-1/parents/2024-p1-parents/)**
 
-
+**[2025 P1 School Books and Uniform Sale Schedule](https://www.peihwapresbyterianpri.moe.edu.sg/2025-p1-school-books-and-uniform-sale/)**
   
 For more school information you may click&nbsp;[**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/)&nbsp;&nbsp;for the school&nbsp;**General Information**&nbsp;page  
   
-For updated school&nbsp;**Announcements**&nbsp;please click&nbsp;[**HERE**](https://staging.d3ud1e33ljueqf.amplifyapp.com/about-pei-hwa/general-information/announcement/).
-
-
 
 ### Parents One Stop Links
 
