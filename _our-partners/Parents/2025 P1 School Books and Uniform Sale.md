@@ -24,6 +24,7 @@ We are glad to inform you that you may come to the school to purchase books and 
 
 
 **Schedule for Sale of Books and Uniform in School**
+
 | S/No. | Date | Time |
 | -------- | -------- | -------- |
 | 1| 14 October 2024 (Monday)| 9 am to 3 pm |
