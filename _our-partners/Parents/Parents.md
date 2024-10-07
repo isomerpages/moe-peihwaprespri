@@ -26,5 +26,3 @@ You may also refer to these direct links for individual information.
 | -------- | -------- | -------- |
 | **[School Booklist](https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/school-booklist/)**                              | **[Student Care Centre](https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/)**    | **[Financial Assistance Scheme (MOE FAS)](https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/general-information/financial-support/)**     |
 |  |  |  |
-
-
