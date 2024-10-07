@@ -22,6 +22,7 @@ We are glad to inform you that you may come to the school to purchase books and 
 <img src="/images/Buttons/school%20uniform.JPG" style="width:30%">
 </a></p>
 
+
 **Schedule for Sale of Books and Uniform in School**
 | S/No. | Date | Time |
 | -------- | -------- | -------- |
