@@ -53,7 +53,5 @@ For student care services, please contact the following:
 Tel: 89286418  
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
-<img src="/images/commit%20learning%20logo.png" style="width:30%">
+<img src="/images/commit%20learning%20logo.png" style="width:50%">
 <p></p>
-
-
