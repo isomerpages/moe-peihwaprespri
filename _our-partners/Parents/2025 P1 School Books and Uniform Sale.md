@@ -46,12 +46,14 @@ The **P1 Orientation Day will be held on 7 November 2024 (morning)** in school. 
 #### Commit Learning SchoolHouse @ Pei Hwa Presbyterian Primary School
 For parents interested in registering your child for student care services, please complete the School Student Care Application Form available on our [school website]( https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-service-providers/student-care-centre/)
 
-For student care services, please contact the following:
-<img src="/images/commit%20learning%20logo.png" style="width:30%">
-<p></p>
+##### [School Student Care Application](https://docs.google.com/forms/d/e/1FAIpQLSeh5oos_3HJrliSvMH8AoxE5Dd2ueBaxmbdgVLwnee5VScUWA/viewform)
 
+For student care services, please contact the following:
 **Commit Learning Schoolhouse  
 Tel: 89286418  
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
-##### [School Student Care Application](https://docs.google.com/forms/d/e/1FAIpQLSeh5oos_3HJrliSvMH8AoxE5Dd2ueBaxmbdgVLwnee5VScUWA/viewform)
+<img src="/images/commit%20learning%20logo.png" style="width:30%">
+<p></p>
+
+
