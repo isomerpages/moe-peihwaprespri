@@ -86,7 +86,7 @@ Students are able to take part in various themed activities with their peers, al
 During Math Week, opportunities are also given to our math leaders to take charge in our classroom and recess activities. They are empowered to lead assembly programmes and share more about the year’s theme to their schoolmates. 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Math Leaders bringing their joy for math on stage - emceeing for Math Week Assembly programme**   |
+| <img src="/images/ACADEMICS/Mathematics/IMG_7595.jpg" style="width:100%"> |**Math Leaders bringing their joy for math on stage - emceeing for Math Week Assembly programme**   |
 | | |
 
 
