@@ -10,13 +10,17 @@ The overall objective of the Mathematics curriculum centres on mathematical prob
 
 Pupils engage in experiential learning in classrooms through various hands-on activities. These learning experiences focus on the mathematical processes and skills that are integral parts of learning for that topic. 
 
-[Pics of students using manipulatives]
 
-![](/images/math%201.png)
+   
+| **[Pics of students using manipulatives]** |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/IMG_6912__1_.jpg" style="width:60%"> | Student exploring the use of shapes to tell a story |
+| <img src="/images/ACADEMICS/Mathematics/IMG_0431.jpg" style="width:70%"> | A pair of students using money discs to represent and check their understanding. |
+|<img src="/images/ACADEMICS/Mathematics/math_3.png" style="width:70%"> | Pupils put their newly acquired knowledge on conversion to test by matching different cards.|
+| |  |
+| |  |
 
-![](/images/math%202.png)
 
-![](/images/math%204.png)
 
 Learning of Mathematics in PHPPS is not limited to books and worksheets.
 
@@ -49,7 +53,7 @@ There are programmes planned for students to spark their interest in the subject
 
 
 ### Math Trail
-During the Math Trail, our P1 & P2 students explore the school compound to complete math tasks at the various stations. The tasks are designed to draw students’ attention to real-life applications of the concepts learnt. Through this trail,  an atmosphere of adventure is created for students to uncover connections between Mathematics and the school’s surroundings. Apart from instilling the joy of learning in students, they work together in groups to solve problems. This reinforces on the school values of Teamwork and Resilience. Students learn to appreciate teamwork and work together to complete the activities
+During the Math Trail, our P1 &amp; P2 students explore the school compound to complete math tasks at the various stations. The tasks are designed to draw students’ attention to real-life applications of the concepts learnt. Through this trail,  an atmosphere of adventure is created for students to uncover connections between Mathematics and the school’s surroundings. Apart from instilling the joy of learning in students, they work together in groups to solve problems. This reinforces on the school values of Teamwork and Resilience. Students learn to appreciate teamwork and work together to complete the activities
 
 
 ### Math Week
