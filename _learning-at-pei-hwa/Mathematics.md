@@ -42,17 +42,17 @@ To achieve this, we provide our pupils with feedback to encourage them when they
 
 ![](/images/math%204.png)
 
-## **Department Signature Program**
+## **Department Signature Programmes**
 
 There are programmes planned for students to spark their interest in the subject as well as to allow them to see the relevance of what they are learning in the real world. These are some of the mathematics programmes in PHPPS:
 
 
 
-#### Math Trail
+### Math Trail
 During the Math Trail, our P1 & P2 students explore the school compound to complete math tasks at the various stations. The tasks are designed to draw students’ attention to real-life applications of the concepts learnt. Through this trail,  an atmosphere of adventure is created for students to uncover connections between Mathematics and the school’s surroundings. Apart from instilling the joy of learning in students, they work together in groups to solve problems. This reinforces on the school values of Teamwork and Resilience. Students learn to appreciate teamwork and work together to complete the activities
 
 
-#### Math Week
+### Math Week
 Every year, a week in Term 1 or 2 is dedicated for Maths Week for the students to have fun. Students are exposed to different themes to explore and discover Mathematics around them. Past themes include ‘The Mathematician in me’ and ‘Math around us’.
 
 Students are able to take part in various themed activities with their peers, allowing them to have fun learning Math together through poster design, augmented reality hunts and math performances.  
@@ -64,7 +64,7 @@ Students are able to take part in various themed activities with their peers, al
 During Math Week, opportunities are also given to our math leaders to take charge in our classroom and recess activities. They are empowered to lead assembly programmes and share more about the year’s theme to their schoolmates. 
 
 
-#### **5 MINDS For the Future**
+### **5 MINDS For the Future**
 In alignment with our school’s initiative to develop pupils to thrive in the Volatile, Uncertain, Complex and Ambiguous (VUCA) world, the Mathematics department has embarked on Howard Gardner’s ‘5 Minds for the Future’ for our P3 to P6 pupils. Going beyond their classroom problem-solving routines, pupils are exposed to the application of Mathematics in the real-world context while engaging the 5 Minds in various problem-solving processes. 
 
 ![](/images/math%205.png)
