@@ -55,6 +55,9 @@ variant: markdown
 </tbody>
 </table>
 
+##### **Note: The CCA will be discontinued end 2026. Recruitment will cease in 2025.**
+
+
 
 ### Photos
 
