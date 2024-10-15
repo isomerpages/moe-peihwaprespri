@@ -7,8 +7,13 @@ variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 
+
+
+
+<img src="/images/commit%20learning%20logo.png" style="width:50%">
+<p></p>
+
 For student care services, please contact the following:
-![commit learning student care](/images/commit%20learning%20logo.png)
 
   **Commit Learning Schoolhouse  
 Tel: 89286418  
