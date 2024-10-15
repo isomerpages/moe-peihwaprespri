@@ -89,10 +89,9 @@ Green!@PHPPS was initiated with the **EPA - Exposure, Practice and Advocate** in
 Green!@PHPPS is anchored using the **3S framework – Sustainability Programs, Student Leadership and Staff Involvement.** The science department, with the strong support of all other teaching and non-teaching staff, advocates environmental issues through exposure to real-world environmental contexts and exercising sustainability practices in students' daily life. This is in alignment with the **curriculum and culture components of the MOE Eco-stewardship programme.**
 
 The Green!@PHPPS focus for each year is divided into 3 environmental themes. To ensure that each environmental theme has a positive impact on students, the culture aspect through practice is closely tied in with the curriculum aspects through SLS lessons and Green!Times. The learning experience are also tiered at 4 levels:
+<img src="/images/ACADEMICS/Science/GEframeworkedited.png" style="width:60%">
 
 
-![](/images/green%20corner.png)
-![](/images/green%20corner%203.jpg)
 
 ### **Innovation Programme (IvP)**
 Innovation programme (IvP) provides a unique opportunity for selected Primary 5 pupils to develop their problem-solving and inventive skills. The Innovation Programme aims to equip the pupils with the mind-set, skills and knowledge of an Entrepreneur and to assist the pupils to generate new, innovative ideas that can help the society and improve our living conditions.  The various training sessions that the pupils attend helps to nurture a “problem-solution” mind-set for pupils and to enhance the pupils’ creative and innovative thinking skills. The pupils will develop a prototype that helps improve the lives of people and to present their idea in front of a panel of judges who will select the best innovative product as well as the best presentation group.
