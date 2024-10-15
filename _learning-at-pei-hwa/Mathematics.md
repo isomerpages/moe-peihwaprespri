@@ -50,6 +50,7 @@ To achieve this, we provide our pupils with feedback to encourage them when they
 | |  |
 | -------- | -------- |
 | <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students receive feedback on their progress from their teachers after they complete a school worksheet.**   |
+| <img src="/images/ACADEMICS/Mathematics/GM_05.jpg" style="width:100%"> |**A group of students using the Growth Mindset Ruler and Feedback TAG (Tell me something you like, Ask a question, Give a positive suggestion) to support the learning of their peers.**   |
 | | |
 
 
@@ -59,18 +60,26 @@ There are programmes planned for students to spark their interest in the subject
 
 
 
-### Math Trail
+### **Math Trail**
 During the Math Trail, our P1 &amp; P2 students explore the school compound to complete math tasks at the various stations. The tasks are designed to draw students’ attention to real-life applications of the concepts learnt. Through this trail,  an atmosphere of adventure is created for students to uncover connections between Mathematics and the school’s surroundings. Apart from instilling the joy of learning in students, they work together in groups to solve problems. This reinforces on the school values of Teamwork and Resilience. Students learn to appreciate teamwork and work together to complete the activities
 
+| |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students looked around outside the library to find the answer to the given task.**   |
+| <img src="/images/ACADEMICS/Mathematics/GM_05.jpg" style="width:100%"> |**Students recorded their findings at one of the stops.**   |
+| | |
 
-### Math Week
+
+### **Math Week**
 Every year, a week in Term 1 or 2 is dedicated for Maths Week for the students to have fun. Students are exposed to different themes to explore and discover Mathematics around them. Past themes include ‘The Mathematician in me’ and ‘Math around us’.
 
 Students are able to take part in various themed activities with their peers, allowing them to have fun learning Math together through poster design, augmented reality hunts and math performances.  
 
-![](/images/math%204.png)
-
-[pics of posters, CCS, AR]
+| |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students receive feedback on their progress from their teachers after they complete a school worksheet.**   |
+| <img src="/images/ACADEMICS/Mathematics/GM_05.jpg" style="width:100%"> |**A group of students using the Growth Mindset Ruler and Feedback TAG (Tell me something you like, Ask a question, Give a positive suggestion) to support the learning of their peers.**   |
+| | |
 
 During Math Week, opportunities are also given to our math leaders to take charge in our classroom and recess activities. They are empowered to lead assembly programmes and share more about the year’s theme to their schoolmates. 
 
