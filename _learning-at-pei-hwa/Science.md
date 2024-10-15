@@ -88,24 +88,18 @@ Green!@PHPPS was initiated with the **EPA - Exposure, Practice and Advocate** in
 
 Green!@PHPPS is anchored using the **3S framework – Sustainability Programs, Student Leadership and Staff Involvement.** The science department, with the strong support of all other teaching and non-teaching staff, advocates environmental issues through exposure to real-world environmental contexts and exercising sustainability practices in students' daily life. This is in alignment with the **curriculum and culture components of the MOE Eco-stewardship programme.**
 
-The Green!@PHPPS focus for each year is divided into 3 environmental themes. To ensure that each environmental theme has a positive impact on students, the culture aspect through practice is closely tied in with the curriculum aspects through SLS lessons and Green!Times. The learning experience are also tiered at 4 levels:
+The Green!@PHPPS focus for each year is divided into 3 environmental themes. To ensure that each environmental theme has a positive impact on students, the culture aspect through practice is closely tied in with the curriculum aspects through SLS lessons and Green!Times. The learning experience are also tiered at 4 levels:<br>
 
 •	**Tier 1** - Class experiences (SLS lessons, Class recycling corners, Green!@PHPPS Progress Card)<br>
 •	**Tier 2** - Level experiences (Competitions, Green Projects)<br>
 •	**Tier 3** - School wide experiences (Sustainability practices in school, Sharing by environmental leaders, Green!Times)<br>
 •	**Tier 4** - Community experiences (VIA, projects and collaboration with external agencies)<br>
-
 <img src="/images/ACADEMICS/Science/GEframeworkedited.png" style="width:60%">
-
-
-
+<br>
 ### **Innovation Programme (IvP)**
 Innovation programme (IvP) provides a unique opportunity for selected Primary 5 pupils to develop their problem-solving and inventive skills. The Innovation Programme aims to equip the pupils with the mind-set, skills and knowledge of an Entrepreneur and to assist the pupils to generate new, innovative ideas that can help the society and improve our living conditions.  The various training sessions that the pupils attend helps to nurture a “problem-solution” mind-set for pupils and to enhance the pupils’ creative and innovative thinking skills. The pupils will develop a prototype that helps improve the lives of people and to present their idea in front of a panel of judges who will select the best innovative product as well as the best presentation group.
 
-  
-
-### **Assessment**
-
+  ### **Assessment**
 Assessment is an integral part of learning and there are different modes of assessment that the Science employ to assess our pupils’ understanding of the concepts taught as well as to identify the learning gaps for intervention.
 
 Checklists and rubrics are used to monitor the pupil’s understanding of key learning for each level with the P3 pupils (2023) going through project assessment. Project assessment would provide teachers with the opportunity to assess students in various areas like – note-taking, collection of samples, creation of prototypes, reflection, etc. Topical worksheets are given at the end of each topic and these help to consolidate the learning of the concepts as the pupils apply what they have learnt to answer the questions in these worksheets. These form part of the assessment for learning where feedback is given to the pupils on their work for improvement.
