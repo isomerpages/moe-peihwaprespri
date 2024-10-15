@@ -18,7 +18,7 @@ Pupils engage in experiential learning in classrooms through various hands-on ac
 | <img src="/images/ACADEMICS/Mathematics/IMG_0431.jpg" style="width:70%"> | A pair of students using money discs to represent and check their understanding. |
 |<img src="/images/ACADEMICS/Mathematics/math_3.png" style="width:70%"> | Pupils put their newly acquired knowledge on conversion to test by matching different cards.|
 | |  |
-| |  |
+
 
 
 
@@ -26,11 +26,20 @@ Learning of Mathematics in PHPPS is not limited to books and worksheets.
 
 Students in PHPPS are also given opportunities to learn Mathematics through the use of technology. Being digital natives, students can integrate technology with ease in their learning, increasing their engagement levels and interest in learning Mathematics. 
 
+| |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/IMG_5933.jpg" style="width:70%"> |A student extending his learning of a math concept through the use of online manipulatives |
+| <img src="/images/ACADEMICS/Mathematics/math_2.png" style="width:70%"> | A meaningful discussion of the new concept introduced on Student Learning Space (SLS).  |
+| |  |
 
-![](/images/math%204.png)
 
 Students can explore mathematical concepts through online manipulatives, discuss their findings individually or as a group through the Interactive Thinking Tool in Student Learning Space (SLS) and receive feedback for quizzes set to check their understanding. 
 
+| |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/IMG_5933.jpg" style="width:70%"> |A student extending his learning of a math concept through the use of online manipulatives |
+| <img src="/images/ACADEMICS/Mathematics/math_2.png" style="width:70%"> | A meaningful discussion of the new concept introduced on Student Learning Space (SLS).  |
+| |  |
 ![](/images/math%204.png)
 
 The use of technology in the classroom also allows students to go through the materials at their own pace before the teacher reinforces the learning in the classrooms.
