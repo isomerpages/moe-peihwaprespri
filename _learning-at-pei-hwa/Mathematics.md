@@ -11,11 +11,11 @@ The overall objective of the Mathematics curriculum centres on mathematical prob
 Pupils engage in experiential learning in classrooms through various hands-on activities. These learning experiences focus on the mathematical processes and skills that are integral parts of learning for that topic. 
 
    
-| **[Pics of students using manipulatives]** |  |
+| **Pictures of students using manipulatives** |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/IMG_6912__1_.jpg" style="width:60%"> | Student exploring the use of shapes to tell a story |
-| <img src="/images/ACADEMICS/Mathematics/IMG_0431.jpg" style="width:80%"> | A pair of students using money discs to represent and check their understanding. |
-|<img src="/images/ACADEMICS/Mathematics/math_3.png" style="width:80%"> | Pupils put their newly acquired knowledge on conversion to test by matching different cards.|
+| <img src="/images/ACADEMICS/Mathematics/IMG_6912__1_.jpg" style="width:60%"> | **Student exploring the use of shapes to tell a story** |
+| <img src="/images/ACADEMICS/Mathematics/IMG_0431.jpg" style="width:80%"> | **A pair of students using money discs to represent and check their understanding.** |
+|<img src="/images/ACADEMICS/Mathematics/math_3.png" style="width:80%"> | **Pupils put their newly acquired knowledge on conversion to test by matching different cards**.|
 | |  |
 
 Learning of Mathematics in PHPPS is not limited to books and worksheets.
@@ -24,8 +24,8 @@ Students in PHPPS are also given opportunities to learn Mathematics through the 
 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/IMG_5933.jpg" style="width:70%"> |A student extending his learning of a math concept through the use of online manipulatives |
-| <img src="/images/ACADEMICS/Mathematics/math_2.png" style="width:100%"> | A meaningful discussion of the new concept introduced on Student Learning Space (SLS).  |
+| <img src="/images/ACADEMICS/Mathematics/IMG_5933.jpg" style="width:70%"> |**A student extending his learning of a math concept through the use of online manipulatives** |
+| <img src="/images/ACADEMICS/Mathematics/math_2.png" style="width:100%"> | **A meaningful discussion of the new concept introduced on Student Learning Space (SLS).**  |
 | |  |
 
 
@@ -33,7 +33,7 @@ Students can explore mathematical concepts through online manipulatives, discuss
 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/Discussion_on_SLS.png" style="width:100%"> |Excerpt from a Primary 5 discussion on the concept of Area of Triangles through the Interactive Thinking Tool (ITT) in Student Learning Space (SLS) |
+| <img src="/images/ACADEMICS/Mathematics/Discussion_on_SLS.png" style="width:100%"> |**Excerpt from a Primary 5 discussion on the concept of Area of Triangles through the Interactive Thinking Tool (ITT) in Student Learning Space (SLS**) |
 | | |
 
 The use of technology in the classroom also allows students to go through the materials at their own pace before the teacher reinforces the learning in the classrooms.
@@ -49,9 +49,9 @@ To achieve this, we provide our pupils with feedback to encourage them when they
 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/Discussion_on_SLS.png" style="width:100%"> |Excerpt from a Primary 5 discussion on the concept of Area of Triangles through the Interactive Thinking Tool (ITT) in Student Learning Space (SLS) |
+| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students receive feedback on their progress from their teachers after they complete a school worksheet.**   |
 | | |
-![](/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg)
+
 
 ## **Department Signature Programmes**
 
