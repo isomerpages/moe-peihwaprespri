@@ -2,15 +2,16 @@
 title: Science
 permalink: /at-learning-at-pei-hwa/science/
 description: ""
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 #### Experiencing Science, Enriching Mind
 
-Central to the Science curriculum is the inculcation of the spirit of scientific inquiry. Taking cognizance of this, the Science department aims to provide our pupils with a range of learning experiences such as scientific investigations, authentic learning tasks and learning journeys. These will create the opportunities for our pupils to think, talk and inspire others about issues and pose questions that are related to the roles of science in our daily lives, society and the environment.  To develop in our pupils the skills, habits of mind and attitudes necessary for scientific inquiry, the school adopts the 5E (Engage, Explore, Explain, Elaborate and Evaluate) instructional model. This model advocates that teacher leverages and builds on pupils’ prior knowledge and experience to help them construct new knowledge or idea to innovate, and to continually assess their understanding of a concept.  
+Central to the Science curriculum is the inculcation of the spirit of scientific inquiry. Taking cognizance of this, the Science department aims to provide our pupils with a range of learning experiences such as scientific investigations, authentic learning tasks and learning journeys. These will create the opportunities for our pupils to think, talk and inspire others about issues and pose questions that are related to the roles of science in our daily lives, society and the environment.&nbsp; To develop in our pupils the skills, habits of mind and attitudes necessary for scientific inquiry, the school adopts the 5E (Engage, Explore, Explain, Elaborate and Evaluate) instructional model. This model advocates that teacher leverages and builds on pupils’ prior knowledge and experience to help them construct new knowledge or idea to innovate, and to continually assess their understanding of a concept.  
 
   
 
-#### School-Based Curriculum
+### School-Based Curriculum
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,7 +28,7 @@ Central to the Science curriculum is the inculcation of the spirit of scientific
 <thead>
   <tr>
     <th class="tg-amwm" rowspan="2">Themes</th>
-    <th class="tg-1wig" colspan="2">Lower Block</th>
+    <th class="tg-amwm" colspan="2">Lower Block<br></th>
     <th class="tg-amwm" colspan="2">Upper Block<br></th>
   </tr>
   <tr>
@@ -47,8 +48,8 @@ Central to the Science curriculum is the inculcation of the spirit of scientific
   </tr>
   <tr>
     <td class="tg-nrix">Cycles<br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-nrix">Cycles in plants and animals (Life Cycles)<br>Cycles in matter<br></td>
+    <td class="tg-nrix">Cycles in plants and animals (Life Cycles)<br>  <br></td>
+		<td class="tg-nrix">Cycles in plants and animals (Life Cycles)<br>Cycles in matter<br></td>
     <td class="tg-nrix">Cycles in plants and animals (Reproduction)<br>Cycles in water<br></td>
     <td class="tg-baqh"></td>
   </tr>
@@ -93,7 +94,7 @@ Environmental leaders through their research and encounter with articles, videos
 
 #### Innovation Programme (IvP)
 
-Innovation programme (IvP) provides a unique opportunity for selected Primary 5 pupils to develop their problem-solving and inventive skills. The Innovation Programme aims to equip the pupils with the mind-set, skills and knowledge of an Entrepreneur and to assist the pupils to generate new, innovative ideas that can help the society and improve our living conditions.  The various training sessions that the pupils attend helps to nurture a “problem-solution” mind-set for pupils and to enhance the pupils’ creative and innovative thinking skills. The pupils will develop a prototype that helps improve the lives of people and to present their idea in front of a panel of judges who will select the best innovative product as well as the best presentation group.
+Innovation programme (IvP) provides a unique opportunity for selected Primary 5 pupils to develop their problem-solving and inventive skills. The Innovation Programme aims to equip the pupils with the mind-set, skills and knowledge of an Entrepreneur and to assist the pupils to generate new, innovative ideas that can help the society and improve our living conditions.&nbsp; The various training sessions that the pupils attend helps to nurture a “problem-solution” mind-set for pupils and to enhance the pupils’ creative and innovative thinking skills. The pupils will develop a prototype that helps improve the lives of people and to present their idea in front of a panel of judges who will select the best innovative product as well as the best presentation group.
 
   
 
@@ -109,4 +110,4 @@ Checklists and rubrics are used to monitor the pupil’s understanding of key le
 
   
 
-Practical skills are assessed during the performance tasks.  Pupils are assessed on how well they conducted the experiments and how they analyse and evaluate the data they have collected to draw conclusions. Feedback from the teachers are given to the pupils to help them improve on how they should conduct the experiment accurately.
+Practical skills are assessed during the performance tasks.&nbsp; Pupils are assessed on how well they conducted the experiments and how they analyse and evaluate the data they have collected to draw conclusions. Feedback from the teachers are given to the pupils to help them improve on how they should conduct the experiment accurately.
