@@ -89,6 +89,12 @@ Green!@PHPPS was initiated with the **EPA - Exposure, Practice and Advocate** in
 Green!@PHPPS is anchored using the **3S framework – Sustainability Programs, Student Leadership and Staff Involvement.** The science department, with the strong support of all other teaching and non-teaching staff, advocates environmental issues through exposure to real-world environmental contexts and exercising sustainability practices in students' daily life. This is in alignment with the **curriculum and culture components of the MOE Eco-stewardship programme.**
 
 The Green!@PHPPS focus for each year is divided into 3 environmental themes. To ensure that each environmental theme has a positive impact on students, the culture aspect through practice is closely tied in with the curriculum aspects through SLS lessons and Green!Times. The learning experience are also tiered at 4 levels:
+
+•	**Tier 1** - Class experiences (SLS lessons, Class recycling corners, Green!@PHPPS Progress Card)<br>
+•	**Tier 2** - Level experiences (Competitions, Green Projects)<br>
+•	**Tier 3** - School wide experiences (Sustainability practices in school, Sharing by environmental leaders, Green!Times)<br>
+•	**Tier 4** - Community experiences (VIA, projects and collaboration with external agencies)<br>
+
 <img src="/images/ACADEMICS/Science/GEframeworkedited.png" style="width:60%">
 
 
