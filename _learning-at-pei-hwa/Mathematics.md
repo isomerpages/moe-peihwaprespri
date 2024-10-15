@@ -65,8 +65,8 @@ During the Math Trail, our P1 &amp; P2 students explore the school compound to c
 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students looked around outside the library to find the answer to the given task.**   |
-| <img src="/images/ACADEMICS/Mathematics/GM_05.jpg" style="width:100%"> |**Students recorded their findings at one of the stops.**   |
+| <img src="/images/ACADEMICS/Mathematics/MT_1.jpg" style="width:80%"> |**Students looked around outside the library to find the answer to the given task.**   |
+| <img src="/images/ACADEMICS/Mathematics/MT_2.jpg" style="width:70%"> |**Students recorded their findings at one of the stops.**   |
 | | |
 
 
@@ -77,11 +77,17 @@ Students are able to take part in various themed activities with their peers, al
 
 | |  |
 | -------- | -------- |
-| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Students receive feedback on their progress from their teachers after they complete a school worksheet.**   |
-| <img src="/images/ACADEMICS/Mathematics/GM_05.jpg" style="width:100%"> |**A group of students using the Growth Mindset Ruler and Feedback TAG (Tell me something you like, Ask a question, Give a positive suggestion) to support the learning of their peers.**   |
+| <img src="/images/ACADEMICS/Mathematics/Screenshot_2024_10_15_140832.jpg" style="width:100%"> |**Students shared how they saw Math through their own eyes, with their collated works displayed outside their classrooms**   |
+| <img src="/images/ACADEMICS/Mathematics/Minister_Chan_s_Post.png" style="width:100%"> |**Minister for Education Mr Chan Chun Sing posted on one of our student’s sharing for Math Week when he visited our school!**   |
+| <img src="/images/ACADEMICS/Mathematics/58cc3ef2_be8d_41fc_a7c8_a2e38e717cc5__1_.jpg" style="width:100%"> |**Students enjoying the use of new technology to explore their school grounds and solve math problems**   |
 | | |
 
+
 During Math Week, opportunities are also given to our math leaders to take charge in our classroom and recess activities. They are empowered to lead assembly programmes and share more about the year’s theme to their schoolmates. 
+| |  |
+| -------- | -------- |
+| <img src="/images/ACADEMICS/Mathematics/Sch_worksheet_feedback.jpg" style="width:100%"> |**Math Leaders bringing their joy for math on stage - emceeing for Math Week Assembly programme**   |
+| | |
 
 
 ### **5 MINDS For the Future**
