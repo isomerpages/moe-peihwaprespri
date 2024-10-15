@@ -42,7 +42,7 @@ To achieve this, we provide our pupils with feedback to encourage them when they
 
 ![](/images/math%204.png)
 
-## Department Signature Programmes
+## **Department Signature Program**
 
 There are programmes planned for students to spark their interest in the subject as well as to allow them to see the relevance of what they are learning in the real world. These are some of the mathematics programmes in PHPPS:
 
@@ -85,7 +85,7 @@ These are the topics selected for the P3 to P6 students:
 
  
 
-### Useful Online Resources for Mathematics
+### **Useful Online Resources for Mathematics**
 
 1&nbsp;→&nbsp;**Primary school mathematics syllabus**
 
