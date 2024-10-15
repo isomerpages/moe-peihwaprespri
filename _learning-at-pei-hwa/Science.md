@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
-#### Experiencing Science, Enriching Mind
+## **Experiencing Science, Enriching Mind**
 
-Central to the Science curriculum is the inculcation of the spirit of scientific inquiry. Taking cognizance of this, the Science department aims to provide our pupils with a range of learning experiences such as scientific investigations, authentic learning tasks and learning journeys. These will create the opportunities for our pupils to think, talk and inspire others about issues and pose questions that are related to the roles of science in our daily lives, society and the environment.&nbsp; To develop in our pupils the skills, habits of mind and attitudes necessary for scientific inquiry, the school adopts the 5E (Engage, Explore, Explain, Elaborate and Evaluate) instructional model. This model advocates that teacher leverages and builds on pupils’ prior knowledge and experience to help them construct new knowledge or idea to innovate, and to continually assess their understanding of a concept.  
+Central to the Science curriculum is the inculcation of the spirit of scientific inquiry to innovate and inspire. Taking cognizance of this, the Science department aims to provide our pupils with a range of learning experiences such as scientific investigations, authentic learning tasks and learning journeys. These will create the opportunities for our pupils to think, talk and inspire others about issues and pose questions that are related to the roles of science in our daily lives, society and the environment.  To develop in our pupils the skills, habits of mind and attitudes necessary for scientific inquiry, the school adopts the Predict-Observe-Explain-Wonder (POEW) thinking routine. This routine advocates that teacher leverages and builds on pupils’ prior knowledge and experience to help them make observations then construct new knowledge or idea to innovate, and to continually assess their understanding of a concept. 
 
   
 
@@ -55,15 +55,16 @@ Central to the Science curriculum is the inculcation of the spirit of scientific
   </tr>
   <tr>
     <td class="tg-nrix">Systems<br></td>
-    <td class="tg-nrix">Plant System (Plant parts and functions)<br>Human System (Digestive System)<br></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-nrix">Plant System (Respiratory and Circulatory systems)<br>Human System (Respiratory and Circulatory systems)<br>Cell System<br>Electrical System<br></td>
+		 <td class="tg-baqh"></td>
+     <td class="tg-baqh"></td>
+    <td class="tg-nrix">Plant System (Transport System)<br>Human System (Respiratory and Circulatory systems)<br>Cell System Electrical System<br>
+<br></td>
     <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-nrix">Interactions<br></td>
-    <td class="tg-baqh"></td>
     <td class="tg-nrix">Interaction of forces (Magnets)<br></td>
+		<td class="tg-nrix">Interaction of forces (Magnets)<br></td>
     <td class="tg-baqh"></td>
     <td class="tg-nrix">Interaction of forces (Frictional force, Gravitational force, force in springs, Magnetic force)<br>Interaction within the environment<br></td>
   </tr>
