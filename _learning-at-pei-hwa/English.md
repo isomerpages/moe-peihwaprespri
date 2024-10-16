@@ -27,7 +27,7 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 
 <figure>
 <img src="/images/Towards%20independent%20reading.jpg" style="width:70%">
-<figcaption>Towards Independent reading!</figcaption>
+<figcaption>Sharing a book with friends</figcaption>
 </figure>
 
 **Resources Used:**
@@ -40,8 +40,8 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 ##### **1b. Extensive reading prog:**
 
 **Objectives:**
-1.  To nurture a habit of reading in the pupils.
-2.  To expose pupils to a variety of genres.
+ 1.  To nurture a habit of reading in the pupils.
+ 2.  To expose pupils to a variety of genres.
 
 
 **Resources Used:**  
@@ -65,10 +65,9 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 <figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
 </figure>
 
-### 1c. Critical Reading Prog: Literature prog
+##### **1c. Critical Reading Prog: Literature prog**
 
 **Objectives:**
-
 1.  To allow pupils to engage with a longer text
 2.  Expose pupils to good literary texts
 3.  Learn story telling techniques used by writers
@@ -76,7 +75,7 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
       
     
 
-**Resources &amp; Focus Areas:**
+**Resources  Focus Areas:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -202,8 +201,6 @@ Howard Gardner’s 5 MINDS for the Future is adopted by PHPPS to better prepare 
 ### 3. Harnessing ICT in EL learning  
 
 Learning is fun and engaging with the help of technology. At PHPPS, teachers harness ICT to facilitate learning and make English language learning an engaging experience.&nbsp; 
-
-In the recent SLS Design Challenge organized by MOE, PHPPS was awarded “Quality Lesson Design” Award.
 
 <figure>
 <img src="/images/Having%20fun%20learning%20with%20ICT%20tools.jpg" style="width:80%">
