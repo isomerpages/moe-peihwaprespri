@@ -5,57 +5,50 @@ description: ""
 variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
-## **Our Goal:**  
 
-Every pupil a competent, confident &amp; empathetic communicator with discernment in thought &amp; creativity &amp; clarity in expression
+### **Our Goal:**  
+We aim to nurture every student to become a competent, confident &amp; empathetic communicator with discernment in thought &amp; creativity &amp; clarity in expression.
 
-  
+## **Our School-based Programmes:**
 
-## Our School-based Programmes:
+### 1.  Reading
+The **Read@PHPPS programme** aims to nurture the love of reading in our students. We provide stuents the exposure to a wide variety of genres and teach them skills to become avid and proficient readers.
 
-#### 1.  Reading
-
-The reading programmes aim to nurture the love of reading in our pupils. We provide pupils the exposure to a wide variety of genres and teach them skills to become avid and proficient readers.
-
-### 1a. Reading Prog:
+##### **1a. In-house Reading Prog:**
 
 **Objectives:**
-
-1.  To expose pupils to different genres
-2.  To ensure comprehension of text read through follow up activities
-
+1.  To expose pupils to different genres.
+2.  To ensure comprehension of text read through follow up activities.
 
 <figure>
-<img src="/images/Reading%20fratured%20fairy%20tale%20in%20class.jpg">
+<img src="/images/Reading%20fratured%20fairy%20tale%20in%20class.jpg" style="width:70%">
 <figcaption>Reading of a Fractured Fairy Tale in class</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Towards%20independent%20reading.jpg">
+<img src="/images/Towards%20independent%20reading.jpg" style="width:70%">
 <figcaption>Towards Independent reading!</figcaption>
 </figure>
 
 **Resources Used:**
-
-*   Rigby Readers (P1&amp;2)
+*   Rigby Readers (P1 &amp; P2)
 *   Story Time (P3)
 *   I magazine (P4)
-*   ACE magazine (P5&amp;6)
+*   ACE magazine (P5 &amp; 6)
 
-### 1b. Extensive reading prog:
 
-**Objectives:**&nbsp;
+##### **1b. Extensive reading prog:**
 
-1.  To nurture a habit of reading in the pupils
-2.  To expose pupils to a variety of genres
+**Objectives:**
+1.  To nurture a habit of reading in the pupils.
+2.  To expose pupils to a variety of genres.
+
 
 **Resources Used:**  
-  
-
-*   Leisure Reading booklet (P1) – collection of short stories, riddles, poems and jokes
-*   NLB’s Reading Journal (P1 to 6) – a list of suggested reads by NLB which are tagged to the themes of STELLAR readers
-*   Suggested list of books by genres (P5&amp;6) – a list of suggested books categorised by genres
-*   Drop Everything And Read aka DEAR Week where activities related to reading such as Readers’ Theatre and Book Characters Parade are conducted to encourage pupils to read widely
+*   Leisure Reading booklet (P1) – collection of short stories, riddles, poems and jokes.
+*   NLB’s Reading Journal (P1 to P6) – a list of suggested reads by NLB which are tagged to the themes of STELLAR readers.
+*   Suggested list of books by genres (P5 &amp; P6) – a list of suggested books categorised by genres.
+*   **D**rop **E**verything **A**nd **R**ead aka **DEAR** Week where activities related to reading such as Readers’ Theatre and Book Characters Parade are conducted to encourage pupils to read widely.
 
 <figure>
 <img src="/images/Dr%20Seuss%20come%20alive%20during%20DEAR%20week.jpg" style="width:50%">
