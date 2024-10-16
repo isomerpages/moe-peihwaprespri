@@ -11,7 +11,7 @@ Dear 2025 P1 Parents/Guardians,
 
 Welcome to Pei Hwa Presbyterian Primary School.
 
-We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **[P1 Book List](/files/Booklist/2025/P1_Booklist_2025_up.pdf) and [P1 Uniform List](/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf)**.  Its available on the school website from **10 October 2024**.     
+We are glad to inform you that you may come to the school to purchase books and uniforms for your child according to the schedule below.  Please refer to the PG attachments for the **[P1 Book List](/files/Booklist/2025/P1_Booklist_2025_up.pdf) and [P1 Uniform List](/files/School%20Uniform/2025/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_Year_2024.pdf)**.  Its available on the school website from **10 October 2024**.     
 
 
 <p><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf">
