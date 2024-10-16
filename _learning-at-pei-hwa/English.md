@@ -123,10 +123,10 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  overflow:hidden;padding:14px 8px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  font-weight:normal;overflow:hidden;padding:14px 8px;word-break:normal;}
 .tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
 .tg .tg-l1uu{background-color:#FFF;color:#333;font-style:italic;text-align:left;vertical-align:top}
