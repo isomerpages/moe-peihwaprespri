@@ -35,7 +35,7 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 *   Rigby Readers (P1 &amp; P2)
 *   Story Time (P3)
 *   I magazine (P4)
-*   ACE magazine (P5 &amp; 6)
+*   ACE magazine (P5 &amp; P6)
 
 
 ##### **1b. Extensive reading prog:**
