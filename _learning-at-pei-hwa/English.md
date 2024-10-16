@@ -126,7 +126,7 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#F00;color:#F00;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
 .tg .tg-l1uu{background-color:#FFF;color:#333;font-style:italic;text-align:left;vertical-align:top}
 </style>
@@ -141,13 +141,13 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 <tbody>
   <tr>
     <td class="tg-7fd7">P3<br></td>
-    <td class="tg-l1uu">The BFG<br></td>
-    <td class="tg-7fd7">plot development<br></td>
+    <td class="tg-l1uu">Frindle<br></td>
+    <td class="tg-7fd7">Plot Development<br></td>
   </tr>
   <tr>
     <td class="tg-7fd7">P4<br></td>
-    <td class="tg-l1uu">James and the Giant Peach<br></td>
-    <td class="tg-7fd7">characterisation<br></td>
+    <td class="tg-l1uu">Charlie and the Chocolate Factory<br></td>
+    <td class="tg-7fd7">Characterization &amp; Moral Reasoning<br></td>
   </tr>
   <tr>
     <td class="tg-7fd7">P5<br></td>
