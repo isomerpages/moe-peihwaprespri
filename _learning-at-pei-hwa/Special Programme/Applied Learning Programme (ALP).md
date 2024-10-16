@@ -6,11 +6,11 @@ third_nav_title: Special Programme
 variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
-#### ALP – Competent &amp; Confident Communicators (C3 )
+#### ALP – Competent Confident Communicators (C3 )
 
 **Objective:**  
   
-1.  Equip pupils with skills to organize their thoughts so that they can communicate effectively in oral &amp; written forms.
+1.  Equip pupils with skills to organize their thoughts so that they can communicate effectively in oral written forms.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,15 +32,23 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rdtm">P1 &amp; 2 –<br>Functional language used in daily interactions</td>
-    <td class="tg-citn"><span style="background-color:initial">- Do It Right programme – making simple requests &amp; replies with appropriate vocabulary &amp; correct grammar structures</span><br>- Q&amp;A programme – using vocabulary &amp; grammar structures acquired in Do It Right in a different context</td>
+    <td class="tg-rdtm">P1 &amp; 2 <br>Building Confidence, Engaging Listeners<br> <span style="font-weight:normal"><br>Build confidence to speak in front of an audience<br><br>Learn to engage listeners &amp; cater to an audience
+</span></td>
+    <td class="tg-citn"><span style="background-color:initial">•	Termly ALP lessons<br>
+  P1: Voice projection &amp; Eye contact<br>
+  P2: Posture &amp; Expression<br>
+•	Poetry recitation<br>
+•	Pick &amp; Tell<br>
+•	Hear me out </span><br> </td>
     <td class="tg-0lax"></td>
   </tr>
-  <tr>
-    <td class="tg-citn"><span style="font-weight:bold">Simple oral presentation</span></td>
-    <td class="tg-citn"><span style="background-color:initial">- Pick &amp; Tell – talk about an object &amp; express an opinion with simple justification</span><br>- I Am A Star – platform for pupils to address a larger audience while applying skills learned in the various communication programmes</td>
+	  <tr>
+    <td class="tg-citn"><span style="font-weight:bold">Tier 2</span></td>
+    <td class="tg-citn"><span style="background-color:initial">•	Digital story<br>
+•	Our Voices publication<br></span></td>
     <td class="tg-0lax"></td>
   </tr>
+  
   <tr>
     <td class="tg-rdtm">P3 – <br>Public Speaking</td>
     <td class="tg-citn">Character analysis based on BFG</td>
@@ -63,6 +71,12 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+
 
 <figure>
 <img src="/images/Pupils%20discussing%20their%20story.jpg">
