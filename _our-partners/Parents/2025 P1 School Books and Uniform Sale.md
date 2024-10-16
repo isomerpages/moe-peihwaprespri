@@ -18,7 +18,7 @@ We are glad to inform you that you may come to the school to purchase books and 
 <img src="/images/Buttons/p1%20booklist.JPG" style="width:30%">
 </a></p>
 .
-<p><a href="/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf">
+<p><a href="/files/School%20Uniform/2025/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_Year_2024.pdf">
 <img src="/images/Buttons/school%20uniform.JPG" style="width:30%">
 </a></p>
 
