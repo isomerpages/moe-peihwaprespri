@@ -9,6 +9,7 @@ variant: markdown
 ### **Our Goal:**  
 We aim to nurture every student to become a competent, confident &amp; empathetic communicator with discernment in thought &amp; creativity &amp; clarity in expression.
 
+
 ## **Our School-based Programmes:**
 
 ### 1.  Reading
@@ -126,7 +127,7 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rdtm{background-color:#F00;color:#F00;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
 .tg .tg-l1uu{background-color:#FFF;color:#333;font-style:italic;text-align:left;vertical-align:top}
 </style>
