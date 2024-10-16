@@ -25,3 +25,8 @@ Some of the key activities include
  
 
 ### <p style="color:#0000FF;"><b>It is not what sports you learn, but what you learn from sports!</b></p>
+
+
+|   |   |
+| -------- | -------- |
+|<img src="/images/commit%20learning%20logo.png" style="width:50%">|<img src="/images/commit%20learning%20logo.png" style="width:50%">|
