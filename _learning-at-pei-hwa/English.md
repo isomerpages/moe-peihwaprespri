@@ -50,19 +50,20 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 *   Suggested list of books by genres (P5 &amp; P6) – a list of suggested books categorised by genres.
 *   **D**rop **E**verything **A**nd **R**ead aka **DEAR** Week where activities related to reading such as Readers’ Theatre and Book Characters Parade are conducted to encourage pupils to read widely.
 
+
 <figure>
-<img src="/images/Dr%20Seuss%20come%20alive%20during%20DEAR%20week.jpg" style="width:50%">
-<figcaption>Dr Seuss comes alive during DEAR week!</figcaption>
+<img src="/images/ACADEMICS/English/Picture1.jpg" style="width:80%">
+<figcaption>Silent Reading time</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Pupils%20dressed%20various%20book%20characters.png" style="width:70%">
-<figcaption>Pupils dressed up as various book characters</figcaption>
+<img src="/images/ACADEMICS/English/Picture2.jpg" style="width:80%">
+<figcaption>Enjoying a good book</figcaption>
 </figure>
 
 <figure>
-<img src="/images/Teachers%20dress%20up%20book%20characters%20during%20DEAR%20week.jpg" style="width:70%">
-<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+<img src="/images/ACADEMICS/English/Picture3.jpg" style="width:80%">
+<figcaption>Playing with language games !</figcaption>
 </figure>
 
 ##### **1c. Critical Reading Prog: Literature prog**
