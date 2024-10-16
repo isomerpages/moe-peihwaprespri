@@ -72,6 +72,3 @@ To develop physically active students who embrace a healthy lifestyle and enjoy 
 <img src="/images/Learn%20new%20skills%20during%20PE%20lessons.jpg">
 <figcaption> <strong>Learning something new and staying active during PE lessons</strong> </figcaption>
 </figure>
-
-
-
