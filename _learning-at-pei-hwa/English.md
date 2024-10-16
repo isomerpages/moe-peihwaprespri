@@ -66,6 +66,48 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 <figcaption>Playing with language games !</figcaption>
 </figure>
 
+<figure>
+<img src="/images/ACADEMICS/English/Picture4.jpg" style="width:80%">
+<figcaption>.  </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture5.jpg" style="width:80%">
+<figcaption>Pupils dressed up as various book characters !</figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture6.jpg" style="width:80%">
+<figcaption>.  </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture7.jpg" style="width:80%">
+<figcaption>.  </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture8.jpg" style="width:50%">
+<figcaption>Our very own Dr Seuss !   </figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture9.jpg" style="width:80%">
+<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture10.jpg" style="width:80%">
+<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+</figure>
+
+<figure>
+<img src="/images/ACADEMICS/English/Picture10.jpg" style="width:80%">
+<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+</figure>
+
+
+
 ##### **1c. Critical Reading Prog: Literature prog**
 
 **Objectives:**
