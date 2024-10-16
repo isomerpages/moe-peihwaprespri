@@ -2,11 +2,12 @@
 title: English
 permalink: /at-learning-at-pei-hwa/english/
 description: ""
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 ## **Our Goal:**  
 
-Every pupil a competent, confident & empathetic communicator with discernment in thought & creativity & clarity in expression
+Every pupil a competent, confident &amp; empathetic communicator with discernment in thought &amp; creativity &amp; clarity in expression
 
   
 
@@ -36,14 +37,14 @@ The reading programmes aim to nurture the love of reading in our pupils. We prov
 
 **Resources Used:**
 
-*   Rigby Readers (P1&2)
+*   Rigby Readers (P1&amp;2)
 *   Story Time (P3)
 *   I magazine (P4)
-*   ACE magazine (P5&6)
+*   ACE magazine (P5&amp;6)
 
 ### 1b. Extensive reading prog:
 
-**Objectives:** 
+**Objectives:**&nbsp;
 
 1.  To nurture a habit of reading in the pupils
 2.  To expose pupils to a variety of genres
@@ -53,7 +54,7 @@ The reading programmes aim to nurture the love of reading in our pupils. We prov
 
 *   Leisure Reading booklet (P1) – collection of short stories, riddles, poems and jokes
 *   NLB’s Reading Journal (P1 to 6) – a list of suggested reads by NLB which are tagged to the themes of STELLAR readers
-*   Suggested list of books by genres (P5&6) – a list of suggested books categorised by genres
+*   Suggested list of books by genres (P5&amp;6) – a list of suggested books categorised by genres
 *   Drop Everything And Read aka DEAR Week where activities related to reading such as Readers’ Theatre and Book Characters Parade are conducted to encourage pupils to read widely
 
 <figure>
@@ -82,7 +83,7 @@ The reading programmes aim to nurture the love of reading in our pupils. We prov
       
     
 
-**Resources & Focus Areas:**
+**Resources &amp; Focus Areas:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -151,10 +152,10 @@ Throughout their six years in PHPPS, pupils are explicitly taught the 4 macro la
 
 **Objectives:**
 
-1.  Deepen understanding of the narrative structure – 5 Elements of a narrative 
+1.  Deepen understanding of the narrative structure – 5 Elements of a narrative&nbsp;
 2.  Teach strategies to hook a reader eg Story starters
 3.  Teach strategies to enhance characterisation eg TALES strategy
-4.  Teach strategies to expand the plot eg 3Cs & 3Ss strategies
+4.  Teach strategies to expand the plot eg 3Cs &amp; 3Ss strategies
 
 <figure>
 <img src="/images/Learning%20and%20teaching%20together.jpg" style="width:80%">
@@ -163,7 +164,7 @@ Throughout their six years in PHPPS, pupils are explicitly taught the 4 macro la
 
 ### 2b. Howard Gardner’s 5 MINDS for the Future lessons  
 
-Howard Gardner’s 5 MINDS for the Future is adopted by PHPPS to better prepare our pupils for the volatile, uncertain, changing & ambiguous (VUCA) world. We use the 5 MINDS for the Future as a guiding principle when we craft our lessons.  Through these carefully crafted 5 MINDS lessons, we aim to equip pupils with the mind-set to be flexible in their thinking and to employ all tools and skill sets at their disposal. The 5 MINDS lessons are carried out in the Writing and Literature modules of the EL curriculum.
+Howard Gardner’s 5 MINDS for the Future is adopted by PHPPS to better prepare our pupils for the volatile, uncertain, changing &amp; ambiguous (VUCA) world. We use the 5 MINDS for the Future as a guiding principle when we craft our lessons.&nbsp; Through these carefully crafted 5 MINDS lessons, we aim to equip pupils with the mind-set to be flexible in their thinking and to employ all tools and skill sets at their disposal. The 5 MINDS lessons are carried out in the Writing and Literature modules of the EL curriculum.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -207,7 +208,7 @@ Howard Gardner’s 5 MINDS for the Future is adopted by PHPPS to better prepare 
 
 ### 3. Harnessing ICT in EL learning  
 
-Learning is fun and engaging with the help of technology. At PHPPS, teachers harness ICT to facilitate learning and make English language learning an engaging experience.  
+Learning is fun and engaging with the help of technology. At PHPPS, teachers harness ICT to facilitate learning and make English language learning an engaging experience.&nbsp; 
 
 In the recent SLS Design Challenge organized by MOE, PHPPS was awarded “Quality Lesson Design” Award.
 
