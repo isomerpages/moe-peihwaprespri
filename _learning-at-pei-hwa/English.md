@@ -97,13 +97,13 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
 </figure>
 
 <figure>
-<img src="/images/ACADEMICS/English/Picture10.jpg" style="width:80%">
-<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+<img src="/images/ACADEMICS/English/Picture12.jpg" style="width:80%">
+<figcaption>.  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/ACADEMICS/English/Picture10.jpg" style="width:80%">
-<figcaption>Even teachers dress up as book characters during DEAR Week!</figcaption>
+<figcaption>.  </figcaption>
 </figure>
 
 
