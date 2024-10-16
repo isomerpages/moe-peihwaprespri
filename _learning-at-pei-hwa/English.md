@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Learning%20at%20Pei%20Hwa2.jpg)
 
 ### **Our Goal:**  
-We aim to nurture every student to become a competent, confident &amp; empathetic communicator with discernment in thought &amp; creativity &amp; clarity in expression.
+We aim to nurture every student to become a competent, confident ; empathetic communicator with discernment in thought creativity clarity in expression.
 
 
 ## **Our School-based Programmes:**
@@ -154,9 +154,9 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
     <td class="tg-7fd7">P5<br></td>
     <td class="tg-l1uu"><br>Wonder<br></td>
     <td class="tg-7fd7">Exploration of themes: <br>
-a) Identity &amp; Differences<br>
-b) Empathy &amp; Kindness<br>
-c) Family &amp; Friendships
+a) Identity Differences<br>
+b) Empathy  Kindness<br>
+c) Family Friendships
 <br></td>
   </tr>
 </tbody>
@@ -168,19 +168,18 @@ Throughout their six years in PHPPS, students are explicitly taught the 4 macro 
 
 ##### **2a. Writing:**
 
-
-
 | Levels  | Objectives |
 | -------- | -------- |
-| P1 - P2     | 1.  Explicitly teach sentence structures <br>2.  Build sentences from word to sentence<br>3.  Expand a topic sentence to a paragraph<br>4.  Narrative structure – introduction, body and conclusion<br>     |
-| P3 - P4     | 1.  Reinforce the narrative structure – introduction, body and conclusion <br>2.  Build content (ideas) and vocabulary using Show not Tell and Topic Blast strategies<br>     |
-| P5 - P6    | 1.  1.  Deepen understanding of the narrative structure – 5 Elements of a narrative<br>2.  Teach strategies to hook a reader (eg. Story starters)<br>3.  Teach strategies to enhance characterisation (eg TALES strategy)<br>4.  Teach strategies to expand the plot (eg 3Cs ; 3Ss strategies)<br>     |
+| P1 - P2     |  Explicitly teach sentence structures <br>  Build sentences from word to sentence<br>  Expand a topic sentence to a paragraph<br> Narrative structure – introduction, body and conclusion<br>     |
+| P3 - P4     |   Reinforce the narrative structure – introduction, body and conclusion <br>  Build content (ideas) and vocabulary using Show not Tell and Topic Blast strategies<br>     |
+| P5 - P6    |  Deepen understanding of the narrative structure – 5 Elements of a narrative<br>  Teach strategies to hook a reader (eg. Story starters)<br>  Teach strategies to enhance characterisation (eg TALES strategy)<br>  Teach strategies to expand the plot (eg 3Cs ; 3Ss strategies)<br>     |
 
 
 <figure>
 <img src="/images/Learning%20and%20teaching%20together.jpg" style="width:80%">
 <figcaption>Let’s write our pair story together!</figcaption>
 </figure>
+
 
 ##### **2b. Howard Gardner’s 5 MINDS for the Future lessons**  
 
