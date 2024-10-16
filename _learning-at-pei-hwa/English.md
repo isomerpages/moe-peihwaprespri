@@ -152,53 +152,37 @@ The **Read@PHPPS programme** aims to nurture the love of reading in our students
   </tr>
   <tr>
     <td class="tg-7fd7">P5<br></td>
-    <td class="tg-l1uu">Holes<br></td>
-    <td class="tg-7fd7">Literary technique – use of irony<br></td>
+    <td class="tg-l1uu"><br>Wonder<br></td>
+    <td class="tg-7fd7">Exploration of themes: <br>
+a) Identity &amp; Differences<br>
+b) Empathy &amp; Kindness<br>
+c) Family &amp; Friendships
+<br></td>
   </tr>
 </tbody>
 </table>
 
-### 2. Skills-based programmes
+### **2. Skills-based programmes**
 
-Throughout their six years in PHPPS, pupils are explicitly taught the 4 macro language skills. They are also given various opportunities to apply what they have learned thus making the learning process a joyful and meaningful one. Our EL skills-based programmes (eg. 5 MINDS lessons, Writing packages) focus not only on the learning of a language skill but applying it for a purpose.
+Throughout their six years in PHPPS, students are explicitly taught the 4 macro language skills. They are also given various opportunities to apply what they have learned thus making the learning process a joyful and meaningful one. Our EL skills-based programmes (eg. 5 MINDS lessons, Writing packages) focus not only on the learning of a language skill but applying it for a purpose.
 
-### 2a. Writing:
+##### **2a. Writing:**
 
-**P1 -2:**
 
-**Objectives:**
 
-1.  Explicitly teach sentence structures
-2.  Build sentences from word to sentence
-3.  Expand a topic sentence to a paragraph
-4.  Narrative structure – introduction, body and conclusion
+| Levels  | Objectives |
+| -------- | -------- |
+| P1 - P2     | 1.  Explicitly teach sentence structures <br>2.  Build sentences from word to sentence<br>3.  Expand a topic sentence to a paragraph<br>4.  Narrative structure – introduction, body and conclusion<br>     |
+| P3 - P4     | 1.  Reinforce the narrative structure – introduction, body and conclusion <br>2.  Build content (ideas) and vocabulary using Show not Tell and Topic Blast strategies<br>     |
+| P5 - P6    | 1.  1.  Deepen understanding of the narrative structure – 5 Elements of a narrative<br>2.  Teach strategies to hook a reader (eg. Story starters)<br>3.  Teach strategies to enhance characterisation (eg TALES strategy)<br>4.  Teach strategies to expand the plot (eg 3Cs ; 3Ss strategies)<br>     |
 
-  
-
-**P3 -4:**
-
-**Objectives:**
-
-1.  Reinforce the narrative structure – introduction, body and conclusion
-2.  Build content (ideas) and vocabulary using Show not Tell and Topic Blast strategies
-
-  
-
-**P5 -6:**
-
-**Objectives:**
-
-1.  Deepen understanding of the narrative structure – 5 Elements of a narrative&nbsp;
-2.  Teach strategies to hook a reader eg Story starters
-3.  Teach strategies to enhance characterisation eg TALES strategy
-4.  Teach strategies to expand the plot eg 3Cs &amp; 3Ss strategies
 
 <figure>
 <img src="/images/Learning%20and%20teaching%20together.jpg" style="width:80%">
 <figcaption>Let’s write our pair story together!</figcaption>
 </figure>
 
-### 2b. Howard Gardner’s 5 MINDS for the Future lessons  
+##### **2b. Howard Gardner’s 5 MINDS for the Future lessons**  
 
 Howard Gardner’s 5 MINDS for the Future is adopted by PHPPS to better prepare our pupils for the volatile, uncertain, changing &amp; ambiguous (VUCA) world. We use the 5 MINDS for the Future as a guiding principle when we craft our lessons.&nbsp; Through these carefully crafted 5 MINDS lessons, we aim to equip pupils with the mind-set to be flexible in their thinking and to employ all tools and skill sets at their disposal. The 5 MINDS lessons are carried out in the Writing and Literature modules of the EL curriculum.
 
