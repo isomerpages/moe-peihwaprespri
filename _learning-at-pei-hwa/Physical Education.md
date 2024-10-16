@@ -13,7 +13,7 @@ To develop physically active students who embrace a healthy lifestyle and enjoy 
 
 * Equip students with the knowledge, skills, attitudes and values towards the pursuit of a lifelong physically active and healthy lifestyle.  
 
-* Use of the “5 Minds for the Future” framework to guide us in designing inclusive physical-related programmes to engage students of different abilities and develop their competencies in the physical, affective and cognitive domains.
+* Use of the “**5 Minds for the Future**” framework to guide us in designing inclusive physical-related programmes to engage students of different abilities and develop their competencies in the physical, affective and cognitive domains.
 
 * Develop students who think critically during physical activities through thoughtful questioning and the use of thinking routines.&nbsp;
 
