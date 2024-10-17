@@ -24,7 +24,7 @@ Some of the key activities include
 | | |
  
 
-### <p style="color:#0000FF;"><b>It is not what sports you learn, but what you learn from sports!</b></p>
+### **It is not what sports you learn, but what you learn from sports!**
 
 ![](/images/ACADEMICS/LLP/DSC_7447_90.jpg)
 ![](/images/ACADEMICS/LLP/DSC_4701_117.jpg)
