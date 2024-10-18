@@ -131,4 +131,3 @@ At Pei Hwa Presbyterian, we see the importance of that job and understand the pr
 
 ![](/images/VIA%20Staff%207.jpg)
 
-![](/images/via%20staff%202.png)
