@@ -38,8 +38,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Vice-Principal</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mr. Vincent Tan</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">Vice-Principal (Admin)</span></td>
+  
   </tr>
 </tbody>
 </table>
