@@ -53,10 +53,6 @@ variant: markdown
 
 #### Photos
 
-<figure>
-<img src="/images/Celebrating%20as%20a%20team%20for%20winning.png">
-<figcaption>Celebrating our win as a team.</figcaption>
-</figure>
 
 <figure>
 <img src="/images/Putting%20efforts%20in%20practices.jpg">

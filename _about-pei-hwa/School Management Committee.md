@@ -82,8 +82,8 @@ variant: markdown
     <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal</span><br></td>
   </tr>
     <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Mr Vincent Tan</span><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent">Vice-Principal (Admin)</span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><br></td>
+    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><br></td>
   </tr>
 	  <tr>
    
