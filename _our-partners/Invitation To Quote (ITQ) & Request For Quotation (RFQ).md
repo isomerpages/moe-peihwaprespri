@@ -33,6 +33,12 @@ Interested vendors are requested to refer to the ITQ / RFQ number and submit the
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24005546</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Chinese Culture and Language CCA in PHPPS from 1 Jan 2025 to 31 Dec 2025,with option to extend from 1 Jan 2026 to 31 Dec 2026l</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 21 Oct 2024</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> 29 Oct 2024 01:00 PM</span></td>
+  </tr><tr>
 		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  MOESCHETQ24004087</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Conversational Malay Programme (CCM) in Pei Hwa Presbyterian Primary School</span></td>
