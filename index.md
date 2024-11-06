@@ -39,16 +39,18 @@ sections:
       title: President's Award for Teachers 2025
       subtitle: PAT 2025
       id: infopic
-      description: Nomination is now open. Closing date 10 Jan 2025
+      description: Nominations are now open. Closing date 10 Jan 2025
       button: Nominate here
       alt: Image alt text
       url: https://go.gov.sg/pat2025
       image: /images/Picture Cover/pat_2025.jpg
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Outstanding Youth in Education Award 2025
+      subtitle: OYEA 2025
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Nominations are now open. Closing date 10 Jan 2025
+      button: Nominate here
       alt: Image alt text
+      url: https://go.gov.sg/oyea2025
+      image: /images/Picture Cover/oyea_2025.jpg
 ---
