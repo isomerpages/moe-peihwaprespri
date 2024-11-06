@@ -230,8 +230,8 @@ enrichment programmes charges.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Refer to school website:</p>
-<p><a href="https://www.peihwapresbyterianpri.moe.edu.sg/permalink/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Parents</a>
-</p>
+<p>2025 P1 Parents</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Book List and School Uniform List for Operating Schedule</p>
@@ -246,15 +246,18 @@ enrichment programmes charges.</p>
 <p>(Aik Shen Bus Service)</p>
 </td>
 <td rowspan="1" colspan="1">
+<blockquote>
 <p>Contact: Mr Yeo</p>
 <p>Tel: 96327095 / 62694708</p>
 <p>To apply online via FormSG :</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
 </p>
+</blockquote>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To contact Vendor Directly</p>
+<p><strong>To contact Vendor Directly</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -266,20 +269,27 @@ enrichment programmes charges.</p>
 <p>(Commit Learning Schoolhouse)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For all SCC enquiries:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a>
+<blockquote>
+<p><strong><u>For all SCC enquiries:</u></strong>
+</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
 </p>
 <p>Tel: 8928 6418</p>
+</blockquote>
 <p>&nbsp;</p>
-<p>SCC Application Link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242728735856470</a>
+<blockquote>
+<p><strong><u>SCC Application Link:</u></strong>
 </p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242728735856470</a></strong>
+</p>
+</blockquote>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To contact Vendor Directly</p>
-<p>(Please refer to Commit Learning&nbsp; Introduction &amp; FAQs for more
-details in school website)</p>
+<p><strong>To contact Vendor Directly</strong>
+</p>
+<p>(<strong>Please refer to Commit Learning&nbsp; Introduction &amp; FAQs for more details)</strong>
+</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -300,6 +310,9 @@ details in school website)</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>If you need further assistance, please contact our school general office
+at 64663787 or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for assistance.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -324,9 +337,6 @@ details in school website)</p>
 <br>• eFAS FormSG Link: <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> &nbsp;
 <br>• Parents Gateway App (<strong>Services tap -&gt; Financial Assistance</strong> ),
 &nbsp;</p>
-<p></p>
-<p>If you need further assistance, please contact our school general office
-at 64663787 or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for assistance.</p>
 <p></p>
 <p></p>
 <p></p>
