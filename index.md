@@ -35,9 +35,18 @@ sections:
             Programme will be shared with you via Parents Gateway in October."
           link_text: ""
           link_url: ""
-        - title: 2025 P1 School Books and Uniform  Sale Schedule
-          date: 07 October 2024
-          announcement: 2025 P1 Parents you may find more details via the link below.
-          link_text: 2025 P1 School Books and Uniform Sale Schedule
-          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2025-p1-school-books-and-uniform-sale/
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
