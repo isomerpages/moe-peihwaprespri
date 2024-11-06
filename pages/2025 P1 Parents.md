@@ -315,22 +315,6 @@ enrichment programmes charges.</p>
 at 64663787 or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for assistance.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<h5>3. School Bus Application Form</h5>
-<p>School Bus Contact: <strong>Mr Yeo Kah Hua</strong>, &nbsp;
-<br>Mobile Hp: <strong>96327095</strong> , Office: <strong>62694708</strong> .
-<br><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
-</p>
-<h5>4. School Student Care Application: Commit Learning Schoolhouse</h5>
-<p>For all SCC enquiries: &nbsp;
-<br>Contact <strong>89286418</strong> or email to admission_cls_phpps@commitlearning.com.sg</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ86sNDZfknl4AeixyzmIhvQ82O0DhatHbNNpFpyefyRkP4w/viewform?pli=1" rel="noopener noreferrer nofollow" target="_blank">For SCC Programme Application, please click HERE</a>
-</p>
-<p><a href="/files/Application%20Forms/scc%20introduction%20letter%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC Introduction Letter</a>
-</p>
-<p><a href="/files/Application%20Forms/student%20care%20centre%202024%20faq.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC FAQ</a>
-</p>
 <h4>C) Others:</h4>
 <p><strong>Financial Assistant Scheme Application</strong> via either method:,
 &nbsp;
