@@ -35,9 +35,22 @@ sections:
             Programme will be shared with you via Parents Gateway in October."
           link_text: ""
           link_url: ""
-        - title: 2025 P1 School Books and Uniform  Sale Schedule
-          date: 07 October 2024
-          announcement: 2025 P1 Parents you may find more details via the link below.
-          link_text: 2025 P1 School Books and Uniform Sale Schedule
-          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2025-p1-school-books-and-uniform-sale/
+  - infopic:
+      title: President's Award for Teachers 2025
+      subtitle: PAT 2025
+      id: infopic
+      description: Nominations are now open. Closing date 10 Jan 2025
+      button: Nominate here
+      alt: Image alt text
+      url: https://go.gov.sg/pat2025
+      image: /images/Picture Cover/pat_2025.jpg
+  - infopic:
+      title: Outstanding Youth in Education Award 2025
+      subtitle: OYEA 2025
+      id: infopic
+      description: Nominations are now open. Closing date 10 Jan 2025
+      button: Nominate here
+      alt: Image alt text
+      url: https://go.gov.sg/oyea2025
+      image: /images/Picture Cover/oyea_2025.jpg
 ---
