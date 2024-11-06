@@ -240,15 +240,18 @@ enrichment programmes charges.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025 P1 Book List &amp; School Uniform List</p>
+<p><strong>2025 P1 Book List &amp; School Uniform List</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to school website:</p>
-<p>2025 P1 Parents</p>
-<p><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a>
+<p></p>
+<blockquote>
+<p><strong><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a></strong>
 </p>
-<p><a href="/files/School Uniform/2025/PHPPS_Uniform_List_2025.pdf" rel="noopener nofollow" target="_blank">P1School Unifom 2025</a>
+<p></p>
+<p><strong><a href="/files/School Uniform/2025/PHPPS_Uniform_List_2025.pdf" rel="noopener nofollow" target="_blank">P1 School Unifom 2025</a></strong>
 </p>
+</blockquote>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Book List and School Uniform List for Operating Schedule</p>
