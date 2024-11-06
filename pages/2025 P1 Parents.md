@@ -275,6 +275,10 @@ enrichment programmes charges.</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
 </p>
 <p>Tel: 8928 6418</p>
+<p><a href="/files/Application Forms/Student Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
+</p>
+<p><a href="/files/Application Forms/Student Care/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Pei_Hwa_Presbyterian_Primary_School.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
+</p>
 </blockquote>
 <p>&nbsp;</p>
 <blockquote>
@@ -290,7 +294,10 @@ enrichment programmes charges.</p>
 </p>
 <p>(<strong>Please refer to Commit Learning&nbsp; Introduction &amp; FAQs for more details)</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
+<p><strong>&nbsp;Note: All arrangements and agreements are to be made directly with the student care service provider.</strong>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -327,6 +334,7 @@ enrichment programmes charges.</p>
 <p></p>
 <p>If you need further assistance, please contact our school general office
 at 64663787 or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for assistance.</p>
+<p></p>
 <p></p>
 <p></p>
 <h4></h4>
