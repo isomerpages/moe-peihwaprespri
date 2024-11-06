@@ -7,12 +7,12 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg">
 </div>
-<h3>2025 P1 Admin Matters</h3>
+<h2>2025 P1 Admin Matters</h2>
 <p>Dear Parents P1 students in 2025, &nbsp;
 <br>Welcome to Pei Hwa Presbyterian Primary School. We would like share with
 you the “<strong>P1 Administrative Matters</strong>” as listed below for
 completion by the respective due dates:-</p>
-<h5>A) Parents to submit or apply:</h5>
+<h3>A) Parents to submit or apply:</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -98,7 +98,7 @@ completion by the respective due dates:-</p>
 <p>To submit online<strong> <u>from 10.00 am, 25 Nov 2024</u></strong>
 </p>
 <p>To collect student and parent information/data. to submit/verify their
-child’s particulars on the <strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a></strong> 
+child’s particulars on the <strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a></strong>
 </p>
 <blockquote>
 <p><strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a></strong>
@@ -165,7 +165,7 @@ enrichment programmes charges.</p>
 </p>
 <p>• Parents Gateway App (Services tap  Edusave Standing Order)</p>
 <blockquote>
-<h4>MOE Edusave Standing Order link:  &nbsp; <strong><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a></strong></h4>
+<h4>MOE Edusave Standing Order link: &nbsp; <strong><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a></strong></h4>
 </blockquote>
 <p>&nbsp;</p>
 </td>
