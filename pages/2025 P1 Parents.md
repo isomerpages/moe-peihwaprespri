@@ -283,9 +283,9 @@ enrichment programmes charges.</p>
 <p>(Commit Learning Schoolhouse)</p>
 </td>
 <td rowspan="1" colspan="1">
-<blockquote>
 <p><strong><u>For all SCC enquiries:</u></strong>
 </p>
+<blockquote>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
 </p>
 <p>Tel: 8928 6418</p>
