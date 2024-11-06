@@ -308,6 +308,20 @@ enrichment programmes charges.</p>
 <p>To be advised</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -315,12 +329,7 @@ enrichment programmes charges.</p>
 at 64663787 or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for assistance.</p>
 <p></p>
 <p></p>
-<h4>C) Others:</h4>
-<p><strong>Financial Assistant Scheme Application</strong> via either method:,
-&nbsp;
-<br>• eFAS FormSG Link: <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> &nbsp;
-<br>• Parents Gateway App (<strong>Services tap -&gt; Financial Assistance</strong> ),
-&nbsp;</p>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
