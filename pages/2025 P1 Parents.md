@@ -193,11 +193,113 @@ enrichment programmes charges.</p>
 </tbody>
 </table>
 <p></p>
-<h5>B) School Vendor:</h5>
-<p>Please refer to the P1 Book and Uniform 2024 lists attached.</p>
-<p><strong>Note: P1 Chinese and CCE Textbooks would only be available in early Dec 2023.</strong>
-</p>
+<h3>B) School Vendor:</h3>
 <p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Information</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 P1 Book List &amp; School Uniform List</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Refer to school website:</p>
+<p><a href="https://www.peihwapresbyterianpri.moe.edu.sg/permalink/" rel="noopener noreferrer nofollow" target="_blank">2025 P1 Parents</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>See Book List and School Uniform List for Operating Schedule</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Bus Arrangement</p>
+<p>(Aik Shen Bus Service)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contact: Mr Yeo</p>
+<p>Tel: 96327095 / 62694708</p>
+<p>To apply online via FormSG :</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To contact Vendor Directly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Student Care</p>
+<p>(Commit Learning Schoolhouse)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all SCC enquiries:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a>
+</p>
+<p>Tel: 8928 6418</p>
+<p>&nbsp;</p>
+<p>SCC Application Link:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242728735856470</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To contact Vendor Directly</p>
+<p>(Please refer to Commit Learning&nbsp; Introduction &amp; FAQs for more
+details in school website)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Immunisation Consent to Health Promotion Board (HPB)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be advised at a later date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be advised</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
