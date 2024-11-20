@@ -61,5 +61,5 @@ variant: markdown
 
 <figure>
 <img src="/images/Performing%20the%20community.jpg">
-<figcaption> <strong>We achieved the Distinction Award in SYF 2018</strong> </figcaption>
+<figcaption> <strong>We achieved the Distinction Award in SYF </strong> </figcaption>
 </figure>
