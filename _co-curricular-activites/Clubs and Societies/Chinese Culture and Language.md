@@ -47,23 +47,22 @@ variant: markdown
 ### Photos
 <figure>
 <img src="/images/cs%201.jpg">
-<figcaption>1.&nbsp;&nbsp;2021年新年庆祝活动表演——群口讲故事</figcaption>
+<figcaption>1.&nbsp;&nbsp;年新年庆祝活动表演——群口讲故事</figcaption>
 </figure>
 
 <figure>
 <img src="/images/cs%202.jpg">
-<figcaption>2.&nbsp;2021年新年庆祝活动表演——群口讲故事</figcaption>
+<figcaption>2.&nbsp;年新年庆祝活动表演——群口讲故事</figcaption>
 </figure>
 
 <figure>
 <img src="/images/cs%203.jpg">
-<figcaption>3.&nbsp;2021年新年庆祝活动表演——快板</figcaption>
+<figcaption>3.&nbsp;年新年庆祝活动表演——快板</figcaption>
 </figure>
 
 <figure>
 <img src="/images/cs%204.jpg">
-<figcaption>4.&nbsp; 2021年新年庆祝活动表演——快板</figcaption>
-</figure>
+<figcaption>4.&nbsp; 年新年庆祝活动表演——快板</figcaption></figure>
 
 <figure>
 <img src="/images/cs%205.jpg">
