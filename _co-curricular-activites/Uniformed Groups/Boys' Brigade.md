@@ -58,15 +58,15 @@ variant: markdown
 
 <figure>
 <img src="/images/bb%201.jpg">
-<figcaption>Overnight camp in&nbsp;S.E.A. Aquarium&nbsp;in 2017</figcaption>
+<figcaption>Overnight camp in&nbsp;S.E.A. Aquarium&nbsp;</figcaption>
 </figure>
 
 <figure>
 <img src="/images/bb%202.jpg">
-<figcaption>Lazer Tag Challenge in 2019</figcaption>
+<figcaption>Lazer Tag Challenge</figcaption>
 </figure>
 
 <figure>
 <img src="/images/bb%203.jpg">
-<figcaption>Year end camp in 2019</figcaption>
+<figcaption>Year end camp</figcaption>
 </figure>
