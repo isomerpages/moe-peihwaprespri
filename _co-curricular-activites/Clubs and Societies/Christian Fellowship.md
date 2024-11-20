@@ -52,18 +52,18 @@ variant: markdown
 
 <figure>
 <img src="/images/cf%201.jpg">
-<figcaption>Preparing for VIA Chinese New Year Celebration 2020 ( Before Covid-19 )</figcaption>
+<figcaption>Preparing for VIA Chinese New Year Celebration</figcaption>
 </figure>
 
 <figure>
 <img src="/images/cf%202.jpg">
-<figcaption>Internal VIA 2020 (Before Circuit Breaker)&nbsp;<br>
+<figcaption>Internal VIA &nbsp;<br>
 CF members greet Happy New Year to our school non-teaching staff.</figcaption>
 </figure>
 
 <figure>
 <img src="/images/cf%203.jpg">
-<figcaption>Observe safe distancing during Christian Fellowship CCA 2021.</figcaption>
+<figcaption>Observe safe distancing during Christian Fellowship CCA</figcaption>
 </figure>
 
 <figure>
