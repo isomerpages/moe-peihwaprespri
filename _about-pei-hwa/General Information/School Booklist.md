@@ -11,49 +11,48 @@ variant: markdown
 <p><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf">
 <img src="/images/P1%20booklist.png" style="width:40%">
 </a></p>
-[p1](/files/Booklist/2025/P1_Booklist_2025_up.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P2.pdf">
 <img src="/images/P2%20booklist.png" style="width:40%">
 </a></p>
-[p2](/files/Booklist/2025/P2.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P3.pdf">
 <img src="/images/P3%20booklist.png" style="width:40%">
 </a></p>
-[p3](/files/Booklist/2025/P3.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P4.pdf">
 <img src="/images/P4%20booklist.png" style="width:40%">
 </a></p>
-[p4](/files/Booklist/2025/P4.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P5__STD_.pdf">
 <img src="/images/P5%20booklist.png" style="width:40%">
 </a></p>
-[p5std](/files/Booklist/2025/P5__STD_.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P6__STD_.pdf">
 <img src="/images/P6%20booklist.png" style="width:40%">
 </a></p>
-[p6std](/files/Booklist/2025/P6__STD_.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P5__FDN_.pdf">
 <img src="/images/P5%20foundation%20booklist.png" style="width:40%">
 </a></p>
-[p5fdn](/files/Booklist/2025/P5__FDN_.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P6__FDN_.pdf">
 <img src="/images/P6%20foundation%20booklist.png" style="width:40%">
 </a></p>
-[p6fdn](/files/Booklist/2025/P6__FDN_.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P5__HCL_.pdf">
 <img src="/images/P5%20HCL%20booklist.png" style="width:40%">
 </a></p>
-[p5hcl](/files/Booklist/2025/P5__HCL_.pdf)
+.
 
 <p><a href="/files/Booklist/2025/P6__HCL_.pdf">
 <img src="/images/P6%20HCL%20booklist.png" style="width:40%">
 </a></p>
-[p6hcl](/files/Booklist/2025/P6__HCL_.pdf)
