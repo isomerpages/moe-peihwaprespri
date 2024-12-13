@@ -20,7 +20,8 @@ Tel: 89286418
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
 
-##### [School Student Care Application](https://docs.google.com/forms/d/e/1FAIpQLSeh5oos_3HJrliSvMH8AoxE5Dd2ueBaxmbdgVLwnee5VScUWA/viewform)
+##### [School Student Care Application](https://form.jotform.com/242728735856470)
+
 
 
 ##### [Introduction Letter 2025](/files/Application%20Forms/Student%20Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf)
