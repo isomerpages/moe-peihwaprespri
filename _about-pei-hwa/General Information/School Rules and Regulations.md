@@ -59,7 +59,7 @@ The school seeks to create and sustain a learning environment that is safe, resp
 
 #### 6.    Prohibited Items
 
-* Students are not allowed to have in their possession any form of weapon.
+• Students are not allowed to have in their possession any form of weapon.
 
 • Students are not allowed to bring any weapon-like item, which can be used or
 intended to be used to cause harm to others.
