@@ -59,11 +59,21 @@ The school seeks to create and sustain a learning environment that is safe, resp
 
 #### 6.    Prohibited Items
 
-*   Pupils are not allowed to have in their possession any form of weapon.
-*   They are also not allowed to bring any weapon-like item, which can be used or intended to be used to cause harm to others.
-*   Pupils are not allowed to bring items that are disruptive to teaching and learning. Card games, toys and electronic devices are strictly not allowed in school.
-*   These restrictions apply to Learning Journeys, CCAs and any school events, unless permission has been granted by the school. Pupils who are found with the prohibited items will have the items confiscated. 
-*   Confiscated items can only be collected by the pupil’s parents/guardians.
+* Students are not allowed to have in their possession any form of weapon.
+
+• Students are not allowed to bring any weapon-like item, which can be used or
+intended to be used to cause harm to others.
+
+• Students are not allowed to bring items that are disruptive to teaching and
+learning such as card games and toys. Unauthorised electronic devices capable
+of capturing, storing, displaying and/or transmitting visual, audio or verbal
+information, are strictly not allowed in school.
+
+• These restrictions apply to Learning Journeys, CCAs and any school events,
+unless permission has been granted by the school. Students who are found with
+the prohibited items will have the items confiscated.
+
+• Confiscated items can only be collected by the student’s parents/guardians.
 
   
 
