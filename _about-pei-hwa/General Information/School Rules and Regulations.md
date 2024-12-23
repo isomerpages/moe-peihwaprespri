@@ -93,7 +93,7 @@ the devices.
 
 • Non-compliance with these rules will result in device confiscation, and parents
 will be contacted for collection. The school may also revoke device privileges if
-necessary
+necessary.
   
 
 #### 8.    Responsible Use of Technology
