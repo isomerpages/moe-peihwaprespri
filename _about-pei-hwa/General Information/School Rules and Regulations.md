@@ -70,17 +70,30 @@ The school seeks to create and sustain a learning environment that is safe, resp
 #### 7.    Responsible Use of Mobile Phones
 
   
+Students are discouraged from bringing smartphones/smartwatches to school.
+A declaration form is to be completed via Parents Gateway before students are
+allowed to bring smartphones/ smartwatches to school. Students who bring their
+smartphones/smartwatches are to adhere to the following guidelines as listed below:
 
-The school does not encourage pupils to bring mobile phones to school, however, pupils may bring their mobile phones to school at their own risk. Pupils who bring their mobile phones are to adhere to the following guidelines as listed below:
+• Devices must be switched off during school hours, including recess, CCAs, and
+after-school programmes (e.g. supplementary/ enrichment/remedial lessons).
+This rule also applies to out-of-school activities such as camps and Learning
+Journeys.
 
-  
+• Devices are prohibited in exam venues.
 
-*   Mobile phones are to be used for the sole purpose of making emergency calls or texting messages to parents or guardians. They are not to be used for recreational purposes, for examples, playing games, taking pictures, surfing the internet or social media.
-*   Mobile phones must be switched off during lessons, supplementary/remedial classes after school and lessons conducted during holidays. Restriction on use of mobile phone applies to pupils during excursions, camps and co-curriculum activities.
-*   Usage of mobile phones is only allowed in front of the General Office after school.
-*   If a pupil is caught using the mobile phone during curriculum time or outside the stipulated places and timing, his / her phone will be confiscated. The Form Teacher or another staff member will contact the parents / guardians to make arrangement to collect the mobile phone, if necessary.
-*   Pupils should be responsible for their property and not flaunt it or invite envy and draw attention to it. The school will not be held accountable for any losses.
+• Devices can only be used after school in front of the General Office for emergency
+calls or texts to parents. They are not for recreational use (e.g., gaming, phototaking,
+video-recording and visiting social media).
 
+• Devices must be kept in school bags until school hours end.
+
+• Students are responsible for their devices; the school is not liable for any loss of
+the devices.
+
+• Non-compliance with these rules will result in device confiscation, and parents
+will be contacted for collection. The school may also revoke device privileges if
+necessary
   
 
 #### 8.    Responsible Use of Technology
