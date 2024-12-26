@@ -65,6 +65,21 @@ description: ""
 | Responsibility 1     | Mdm Haryati    |     |
 |     | Mr Gao Yuan   |   |
 | <br> |   | 
+| Responsibility 2 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Responsibility 3 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Responsibility 4 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Responsibility 5 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Responsibility 6 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
 
 ### Primary 4
 | Class | Form Teachers (FT) | Email Address |
@@ -72,6 +87,21 @@ description: ""
 | Teamwork 1     | Mr Liew Jiunn Shyong     |     |
 |     |  Mrs Debbie Tan  |   |
 | <br> |   | 
+| Teamwork 2     |      |     |
+|     |   |   |
+| <br> |   | 
+| Teamwork 3 &nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Teamwork 4 &nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Teamwork 5&nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
+| Teamwork 6&nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
+| &nbsp; &nbsp; | &nbsp; | &nbsp; |
+| <br> | &nbsp; |
 
 ### Primary 5
 | Class | Form Teachers (FT) | Email Address |
@@ -79,10 +109,41 @@ description: ""
 | Loyalty 1     |     |     |
 |     |    |   |
 | <br> |   | 
+| Loyalty 2    |     |     |
+|     |    |   |
+| <br> |   | 
+| Loyalty 3     |     |     |
+|     |    |   |
+| <br> |   | 
+| Loyalty 4    |     |     |
+|     |    |   |
+| <br> |   | 
+| Loyalty 5     |     |     |
+|     |    |   |
+| <br> |   | 
+| Loyalty 6     |     |     |
+|     |    |   |
+| <br> |   | 
+
 
 ### Primary 6
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Resilience 1     |     |     |
+|     |    |   |
+| <br> |   |
+| Resilience 2     |     |     |
+|     |    |   |
+| <br> |   |
+| Resilience 3     |     |     |
+|     |    |   |
+| <br> |   |
+| Resilience 4     |     |     |
+|     |    |   |
+| <br> |   |
+| Resilience 5     |     |     |
+|     |    |   |
+| <br> |   |
+| Resilience 6     |     |     |
 |     |    |   |
 | <br> |   |
