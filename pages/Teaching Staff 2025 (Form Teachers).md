@@ -36,22 +36,41 @@ description: ""
 ### Primary 2
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Respect 1     |     |     |
+| Respect 1     | Ms Kimberly Hay    |     |
+|     |  Mdm Loh Seow Hwei  |   |
+| <br> |   | 
+| Respect 2     |     |     |
 |     |    |   |
 | <br> |   | 
+| Respect 3     |     |     |
+|     |    |   |
+| <br> |   | 
+| Respect 4     |     |     |
+|     |  i  |   |
+| <br> |   | 
+| Respect 5     |     |     |
+|     |  i  |   |
+| <br> |   | 
+| Respect 6     |     |     |
+|     |  i  |   |
+| <br> |   | 
+| Respect 7     |     |     |
+|     |  i  |   |
+| <br> |   | 
+
 
 ### Primary 3
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Responsibility 1     |     |     |
-|     |    |   |
+| Responsibility 1     | Mdm Haryati    |     |
+|     | Mr Gao Yuan   |   |
 | <br> |   | 
 
 ### Primary 4
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Teamwork 1     |     |     |
-|     |    |   |
+| Teamwork 1     | Mr Liew Jiunn Shyong     |     |
+|     |  Mrs Debbie Tan  |   |
 | <br> |   | 
 
 ### Primary 5
@@ -66,4 +85,4 @@ description: ""
 | -------- | -------- | -------- |
 | Resilience 1     |     |     |
 |     |    |   |
-| <br> |   | 
+| <br> |   |
