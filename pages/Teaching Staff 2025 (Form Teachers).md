@@ -36,23 +36,34 @@ description: ""
 ### Primary 2
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-
+| Respect 1     |     |     |
+|     |    |   |
+| <br> |   | 
 
 ### Primary 3
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-
+| Responsibility 1     |     |     |
+|     |    |   |
+| <br> |   | 
 
 ### Primary 4
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-
+| Teamwork 1     |     |     |
+|     |    |   |
+| <br> |   | 
 
 ### Primary 5
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-
+| Loyalty 1     |     |     |
+|     |    |   |
+| <br> |   | 
 
 ### Primary 6
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
+| Resilience 1     |     |     |
+|     |    |   |
+| <br> |   | 
