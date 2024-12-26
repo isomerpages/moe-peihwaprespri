@@ -45,17 +45,17 @@ description: ""
 | Respect 3     |  Ms Lua Seow Chin   |  [lua_seow_chin@moe.edu.sg](lua_seow_chin@moe.edu.sg)   |
 |     | Mr Andy Goh   | [goh_kok_hwee@moe.edu.sg](goh_kok_hwee@moe.edu.sg)   |
 | <br> |   | 
-| Respect 4     | Mrs Doris Lu    |     |
-|     | Mdm Teo Jing Wen  |   |
+| Respect 4     | Mrs Doris Lu    |  [loh_phoi_shien@moe.edu.sg](loh_phoi_shien@moe.edu.sg)   |
+|     | Mdm Teo Jing Wen  | [teo_jing_wen@moe.edu.sg](teo_jing_wen@moe.edu.sg)  |
 | <br> |   | 
-| Respect 5     | Ms Siti Nafsiyah    |     |
-|     |  Mdm Agnes Ho  |   |
+| Respect 5     | Ms Siti Nafsiyah    | [siti_nafsiyah_riduan@moe.edu.sg](siti_nafsiyah_riduan@moe.edu.sg)    |
+|     |  Mdm Agnes Ho  |[agnes_ho_choy_kum@moe.edu.sg](agnes_ho_choy_kum@moe.edu.sg)   |
 | <br> |   | 
-| Respect 6     | Ms Ho Meow Jin    |     |
-|     | Mdm Jiang Yanyan  |   |
+| Respect 6     | Ms Ho Meow Jin    |  [ho_meow_jin@moe.edu.sg](ho_meow_jin@moe.edu.sg)   |
+|     | Mdm Jiang Yanyan  | [jiang_yanyan@moe.edu.sg](jiang_yanyan@moe.edu.sg)  |
 | <br> |   | 
-| Respect 7     |  Ms Rose Marie Kit Yee Henry   |     |
-|     |  Ms Pang Xin Yi  |   |
+| Respect 7     |  Ms Rose Marie Kit Yee Henry   |  [rose_marie_kit_yee@moe.edu.sg](rose_marie_kit_yee@moe.edu.sg)   |
+|     |  Ms Pang Xin Yi  | [pang_xin_yi@moe.edu.sg](pang_xin_yi@moe.edu.sg)  |
 | <br> |   | 
 
 
