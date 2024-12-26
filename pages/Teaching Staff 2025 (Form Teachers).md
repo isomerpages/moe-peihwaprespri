@@ -84,23 +84,23 @@ description: ""
 ## Primary 4
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Teamwork 1     | Mr Liew Jiunn Shyong     |     |
-|     |  Mrs Debbie Tan  |   |
+| Teamwork 1     | Mr Liew Jiunn Shyong     |   [liew_jiunn_shyong@moe.edu.sg](liew_jiunn_shyong@moe.edu.sg)  |
+|     |  Mrs Debbie Tan  | [lim_mui_theng_debbie@moe.edu.sg](lim_mui_theng_debbie@moe.edu.sg)  |
 | <br> |   | 
-| Teamwork 2     |  Mdm Goh Ai Lian    |     |
-|     | Mr Tan Kok Yew  |   |
+| Teamwork 2     |  Mdm Goh Ai Lian    |  [goh_ai_lian_a@moe.edu.sg](goh_ai_lian_a@moe.edu.sg)   |
+|     | Mr Tan Kok Yew  |  [tan_kok_yew@moe.edu.sg](tan_kok_yew@moe.edu.sg) |
 | <br> |   | 
-| Teamwork 3     |  Mr Low Chuin Li    |     |
-|     | Mrs Fronia Toh  |   |
+| Teamwork 3     |  Mr Low Chuin Li    |  [low_chuin_li@moe.edu.sg](low_chuin_li@moe.edu.sg)   |
+|     | Mrs Fronia Toh  | [eng_pei_sze_fronia@moe.edu.sg](eng_pei_sze_fronia@moe.edu.sg)  |
 | <br> |   | 
-| Teamwork 4     | Mr Foo Chwan Soon     |     |
-|     | Mr Ong Jun Liang  |   |
+| Teamwork 4     | Mr Foo Chwan Soon     |  [foo_chwan_soon@moe.edu.sg](foo_chwan_soon@moe.edu.sg)   |
+|     | Mr Ong Jun Liang  | [ong_jun_liang_a@moe.edu.sg](ong_jun_liang_a@moe.edu.sg)  |
 | <br> |   | 
-| Teamwork 5     | Mr John Leung     |     |
-|     | Mr Zhou Xiaofeng  |   |
+| Teamwork 5     | Mr John Leung     |   [leung_kin_yat_john@moe.edu.sg](leung_kin_yat_john@moe.edu.sg)  |
+|     | Mr Zhou Xiaofeng  | [zhou_xiaofeng@moe.edu.sg](zhou_xiaofeng@moe.edu.sg)  |
 | <br> |   | 
-| Teamwork 6     |   Ms Rebekah Lim   |     |
-|     |  Mr Woon Ta-li |   |
+| Teamwork 6     |   Ms Rebekah Lim   |   [lim_liu_fern_rebekah@moe.edu.sg](lim_liu_fern_rebekah@moe.edu.sg)  |
+|     |  Mr Woon Ta-li | [woon_ta-li@moe.edu.sg](woon_ta-li@moe.edu.sg)  |
 | <br> |   | 
 
 ## Primary 5
