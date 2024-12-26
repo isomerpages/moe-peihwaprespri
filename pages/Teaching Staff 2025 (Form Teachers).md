@@ -90,18 +90,18 @@ description: ""
 | Teamwork 2     |      |     |
 |     |   |   |
 | <br> |   | 
-| Teamwork 3 &nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Teamwork 4 &nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Teamwork 5&nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Teamwork 6&nbsp; &nbsp; | &nbsp; &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
+| Teamwork 3     |      |     |
+|     |   |   |
+| <br> |   | 
+| Teamwork 4     |      |     |
+|     |   |   |
+| <br> |   | 
+| Teamwork 5     |      |     |
+|     |   |   |
+| <br> |   | 
+| Teamwork 6     |      |     |
+|     |   |   |
+| <br> |   | 
 
 ## Primary 5
 | Class | Form Teachers (FT) | Email Address |
