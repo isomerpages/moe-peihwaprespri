@@ -25,11 +25,11 @@ description: ""
 | Integrity 5     |  Mrs Emily Chin   | [tan_hwee_leng_emily@moe.edu.sg](tan_hwee_leng_emily@moe.edu.sg)    |
 |     |  Mdm Yu Hee Mui | [yu_hee_mui@moe.edu.sg](yu_hee_mui@moe.edu.sg)    |
 | <br> |   | 
-| Integrity 6     |     |     |
-|     |    |   |
+| Integrity 6     | Mdm Dawn Ling    | [ling_poh_kiow_dawn@moe.edu.sg](ling_poh_kiow_dawn@moe.edu.sg)    |
+|     | Ms Evelyn Wong   | [wong_geok_lan_evelyn@moe.edu.sg](wong_geok_lan_evelyn@moe.edu.sg)  |
 | <br> |   | 
-| Integrity 7     |     |     |
-|     |    |   |
+| Integrity 7     |   Ms Felicia Ting  | [felicia_ting_en_qin@moe.edu.sg](felicia_ting_en_qin@moe.edu.sg)    |
+|     |  Mr Timothy Chua  | [timothy_chua_cheng_jie@moe.edu.sg](timothy_chua_cheng_jie@moe.edu.sg)  |
 | <br> |   | 
 
 
