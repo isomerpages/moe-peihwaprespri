@@ -33,7 +33,9 @@ description: ""
 </tr>
 </tbody></table>
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -43,6 +45,9 @@ description: ""
 <img src="/images/Buttons/school%20uniform.JPG" style="width:30%">
 </a></p>
 
+<br>
+<br>
+<br>
 
 | Column 1 |    | Column 3 |
 | -------- | -------- | -------- |
@@ -62,11 +67,21 @@ description: ""
 
 
 **Schedule for Sale of Books and Uniform in School**
-| S/No. | Date | Time |
-| -------- | -------- | -------- |
-| 1| 14 October 2024 (Monday)| 9 am to 3 pm |
+| S/No. | Date | Time | | |
+| -------- | -------- | -------- | - | - |
+| 1| 14 October 2024 (Monday)| - |9 am to 3 pm |
 | 2| 15 October 2024 (Tuesday)| 9 am to 3 pm |
 | 3| 16 October 2024 (Wednesday)| 9 am to 3 pm |
+
+<br>
+<br>
+
+| S/No. | - |Date | Time |
+| -------- | -| ------- | -------- | 
+| 1| 14 October 2024 (Monday)| 9 am to 3 pm |
+| 2|  - |15 October 2024 (Tuesday)| 9 am to 3 pm |
+| 3| 16 October 2024 (Wednesday)| 9 am to 3 pm |
+
 
 
 | Venues:|||
