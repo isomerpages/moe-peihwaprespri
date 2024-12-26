@@ -21,7 +21,7 @@ description: ""
 <br>
 
 
-<table style="background-color:#96D4D4;">
+<table style="background-color:#98AFC7;">
 <tbody><tr style="background-color:#BDB76B;color:#ffffff;">
 <th>Table Header</th><th>Table Header</th>
 </tr>
@@ -32,6 +32,24 @@ description: ""
 <td>Table cell 3</td><td style="background-color:#ff0000;">Table cell 4</td>
 </tr>
 </tbody></table>
+
+
+
+
+
+
+
+<p><a href="/files/School%20Uniform/2025/PHPPS_Uniform_List_2025.pdf">
+<img src="/images/Buttons/school%20uniform.JPG" style="width:30%">
+</a></p>
+
+
+| Column 1 |    | Column 3 |
+| -------- | -------- | -------- |
+| Text     |    | Text     |
+| Text     | [mj.bin.johari@ncs.com.sg](mj.bin.johari@ncs.com.sg)     | Text     |
+
+
 
 
 
