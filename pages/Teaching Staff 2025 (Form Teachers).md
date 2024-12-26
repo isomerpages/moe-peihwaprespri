@@ -129,21 +129,21 @@ description: ""
 ## Primary 6
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Resilience 1     |  Ms Ellen Ang   |     |
-|     |  Mr Fedrick Lim  |   |
+| Resilience 1     |  Ms Ellen Ang   | [ang_geok_lian@moe.edu.sg](ang_geok_lian@moe.edu.sg)    |
+|     |  Mr Fedrick Lim  | [lim_hung_guan@moe.edu.sg](lim_hung_guan@moe.edu.sg)    |
 | <br> |   |
-| Resilience 2     | Mr Wong Phuay Hang    |     |
-|     | Mrs Rebecca Wong   |   |
+| Resilience 2     | Mr Wong Phuay Hang    | [wong_phuay_hang@moe.edu.sg](wong_phuay_hang@moe.edu.sg)    |
+|     | Mrs Rebecca Wong   |  [rebecca_wong@moe.edu.sg](rebecca_wong@moe.edu.sg) |
 | <br> |   |
-| Resilience 3     |  Mrs Cheryl Wang   |     |
-|     |  Ms Jessica Tan  |   |
+| Resilience 3     |  Mrs Cheryl Wang   |  [cheryl_wang@moe.edu.sg](cheryl_wang@moe.edu.sg)   |
+|     |  Ms Jessica Tan  | [jessica_tan_xiu_en@moe.edu.sg](jessica_tan_xiu_en@moe.edu.sg)  |
 | <br> |   |
-| Resilience 4     |  Mr Chua Kah Leong   |     |
-|     | Ms Ang Yong Jia   |   |
+| Resilience 4     |  Mr Chua Kah Leong   |  [chua_kah_leong@moe.edu.sg](chua_kah_leong@moe.edu.sg)   |
+|     | Ms Ang Yong Jia   | [ang_yong_jia@moe.edu.sg](ang_yong_jia@moe.edu.sg)  |
 | <br> |   |
-| Resilience 5     |  Mrs Katherine Teo   |     |
-|     |  Ms Ang Yong Jia  |   |
+| Resilience 5     |  Mrs Katherine Teo   |  [loh_sheau_mei@moe.edu.sg](loh_sheau_mei@moe.edu.sg)   |
+|     |  Mrs Chong Pei Ling  |  [leow_pei_ling@moe.edu.sg](leow_pei_ling@moe.edu.sg)  |
 | <br> |   |
-| Resilience 6     | Mdm Chye Xiao Wei    |     |
-|     |  Mrs Nicola Ho  |   |
+| Resilience 6     | Mdm Chye Xiao Wei    |  [chye_xiao_wei@moe.edu.sg](chye_xiao_wei@moe.edu.sg)   |
+|     |  Mrs Nicola Ho  | [hoon_hui_qi_nicola@moe.edu.sg](hoon_hui_qi_nicola@moe.edu.sg)  |
 | <br> |   |
