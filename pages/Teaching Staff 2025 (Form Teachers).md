@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 
-### Primary 1
+## Primary 1
 
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
@@ -33,7 +33,7 @@ description: ""
 | <br> |   | 
 
 
-### Primary 2
+## Primary 2
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Respect 1     | Ms Kimberly Hay    |     |
@@ -59,7 +59,7 @@ description: ""
 | <br> |   | 
 
 
-### Primary 3
+## Primary 3
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Responsibility 1     | Mdm Haryati    |     |
@@ -81,7 +81,7 @@ description: ""
 | &nbsp; &nbsp; | &nbsp; | &nbsp; |
 | <br> | &nbsp; |
 
-### Primary 4
+## Primary 4
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Teamwork 1     | Mr Liew Jiunn Shyong     |     |
@@ -103,7 +103,7 @@ description: ""
 | &nbsp; &nbsp; | &nbsp; | &nbsp; |
 | <br> | &nbsp; |
 
-### Primary 5
+## Primary 5
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Loyalty 1     |     |     |
@@ -126,7 +126,7 @@ description: ""
 | <br> |   | 
 
 
-### Primary 6
+## Primary 6
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
 | Resilience 1     |     |     |
