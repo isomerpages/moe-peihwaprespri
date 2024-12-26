@@ -65,21 +65,21 @@ description: ""
 | Responsibility 1     | Mdm Haryati    |     |
 |     | Mr Gao Yuan   |   |
 | <br> |   | 
-| Responsibility 2 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Responsibility 3 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Responsibility 4 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Responsibility 5 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
-| Responsibility 6 &nbsp; &nbsp; |  &nbsp;  | &nbsp; &nbsp; |
-| &nbsp; &nbsp; | &nbsp; | &nbsp; |
-| <br> | &nbsp; |
+| Responsibility 2  |   |  |
+|   |   |   |
+| <br> |  |
+| Responsibility 3  |   |  |
+|   |   |   |
+| <br> |  |
+| Responsibility 4  |   |  |
+|   |   |   |
+| <br> |  |
+| Responsibility 5  |   |  |
+|   |   |   |
+| <br> |  |
+| Responsibility 6  |   |  |
+|   |   |   |
+| <br> |  |
 
 ## Primary 4
 | Class | Form Teachers (FT) | Email Address |
