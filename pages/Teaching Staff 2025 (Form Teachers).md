@@ -118,11 +118,11 @@ description: ""
 | Loyalty 4    | Mrs Cindy Tan     |     |
 |     |   Ms Margaret Teo |   |
 | <br> |   | 
-| Loyalty 5     |  Mdm Foo Yean Fung   |     |
-|     |  Mrs Esther Lee  |   |
+| Loyalty 5     |  Mdm Foo Yean Fung   |   [foo_yean_fung@moe.edu.sg](foo_yean_fung@moe.edu.sg)  |
+|     |  Mrs Esther Lee  | [teoh_sze_miin@moe.edu.sg](teoh_sze_miin@moe.edu.sg)   |
 | <br> |   | 
-| Loyalty 6     |  Mr Lew Kai Keng   |     |
-|     | Ms Chow Yee Sun   |   |
+| Loyalty 6     |  Mr Lew Kai Keng   |  [lew_kai_keng@moe.edu.sg](lew_kai_keng@moe.edu.sg)   |
+|     | Ms Chow Yee Sun   | [chow_yee_sun@moe.edu.sg](chow_yee_sun@moe.edu.sg)  |
 | <br> |   | 
 
 
