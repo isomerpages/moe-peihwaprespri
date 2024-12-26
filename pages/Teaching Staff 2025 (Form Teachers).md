@@ -20,10 +20,10 @@ description: ""
 |     | Mrs Chang-Ho Mei Yin   | [ho_mei_yin@moe.edu.sg](ho_mei_yin@moe.edu.sg)  |
 | <br> |   | 
 | Integrity 4     | Mdm Tan Lea Nah    | [tan_lea_nah@moe.edu.sg](tan_lea_nah@moe.edu.sg)    |
-|     | Mrs Cynthia Yang   |   |
+|     | Mrs Cynthia Yang   | [cynthia_lau_caitong@moe.edu.sg](cynthia_lau_caitong@moe.edu.sg)  |
 | <br> |   | 
-| Integrity 5     |     |     |
-|     |   |   |
+| Integrity 5     |  Mrs Emily Chin   | [tan_hwee_leng_emily@moe.edu.sg](tan_hwee_leng_emily@moe.edu.sg)    |
+|     |  Mdm Yu Hee Mui |   |
 | <br> |   | 
 | Integrity 6     |     |     |
 |     |    |   |
