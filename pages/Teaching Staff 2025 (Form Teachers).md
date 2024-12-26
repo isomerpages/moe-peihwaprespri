@@ -36,14 +36,14 @@ description: ""
 ## Primary 2
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Respect 1     | Ms Kimberly Hay    |     |
-|     |  Mdm Loh Seow Hwei  |   |
+| Respect 1     | Ms Kimberly Hay    |  [kimberly_edessa_hay@moe.edu.sg](kimberly_edessa_hay@moe.edu.sg)   |
+|     |  Mdm Loh Seow Hwei  |[loh_seow_hwei@moe.edu.sg](loh_seow_hwei@moe.edu.sg)   |
 | <br> |   | 
-| Respect 2     |  Mdm Ong Shue Li   |     |
-|     | Mdm Winnie Chen   |   |
+| Respect 2     |  Mdm Ong Shue Li   |   [ong_shue_li@moe.edu.sg](ong_shue_li@moe.edu.sg)  |
+|     | Mdm Winnie Chen   | [chen_yiling_winnie@moe.edu.sg](chen_yiling_winnie@moe.edu.sg)  |
 | <br> |   | 
-| Respect 3     |  Ms Lua Seow Chin   |     |
-|     | Mr Andy Goh   |   |
+| Respect 3     |  Ms Lua Seow Chin   |  [lua_seow_chin@moe.edu.sg](lua_seow_chin@moe.edu.sg)   |
+|     | Mr Andy Goh   | [goh_kok_hwee@moe.edu.sg](goh_kok_hwee@moe.edu.sg)   |
 | <br> |   | 
 | Respect 4     | Mrs Doris Lu    |     |
 |     | Mdm Teo Jing Wen  |   |
