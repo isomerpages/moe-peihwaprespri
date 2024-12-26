@@ -62,23 +62,23 @@ description: ""
 ## Primary 3
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Responsibility 1     | Mdm Haryati    |     |
-|     | Mr Gao Yuan   |   |
+| Responsibility 1     | Mdm Haryati    | [haryati_mohd_alhadi@moe.edu.sg](haryati_mohd_alhadi@moe.edu.sg)    |
+|     | Mr Gao Yuan   | [gao_yuan@moe.edu.sg](gao_yuan@moe.edu.sg)  |
 | <br> |   | 
-| Responsibility 2  | Mdm Ishatika  |  |
-|   | Mr Lim Kian Tiong  |   |
+| Responsibility 2  | Mdm Ishatika  |[ishatika_isman@moe.edu.sg](ishatika_isman@moe.edu.sg)  |
+|   | Mr Lim Kian Tiong  | [lim_kian_tiong@moe.edu.sg](lim_kian_tiong@moe.edu.sg)  |
 | <br> |  |
-| Responsibility 3  |Mr Mok Ying Jia   |  |
-|   | Mdm Husnawati  |   |
+| Responsibility 3  |Mr Mok Ying Jia   | [mok_ying_jia@moe.edu.sg](mok_ying_jia@moe.edu.sg) |
+|   | Mdm Husnawati  | [nur_husnawati_hussin@moe.edu.sg](nur_husnawati_hussin@moe.edu.sg)  |
 | <br> |  |
-| Responsibility 4  | Ms Neo Eng Leng  |  |
-|   | Mdm Christine Har  |   |
+| Responsibility 4  | Ms Neo Eng Leng  |[neo_eng_leng@moe.edu.sg](neo_eng_leng@moe.edu.sg)  |
+|   | Mdm Christine Har  | [har_lai_wah@moe.edu.sg](har_lai_wah@moe.edu.sg)  |
 | <br> |  |
-| Responsibility 5  |Mdm Yu Liting   |  |
-|   | Mdm Li Jing  |   |
+| Responsibility 5  |Mdm Yu Liting   |[yu_liting@moe.edu.sg](yu_liting@moe.edu.sg)  |
+|   | Mdm Li Jing  |[li_jing_c@moe.edu.sg](li_jing_c@moe.edu.sg)   |
 | <br> |  |
-| Responsibility 6  |Ms Rene Ng   |  |
-|   | Mdm Diana Goh  |   |
+| Responsibility 6  |Ms Rene Ng   |[rene_ng@moe.edu.sg](rene_ng@moe.edu.sg)  |
+|   | Mdm Diana Goh  |[goh_siew_hong_b@moe.edu.sg](goh_siew_hong_b@moe.edu.sg)   |
 | <br> |  |
 
 ## Primary 4
@@ -106,17 +106,17 @@ description: ""
 ## Primary 5
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
-| Loyalty 1     | Mdm Francisca Lim    |     |
-|     |  Mr Lim Wee Ming  |   |
+| Loyalty 1     | Mdm Francisca Lim    |  [lim_siew_eng_francisca@moe.edu.sg](lim_siew_eng_francisca@moe.edu.sg)   |
+|     |  Mr Lim Wee Ming  | [lim_wee_ming@moe.edu.sg](lim_wee_ming@moe.edu.sg)   |
 | <br> |   | 
-| Loyalty 2    |  Mr Razak   |     |
-|     |  Ms Joyous Choy  |   |
+| Loyalty 2    |  Mr Razak   | [abdul_razak_ariffin@moe.edu.sg](abdul_razak_ariffin@moe.edu.sg)    |
+|     |  Ms Joyous Choy  |[choy_kum_yoke@moe.edu.sg](choy_kum_yoke@moe.edu.sg)   |
 | <br> |   | 
-| Loyalty 3     |  Mr Erman   |     |
-|     | Mrs Sharon Wang   |   |
+| Loyalty 3     |  Mr Erman   |  [erman_abu_bakar@moe.edu.sg](erman_abu_bakar@moe.edu.sg)   |
+|     | Mrs Sharon Wang   | [quek_shing_ting_sharon@moe.edu.sg](quek_shing_ting_sharon@moe.edu.sg)   |
 | <br> |   | 
-| Loyalty 4    | Mrs Cindy Tan     |     |
-|     |   Ms Margaret Teo |   |
+| Loyalty 4    | Mrs Cindy Tan     | [tan_lay_wei@moe.edu.sg](tan_lay_wei@moe.edu.sg)    |
+|     |   Ms Margaret Teo | [teo_kar_sze@moe.edu.sg](teo_kar_sze@moe.edu.sg)  |
 | <br> |   | 
 | Loyalty 5     |  Mdm Foo Yean Fung   |   [foo_yean_fung@moe.edu.sg](foo_yean_fung@moe.edu.sg)  |
 |     |  Mrs Esther Lee  | [teoh_sze_miin@moe.edu.sg](teoh_sze_miin@moe.edu.sg)   |
