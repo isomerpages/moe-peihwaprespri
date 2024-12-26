@@ -65,20 +65,20 @@ description: ""
 | Responsibility 1     | Mdm Haryati    |     |
 |     | Mr Gao Yuan   |   |
 | <br> |   | 
-| Responsibility 2  |   |  |
-|   |   |   |
+| Responsibility 2  | Mdm Ishatika  |  |
+|   | Mr Lim Kian Tiong  |   |
 | <br> |  |
-| Responsibility 3  |   |  |
-|   |   |   |
+| Responsibility 3  |Mr Mok Ying Jia   |  |
+|   | Mdm Husnawati  |   |
 | <br> |  |
-| Responsibility 4  |   |  |
-|   |   |   |
+| Responsibility 4  | Ms Neo Eng Leng  |  |
+|   | Mdm Christine Har  |   |
 | <br> |  |
-| Responsibility 5  |   |  |
-|   |   |   |
+| Responsibility 5  |Mdm Yu Liting   |  |
+|   | Mdm Li Jing  |   |
 | <br> |  |
-| Responsibility 6  |   |  |
-|   |   |   |
+| Responsibility 6  |Ms Rene Ng   |  |
+|   | Mdm Diana Goh  |   |
 | <br> |  |
 
 ## Primary 4
