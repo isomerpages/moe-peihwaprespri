@@ -16,11 +16,11 @@ description: ""
 | Integrity 2     | Mrs Wendy Koh     | [wendy_koh_lay_choi@moe.edu.sg](wendy_koh_lay_choi@moe.edu.sg)     |
 |     | Mdm Hu Ying    | [hu_ying@moe.edu.sg](hu_ying@moe.edu.sg)  |
 | <br> |   | 
-| Integrity 3     | Ms Jao Pei-Jung    |     |
-|     | Mrs Chang-Ho Mei Yin   |   |
+| Integrity 3     | Ms Jao Pei-Jung    | [jao_pei-jung@moe.edu.sg](jao_pei-jung@moe.edu.sg)    |
+|     | Mrs Chang-Ho Mei Yin   | [ho_mei_yin@moe.edu.sg](ho_mei_yin@moe.edu.sg)  |
 | <br> |   | 
-| Integrity 4     |     |     |
-|     |    |   |
+| Integrity 4     | Mdm Tan Lea Nah    | [tan_lea_nah@moe.edu.sg](tan_lea_nah@moe.edu.sg)    |
+|     | Mrs Cynthia Yang   |   |
 | <br> |   | 
 | Integrity 5     |     |     |
 |     |   |   |
