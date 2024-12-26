@@ -23,7 +23,7 @@ description: ""
 |     | Mrs Cynthia Yang   | [cynthia_lau_caitong@moe.edu.sg](cynthia_lau_caitong@moe.edu.sg)  |
 | <br> |   | 
 | Integrity 5     |  Mrs Emily Chin   | [tan_hwee_leng_emily@moe.edu.sg](tan_hwee_leng_emily@moe.edu.sg)    |
-|     |  Mdm Yu Hee Mui |   |
+|     |  Mdm Yu Hee Mui | [yu_hee_mui@moe.edu.sg](yu_hee_mui@moe.edu.sg)    |
 | <br> |   | 
 | Integrity 6     |     |     |
 |     |    |   |
