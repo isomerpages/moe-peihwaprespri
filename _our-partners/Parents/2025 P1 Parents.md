@@ -249,11 +249,11 @@ enrichment programmes charges.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<blockquote>
 <p><strong><a href="/files/Booklist/2025/P1_Booklist_2025_up.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2025</a></strong>
 </p>
 <p><strong><a href="/files/School Uniform/2025/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_Year_2024.pdf" rel="noopener nofollow" target="_blank">P1 School Uniform 2025</a></strong>
 </p>
+<blockquote>
 <p></p>
 </blockquote>
 </td>
