@@ -49,11 +49,10 @@ completion by the respective due dates:-</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>To submit online via FormSG:</p>
+<p><strong><a href="https://go.gov.sg/p1registrationphpps" rel="noopener nofollow" target="_blank">https://go.gov.sg/p1registrationphpps</a></strong>
+</p>
 <p></p>
 <p></p>
-<blockquote>
-<h4><strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p1registrationphpps</a></strong></h4>
-</blockquote>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -99,12 +98,12 @@ completion by the respective due dates:-</p>
 <p>To submit online<strong> <u>from 10.00 am, 25 Nov 2024</u></strong>
 </p>
 <p>To collect student and parent information/data. to submit/verify their
-child’s particulars on the <strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">SDF Portal</a></strong>
+child’s particulars on the</p>
+<p><strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">SDF Portal</a></strong>
 </p>
-<blockquote>
-<p><strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a></strong>
+<p><strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a></strong>
 </p>
-</blockquote>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -135,9 +134,12 @@ OCBC, UOB, BOC, HSBC, Maybank and SCB, Citibank&nbsp;.</p>
 <p>Parents Gateway App.(Services tap à eGiro Setup)</p>
 </li>
 </ul>
-<blockquote>
-<h4>MOE eGiro Portal Weblink <strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a></strong></h4>
-</blockquote>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">MOE eGiro Protal Weblink</a></strong>
+</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>
+</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,9 +167,10 @@ enrichment programmes charges.</p>
 <p><strong><u>To submit online via either method:</u></strong>
 </p>
 <p>• Parents Gateway App (Services tap  Edusave Standing Order)</p>
-<blockquote>
-<h4>MOE Edusave Standing Order link: &nbsp; <strong><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a></strong></h4>
-</blockquote>
+<p><strong><a href="https://form.gov.sg/#!/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Edusave Standing Order Form</a></strong>
+</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,9 +274,13 @@ enrichment programmes charges.</p>
 <p>Contact: Mr Yeo</p>
 <p>Tel: 96327095 / 62694708</p>
 <p>To apply online via FormSG :</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
+<p><strong><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener nofollow" target="_blank">School Bus Application</a></strong>
 </p>
 </blockquote>
+<p><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
+</p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,23 +299,27 @@ enrichment programmes charges.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>For all SCC enquiries:</u></strong>
 </p>
-<blockquote>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
+<p><strong><a href="admission_cls_phpps@commitlearning.com.sg" rel="noopener nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
 </p>
+<blockquote>
 <p>Tel: 8928 6418</p>
-<p><a href="/files/Application Forms/Student Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a>
+</blockquote>
+<blockquote>
+<p></p>
+<p><strong><a href="/files/Application Forms/Student Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a></strong>
 </p>
-<p><a href="/files/Application Forms/Student Care/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Pei_Hwa_Presbyterian_Primary_School.pdf" rel="noopener nofollow" target="_blank">FAQ</a>
+<p><strong><a href="/files/Application Forms/Student Care/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Pei_Hwa_Presbyterian_Primary_School.pdf" rel="noopener nofollow" target="_blank">FAQ</a></strong>
 </p>
 </blockquote>
 <p>&nbsp;</p>
 <blockquote>
-<p><strong><u>SCC Application Link:</u></strong>
+<p></p>
+<p><strong><a href="https://form.jotform.com/242728735856470" rel="noopener nofollow" target="_blank">SCC Application Link</a></strong>
 </p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://form.jotform.com/242728735856470</a></strong>
+<p><a href="https://form.jotform.com/242728735856470" rel="noopener nofollow" target="_blank">https://form.jotform.com/242728735856470</a>
 </p>
+<p></p>
 </blockquote>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>To contact Vendor Directly</strong>
