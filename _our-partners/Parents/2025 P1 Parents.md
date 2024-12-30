@@ -270,13 +270,11 @@ enrichment programmes charges.</p>
 <p>(Aik Shen Bus Service)</p>
 </td>
 <td rowspan="1" colspan="1">
-<blockquote>
 <p>Contact: Mr Yeo</p>
 <p>Tel: 96327095 / 62694708</p>
 <p>To apply online via FormSG :</p>
 <p><strong><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener nofollow" target="_blank">School Bus Application</a></strong>
 </p>
-</blockquote>
 <p><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener nofollow" target="_blank">https://go.gov.sg/phpps-school-bus-application</a>
 </p>
 <p></p>
@@ -301,25 +299,19 @@ enrichment programmes charges.</p>
 </p>
 <p><strong><a href="admission_cls_phpps@commitlearning.com.sg" rel="noopener nofollow" target="_blank">admission_cls_phpps@commitlearning.com.sg</a></strong>
 </p>
-<blockquote>
 <p>Tel: 8928 6418</p>
-</blockquote>
-<blockquote>
 <p></p>
 <p><strong><a href="/files/Application Forms/Student Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf" rel="noopener nofollow" target="_blank">Introduction Letter</a></strong>
 </p>
 <p><strong><a href="/files/Application Forms/Student Care/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Pei_Hwa_Presbyterian_Primary_School.pdf" rel="noopener nofollow" target="_blank">FAQ</a></strong>
 </p>
-</blockquote>
 <p>&nbsp;</p>
-<blockquote>
 <p></p>
 <p><strong><a href="https://form.jotform.com/242728735856470" rel="noopener nofollow" target="_blank">SCC Application Link</a></strong>
 </p>
 <p><a href="https://form.jotform.com/242728735856470" rel="noopener nofollow" target="_blank">https://form.jotform.com/242728735856470</a>
 </p>
 <p></p>
-</blockquote>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>To contact Vendor Directly</strong>
