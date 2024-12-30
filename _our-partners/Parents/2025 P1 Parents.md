@@ -76,7 +76,7 @@ completion by the respective due dates:-</p>
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Both parents NRIC/Entry Permit/Re-Entry Permit</p>
+<p>Both parents' NRIC/Entry Permit/Re-Entry Permit</p>
 </td>
 </tr>
 <tr>
