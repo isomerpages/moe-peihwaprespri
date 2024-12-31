@@ -15,6 +15,6 @@ Mobile no.: 9632 7095 <br>
 Tel: 62694708 <br>
 Email: aikshen1@singnet.com.sg
 
-
+#### [School Bus Application 2025](https://go.gov.sg/phpps-school-bus-application)
 
 **Note:&nbsp; All arrangements and agreements are to be made directly with the bus operator.**
