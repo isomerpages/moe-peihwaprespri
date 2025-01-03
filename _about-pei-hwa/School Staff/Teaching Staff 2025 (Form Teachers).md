@@ -33,6 +33,7 @@ third_nav_title: School Staff
 |     |  Mr Timothy Chua  | [timothy_chua_cheng_jie@moe.edu.sg](timothy_chua_cheng_jie@moe.edu.sg)  |
 | <br> |   | 
 
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
 
 ## Primary 2
 | Class | Form Teachers (FT) | Email Address |
@@ -59,7 +60,7 @@ third_nav_title: School Staff
 |     |  Ms Pang Xin Yi  | [pang_xin_yi@moe.edu.sg](pang_xin_yi@moe.edu.sg)  |
 | <br> |   | 
 
-
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
 ## Primary 3
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
@@ -82,6 +83,7 @@ third_nav_title: School Staff
 |   | Mdm Diana Goh  |[goh_siew_hong_b@moe.edu.sg](goh_siew_hong_b@moe.edu.sg)   |
 | <br> |  |
 
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
 ## Primary 4
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
@@ -104,6 +106,7 @@ third_nav_title: School Staff
 |     |  Mr Woon Ta-li | [woon_ta-li@moe.edu.sg](woon_ta-li@moe.edu.sg)  |
 | <br> |   | 
 
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
 ## Primary 5
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
@@ -126,7 +129,7 @@ third_nav_title: School Staff
 |     | Ms Chow Yee Sun   | [chow_yee_sun@moe.edu.sg](chow_yee_sun@moe.edu.sg)  |
 | <br> |   | 
 
-
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
 ## Primary 6
 | Class | Form Teachers (FT) | Email Address |
 | -------- | -------- | -------- |
@@ -148,3 +151,5 @@ third_nav_title: School Staff
 | Resilience 6     | Mdm Chye Xiao Wei    |  [chye_xiao_wei@moe.edu.sg](chye_xiao_wei@moe.edu.sg)   |
 |     |  Mrs Nicola Ho  | [hoon_hui_qi_nicola@moe.edu.sg](hoon_hui_qi_nicola@moe.edu.sg)  |
 | <br> |   |
+
+![](/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png)
