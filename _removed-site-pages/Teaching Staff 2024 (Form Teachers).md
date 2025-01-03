@@ -1,8 +1,8 @@
 ---
 title: Teaching Staff 2024 (Form Teachers)
-permalink: /permalink/
-variant: markdown
+permalink: /about-pei-hwa/school-staff/teaching-staff-2024-form-teachers/
 description: ""
+variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg)
 <style type="text/css">
@@ -145,8 +145,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Cathryn Yeo</span></td>
-    <td class="tg-gqk5"><a href="mailto:yeo_khan_hui_cathryn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">yeo_khan_hui_cathryn@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Ms Evelyn Wong</span></td>
+    <td class="tg-gqk5"><a href="mailto:wong_geok_lan_evelyn@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_geok_lan_evelyn@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Wong Phuay Hang</span></td>
+    <td class="tg-gqk5"><a href="mailto:wong_phuay_hang@moe.edu.sg"><span style="text-decoration:none;color:#B29059">wong_phuay_hang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 4</span></td>
@@ -180,8 +185,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Respect 7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Ms Regina Yeo</span></td>
-    <td class="tg-gqk5"><a href="mailto:regina_yeo_shu_wen@moe.edu.sg"><span style="text-decoration:none;color:#B29059">regina_yeo_shu_wen@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ong Shue Li</span></td>
+    <td class="tg-gqk5"><a href="mailto:ong_shue_li@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_shue_li@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
@@ -238,7 +243,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs Fronia Chengg</span></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs Fronia Toh</span></td>
     <td class="tg-lmb7"><a href="mailto:eng_pei_sze_fronia@moe.edu.sg%C2%A0"><span style="text-decoration:none;color:#B29059">eng_pei_sze_fronia@moe.edu.sg </span></a></td>
   </tr>
   <tr>
@@ -313,6 +318,11 @@ description: ""
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Mr Mok Ying Jia</span></td>
     <td class="tg-gqk5"><a href="mailto:mok_ying_jia@moe.edu.sg"><span style="text-decoration:none;color:#B29059">mok_ying_jia@moe.edu.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-fxx4"><span style="color:#222"> </span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Ong Li Hui Celestine Ong</span></td>
+    <td class="tg-gqk5"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Teamwork 3</span></td>
@@ -424,15 +434,10 @@ description: ""
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mrs Celestine Wong</span></td>
-    <td class="tg-lmb7"><a href="mailto:ong_li_hui_celestine@moe.edu.sg"><span style="text-decoration:none;color:#B29059">ong_li_hui_celestine@moe.edu.sg</span></a></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs Esther Teoh</span></td>
+    <td class="tg-lmb7"><a href="mailto:teoh_sze_miin@moe.edu.sg"><span style="text-decoration:none;color:#B29059">teoh_sze_miin@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-lr6o"><span style="color:#222"> </span></td>
-    <td class="tg-lr6o"><span style="color:#222">Mdm Hazwani</span></td>
-    <td class="tg-lmb7"><a href="mailto:nur_hazwani_rahmat@moe.edu.sg"><span style="text-decoration:none;color:#B29059">nur_hazwani_rahmat@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-lr6o"><span style="color:#222">Loyalty 6</span></td>
     <td class="tg-lr6o"><span style="color:#222">Mr Timothy Chua</span></td>
     <td class="tg-lmb7"><a href="mailto:timothy_chua_cheng_jie@moe.edu.sg"><span style="text-decoration:none;color:#B29059">timothy_chua_cheng_jie@moe.edu.sg</span></a></td>
@@ -507,13 +512,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 5</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Guo Ting Ting</span></td>
-    <td class="tg-gqk5"><a href="mailto:guo_ting_tingmoe.edu.sg"><span style="text-decoration:none;color:#B29059">guo_ting_ting@moe.edu.sg</span></a></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Jiang Yanyan</span></td>
+    <td class="tg-gqk5"><a href="mailto:jiang_yanyan@moe.edu.sg"><span style="text-decoration:none;color:#B29059">jiang_yanyan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222"> </span></td>
     <td class="tg-fxx4"><span style="color:#222">Ms Choy Kum Yoke</span></td>
-    <td class="tg-gqk5"><a href="mailto:choy_kum_yoke@moe.edu.sg"><span style="text-decoration:none;color:#B29059">choy_kum_yoke@moe.edu.sg</span></a></td>
+    <td class="tg-gqk5"><a href="mailto:choy_kum_yoken@moe.edu.sg"><span style="text-decoration:none;color:#B29059">choy_kum_yoke@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 6</span></td>
@@ -527,7 +532,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-fxx4"><span style="color:#222">Resilience 7</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Nandini/span&gt;</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mdm Nandini</span></td>
     <td class="tg-gqk5"><a href="mailto:nandini_thavarajalingam@moe.edu.sg"><span style="text-decoration:none;color:#B29059">nandini_thavarajalingam@moe.edu.sg</span></a></td>
   </tr>
   <tr>
