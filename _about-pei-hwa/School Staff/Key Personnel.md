@@ -75,7 +75,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">HOD Science</span><br></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mrs. Esther Teoh Sze Miin</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mrs. Esther Lee</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Character &amp; Citizenship Education</span><br></td>
   </tr>
   <tr>
