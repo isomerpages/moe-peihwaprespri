@@ -74,6 +74,10 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Mr. Idris Chua Mohd Shafiq</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Science</span><br></td>
   </tr>
+	   <tr>
+    <td class="tg-lr6o"><span style="color:#222">Mdm. Chia Xiao Wei</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">HOD Chinese</span><br></td>
+  </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mrs. Esther Lee</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Character &amp; Citizenship Education</span><br></td>
