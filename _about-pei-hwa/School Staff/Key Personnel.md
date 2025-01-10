@@ -114,6 +114,10 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Mr. John Leung</span></td>
     <td class="tg-lr6o"><span style="color:#222"> Asst. Year Head</span></td>
   </tr>
+		<tr>
+    <td class="tg-lr6o"><span style="color:#222">Mr. Chua Kah Leong</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> LH Mathematics</span></td>
+  </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm. Chye Xiao Wei</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">LH Chinese</span><br></td>
@@ -123,7 +127,10 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">LH Science</span></td>
   </tr>
   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm. Celestine Ong</span></td>
+		    <td class="tg-lr6o"><span style="color:#222">Ms. Chow Yee Sun</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">SH SAP</span><br></td>
+  </tr>
+    <tr><td class="tg-lr6o"><span style="color:#222">Mdm. Celestine Ong</span></td>
     <td class="tg-lr6o"><span style="color:#222">SH Character &amp; Citizenship Education</span></td>
   </tr>
   <tr>
@@ -138,10 +145,21 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">Ms. Joyous Choy Kum Yoke</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">SH Aesthetics</span><br></td>
   </tr>
+	    <tr><td class="tg-lr6o"><span style="color:#222">Mdm. Wang Juan</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">MTT Chinese</span><br></td>
+  </tr>
   <tr>  
 	</tr><tr>
     <td class="tg-lr6o"><span style="color:#222">Ms. Teo Kar Sze Margaret</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">ST English</span><br></td>
+  </tr>
+	<tr>
+    <td class="tg-lr6o"><span style="color:#222">Mr. Lew Kai Keng</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">ST Mathematics</span><br></td>
+  </tr>
+		<tr>
+    <td class="tg-lr6o"><span style="color:#222">Mdm Haryati</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">ST Science</span><br></td>
   </tr>
     <tr><td class="tg-lr6o"><span style="color:#222">Mdm. Jiang Yanyan</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">ST Chinese</span><br></td>
