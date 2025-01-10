@@ -1339,7 +1339,7 @@ third_nav_title: School Staff
 <p>Ms Ellen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_geok_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_geok_lian@moe.edu.sg</a>
+<p><a href="mailto:ang_geok_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_geok_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1351,7 +1351,7 @@ third_nav_title: School Staff
 <p>Mr Fedrick Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_hung_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hung_guan@moe.edu.sg</a>
+<p><a href="mailto:lim_hung_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hung_guan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1376,7 +1376,7 @@ third_nav_title: School Staff
 <p>Mr Wong Phuay Hang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wong_phuay_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_phuay_hang@moe.edu.sg</a>
+<p><a href="mailto:wong_phuay_hang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_phuay_hang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1388,7 +1388,7 @@ third_nav_title: School Staff
 <p>Mrs Rebecca Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="rebecca_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_wong@moe.edu.sg</a>
+<p><a href="mailto:rebecca_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_wong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1413,7 +1413,7 @@ third_nav_title: School Staff
 <p>Mrs Cheryl Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheryl_wang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_wang@moe.edu.sg</a>
+<p><a href="mailto:cheryl_wang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_wang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1425,7 +1425,7 @@ third_nav_title: School Staff
 <p>Ms Jessica Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jessica_tan_xiu_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_tan_xiu_en@moe.edu.sg</a>
+<p><a href="mailto:jessica_tan_xiu_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_tan_xiu_en@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1450,7 +1450,7 @@ third_nav_title: School Staff
 <p>Mr Chua Kah Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kah_leong@moe.edu.sg</a>
+<p><a href="mailto:chua_kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kah_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1462,7 +1462,7 @@ third_nav_title: School Staff
 <p>Ms Ang Yong Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ang_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_jia@moe.edu.sg</a>
+<p><a href="mailto:ang_yong_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yong_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1487,7 +1487,7 @@ third_nav_title: School Staff
 <p>Mrs Katherine Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="loh_sheau_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_sheau_mei@moe.edu.sg</a>
+<p><a href="mailto:loh_sheau_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_sheau_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1499,7 +1499,7 @@ third_nav_title: School Staff
 <p>Mrs Chong Pei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="leow_pei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_pei_ling@moe.edu.sg</a>
+<p><a href="mailto:leow_pei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_pei_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1524,7 +1524,7 @@ third_nav_title: School Staff
 <p>Mdm Chye Xiao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chye_xiao_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chye_xiao_wei@moe.edu.sg</a>
+<p><a href="mailto:chye_xiao_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chye_xiao_wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1536,7 +1536,7 @@ third_nav_title: School Staff
 <p>Mrs Nicola Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="hoon_hui_qi_nicola@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_hui_qi_nicola@moe.edu.sg</a>
+<p><a href="mailto:hoon_hui_qi_nicola@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_hui_qi_nicola@moe.edu.sg</a>
 </p>
 </td>
 </tr>
