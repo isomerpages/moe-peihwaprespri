@@ -76,7 +76,7 @@ variant: markdown
   </tr>
 	   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mdm. Chia Xiao Wei</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">HOD Chinese</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">HOD Chinese (Covering)</span><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mrs. Esther Lee</span><br></td>
