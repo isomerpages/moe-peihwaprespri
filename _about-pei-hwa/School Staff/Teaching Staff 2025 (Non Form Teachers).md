@@ -29,7 +29,7 @@ variant: tiptap
 <p>Mdm Chok Huey Chyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chok_huey_chyn@moe.edu.sg</a>
+<p><a href="mailto:chok_huey_chyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chok_huey_chyn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mrs Celestine Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_li_hui_celestine@moe.edu.sg</a>
+<p><a href="mailto:ong_li_hui_celestine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_li_hui_celestine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mdm Guo Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">guo_ting_ting@moe.edu.sg</a>
+<p><a href="mailto:guo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>Mr Idris Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_idris_mohd_shafiq@moe.edu.sg</a>
+<p><a href="mailto:chua_idris_mohd_shafiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_idris_mohd_shafiq@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Mdm Low Yoke Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_yoke_kiat@moe.edu.sg</a>
+<p><a href="mailto:low_yoke_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yoke_kiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Mdm Sim Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling@moe.edu.sg</a>
+<p><a href="mailto:sim_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_ai_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mdm Wang Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wang_juan@moe.edu.sg</a>
+<p><a href="mailto:wang_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -92,7 +92,7 @@ variant: tiptap
 <p>Mdm Wong Chin Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_chin_ping@moe.edu.sg</a>
+<p><a href="mailto:wong_chin_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chin_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
