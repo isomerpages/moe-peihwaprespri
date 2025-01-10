@@ -98,11 +98,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noryusman</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noryusman_b_abdul_majid@moe.edu.sg" rel="noopener nofollow" target="_blank">noryusman_b_abdul_majid@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
