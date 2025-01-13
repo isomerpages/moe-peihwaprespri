@@ -126,7 +126,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese New Year </strong>
+<p><strong>Chinese New Year</strong>
 </p>
 <p><strong>Public Holiday</strong>
 </p>
