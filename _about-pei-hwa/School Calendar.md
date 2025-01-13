@@ -226,7 +226,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 to 23 May (Thursday Afternoon &amp; Friday Afternoon)</p>
+<p>22 to 23 May</p>
+<p>(Thursday Afternoon &amp; Friday Afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P1 to P2 Parent Teacher Meeting (PTM)</p>
@@ -271,7 +272,8 @@ Friday morning &amp; afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P3 Multi-Cultural Camp</p>
-<p>(Full Day)</p>
+<p>(<strong>Full Day)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P3 students.</p>
@@ -295,10 +297,11 @@ Friday morning &amp; afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*TTLT Camp</p>
-<p>(Full day)</p>
+<p>(<strong>Full day)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For TTLT students.</p>
+<p>For <strong>TTLT </strong>students.</p>
 </td>
 </tr>
 <tr>
