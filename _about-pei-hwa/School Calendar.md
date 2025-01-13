@@ -79,7 +79,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School hours from </strong>
+<p><strong>School hours from</strong>
 </p>
 <p><strong>7.30 am to 12.00 noon</strong>.</p>
 </td>
@@ -102,7 +102,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>29 January </strong>
+<p><strong>29 January</strong>
 </p>
 <p><strong>(Wednesday)</strong>
 </p>
@@ -136,7 +136,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>31 January </strong>
+<p><strong>31 January</strong>
 </p>
 <p><strong>(Friday)</strong>
 </p>
@@ -177,7 +177,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>31 March </strong>
+<p><strong>31 March</strong>
 </p>
 <p><strong>(Monday)</strong>
 </p>
@@ -207,7 +207,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <td rowspan="1" colspan="1">
 <p><strong>18 April</strong>
 </p>
-<p><strong> (Friday)</strong>
+<p><strong>(Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -221,7 +221,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 May </strong>
+<p><strong>1 May</strong>
 </p>
 <p><strong>(Thursday)</strong>
 </p>
@@ -237,7 +237,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12 May </strong>
+<p><strong>12 May</strong>
 </p>
 <p><strong>(Monday)</strong>
 </p>
@@ -283,7 +283,7 @@ Friday morning &amp; afternoon)</p>
 <td rowspan="1" colspan="1">
 <p><strong>30 May</strong>
 </p>
-<p><strong> (Friday)</strong>
+<p><strong>(Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
