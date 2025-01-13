@@ -35,7 +35,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 January (Tuesday afternoon)</p>
+<p>7 January</p>
+<p>(Tuesday afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P6 FT Touch Base Meeting with Parents (PM)</p>
@@ -46,7 +47,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 January (Thursday afternoon)</p>
+<p>9 January</p>
+<p>(Thursday afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P2 and P4 FT Touch Base Meeting with Parents (PM)</p>
@@ -57,7 +59,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 January (Friday afternoon)</p>
+<p>10 January</p>
+<p>(Friday afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P3 and P5 FT Touch Base Meeting with Parents (PM)</p>
@@ -68,31 +71,40 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 January (Friday)</p>
+<p>17 January</p>
+<p>(Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prize Giving for P2 to P6 Students</p>
+<p><strong>Prize Giving for P2 to P6 Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School hours from 7.30 am to 12.00 noon</strong>.</p>
+<p><strong>School hours from </strong>
+</p>
+<p><strong>7.30 am to 12.00 noon</strong>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 January (Tuesday)</p>
+<p>28 January</p>
+<p>(Tuesday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>*Chinese New Year Celebration</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>School hours from 7.30 am to 10.30 am.</strong>
+<p><strong>School hours from</strong>
+</p>
+<p><strong>7.30 am to 10.30 am.</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>29 January (Wednesday)</strong>
+<p><strong>29 January </strong>
+</p>
+<p><strong>(Wednesday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +120,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 January (Thursday)</strong>
+<p><strong>30 January</strong>
+</p>
+<p><strong>(Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +136,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>31 January (Friday)</strong>
+<p><strong>31 January </strong>
+</p>
+<p><strong>(Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +152,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 March (Saturday morning)</p>
+<p>8 March</p>
+<p>(Saturday morning)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*Secondary Schools Roadshow (AM)</p>
@@ -147,7 +164,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 March (<strong>March Holidays</strong>) (Friday)</p>
+<p>21 March</p>
+<p>(<strong>March Holidays</strong>) (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P4 to P6 Peer Support Training</p>
@@ -159,7 +177,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>31 March (Monday)</strong>
+<p><strong>31 March </strong>
+</p>
+<p><strong>(Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +193,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 to 12 April (Thursday to Saturday)</p>
+<p>10 to 12 April</p>
+<p>(Thursday to Saturday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P5 Camp</p>
@@ -184,7 +205,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18 April (Friday)</strong>
+<p><strong>18 April</strong>
+</p>
+<p><strong> (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +221,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 May (Thursday)</strong>
+<p><strong>1 May </strong>
+</p>
+<p><strong>(Thursday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,7 +237,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>12 May (Monday)</strong>
+<p><strong>12 May </strong>
+</p>
+<p><strong>(Monday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +281,9 @@ Friday morning &amp; afternoon)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>30 May (Friday)</strong>
+<p><strong>30 May</strong>
+</p>
+<p><strong> (Friday)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +310,8 @@ Friday morning &amp; afternoon)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 June &amp; 27 June (<strong>June Holidays</strong>)</p>
+<p>26 June &amp; 27 June</p>
+<p>(<strong>June Holidays</strong>)</p>
 <p>(Thursday morning and Friday morning)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,7 +323,9 @@ Friday morning &amp; afternoon)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 June &amp; 27 June (<strong>June Holidays</strong>) (Thursday and Friday)</p>
+<p>26 June &amp; 27 June</p>
+<p>(<strong>June Holidays</strong>)</p>
+<p>(Thursday and Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*TTLT Camp</p>
