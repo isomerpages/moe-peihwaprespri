@@ -126,7 +126,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese New Year School Holiday</strong>
+<p><strong>Chinese New Year </strong>
+</p>
+<p><strong>Public Holiday</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +158,8 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>(Saturday morning)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Secondary Schools Roadshow (AM)</p>
+<p>*Secondary Schools Roadshow</p>
+<p>(AM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students and parents.</p>
@@ -169,7 +172,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P4 to P6 Peer Support Training</p>
-<p>(Full Day)</p>
+<p><strong>(Full Day</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P4 to P6 Peer Supporters and CCA Leaders.</p>
