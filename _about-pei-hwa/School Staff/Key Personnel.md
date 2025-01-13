@@ -75,7 +75,7 @@ variant: markdown
     <td class="tg-lr6o"><span style="color:#222">HOD Science</span><br></td>
   </tr>
 	   <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm. Chia Xiao Wei</span><br></td>
+    <td class="tg-lr6o"><span style="color:#222">Mdm. Chye Xiao Wei</span><br></td>
     <td class="tg-lr6o"><span style="color:#222">HOD Chinese (Covering)</span><br></td>
   </tr>
   <tr>
@@ -121,10 +121,6 @@ variant: markdown
 		<tr>
     <td class="tg-lr6o"><span style="color:#222">Mr. Chua Kah Leong</span></td>
     <td class="tg-lr6o"><span style="color:#222"> LH Mathematics</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222">Mdm. Chye Xiao Wei</span><br></td>
-    <td class="tg-lr6o"><span style="color:#222">LH Chinese</span><br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">Mr. Fedrick Lim Hung Guan</span></td>
