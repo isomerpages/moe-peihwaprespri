@@ -74,7 +74,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>Prize Giving for P2 to P6 Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Usual lessons for all students.</p>
+<p><strong>School hours from 7.30 am to 12.00 noon</strong>.</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School hours from 7.30 am to 10.30 am.</p>
+<p><strong>School hours from 7.30 am to 10.30 am.</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +96,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Chinese New Year Public Holiday</strong>
+<p><strong>Chinese New Year</strong>
+</p>
+<p><strong>Public Holiday</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,7 +150,8 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>21 March (<strong>March Holidays</strong>) (Friday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*P4 to P6 Peer Support Training (PM)</p>
+<p>*P4 to P6 Peer Support Training</p>
+<p>(Full Day)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P4 to P6 Peer Supporters and CCA Leaders.</p>
@@ -222,6 +226,19 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>22 to 23 May (Thursday Afternoon &amp; Friday Afternoon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*P1 to P2 Parent Teacher Meeting (PTM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Usual lessons for all students on</p>
+<p>22 &amp; 23 May.</p>
+<p>PTM will start in the afternoon.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>26 to 30 May</p>
 <p>(Monday afternoon, Tuesday afternoon, Wednesday afternoon, Thursday afternoon,
 Friday morning &amp; afternoon)</p>
@@ -254,6 +271,7 @@ Friday morning &amp; afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P3 Multi-Cultural Camp</p>
+<p>(Full Day)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P3 students.</p>
@@ -277,6 +295,7 @@ Friday morning &amp; afternoon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*TTLT Camp</p>
+<p>(Full day)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For TTLT students.</p>
