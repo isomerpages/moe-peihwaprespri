@@ -2,6 +2,7 @@ collections:
   co-curricular-activites:
     output: true
     order:
+      - CCA Schedule Table.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Chinese Culture and Language.md
       - Clubs and Societies/Christian Fellowship.md
