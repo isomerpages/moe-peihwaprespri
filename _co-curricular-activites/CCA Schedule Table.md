@@ -48,7 +48,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Ting <a rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
+<p>Ms Felicia Ting</p>
+<p><a href="mailto:felicia_ting_en_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -63,7 +64,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Li Ting <a rel="noopener noreferrer nofollow" target="_blank">yu_liting@moe.edu.sg</a>
+<p>Mdm Yu Li Ting</p>
+<p><a href="mailto:yu_liting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_liting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -78,7 +80,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Yoke Kiat <a rel="noopener noreferrer nofollow" target="_blank">low_yoke_kiat@moe.edu.sg</a>
+<p>Ms Low Yoke Kiat</p>
+<p><a href="mailto:low_yoke_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yoke_kiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,7 +96,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joyous Choy <a rel="noopener noreferrer nofollow" target="_blank">choy_kum_yoke@moe.edu.sg</a>
+<p>Ms Joyous Choy</p>
+<p><a href="mailto:choy_kum_yoke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choy_kum_yoke@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -108,7 +112,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Eng Leng <a rel="noopener noreferrer nofollow" target="_blank">neo_eng_leng@moe.edu.sg</a>
+<p>Ms Neo Eng Leng</p>
+<p><a href="mailto:neo_eng_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_eng_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -123,7 +128,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chin Kim Keow <a rel="noopener noreferrer nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
+<p>Mdm Chin Kim Keow</p>
+<p><a href="mailto:chin_kim_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -138,7 +144,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Yean Fung <a rel="noopener noreferrer nofollow" target="_blank">foo_yean_fung@moe.edu.sg</a>
+<p>Mdm Foo Yean Fung</p>
+<p><a href="mailto:foo_yean_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yean_fung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -187,7 +194,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jiang Yan Yan <a rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
+<p>Ms Jiang Yan Yan</p>
+<p><a href="mailto:jiang_yanyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -202,7 +210,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Debbie Lim <a rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
+<p>Mrs Debbie Lim</p>
+<p><a href="mailto:lim_mui_theng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -217,7 +226,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Goh <a rel="noopener noreferrer nofollow" target="_blank">goh_siew_hong_b@moe.edu.sg</a>
+<p>Ms Diana Goh</p>
+<p><a href="mailto:goh_siew_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_siew_hong_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,7 +242,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ishatika <a rel="noopener noreferrer nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
+<p>Miss Ishatika</p>
+<p><a href="mailto:ishatika_isman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -247,7 +258,8 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wee Ming <a rel="noopener noreferrer nofollow" target="_blank">lim_wee_ming@moe.edu.sg</a>
+<p>Mr Lim Wee Ming</p>
+<p><a href="mailto:lim_wee_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wee_ming@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -290,13 +302,14 @@ description: ""
 <p>Tchoukball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 4pm</p>
+<p>2pm – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Razak <a rel="noopener noreferrer nofollow" target="_blank">abdul_razak_ariffin@moe.edu.sg</a>
+<p>Mr Abdul Razak</p>
+<p><a href="mailto:abdul_razak_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_razak_ariffin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -305,13 +318,14 @@ description: ""
 <p>Table-tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>*</strong>Tue <strong>OR </strong>Thu</p>
+<p><strong>*</strong>Tuesday <strong>OR </strong>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 4pm</p>
+<p>2pm – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Xin Yi <a rel="noopener noreferrer nofollow" target="_blank">pang_xin_yi@moe.edu.sg</a>
+<p>Ms Pang Xin Yi</p>
+<p><a href="mailto:pang_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -320,13 +334,14 @@ description: ""
 <p>Track and Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 3.15pm</p>
+<p>2pm – 3.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jun Liang <a rel="noopener noreferrer nofollow" target="_blank">ong_jun_liang_a@moe.edu.sg</a>
+<p>Mr Ong Jun Liang</p>
+<p><a href="mailto:ong_jun_liang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_jun_liang_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -335,13 +350,14 @@ description: ""
 <p>Wushu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 4pm</p>
+<p>2pm – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hu Ying <a rel="noopener noreferrer nofollow" target="_blank">hu_ying@moe.edu.sg</a>
+<p>Ms Hu Ying</p>
+<p><a href="mailto:hu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -383,13 +399,14 @@ description: ""
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 – 4pm</p>
+<p>2pm – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Woon Ta-li <a rel="noopener noreferrer nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
+<p>Mr Woon Ta-li</p>
+<p><a href="mailto:woon_ta-li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -398,13 +415,14 @@ description: ""
 <p>Girls’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri</p>
+<p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2– 4pm</p>
+<p>2pm – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rebecca Wong <a rel="noopener noreferrer nofollow" target="_blank">rebecca_wong@moe.edu.sg</a>
+<p>Mrs Rebecca Wong</p>
+<p><a href="mailto:rebecca_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_wong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
