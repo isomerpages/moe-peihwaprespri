@@ -243,6 +243,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Ho Meow Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Ong Shue Li</p>
 </td>
 <td rowspan="1" colspan="1">
