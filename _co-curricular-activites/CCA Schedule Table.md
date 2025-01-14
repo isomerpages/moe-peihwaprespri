@@ -13,7 +13,6 @@ description: ""
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
