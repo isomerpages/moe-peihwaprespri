@@ -9,7 +9,7 @@ description: ""
 </div>
 <h5></h5>
 <h3><strong><u>CCA Schedule for 2025</u></strong></h3>
-<p><strong>For enquiries pertaining to specific CCA, you may email the teachers in charge.</strong>
+<p><strong>For enquiries about specific CCA, you may email the teachers in charge.</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -306,7 +306,7 @@ description: ""
 <p>Table-tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*Tue <strong>OR </strong>Thu</p>
+<p><strong>*</strong>Tue <strong>OR </strong>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 – 4pm</p>
@@ -348,7 +348,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>*Students are required to attend only 1 day.</p>
+<p><strong>*Students are required to attend only 1 day.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
