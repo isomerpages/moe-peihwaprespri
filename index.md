@@ -27,9 +27,9 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
-        - title: Welcome to School Year 2025
-          date: 03 January 2025
-          announcement: Stay tune for more information..
+        - title: School Calendar 2025 Sem 1
+          date: 14 January 2025
+          announcement: Please refer to the school calendar link or your PGs for more info.
           link_text: ""
           link_url: ""
   - infopic:
