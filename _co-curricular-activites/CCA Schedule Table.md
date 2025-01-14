@@ -7,7 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg">
 </div>
-<h5></h5>
 <h3><strong><u>CCA Schedule for 2025</u></strong></h3>
 <p><strong>For enquiries about specific CCA, you may email the teachers in charge.</strong>
 </p>
