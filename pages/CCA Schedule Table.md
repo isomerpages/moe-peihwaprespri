@@ -194,8 +194,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christian</p>
-<p>Fellowship</p>
+<p>Christian Fellowship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri</p>
@@ -204,8 +203,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Debbie Lim</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
+<p>Mrs Debbie Lim <a rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
