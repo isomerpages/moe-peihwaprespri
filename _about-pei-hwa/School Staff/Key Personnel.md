@@ -219,6 +219,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Ho Meow Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Chow Yee Sun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,14 +247,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Technology for Learning &amp; Communication</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Ho Meow Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
