@@ -1,62 +1,421 @@
 ---
 title: CCA Deployment Table
 permalink: /permalink/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg)
-
-  ##### Overall View Table on the CCA Deployment
-	
-#### 	SPORTS &amp; GAMES (SNG)
-
-| No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
-| ----- | ----- | ----- | ---- | --- | --- |
-| 1 | Rhythmic Gymnastics | [Sharon Wang (CCA Head)](quek_shing_ting_sharon@moe.edu.sg)<br>Li Jing<br>Regina Yeo| Hall | Tue, Wed   |---|
-|2      |Table-Tennis| [Pang Xin Yi (CCA Head)]( pang_xin_yi@moe.edu.sg)<br>Andy Goh<br>oh Seow Hwei<br>Guo Ting Ting<br>Tang Wei Kok<br>Yu Liting | Table Tennis Room |Mon to Fri|---|
-|3      |Tchoukball |[Razak (CCA Head)](abdul_razak_ariffin@moe.edu.sg)<br>Ho Meow Jin<br>Kimberly Hay|Parade Sq|Mon &amp; Fri|---|
-|4      |Track and Field|  [Ong Jun Liang (CCA Head) ](ong_jun_liang_a@moe.edu.sg) <br>Nafsiyah<br>Dawn Ling<br>Teo Jing Wen|Hall|Mon, Tue, Thur, Fri|---|
-|5      |Wushu| [Hu Ying (CCA Head)](hu_ying@moe.edu.sg)<br>Winnie Chen<br>Renee Ng Jun Yi |Hall|Mon &amp; Fri|---|
-|   |   |   |    |
-
-
-
-
-
-#### 	VISUAL &amp; PERFORMING ARTS (VPA)
-
- No. | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
-| ----- | ----- | ----- | ---- | --- | --- |
-| 1 |Art &amp; Craft Club	  | [Jao Pei Jung  (CCA Head)](jao_pei-jung@moe.edu.sg)<br>Felicia Ting<br>                                      |Art Rooms 1 and 2| Tue, Wed          |---|
-|2  |Chinese Dance        | [Alice Tan  (CCA Head)]( tan_li_choo_alice@moe.edu.sg)<br>Wendy Koh<br>				 |Dance Studio 1 &amp; 2   |Mon to Fri         |---|
-|3  |Chinese Drums 	  |[Sim Shan Ting (CCA Head)](sim_shan_ting@moe.edu.sg)<br>                                            |Hosanna         |Mon &amp; Fri      |---|
-|4  |Choir    		  |  [Neo Eng Leng  (CCA Head) ](neo_eng_leng@moe.edu.sg) <br>Agnes Ho<br>                          |Music Room 2|Mon, Tue, Thur, Fri|---|
-|5  |Guitar Ensemble	  | [Rena Yeo  (CCA Head)](yeo_gek_yong_rena@moe.edu.sg)<br>Rose Marie Kit Yee Henry<br>                |Music Room 1|Mon &amp; Fri      |---|
-|6  |Guzheng Ensemble     |  [Chin Kim Keow  (CCA Head) ](chin_kim_keow@moe.edu.sg) <br>Yu Hee Mui<br>                          |Guzheng Room |Mon, Tue, Thur, Fri|---|
-|7  |Modern Dance	  | [Foo Yean Fung (CCA Head)](foo_yean_fung@moe.edu.sg)<br>Leow Pei Ling<br>                                                  |Dance Studio 1 &amp; 2 |Mon &amp; Fri      |---|
-|   |   |   |    |
-
-
-#### 	UNIFORMED GROUPS (UG)
-
-| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
-| ----- | ----- | ----- | ---- | --- | --- |
-| Text     | Text     | Text     | text | text |  Tesxt |<br>
-|das|asdasd|asdasd|asdasd|ffsdsadw|gasfad|
-|asdasfqf<br>sdassdada|
-
-
-
-#### 	CLUBS &amp; SOCIETIES (CNS)
-| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
-| ----- | ----- | ----- | ---- | --- | --- |
-| Text     | Text     | Text     | text | text |  Tesxt |<br>
-
-
-
-
-#### 	TTLT
-| Type | CCA | Teachers | Venue | Day (# of Sessions) | Remarks |
-| ----- | ----- | ----- | ---- | --- | --- |
-| Text     | Text     | Text     | text | text |  Tesxt |<br>
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg">
+</div>
+<h5></h5>
+<h3><strong><u>CCA Schedule for 2025</u></strong></h3>
+<p><strong>For enquiries pertaining to specific CCA, you may email the teachers in charge.</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>Performing Arts</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address of Teacher in-charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art &amp; Craft Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Felicia Ting <a rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yu Li Ting <a rel="noopener noreferrer nofollow" target="_blank">yu_liting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Drums</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yoke Kiat <a rel="noopener noreferrer nofollow" target="_blank">low_yoke_kiat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joyous Choy <a rel="noopener noreferrer nofollow" target="_blank">choy_kum_yoke@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Eng Leng <a rel="noopener noreferrer nofollow" target="_blank">neo_eng_leng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guzheng Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Kim Keow <a rel="noopener noreferrer nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Yean Fung <a rel="noopener noreferrer nofollow" target="_blank">foo_yean_fung@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>Clubs &amp; Societies</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address of Teacher in-charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Culture &amp; Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jiang Yan Yan <a rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christian</p>
+<p>Fellowship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Debbie Lim</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Goh <a rel="noopener noreferrer nofollow" target="_blank">goh_siew_hong_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ishatika <a rel="noopener noreferrer nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robotics Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon &amp; Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Wee Ming <a rel="noopener noreferrer nofollow" target="_blank">lim_wee_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>Sports &amp; Games</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address of Teacher in-charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tchoukball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Razak <a rel="noopener noreferrer nofollow" target="_blank">abdul_razak_ariffin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Table-tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*Tue <strong>OR </strong>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Xin Yi <a rel="noopener noreferrer nofollow" target="_blank">pang_xin_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Track and Field</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 3.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Jun Liang <a rel="noopener noreferrer nofollow" target="_blank">ong_jun_liang_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hu Ying <a rel="noopener noreferrer nofollow" target="_blank">hu_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Students are required to attend only 1 day.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3><strong>Uniformed Groups</strong></h3>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address of Teacher in-charge</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Woon Ta-li <a rel="noopener noreferrer nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2– 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Rebecca Wong <a rel="noopener noreferrer nofollow" target="_blank">rebecca_wong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+</div>
+<p></p>
+<p></p>
