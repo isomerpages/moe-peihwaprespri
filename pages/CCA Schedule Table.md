@@ -13,6 +13,7 @@ description: ""
 </p>
 <p><strong>&nbsp;</strong>
 </p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -148,7 +149,7 @@ description: ""
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -257,7 +258,7 @@ description: ""
 <p><strong>&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p><strong>&nbsp;</strong>
 </p>
@@ -352,7 +353,7 @@ description: ""
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
@@ -414,7 +415,7 @@ description: ""
 <p>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p></p>
 <p></p>
