@@ -2,6 +2,7 @@ collections:
   removed-site-pages:
     output: true
     order:
+      - Key Personnel 2024.md
       - Admin Support 2024.md
       - Teaching Staff 2024 (Form Teachers).md
       - ITQ RFQ 2024.md
