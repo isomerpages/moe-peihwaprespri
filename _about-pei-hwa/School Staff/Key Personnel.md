@@ -53,7 +53,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p></p>
 <h3>Key Personnel</h3>
@@ -219,6 +219,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms. Ho Meow Jin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms. Chow Yee Sun</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,9 +268,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
-</div>
 <h3>Teacher Leaders</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -332,7 +337,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p></p>
 <p></p>
