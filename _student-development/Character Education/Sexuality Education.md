@@ -45,7 +45,7 @@ At Pei Hwa Presbyterian Primary School, the following Sexuality Education lesson
 #### **2025 SEXUALITY EDUCATION LESSONS IN CCE 2021** 
 
 ##### **PRIMARY 5**
-![](/images/Info%20Tables/sex_education_2024_p5_table.JPG)
+![](/images/Info%20Tables/Sex_Ed_P5_2025_Table.jpg)
 
 ##### **PRIMARY 6**
 ![](/images/Info%20Tables/sex_education_2024_p6_table.JPG)
