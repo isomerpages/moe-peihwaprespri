@@ -57,6 +57,8 @@ At Pei Hwa Presbyterian Primary School, the following Sexuality Education lesson
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br><br>
 
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [**HERE**](/files/2024_SEd_Letter_to_Parents_and_Opt_Out_Form__School_Website_.pdf) . **The completed opt-out form is to be submitted by 31/01/2025.**<br><br>
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated  to parents at the start of the year and is also downloadable [**HERE**](/files/CCE/2025_SEd_Letter_to_Parents_and_Opt_Out_Form_School_Website.pdf) . **The completed opt-out form is to be submitted by 31/01/2025.**<br><br>
 
 10.	Parents can contact the school at [phpps@moe.edu.sg](phpps@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+
