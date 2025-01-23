@@ -34,6 +34,12 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000321 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Student Leaders' Leadership Camp in Pei Hwa Presbyterian Primary School </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">23 Jan 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">11 Feb 2025  01:00 PM </span></td>
+  </tr><tr>
 	</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">  - </span></td>
