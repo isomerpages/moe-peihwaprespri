@@ -4,7 +4,7 @@ permalink: /our-partners-1/invitation-to-quote-itq-request-for-quotation-rfq/
 description: ""
 variant: markdown
 ---
-![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
+[](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
 **Interested vendors are requested to refer to the ITQ / RFQ number and submit the quotation together with the necessary supporting documents via the Government GeBIZ portal.** 
   
 
@@ -38,7 +38,7 @@ variant: markdown
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000321 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Student Leaders' Leadership Camp in Pei Hwa Presbyterian Primary School </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">23 Jan 2025 </span></td>
-    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">11 Feb 2025  01:00 PM </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">11 Feb 2025 1:00PM </span></td>
   </tr><tr>
 	</tr>	<tr>
 	</tr>	<tr>
