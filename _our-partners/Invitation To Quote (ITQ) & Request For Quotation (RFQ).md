@@ -34,6 +34,12 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000333 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Peer Support Training for Peer Support Leaders &amp; CCA Leaders in Pei Hwa Presbyterian Primary School </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">24 Jan 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">12 Feb 2025 1:00PM </span></td>
+  </tr><tr>
 		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000321 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructor for Student Leaders' Leadership Camp in Pei Hwa Presbyterian Primary School </span></td>
