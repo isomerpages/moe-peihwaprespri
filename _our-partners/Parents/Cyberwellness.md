@@ -30,7 +30,7 @@ move towards managing device use more peacefully and effectively. <strong><a hre
 </p>
 <p><a href="/files/Cyberwellness/What_can_you_say_before_giving_your_child_their_first_device__For_Pri_.pdf" rel="noopener nofollow" target="_blank">What can you say before giving your child their first device (For Primary)</a>
 </p>
-<p><a href="/files/Cyberwellness/Tips_To_Keep_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">Tips to keep your child Safe Online</a>
+<p><a href="/files/Cyberwellness/Tips_To_Keep_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">Tips to Keep Your Child Safe Online</a>
 </p>
 <p><a href="/files/Cyberwellness/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for talking to your child about device usage (For Primary and Secondary)</a>
 </p>
