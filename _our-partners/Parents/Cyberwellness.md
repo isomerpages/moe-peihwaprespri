@@ -24,19 +24,17 @@ move towards managing device use more peacefully and effectively. <strong><a hre
 <p></p>
 <p><strong>More PDF links for your reference</strong>
 </p>
-<p><a href="/files/Cyberwellness/How_do_I_ensure_my_child_uses_their_devices_responsibly__For_Pri_.pdf" rel="noopener nofollow" target="_blank">How do i ensure my child uses their devices responsibly (For Primary)</a>
+<p><a href="/files/Cyberwellness/How_do_I_ensure_my_child_uses_their_devices_responsibly__For_Pri_.pdf" rel="noopener nofollow" target="_blank">How do I ensure my child uses their devices responsibly (For Primary)</a>
 </p>
 <p><a href="/files/Cyberwellness/Connecting_with_you_child_about_screen_time__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Connecting with your child about screen time (For Primary and Secondary)</a>
 </p>
 <p><a href="/files/Cyberwellness/What_can_you_say_before_giving_your_child_their_first_device__For_Pri_.pdf" rel="noopener nofollow" target="_blank">What can you say before giving your child their first device (For Primary)</a>
 </p>
-<p><a href="/files/Cyberwellness/Tips_To_Keep_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">Tips to keep your child Safe Online</a>
+<p><a href="/files/Cyberwellness/Tips_To_Keep_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">Tips to Keep Your Child Safe Online</a>
 </p>
 <p><a href="/files/Cyberwellness/Tips_for_talking_to_your_child_about_device_usage__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Tips for talking to your child about device usage (For Primary and Secondary)</a>
 </p>
 <p><a href="/files/Cyberwellness/The_Age_Of_Digital_Parenting_For_Schools.pdf" rel="noopener nofollow" target="_blank">The Age of Digital Parenting For Schools</a>
-</p>
-<p><a href="/files/Cyberwellness/Student_Kit_for_Cyber_Wellness_and_Learning_with_a_Learning_Device_For_Schools.pdf" rel="noopener nofollow" target="_blank">Student Kit for Cyber Wellness and Learning with a Learning Device for Schools</a>
 </p>
 <p><a href="/files/Cyberwellness/Parent_Guide___5_Tips_to_Ensure_Your_Child_Stays_Safe___Happy_Online_For_Schools.pdf" rel="noopener nofollow" target="_blank">Parent Guide 5 Tips to Ensure your child stays safe.</a>
 </p>
