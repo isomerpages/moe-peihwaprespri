@@ -24,7 +24,7 @@ move towards managing device use more peacefully and effectively. <strong><a hre
 <p></p>
 <p><strong>More PDF links for your reference</strong>
 </p>
-<p><a href="/files/Cyberwellness/How_do_I_ensure_my_child_uses_their_devices_responsibly__For_Pri_.pdf" rel="noopener nofollow" target="_blank">How do i ensure my child uses their devices responsibly (For Primary)</a>
+<p><a href="/files/Cyberwellness/How_do_I_ensure_my_child_uses_their_devices_responsibly__For_Pri_.pdf" rel="noopener nofollow" target="_blank">How do I ensure my child uses their devices responsibly (For Primary)</a>
 </p>
 <p><a href="/files/Cyberwellness/Connecting_with_you_child_about_screen_time__For_Sec_and_Pri_.pdf" rel="noopener nofollow" target="_blank">Connecting with your child about screen time (For Primary and Secondary)</a>
 </p>
@@ -36,7 +36,6 @@ move towards managing device use more peacefully and effectively. <strong><a hre
 </p>
 <p><a href="/files/Cyberwellness/The_Age_Of_Digital_Parenting_For_Schools.pdf" rel="noopener nofollow" target="_blank">The Age of Digital Parenting For Schools</a>
 </p>
-<p></p>
 <p><a href="/files/Cyberwellness/Parent_Guide___5_Tips_to_Ensure_Your_Child_Stays_Safe___Happy_Online_For_Schools.pdf" rel="noopener nofollow" target="_blank">Parent Guide 5 Tips to Ensure your child stays safe.</a>
 </p>
 <p><a href="/files/Cyberwellness/How_You_Can_Play_An_Active_Role_In_Keeping_Your_Child_Safe_Online.pdf" rel="noopener nofollow" target="_blank">How you can play an active role in keeping your child safe online.</a>
