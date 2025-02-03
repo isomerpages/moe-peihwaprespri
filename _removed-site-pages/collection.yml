@@ -2,6 +2,7 @@ collections:
   removed-site-pages:
     output: true
     order:
+      - 2025 P1 School Books and Uniform Sale.md
       - Key Personnel 2024.md
       - Admin Support 2024.md
       - Teaching Staff 2024 (Form Teachers).md
