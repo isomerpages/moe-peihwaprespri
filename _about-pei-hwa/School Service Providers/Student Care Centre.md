@@ -14,6 +14,7 @@ variant: markdown
 ##### Commit Learning SchoolHouse (CLS) Student Care Centre (SCC)- Pei Hwa Presbyterian Primary School
 
 For student care services, please contact the following:
+
 **Commit Learning Schoolhouse  
 Tel: 89286418  
 Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
