@@ -34,7 +34,14 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000864 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">24 Feb 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">04 Mar 2025 1:00PM </span></td>
+  </tr><tr>
 	</tr>	<tr>
+		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000668 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent"> Supply of Instructors for 3 Days 2 Nights Primary 5 Outdoor Education and Team-Building Camp 2025 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">12 Feb 2025 </span></td>
