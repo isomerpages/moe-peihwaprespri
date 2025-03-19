@@ -34,6 +34,13 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHERQ25000365 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Provision of 5 Days 4 Nights Overseas Immersion Trip for School Staff and Students to Beijing</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">14 Mar 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">24 Mar 2025 1:00PM </span></td>
+  </tr><tr>
+	</tr>	<tr>
 		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25000864 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School</span></td>
