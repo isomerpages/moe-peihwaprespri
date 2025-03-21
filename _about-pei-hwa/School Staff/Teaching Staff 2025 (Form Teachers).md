@@ -106,10 +106,10 @@ third_nav_title: School Staff
 <p>Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jao Pei-Jung</p>
+<p>Mrs Nicola Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jao_pei-jung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jao_pei-jung@moe.edu.sg</a>
+<p><a href="mailto:hoon_hui_qi_nicola@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_hui_qi_nicola@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -266,18 +266,16 @@ third_nav_title: School Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Timothy Chua</p>
+<p>Mdm Lee Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:timothy_chua_cheng_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chua_cheng_jie@moe.edu.sg</a>
+<p><a href="mailto:lee_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ai_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -289,7 +287,7 @@ third_nav_title: School Staff
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <h2>Primary 2</h2>
 <table style="minWidth: 75px">
@@ -572,7 +570,7 @@ third_nav_title: School Staff
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <h2>Primary 3</h2>
 <table style="minWidth: 75px">
@@ -661,10 +659,11 @@ third_nav_title: School Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nandini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nandini_thavarajalingam@moe.edu.sg" rel="noopener nofollow" target="_blank">nandini_thavarajalingam@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -818,7 +817,7 @@ third_nav_title: School Staff
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <h2>Primary 4</h2>
 <table style="minWidth: 75px">
@@ -1064,7 +1063,7 @@ third_nav_title: School Staff
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <h2>Primary 5</h2>
 <table style="minWidth: 75px">
@@ -1301,16 +1300,17 @@ third_nav_title: School Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hazwani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_hazwani_rahmat@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hazwani_rahmat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <h2>Primary 6</h2>
 <table style="minWidth: 75px">
@@ -1362,10 +1362,11 @@ third_nav_title: School Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Oh Seow Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:oh_seow_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">oh_seow_wei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1533,10 +1534,10 @@ third_nav_title: School Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Nicola Ho</p>
+<p>Mr Timothy Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoon_hui_qi_nicola@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_hui_qi_nicola@moe.edu.sg</a>
+<p><a href="mailto:timothy_chua_cheng_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chua_cheng_jie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1556,6 +1557,6 @@ third_nav_title: School Staff
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
 <p></p>
