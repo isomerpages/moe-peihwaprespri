@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Isomer-GIF-5sec-per-photo.gif
-      variant: center
+      variant: image
       key_highlights:
         - title: General Information
           description: 一般信息
