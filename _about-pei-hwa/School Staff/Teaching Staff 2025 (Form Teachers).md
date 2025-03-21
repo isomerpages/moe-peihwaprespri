@@ -106,10 +106,10 @@ third_nav_title: School Staff
 <p>Integrity 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jao Pei-Jung</p>
+<p>Mrs Nicola Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jao_pei-jung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jao_pei-jung@moe.edu.sg</a>
+<p><a href="mailto:hoon_hui_qi_nicola@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoon_hui_qi_nicola@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -266,18 +266,16 @@ third_nav_title: School Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Timothy Chua</p>
+<p>Mdm Lee Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:timothy_chua_cheng_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">timothy_chua_cheng_jie@moe.edu.sg</a>
+<p><a href="mailto:lee_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ai_lian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
