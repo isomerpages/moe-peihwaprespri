@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg">
 </div>
 <p>Kindly for your information for the Year Bus Service Operational Cost
-Table reflected below;</p>
+Table reflected below.</p>
 <h4><strong>Aik Shen Bus Service</strong></h4>
 <h5>Bus fare applicable from 1 January 2025 to 31 December 2026</h5>
 <p></p>
@@ -128,7 +128,8 @@ Table reflected below;</p>
 </tr>
 </tbody>
 </table>
-<p>Please contact the bus operator directly for their service.</p>
+<p><strong>Note: All arrangements and agreements are to be made directly with the student care service provider.</strong>
+</p>
 <h4>Company: Aik Shen Bus Service</h4>
 <p>Mr Yeo Kah Hua
 <br>Mobile no.: 9632 7095
