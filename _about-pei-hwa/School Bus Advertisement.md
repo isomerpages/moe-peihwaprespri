@@ -128,4 +128,10 @@ Table reflected below;</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please contact the bus operator directly for their service.</p>
+<h4>Company: Aik Shen Bus Service</h4>
+<p>Mr Yeo Kah Hua
+<br>Mobile no.: 9632 7095
+<br>Tel: 62694708
+<br>Email: <a href="mailto:aikshen1@singnet.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>aikshen1@singnet.com.sg</u></a>
+</p>
