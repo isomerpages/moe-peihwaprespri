@@ -13,7 +13,8 @@ variant: tiptap
 <p>Mr Yeo Kah Hua
 <br>Mobile no.: 9632 7095
 <br>Tel: 62694708
-<br>Email: aikshen1@singnet.com.sg</p>
+<br>Email: <a href="mailto:aikshen1@singnet.com.sg" rel="noopener nofollow" target="_blank">aikshen1@singnet.com.sg</a>
+</p>
 <h4><a href="https://go.gov.sg/phpps-school-bus-application" rel="noopener noreferrer nofollow" target="_blank">School Bus Application 2025</a></h4>
 <p><strong>Note: All arrangements and agreements must be made directly with the bus operator.</strong>
 </p>
