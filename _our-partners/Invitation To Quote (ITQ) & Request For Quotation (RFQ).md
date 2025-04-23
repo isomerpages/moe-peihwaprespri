@@ -43,6 +43,14 @@ variant: markdown
 	</tr>	<tr>
 	</tr>	<tr>
 			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25002025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply &amp; Delivery of Book Vouchers for 8th National Text Recital Competition </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">21 Apr 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">29 Apr 2025 1:00PM </span></td>
+  </tr><tr>
+	</tr>	<tr>
+	</tr>	<tr>
+			</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25001968 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Redesign &amp; refurbishment of existing school foyer at Pei Hwa Presbyterian Primary School </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">17 Apr 2025 </span></td>
