@@ -13,7 +13,6 @@ Please refer to the links below for your reference.
 | Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 |[MOE Intranet](https://intranet.moe.gov.sg) |	https://intranet.moe.gov.sg|VPN
-|[iCON](https://workspace.google.com/dashboard)|https://workspace.google.com/dashboard|
 |[MiMs](https://portal.mims.moe.gov.sg)|https://portal.mims.moe.gov.sg|
 |[SC Mobile](https://scmobile.moe.edu.sg/)|https://scmobile.moe.edu.sg/|
 |[School Cockpit](https://schoolcockpit.moe.gov.sg)|https://schoolcockpit.moe.gov.sg|VPN
