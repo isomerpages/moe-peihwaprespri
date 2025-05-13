@@ -13,7 +13,6 @@ Please refer to the links below for your reference.
 | Portal Page | URLs | Requirements |
 | -------- | -------- | -------- |
 |[MOE Intranet](https://intranet.moe.gov.sg) |	https://intranet.moe.gov.sg|VPN
-|[iCON](https://workspace.google.com/dashboard)|https://workspace.google.com/dashboard|
 |[MiMs](https://portal.mims.moe.gov.sg)|https://portal.mims.moe.gov.sg|
 |[SC Mobile](https://scmobile.moe.edu.sg/)|https://scmobile.moe.edu.sg/|
 |[School Cockpit](https://schoolcockpit.moe.gov.sg)|https://schoolcockpit.moe.gov.sg|VPN
@@ -50,6 +49,7 @@ Please refer to the links below for your reference.
 [Ministry of Health](https://www.moh.gov.sg/)|https://www.moh.gov.sg/|
 [Haze Situation Update](https://www.haze.gov.sg/)|https://www.haze.gov.sg/|
 [Insurance Claim](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim
+|[PHPPS Waiting List](https://go.gov.sg/phppswaitinglist) | [https://go.gov.sg/phppswaitinglist](https://go.gov.sg/phppswaitinglist) |
 
 
 
