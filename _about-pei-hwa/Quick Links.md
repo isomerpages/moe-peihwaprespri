@@ -50,6 +50,7 @@ Please refer to the links below for your reference.
 [Ministry of Health](https://www.moh.gov.sg/)|https://www.moh.gov.sg/|
 [Haze Situation Update](https://www.haze.gov.sg/)|https://www.haze.gov.sg/|
 [Insurance Claim](https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim)|https://peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim
+|[PHPPS Waiting List](https://go.gov.sg/phppswaitinglist) | [https://go.gov.sg/phppswaitinglist](https://go.gov.sg/phppswaitinglist) |
 
 
 
