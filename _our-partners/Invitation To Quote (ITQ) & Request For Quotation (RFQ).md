@@ -33,6 +33,14 @@ variant: markdown
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+		</tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25002745 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors for Guitar Ensemble CCA Training Programme in PHPPS from Jan 2026 to Dec 2026, with option to extend from Jan 2027 to Dec 2027 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">06 June 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">20 June 2025 1:00PM </span></td>
+  </tr><tr>
+	</tr>	<tr>
 	</tr>	<tr>
 			</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25002071 </span></td>
