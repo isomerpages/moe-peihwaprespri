@@ -278,6 +278,18 @@ third_nav_title: School Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Joyce Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_xue_yan_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_xue_yan_joyce@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,6 +386,18 @@ third_nav_title: School Staff
 <p>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Seow Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:oh_seow_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">oh_seow_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1362,11 +1386,10 @@ third_nav_title: School Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oh Seow Wei</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:oh_seow_wei@moe.edu.sg" rel="noopener nofollow" target="_blank">oh_seow_wei@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
