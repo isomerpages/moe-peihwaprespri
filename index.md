@@ -27,10 +27,10 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
-        - title: School Calendar 2025 Sem 1
-          date: 14 January 2025
+        - title: School Calendar 2025 Term 3
+          date: 30 June 2025
           announcement: Please refer to the school calendar link on the website or Parent
             Gateway Announcements for information.
-          link_text: ""
-          link_url: ""
+          link_text: Term 3 school calendar
+          link_url: /about-pei-hwa/school-calendar/
 ---
