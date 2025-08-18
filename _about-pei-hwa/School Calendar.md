@@ -23,9 +23,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Term</strong>
-</p>
-<p><strong>Week</strong>
+<p><strong>Term Week</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,9 +479,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P5 HCL students&nbsp;</p>
-<p>&nbsp;</p>
-<p>School as usual for all students including P5</p>
-<p>non-HCL&nbsp;</p>
+<p>&nbsp;School as usual for all students including P5 non-HCL&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -539,8 +535,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P5 students&nbsp;</p>
-<p>&nbsp;</p>
-<p>School as usual for all students&nbsp;</p>
+<p>&nbsp;School as usual for all students&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -556,8 +551,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P5 HCL students&nbsp;</p>
-<p>&nbsp;</p>
-<p>School as usual for all students including P5 non-HCL&nbsp;</p>
+<p>&nbsp;School as usual for all students including P5 non-HCL&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -571,8 +565,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>For P3 to P5 students&nbsp;&nbsp;</p>
 <p></p>
 <p>School as usual for all students&nbsp;&nbsp;</p>
-<p>School dismissal at</p>
-<p>12.30pm&nbsp;&nbsp;</p>
+<p>School dismissal at 12.30pm&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -598,13 +591,11 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>Tues 18 Nov&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 Prize Giving and Graduation</p>
-<p>Ceremony*&nbsp;</p>
+<p>P6 Prize Giving and Graduation Ceremony*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Only for P6 students</p>
-<p>&nbsp;</p>
-<p>No school for P1 to P5 students</p>
+<p>&nbsp;No school for P1 to P5 students</p>
 </td>
 </tr>
 <tr>
