@@ -219,9 +219,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/luxury_gold_line_24866017.png">
 </div>
 <p></p>
-<h4><strong><u>2025 Term 4 School Calendar</u></strong></h4>
-<p></p>
-<p>&nbsp;</p>
+<h4><strong><u>2025 Term 4 School Calendar</u></strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -237,8 +235,6 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Day / Date</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,13 +255,11 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PSLE Listening Comprehension –</p>
-<p>English Language and Chinese</p>
-<p>Language*&nbsp;</p>
+<p>English Language and Chinese Language*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students</p>
-<p>&nbsp;</p>
-<p>No school for P1 to P5 students&nbsp;</p>
+<p>&nbsp;No school for P1 to P5 students&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -281,9 +275,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students</p>
-<p>&nbsp;</p>
-<p>School as usual for P1 to</p>
-<p>P5 students&nbsp;</p>
+<p>&nbsp;School as usual for P1 to P5 students&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -304,8 +296,7 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HBL for P1 and P5 students*&nbsp;</p>
-<p>&nbsp;</p>
-<p>EL and CL Oral for P3 and P4</p>
+<p>&nbsp;EL and CL Oral for P3 and P4</p>
 <p>students* (During curriculum time)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,11 +309,10 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>Fri 26 Sept&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSLE Mathematics (Written)&nbsp;</p>
+<p>PSLE Mathematics (Written)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -353,7 +343,6 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P6 students</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -361,8 +350,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>Mon 29 Sept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL for P2, P3 and P4 students*&nbsp;</p>
-<p>&nbsp;</p>
+<p>HBL for P2, P3 and P4 students*&nbsp;&nbsp;</p>
 <p>EL and CL Oral for P5 students*&nbsp;</p>
 <p>(During curriculum time)</p>
 <p>&nbsp;</p>
@@ -406,16 +394,11 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>Wed 01 Oct&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PSLE Higher Chinese Language</p>
-<p>(Written)&nbsp;</p>
+<p>PSLE Higher Chinese Language (Written)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P6 students taking</p>
-<p>Higher Chinese</p>
-<p>Language&nbsp;</p>
-<p>&nbsp;</p>
-<p>School as usual for P1 to</p>
-<p>P5 students</p>
+<p>For P6 students taking Higher Chinese Language&nbsp;</p>
+<p>&nbsp;School as usual for P1 to P5 students</p>
 </td>
 </tr>
 <tr>
@@ -460,8 +443,6 @@ to partnering with you in the education of our students. Thank you.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Day / Date</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>School Event</strong>
@@ -481,18 +462,14 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 to P5 EL Paper 1 End-of-Year</p>
-<p>Written Examinations*&nbsp;</p>
-<p>&nbsp;</p>
-<p>P3 to P5 CL Paper 1 End-of-Year</p>
-<p>Written Examinations*&nbsp;</p>
+<p>P3 to P5 EL Paper 1 End-of-Year Written Examinations*&nbsp;</p>
+<p>&nbsp;P3 to P5 CL Paper 1 End-of-Year Written Examinations*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For P3 to P5 students&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>School as usual for P1,</p>
-<p>P2 and P6 students</p>
+<p>School as usual for P1, P2 and P6 students</p>
 </td>
 </tr>
 <tr>
@@ -580,9 +557,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <td rowspan="1" colspan="1">
 <p>For P5 HCL students&nbsp;</p>
 <p>&nbsp;</p>
-<p>School as usual for all students including P5</p>
-<p>non-HCL&nbsp;</p>
-<p>&nbsp;</p>
+<p>School as usual for all students including P5 non-HCL&nbsp;</p>
 </td>
 </tr>
 <tr>
