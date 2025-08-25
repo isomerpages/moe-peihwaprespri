@@ -36,7 +36,7 @@ sections:
         - title: Visit by Ex-PHPPS Students on 4 Sept (Thursday)
           date: 25 August 2025
           announcement: "The school will be open from 11.00 to 12.00 noon for students who
-            have made prior appointments with their teachers.   We seek your
+            have made prior appointments with their teachers. We seek your
             cooperation in ensuring that all students make an appointment in
             advance before visiting.   Locations: Canteen, Foyer Level 1, or
             outside the staff room on Level 2."
