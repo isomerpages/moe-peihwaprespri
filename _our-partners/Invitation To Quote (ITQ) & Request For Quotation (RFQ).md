@@ -36,6 +36,12 @@ variant: markdown
 		</tr>	<tr></tr>	<tr>
 	</tr>	<tr></tr>	<tr>
 			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25003854</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructors for Tchoukball CCA Training Programme in PHPPS from Jan 2026 to Dec 2026, with option to extend from Jan 2027 to Dec 2027 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">26 Aug 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">03 Sep 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
+			</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25003512</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor for Guzheng Ensemble CCA Training Programme in PHPPS from Jan to Dec 2026, with option to extend from Jan to Dec 2027 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">06 Aug 2025 </span></td>
