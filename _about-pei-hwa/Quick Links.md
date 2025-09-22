@@ -33,7 +33,8 @@ Please refer to the links below for your reference.
 | -------- | -------- | -------- |
 [Resource Booking Services (RBS)](https://rbs.avero-tech.com/)|https://rbs.avero-tech.com/|
 [AV Request Forms](https://sites.google.com/moe.edu.sg/phppsgsite/phpps-av-team-1-stop)|https://sites.google.com/moe.edu.sg/phppsgsite/phpps-av-team-1-stop|
-[PHPPS GSITE](https://sites.google.com/moe.edu.sg/phppsgsite/home) |[https://sites.google.com/moe.edu.sg/phppsgsite/home](https://sites.google.com/moe.edu.sg/phppsgsite/home)
+|[PHPPS GSITE](https://sites.google.com/moe.edu.sg/phppsgsite/home) |[https://sites.google.com/moe.edu.sg/phppsgsite/home](https://sites.google.com/moe.edu.sg/phppsgsite/home)| 
+| [Digital Info. Media Panel (DIMP)](https://go.gov.sg/phpps-dimp) | https://go.gov.sg/phpps-dimp   |
 
 
 
