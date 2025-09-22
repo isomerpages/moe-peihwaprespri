@@ -29,11 +29,8 @@ If you want to join the PHPPS Alumni Association, please print out the membershi
   
   
 
-Click&nbsp;**[HERE](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)**&nbsp;for Application Form or below&nbsp;
 
-  
 
-**[PHPPS Alumni Application Form V20210910](/files/PHPPS%20Alumni%20Application%20Form%20V20210910.pdf)**
 
 
 **Information for P1 Registration****:**
