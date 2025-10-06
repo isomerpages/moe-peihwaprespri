@@ -22,10 +22,8 @@ School during the school holidays.
 460209
 <br>(Opposite Bedok MRT, above Sheng Siong Supermarket)
 <br>Tel: <strong>6276 6689</strong> (Please call during operating hours)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture Cover/uniform_shop_location.png">
-</div>
+<p><a href="/files/School Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/School%20Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture Cover/uniform_shop_location.png"></a>
 <p></p>
 <p><strong>For Online Purchase</strong>
 </p>
