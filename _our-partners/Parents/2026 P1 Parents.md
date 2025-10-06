@@ -14,12 +14,9 @@ third_nav_title: Parents
 <p>My Uniform Shop will be selling uniforms at Pei Hwa Presbyterian Primary
 School during the school holidays.
 <br>Please refer to the school booklist for the scheduled dates and times.
-<br>
+<br><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
 <p>
 <br><strong>Address</strong>: 209 New Upper Changi Road #03-651 Singapore
 460209
@@ -30,3 +27,9 @@ School during the school holidays.
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture Cover/uniform_shop_location.png">
 </div>
 <p></p>
+<p><strong>For Online Purchase</strong>
+</p>
+<p>Parents may refer to the online website (<a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>) for
+more details regarding purchasing guide and delivery.
+<br><strong>All home delivery orders must be received and paid before 15 December 2025, 2359hrs.</strong>
+</p>
