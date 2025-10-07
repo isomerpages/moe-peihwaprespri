@@ -83,7 +83,7 @@ Uniform (Level 1 - Science Lab 2)</p>
 460209
 <br>(Opposite Bedok MRT, above Sheng Siong Supermarket)
 <br>Tel: <strong>6276 6689</strong> (Please call during operating hours)</p>
-<h4><strong><a href="/files/School Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">My UniformShop Infomation Pdf</a></strong></h4>
+<h4><strong><a href="/files/School Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">My UniformShop Infomation pdf</a></strong></h4>
 <p></p>
 <p><strong>For Online Purchase</strong>
 <br>Parents may refer to the online website (<strong><a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a></strong>)
