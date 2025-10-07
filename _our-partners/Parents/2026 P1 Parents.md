@@ -31,3 +31,8 @@ School during the school holidays.
 more details regarding purchasing guide and delivery.
 <br><strong>All home delivery orders must be received and paid before 15 December 2025, 2359hrs.</strong>
 </p>
+<p></p>
+<p>If you need further assistance, please contact our school general office
+at 64663787
+<br>or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for
+assistance.</p>
