@@ -72,7 +72,7 @@ School during the school holidays.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Venues</strong>: School Books (Level 1 - Science Lab 1) , School
+<p><strong>Venues</strong>: School Books (Level 1 - Science Lab 1), School
 Uniform (Level 1 - Science Lab 2)</p>
 </td>
 </tr>
