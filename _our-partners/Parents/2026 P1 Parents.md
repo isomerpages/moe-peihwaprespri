@@ -14,7 +14,7 @@ third_nav_title: Parents
 <p>My Uniform Shop will be selling uniforms at Pei Hwa Presbyterian Primary
 School during the school holidays.
 <br>Please refer to the school booklist for the scheduled dates and times.
-<br><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">file</a>
+<br><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist Pdf</a>
 </p>
 <p></p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
 <p>
