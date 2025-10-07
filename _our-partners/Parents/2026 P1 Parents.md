@@ -5,17 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
-<p></p>
+<h3>2026 P1 School Books and Uniform Sale Schedule</h3>
 <p>Dear <strong>2026 P1 Parents/Guardians,</strong>
 </p>
 <p>Welcome to Pei Hwa Presbyterian Primary School.
 <br>We are glad to inform you that you may come to the school to purchase
 books and uniforms for your child according to the schedule below.</p>
-<h3>2026 P1 School Books and Uniform Sale Schedule</h3>
 <p>My Uniform Shop will be selling uniforms at Pei Hwa Presbyterian Primary
 School during the school holidays.
 <br>Please refer to the school booklist for the scheduled dates and times.</p>
-<h4><strong><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist Pdf</a></strong></h4><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
+<h4><strong><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist Pdf</a></strong></h4><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
 <p><strong><u>Schedule for the Sale of Books and Uniforms in School</u>&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
@@ -72,12 +71,12 @@ School during the school holidays.
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Venues</strong>: School Books (Level 1 - Science Lab 1) , School
+<p><strong>Venues</strong>: School Books (Level 1 - Science Lab 1), School
 Uniform (Level 1 - Science Lab 2)</p>
 </td>
 </tr>
 </tbody>
-</table><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/School%20Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf"><img style="width: 60%;" height="auto" width="100%" alt="You may click here to find more info" src="/images/Picture Cover/uniform_shop_location.png"></a>
+</table><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/School%20Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf"><img style="width: 60%;" height="auto" width="100%" alt="You may click here to find more info" src="/images/Picture Cover/uniform_shop_location.png"></a>
 <p><strong>Purchase at Retail Outlet Address:</strong>
 <br><strong>Address</strong>: 209 New Upper Changi Road #03-651 Singapore
 460209
