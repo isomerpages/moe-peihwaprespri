@@ -39,5 +39,5 @@ sections:
             purchase books and uniforms for your child according to the
             schedule.
           link_text: 2026 P1 School Books and Uniform Sale
-          link_url: https://www.peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/2026-p1-parents/
+          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
 ---
