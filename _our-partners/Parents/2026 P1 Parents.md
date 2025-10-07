@@ -28,11 +28,11 @@ School during the school holidays.
 <p><strong>For Online Purchase</strong>
 </p>
 <p>Parents may refer to the online website (<a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>) for
-more details regarding purchasing guide and delivery.
-<br><strong>All home delivery orders must be received and paid before 15 December 2025, 2359hrs.</strong>
+more details regarding the purchasing guide and delivery.
+<br><strong>All home delivery orders must be received and paid for by 15 December 2025, 2359 hours.</strong>
 </p>
 <p></p>
-<p>If you need further assistance, please contact our school general office
-at 64663787
-<br>or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for
+<p>If you need further assistance, please get in touch with our school's
+general office at 64663787
+<br>Or write to <a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a> for
 assistance.</p>
