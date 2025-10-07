@@ -5,13 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
-<p></p>
+<h3>2026 P1 School Books and Uniform Sale Schedule</h3>
 <p>Dear <strong>2026 P1 Parents/Guardians,</strong>
 </p>
 <p>Welcome to Pei Hwa Presbyterian Primary School.
 <br>We are glad to inform you that you may come to the school to purchase
 books and uniforms for your child according to the schedule below.</p>
-<h3>2026 P1 School Books and Uniform Sale Schedule</h3>
 <p>My Uniform Shop will be selling uniforms at Pei Hwa Presbyterian Primary
 School during the school holidays.
 <br>Please refer to the school booklist for the scheduled dates and times.</p>
