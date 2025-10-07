@@ -16,7 +16,7 @@ books and uniforms for your child according to the schedule below.</p>
 School during the school holidays.
 <br>Please refer to the school booklist for the scheduled dates and times.</p>
 <h4><strong><a href="/files/Booklist/2026/P1_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 P1 Booklist Pdf</a></strong></h4><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
-<p><strong><u>Schedule for Sale of Books and Uniform in School</u>&nbsp;</strong>
+<p><strong><u>Schedule for the Sale of Books and Uniforms in School</u>&nbsp;</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -83,14 +83,15 @@ Uniform (Level 1 - Science Lab 2)</p>
 460209
 <br>(Opposite Bedok MRT, above Sheng Siong Supermarket)
 <br>Tel: <strong>6276 6689</strong> (Please call during operating hours)</p>
-<h4><strong><a href="/files/School Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">My UniformShop Pdf</a></strong></h4>
+<h4><strong><a href="/files/School Uniform/2026/My_Uniform_Shop__ASIA__Pte_Ltd___Pei_Hwa_Presbyterian_Primary_School_2025_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">My UniformShop Infomation Pdf</a></strong></h4>
 <p></p>
 <p><strong>For Online Purchase</strong>
 <br>Parents may refer to the online website (<strong><a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a></strong>)
 for more details regarding the purchasing guide and delivery.
 <br><strong>All home delivery orders must be received and paid for by 15 December 2025, 2359 hours.</strong>
 </p>
-<p></p>
+<p><strong>Recommendations </strong>– It is recommended that you buy 2 sets
+of school uniform and 3 sets of PE attire.</p>
 <p>If you need further assistance, please get in touch with our school's
 general office at 64663787
 <br>Or write to <strong><a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a></strong> for
