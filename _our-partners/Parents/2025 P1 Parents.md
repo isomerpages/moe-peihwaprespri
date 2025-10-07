@@ -9,10 +9,10 @@ third_nav_title: Parents
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg">
 </div>
 <h2>2025 P1 Admin Matters</h2>
-<p>Dear Parents P1 students in 2025, &nbsp;
-<br>Welcome to Pei Hwa Presbyterian Primary School. We would like share with
-you the “<strong>P1 Administrative Matters</strong>” as listed below for
-completion by the respective due dates:-</p>
+<p>Dear Parents, P1 students in 2025, &nbsp;
+<br>Welcome to Pei Hwa Presbyterian Primary School. We would like to share
+with you the “<strong>P1 Administrative Matters</strong>” as listed below
+for completion by the respective due dates:-</p>
 <h3>A) Parents to submit or apply:</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -84,7 +84,7 @@ completion by the respective due dates:-</p>
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Child Immunization Records</p>
+<p>Child Immunisation Records</p>
 </td>
 </tr>
 <tr>
