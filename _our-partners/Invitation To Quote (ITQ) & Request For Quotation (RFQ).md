@@ -34,7 +34,13 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr></tr>	<tr>
-	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25004813</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Conversational Malay Programme (CCM) in Pei Hwa Presbyterian Primary School </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">29 Sept 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">07 Oct 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
+		</tr>	<tr></tr>	<tr></tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25004156</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Modern Dance CCA Training Programme in PHPPS from Jan to Dec 2026, with option to extend from Jan to Dec 2027 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">05 Sept 2025 </span></td>
