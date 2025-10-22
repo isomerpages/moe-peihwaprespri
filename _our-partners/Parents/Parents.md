@@ -13,9 +13,10 @@ For more details you may refer to these title links below;
 
 | **[Insurance Claim](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/insurance-claim/)**                                             |**[Parents Gateway](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-gateway/)**                                             | **[Parents Support Group](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parents-support-group/)** |
 | -------- | -------- | -------- |
-| **[Parent Volunteers](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers/)**                                         | **[2025 P1 Parents](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/2025-p1-parents/)**                                             
-|**[P1 Registration](https://www.moe.gov.sg/primary/p1-registration)**| **[PHPPS Waiting List](https://go.gov.sg/phppswaitinglist)**
-||   
+
+
+|**[Parent Volunteers](https://www.peihwapresbyterianpri.moe.edu.sg/our-partners-1/parents/parent-volunteers/)**|**[P1 Registration](https://www.moe.gov.sg/primary/p1-registration)** |**[PHPPS Waiting List](https://go.gov.sg/phppswaitinglist)**|
+| -------- | -------- | -------- |
 
 
   
