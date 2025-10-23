@@ -56,7 +56,7 @@ sections:
       id: infopic
       description: PAT gives national recognition to experienced teachers who are
         inspiring role models for students and have a deep passion for teaching.
-      button: Button Text
+      button: Nominate here
       alt: Image alt text
       url: https://go.gov.sg/pat2026
       image: /images/Picture Cover/PAT.jpg
