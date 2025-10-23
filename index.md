@@ -40,4 +40,21 @@ sections:
             schedule.
           link_text: 2026 P1 School Books and Uniform Sale
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
+  - infopic:
+      title: OYEA
+      subtitle: Outstanding Youth Edu. Award
+      id: infopic
+      description: OYEA gives recognition to Young Teachers who are role models,
+        inspiring students and peers through their words and deeds.
+      button: Nominate here
+      url: https://go.gov.sg/oyea2026
+      image: /images/Picture Cover/OYEA.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
