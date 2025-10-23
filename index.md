@@ -54,7 +54,8 @@ sections:
       title: PAT
       subtitle: President's Award for Teachers
       id: infopic
-      description: Infopic description
+      description: PAT gives national recognition to experienced teachers who are
+        inspiring role models for students and have a deep passion for teaching.
       button: Button Text
       alt: Image alt text
       url: https://go.gov.sg/pat2026
