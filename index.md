@@ -51,10 +51,12 @@ sections:
       image: /images/Picture Cover/OYEA.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: PAT
+      subtitle: President's Award for Teachers
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      url: https://go.gov.sg/pat2026
+      image: /images/Picture Cover/PAT.jpg
 ---
