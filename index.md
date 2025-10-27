@@ -40,4 +40,24 @@ sections:
             schedule.
           link_text: 2026 P1 School Books and Uniform Sale
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
+  - infopic:
+      title: OYEA
+      subtitle: Outstanding Youth Edu. Award
+      id: infopic
+      description: OYEA gives recognition to Young Teachers who are role models,
+        inspiring students and peers through their words and deeds.
+      button: Nominate here
+      url: https://go.gov.sg/oyea2026
+      image: /images/Picture Cover/OYEA.jpg
+      alt: Image alt text
+  - infopic:
+      title: PAT
+      subtitle: President's Award for Teachers
+      id: infopic
+      description: PAT gives national recognition to experienced teachers who are
+        inspiring role models for students and have a deep passion for teaching.
+      button: Nominate here
+      alt: Image alt text
+      url: https://go.gov.sg/pat2026
+      image: /images/Picture Cover/PAT.jpg
 ---
