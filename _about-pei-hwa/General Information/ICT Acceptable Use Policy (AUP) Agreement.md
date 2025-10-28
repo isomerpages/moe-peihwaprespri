@@ -9,19 +9,21 @@ third_nav_title: General Information
 work, play and learning in the 21st century. Pei Hwa Presbyterian Primary
 School is committed to providing a safe and conducive learning environment
 for all students. As a user of our ICT facilities, you are required to
-abide by the rules stated in this Acceptable Use Policy Agreement (AUP).</p>
+abide by the rules stated in this <strong>Acceptable Use Policy Agreement (AUP).</strong>
+</p>
 <p>This policy applies to all students in this school and the use of our
 school’s ICT facilities, equipment and resources. ICT facilities, equipment
 and resources include the following, but are not limited to, the school’s
 internet network, Computer Labs, hardware (e.g. laptops, tablets, computers),
 software (e.g. school’s learning management system, productivity software,
 online tools) and peripherals (e.g. iPad, laptops).</p>
-<h5>General</h5>
+<h4><strong>General</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Users are responsible for using school-owned ICT facilities, equipment
 and resources for the purpose of learning. Personal use, such as gaming
-and engaging in social media platforms, is strictly prohibited.</p>
+and engaging in social media platforms, is <strong>strictly prohibited.</strong>
+</p>
 </li>
 <li>
 <p>Users are responsible for any resource that is borrowed from the school
@@ -33,11 +35,10 @@ the school’s discipline policy.</p>
 <p>Users are responsible for their personal devices. The school will not
 be held responsible for any damage, theft or loss of their devices.</p>
 <p></p>
+<p></p>
 </li>
 </ol>
-<h5></h5>
-<p><strong>Being a Responsible Digital Citizen</strong>
-</p>
+<h4><strong>Being a Responsible Digital Citizen</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should interact with others respectfully
 and responsibly. You should not post online remarks that are</p>
 <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; racially and/or religiously
@@ -73,16 +74,14 @@ you are ultimately short-changing yourself if you pass off other’s work
 as your own.</p>
 <h4><strong>Staying Safe and Secure online</strong></h4>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should report any incidents (e.g.
-unusual device behavior or inappropriate use of devices), to the school.
-<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
-</p>
+unusual device behavior or inappropriate use of devices), to the school.</p>
 <p>10. You are reminded to develop online safety habits. This includes not
-disclosing personal access credentials (e.g. MIMS password, PLD passcode,
-etc.), sensitive personal data (e.g. home address, passwords) online or
-on AI platforms, verifying credibility of online content before sharing,
-avoiding clicking on suspicious links or downloading unknown files, and
-being cautious when interacting with others online (e.g. on social media)
-by not engaging with strangers.</p>
+disclosing personal access credentials (e.g. MIMS password, passcode, etc.),
+sensitive personal data (e.g. home address, passwords) online or on AI
+platforms, verifying credibility of online content before sharing, avoiding
+clicking on suspicious links or downloading unknown files, and being cautious
+when interacting with others online (e.g. on social media) by not engaging
+with strangers.</p>
 <p>11. You should exercise caution regarding the limitations of AI tools,
 including potential inaccuracies / fabricated responses, inherent biases
 and outdated information.</p>
