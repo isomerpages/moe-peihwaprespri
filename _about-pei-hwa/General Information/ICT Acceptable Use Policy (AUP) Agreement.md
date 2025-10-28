@@ -6,10 +6,10 @@ description: ""
 third_nav_title: General Information
 ---
 <p>Computing devices and access to the Internet have become a necessity for
-work, play and learning in the 21st century. Pei Hwa Presbyterian Primary
-School is committed to providing a safe and conducive learning environment
-for all students. As a user of our ICT facilities, you are required to
-abide by the rules stated in this <strong>Acceptable Use Policy Agreement (AUP).</strong>
+work, play and learning in the 21st century. <strong>Pei Hwa Presbyterian Primary School</strong> is
+committed to providing a safe and conducive learning environment for all
+students. As a user of our ICT facilities, you are required to comply with
+the rules outlined in this <strong>Acceptable Use Policy Agreement (AUP).</strong>
 </p>
 <p>This policy applies to all students in this school and the use of our
 school’s ICT facilities, equipment and resources. ICT facilities, equipment
@@ -26,10 +26,10 @@ and engaging in social media platforms, is <strong>strictly prohibited.</strong>
 </p>
 </li>
 <li>
-<p>Users are responsible for any resource that is borrowed from the school
-for the duration of the loan. The user will bear the cost of damage, theft
-or loss due to negligence and face disciplinary action in accordance with
-the school’s discipline policy.</p>
+<p>Users are responsible for any resources borrowed from the school for the
+duration of the loan. The user will bear the cost of damage, theft or loss
+due to negligence and face disciplinary action in accordance with the school’s
+discipline policy.</p>
 </li>
 <li>
 <p>Users are responsible for their personal devices. The school will not
