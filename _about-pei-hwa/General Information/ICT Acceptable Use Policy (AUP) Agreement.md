@@ -40,28 +40,32 @@ be held responsible for any damage, theft or loss of their devices.</p>
 </ol>
 <h4><strong>Being a Responsible Digital Citizen</strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should interact with others respectfully
-and responsibly. You should not post online remarks that are</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; racially and/or religiously
-insensitive,</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vulgar and/or offensive, or</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hurtful to others.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use any devices to</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; store, modify, create or share
-content (e.g. documents, presentations, pictures and videos) that is inappropriate
-(e.g. indecent, pornographic, defamatory, hurtful to self or others).</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make threats, cause harassment
+and responsibly. You should not post online remarks that are
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; racially and/or religiously
+insensitive,
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vulgar and/or offensive, or
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hurtful to others.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use any devices to
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; store, modify, create or share
+content
+<br>(e.g. documents, presentations, pictures and videos) that is inappropriate
+(e.g. indecent, pornographic, defamatory, hurtful to self or others).
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make threats, cause harassment
 or embarrassment, impersonate or intimidate others.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You should not use MOE/school-deployed
-ICT system accounts for any commercial activities (e.g. buying and selling
-of goods and services).</p>
-<p>Non-compliance with the above will lead to disciplinary action in accordance
-with the school’s discipline policy.[1]</p>
+ICT system accounts for any commercial activities
+<br>(e.g. buying and selling of goods and services).</p>
+<p><strong>Non-compliance with the above will lead to disciplinary action in accordance with the school’s discipline policy.</strong>
+<br>
+</p>
 <h4><strong>Respecting Copyright</strong></h4>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are reminded to obtain explicit permission
 from the content owner(s) before downloading, copying or sharing any copyrighted
 materials (e.g. pictures, videos, music).</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;You should not use, copy, edit
-or share digital files in an unauthorized or illegal manner.</p>
+or share digital files in an unauthorized or illegal manner.
+<br>
+</p>
 <h4><strong>Using Artificial Intelligence (AI)</strong></h4>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You must ensure that you meet the minimum
 age requirement specified in each AI tool's age restrictions before using
