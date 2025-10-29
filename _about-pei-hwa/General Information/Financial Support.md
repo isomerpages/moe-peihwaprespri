@@ -31,13 +31,13 @@ on the criteria and application of the scheme, please&nbsp;<strong><a href="http
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PG Services App" src="/images/Others Folder Images/Admin Finance/PG_Services_App.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="PG Services App" src="/images/Others Folder Images/Admin Finance/PG_Services_App.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Financial Assistance" src="/images/Others Folder Images/Admin Finance/Financial_Assistance.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Financial Assistance" src="/images/Others Folder Images/Admin Finance/Financial_Assistance.jpg">
 </div>
 </th>
 </tr>
