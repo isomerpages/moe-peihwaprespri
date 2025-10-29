@@ -21,11 +21,34 @@ the criteria and application of the scheme, please&nbsp;<strong><a href="https:/
 <p><strong>Financial Assistant Scheme Application</strong>&nbsp;via method:,
 &nbsp;
 <br>• Parents Gateway App (<strong>Services tap -&gt; Financial Assistance</strong>&nbsp;)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="PG Services App" src="/images/Others%20Folder%20Images/Admin%20Finance/PG_Services_App.jpg">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Financial Assistance" src="/images/Others%20Folder%20Images/Admin%20Finance/Financial_Assistance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PG Services App" src="/images/Others Folder Images/Admin Finance/PG_Services_App.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Financial Assistance" src="/images/Others Folder Images/Admin Finance/Financial_Assistance.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
