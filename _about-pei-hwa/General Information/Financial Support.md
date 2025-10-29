@@ -10,12 +10,12 @@ variant: tiptap
 </div>
 <h4>Financial Assistance Scheme (MOE FAS)</h4>
 <p>To ensure that every student performs at their fullest potential without
-having to worry about basic needs, MOE Financial Assistance Scheme (MOE
-FAS) is made available for application throughout the year. Parents can
-apply for such assistance when the need arises. For more information on
-the criteria and application of the scheme, please&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</strong>
+having to worry about basic needs, the MOE Financial Assistance Scheme
+(MOE FAS) is made available for application throughout the year. Parents
+can apply for such assistance when the need arises. For more information
+on the criteria and application of the scheme, please&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">click here</a>.</strong>
 </p>
-<p><strong>Needy students who do not meet the criteria for MOE FAS will be automatically considered for school-based financial assistance scheme.</strong>
+<p><strong>Needy students who do not meet the criteria for MOE FAS will be automatically considered for the school-based financial assistance scheme. </strong>
 <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Financial assistance</a>
 </p>
 <p><strong>Financial Assistant Scheme Application</strong>&nbsp;via method:,
