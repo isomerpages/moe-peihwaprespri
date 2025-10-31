@@ -17,16 +17,12 @@ For student care services, please contact the following:
 
 **Commit Learning Schoolhouse  
 Tel: 89286418  
-Email:&nbsp;[admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
+Email: [admission\_cls\_phpps@commitlearning.com.sg](mailto:admission_cls_phpps@commitlearning.com.sg)**
 
-##### [Indication of Interest Form](https://cls.cyberland.sg/scc/sccapplication.php?CentreID=70)
+##### [Introduction Letter 2026](/files/Application%20Forms/2026%20SCC/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC_____Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_docx.pdf)
 
-##### [School Student Care Application](https://form.jotform.com/242728735856470)
+##### [Indication of Interest 2026](/files/Application%20Forms/2026%20SCC/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_Indication_of_Interest___Pei_Hwa_Presbyterian_Primary_School_docx.pdf)
 
-##### [Introduction Letter 2025](/files/Application%20Forms/Student%20Care/Introduction_Letter___Pei_Hwa_Presbyterian_Primary_School_Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC___docx__1_.pdf)
-
-##### [FAQs 2025](/files/Application%20Forms/Student%20Care/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2025_FAQs___Pei_Hwa_Presbyterian_Primary_School.pdf)
-
-
+##### [FAQs 2026](/files/Application%20Forms/2026%20SCC/Commit_Learning_SchoolHouse__CLS__Student_Care_Centre__SCC____2026_FAQs___Pei_Hwa_Presbyterian_Primary_School_docx.pdf)
 
 **Note: All arrangements and agreements are to be made directly with the student care service provider.**
