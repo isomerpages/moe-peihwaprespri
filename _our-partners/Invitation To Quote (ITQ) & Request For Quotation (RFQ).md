@@ -34,7 +34,13 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr></tr>	<tr>
+			</tr>	<tr></tr>	<tr>
 			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25006612</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructor to conduct Drama Club CCA Training Programme in PHPPS from Jan to Dec 2026, with option to extend from Jan to Dec 2027 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">07 Nov 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">17 Nov 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25006258</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">PROVISION OF AD-HOC BUS TRANSPORT SERVICES FOR PEI HWA PRESBYTERIAN PRIMARY SCHOOL </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">30 Oct 2025 </span></td>
