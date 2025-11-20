@@ -38,7 +38,7 @@ sections:
           date: 20 November 2025
           announcement: Year 2026 School Booklist is now available for all P1 to P6.
           link_text: Click on the link to find out more
-          link_url: https://www.peihwapresbyterianpri.moe.edu.sg
+          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-booklist/
   - infopic:
       title: OYEA
       subtitle: Outstanding Youth Edu. Award
