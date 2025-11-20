@@ -27,12 +27,6 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
-        - title: School Calendar 2025 Term 4
-          date: 18 August 2025
-          announcement: Please refer to the school calendar link on the website or Parent
-            Gateway Announcements for information.
-          link_text: Term 4 school calendar
-          link_url: /about-pei-hwa/school-calendar/
         - title: 2026 P1 School Books and Uniform Sale Schedule
           date: 07 October 2025
           announcement: We are glad to inform you that you may come to the school to
