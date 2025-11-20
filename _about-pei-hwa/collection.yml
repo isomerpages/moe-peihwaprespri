@@ -2,7 +2,6 @@ collections:
   about-pei-hwa:
     output: true
     order:
-      - School Booklist.md
       - Our PHPPS Heritage/.keep
       - Our PHPPS Heritage/School Heritage.md
       - School Motto and Crest.md
@@ -26,6 +25,7 @@ collections:
       - General Information/ICT Acceptable Use Policy (AUP) Agreement.md
       - General Information/Terms of use.md
       - School Calendar.md
+      - School Booklist.md
       - School Service Providers/.keep
       - School Service Providers/School Bus Service.md
       - School Service Providers/School Bookshop & Uniforms.md
