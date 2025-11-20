@@ -18,43 +18,26 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/P1 booklist.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P1_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p1 booklist.JPG"></a>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2 booklist.png">
-</div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P2_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p2 booklist.JPG"></a>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P3 Booklist" src="/images/P3 booklist.png">
-</div>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P3_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p3 booklist.JPG"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4 booklist.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P4_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p4 booklist.JPG"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5 booklist.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P5_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p5 booklist.JPG"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6 booklist.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P6_Booklist.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buttons/p6 booklist.JPG"></a>
 </td>
 </tr>
 <tr>
