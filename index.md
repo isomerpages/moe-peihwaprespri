@@ -27,12 +27,6 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
-        - title: School Calendar 2025 Term 4
-          date: 18 August 2025
-          announcement: Please refer to the school calendar link on the website or Parent
-            Gateway Announcements for information.
-          link_text: Term 4 school calendar
-          link_url: /about-pei-hwa/school-calendar/
         - title: 2026 P1 School Books and Uniform Sale Schedule
           date: 07 October 2025
           announcement: We are glad to inform you that you may come to the school to
@@ -40,6 +34,11 @@ sections:
             schedule.
           link_text: 2026 P1 School Books and Uniform Sale
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
+        - title: 2026 Booklist for P1 to P6
+          date: 20 November 2025
+          announcement: Year 2026 School Booklist is now available for all P1 to P6.
+          link_text: Click on the link to find out more
+          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/about-pei-hwa/school-booklist/
   - infopic:
       title: OYEA
       subtitle: Outstanding Youth Edu. Award
