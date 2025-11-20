@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg">
 </div>
-<h4>Please click on the links below to download the 2025 school booklist in PDF format.</h4>
+<h4>Please click on the links below to download the 2026 school booklist in PDF format.</h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
