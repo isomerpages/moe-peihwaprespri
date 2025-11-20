@@ -34,6 +34,11 @@ sections:
             schedule.
           link_text: 2026 P1 School Books and Uniform Sale
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
+        - title: 2026 Booklist
+          date: 20 November 2025
+          announcement: Year 2026 School Booklist is now available for all P1 to P6.
+          link_text: Click on the link to find out more
+          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/2026-p1-parents/
   - infopic:
       title: OYEA
       subtitle: Outstanding Youth Edu. Award
