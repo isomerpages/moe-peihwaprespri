@@ -55,23 +55,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P5_Booklist_FDN.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5 foundation booklist.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P5_Booklist__FDN_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5 foundation booklist.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P6_Booklist_FDN.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P6 foundation booklist.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P6_Booklist__FDN_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P6 foundation booklist.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -79,11 +67,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P5_Booklist_HCL.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5 HCL booklist.png"></a>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P6_Booklist_HCL.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P6 HCL booklist.png"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P5_Booklist__HCL_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P5 HCL booklist.png"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.peihwapresbyterianpri.moe.edu.sg/files/Booklist/2026/P6_Booklist__HCL_.pdf"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/P6 HCL booklist.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
