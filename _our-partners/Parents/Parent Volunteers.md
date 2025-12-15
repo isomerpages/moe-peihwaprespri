@@ -6,14 +6,15 @@ third_nav_title: Parents
 variant: markdown
 ---
 ![](/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Our%20Partners3.jpg)
-# Parent Volunteers
+# Parent Volunteers Scheme
 
 ##### Parent Volunteer Scheme
 
-The closing date for Phase 2B Parent Volunteer Scheme\* of children born between **2nd Jan 2020 to 1st Jan 2021** (both dates inclusive) is **31st May 2025**. Interested parents to write-in to [**phpps@moe.edu.sg.**](mailto:phpps@moe.edu.sg)
 
- 
-Shortlisted parents may be invited for an interview and selected parents will have to serve and complete 40 hours of voluntary service if they wish to be eligible for Phase 2B of the primary one registration exercise. Please note that only shortlisted parents will be notified.
 
-  
-**Parents are to note that this scheme accords an eligibility to register in Pei Hwa Presbyterian Primary School under Phase 2B of the Primary One Registration Exercise; it does not guarantee their children of a place.**
+Parents interested in applying for the **Phase 2B Parent Volunteer Scheme*** for children born between 2nd January 2021 and 1st January 2022 (both dates inclusive) may submit their application via this link: **https://go.gov.sg/phpps-pv-application** by the closing date of 31st May 2026. Late submissions will not be considered.
+
+Shortlisted parents may be invited for an interview, and selected parents will need to serve and complete 40 hours of voluntary service to be eligible for Phase 2B of the Primary One registration exercise.
+Please note that only shortlisted parents will be notified.
+
+ **Parents should note that this scheme provides eligibility to register at Pei Hwa Presbyterian Primary School under Phase 2B of the Primary One Registration Exercise; it does not guarantee their children a place.**
