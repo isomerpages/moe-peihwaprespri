@@ -18,5 +18,3 @@ Shortlisted parents may be invited for an interview, and selected parents will n
 Please note that only shortlisted parents will be notified.
 
  **Parents should note that this scheme provides eligibility to register at Pei Hwa Presbyterian Primary School under Phase 2B of the Primary One Registration Exercise; it does not guarantee their children a place.**
-
-
