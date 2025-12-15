@@ -34,6 +34,27 @@ variant: markdown
 		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr></tr>	<tr>
+	</tr>	<tr></tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25007262</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Table Tennis Recreational CCA Training Programme in PHPPS in 2026</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">03 Dec 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">15 Dec 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
+	</tr>	<tr></tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25007261</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Main &amp; Assistant Instructor for Table Tennis Competitive CCA Training Programme in PHPPS in 2026</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">03 Dec 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">15 Dec 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
+	</tr>	<tr></tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25007260</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of instructor to conduct Rhythmic Gymnastics CCA Training Programme in PHPPS from Jan 2026 to Apr 2026 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">03 Dec 2025 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">11 Dec 2025 1:00PM </span></td>
+			</tr>	<tr></tr>	<tr>
 			</tr>	<tr></tr>	<tr>
 			</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ25006612</span></td>
