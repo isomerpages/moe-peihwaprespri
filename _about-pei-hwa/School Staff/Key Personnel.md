@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sarah Ng</p>
+<p>Mrs. Sarah Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lin Hui'en</p>
+<p>Mrs. Lin Hui'en</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal Administration</p>
@@ -123,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang-Ho Mei Yin</p>
+<p>Mrs. Chang-Ho Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Management and Student Leadership</p>
@@ -195,7 +195,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Timothy Chua</p>
+<p>Mr. Timothy Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. Year Head</p>
@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jessica Chua</p>
+<p>Mrs. Jessica Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH English Language</p>
@@ -349,7 +349,7 @@ variant: tiptap
 <p>Mrs. Rebecca Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/Learning Needs (Educational Support)</p>
+<p>ST Learning Needs (Educational Support)</p>
 </td>
 </tr>
 </tbody>
