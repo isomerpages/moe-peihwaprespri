@@ -1,6 +1,6 @@
 ---
-title: Teaching Staff 2025 (Non Form Teachers)
-permalink: /about-pei-hwa/school-staff/teaching-staff-2025-non-form-teachers/
+title: Teaching Staff 2026 (Non Form Teachers)
+permalink: /about-pei-hwa/school-staff/teaching-staff-2026-non-form-teachers/
 description: ""
 third_nav_title: School Staff
 variant: tiptap

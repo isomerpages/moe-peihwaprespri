@@ -49,6 +49,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Hussain Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager
+<br><a href="mailto:phpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phpps@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm. Chew Jan Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeosini D/O Rajinderan</p>
+<p>Ms. Yeosini D/O Rajinderan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer (DE)</p>
@@ -135,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Yew Chuan</p>
+<p>Mr. Ang Yew Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor
@@ -145,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Meng Hwa</p>
+<p>Mdm. Seah Meng Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor
@@ -156,7 +166,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Xiang Ying, Jesca
+<p>Ms. Ho Xiang Ying, Jesca
 <br>
 </p>
 </td>
@@ -168,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Teng Hui Kin
+<p>Ms. Teng Hui Kin
 <br>
 </p>
 </td>

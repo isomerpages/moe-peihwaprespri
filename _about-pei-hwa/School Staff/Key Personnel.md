@@ -43,10 +43,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Caleb Leong</p>
+<p>Mrs. Sarah Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Lin Hui'en</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal Administration</p>
 </td>
 </tr>
 </tbody>
@@ -115,10 +123,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm. Loh Sheau Mei Katherine</p>
+<p>Mrs. Chang-Ho Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>HOD Student Management and Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -187,6 +195,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr. Timothy Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Jessica Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr. Chua Kah Leong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,14 +223,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Joyous Choy Kum Yoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -314,7 +330,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryati</p>
+<p>Mdm. Haryati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Science</p>
@@ -333,7 +349,15 @@ variant: tiptap
 <p>Mrs. Rebecca Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST/Learning Needs (Educational Support)</p>
+<p>ST Learning Needs (Educational Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Sharon Wang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST CCE</p>
 </td>
 </tr>
 </tbody>
