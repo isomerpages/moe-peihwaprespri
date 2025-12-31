@@ -18,8 +18,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 1</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
@@ -277,8 +276,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 2</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
@@ -536,8 +534,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 3</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
@@ -774,8 +771,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 4</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
@@ -1000,8 +996,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 5</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
@@ -1226,8 +1221,7 @@ third_nav_title: School Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 6</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Form Teachers</strong>
