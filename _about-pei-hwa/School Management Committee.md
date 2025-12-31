@@ -55,9 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Elder (Dr) Johnson Lu Yi Qiang
-<br>
-</p>
+<p>Elder (Dr) Johnson Lu Yi Qiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secretary
@@ -103,14 +101,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Elder Casey Lee Kar Choon
 <br>
 </p>
@@ -119,22 +109,6 @@ variant: tiptap
 <p>Member
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -175,7 +149,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Allison Lim
+<p>Mrs. Allison Lim
 <br>
 </p>
 </td>
@@ -187,7 +161,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chloe Yong
+<p>Mdm. Chloe Yong
 <br>
 </p>
 </td>
@@ -199,17 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Caleb Leong
-<br>
-</p>
+<p>Mrs Sarah Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal
@@ -219,12 +183,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>Mrs Lin Hui`en</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p>Vice-Principal Administration
 <br>
 </p>
 </td>
