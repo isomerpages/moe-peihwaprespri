@@ -330,7 +330,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryati</p>
+<p>Mdm. Haryati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Science</p>
@@ -354,7 +354,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Wang</p>
+<p>Mrs. Sharon Wang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST CCE</p>
