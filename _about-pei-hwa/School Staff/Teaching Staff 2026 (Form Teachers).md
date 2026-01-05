@@ -297,7 +297,7 @@ third_nav_title: School Staff
 <p>Mdm Chin Kim Keow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:chin_kim_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -309,7 +309,8 @@ third_nav_title: School Staff
 <p>Mr Lee Wei Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_wei_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_yang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -331,7 +332,7 @@ third_nav_title: School Staff
 <p>Mrs Wendy Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">wendy_koh_lay_choi@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:wendy_koh_lay_choi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_koh_lay_choi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -343,7 +344,7 @@ third_nav_title: School Staff
 <p>Mdm Hu Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">hu_ying@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:hu_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -366,7 +367,7 @@ third_nav_title: School Staff
 <p>Ms Lua Seow Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">lua_seow_chin@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:lua_seow_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lua_seow_chin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -378,7 +379,7 @@ third_nav_title: School Staff
 <p>Ms Felicia Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Ting_En_Qin_Felicia@moe.edu.sg</a>
+<p>&nbsp;<a href="mailto:Ting_En_Qin_Felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ting_En_Qin_Felicia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
