@@ -1439,5 +1439,4 @@ third_nav_title: School Staff
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Buttons/Button%20Poster/luxury_gold_line_24866017.png">
 </div>
-<p><a href="mailto:teoh_sze_miin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh_sze_miin@moe.edu.sg</a>
-</p>
+<p></p>
