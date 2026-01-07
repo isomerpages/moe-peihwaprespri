@@ -2,6 +2,7 @@ collections:
   removed-site-pages:
     output: true
     order:
+      - ITQ RFG 2025e.md
       - 2024 P1 Parents.md
       - 2025 P1 School Books and Uniform Sale.md
       - Key Personnel 2024.md
