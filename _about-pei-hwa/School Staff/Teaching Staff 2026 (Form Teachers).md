@@ -69,7 +69,7 @@ third_nav_title: School Staff
 <p>Integrity 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nafsiyah</p>
+<p>Ms Siti Nafsiyah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:siti_nafsiyah_riduan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nafsiyah_riduan@moe.edu.sg</a>
