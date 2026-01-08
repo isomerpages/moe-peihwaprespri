@@ -198,10 +198,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener nofollow" target="_blank">iEXAMS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VPN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.moe.edu.sg/" rel="noopener nofollow" target="_blank">All Ears Forms Builder</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener nofollow" target="_blank">SSOE 2 Service Portal</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ssoe2.moe.edu.sg/</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -496,11 +524,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://portal.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Student Google via MIMS</a>
+<p><a href="https://portal.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MIMS Student Google</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://portal.mims.moe.gov.sg" rel="noopener nofollow" target="_blank">https://portal.mims.moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener nofollow" target="_blank">MIMS Password Reset</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/saml2/sso</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
