@@ -1275,7 +1275,7 @@ third_nav_title: School Staff
 <p>Resilience 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Wang</p>
+<p>Mrs Cheryl Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:Cheryl_Wang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Cheryl_Wang@moe.edu.sg</a>
