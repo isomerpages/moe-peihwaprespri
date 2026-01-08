@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg">
 </div>
 <p>Please refer to the links below for your reference.</p>
-<h4>For Staff - Portals</h4>
+<h3>For Staff - Portals</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -34,6 +34,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg" rel="noopener nofollow" target="_blank">https://intranet.moe.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VPN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx" rel="noopener nofollow" target="_blank">MOE Intranet Applications</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +206,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>VPN</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +245,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>VPN</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +261,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>For Staff - Booking Forms</h4>
+<h3>For Staff - Booking Forms</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -343,7 +356,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>For Parents</h4>
+<h3>For Parents</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -490,7 +503,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>For Students</h4>
+<h3>For Students</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
