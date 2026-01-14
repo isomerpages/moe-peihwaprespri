@@ -129,7 +129,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chin Kim Keow <a href="chin_kim_keow@moe.edu.sg" rel="noopener nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
+<p>Mdm Chin Kim Keow <a href="mailto:chin_kim_keow@moe.edu.sg" rel="noopener nofollow" target="_blank">chin_kim_keow@moe.edu.sg</a>
 <br>Mdm Li Jing</p>
 </td>
 </tr>
@@ -144,7 +144,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Foo Yean Fung <a href="foo_yean_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yean_fung@moe.edu.sg</a>
+<p>Mdm Foo Yean Fung <a href="mailto:foo_yean_fung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yean_fung@moe.edu.sg</a>
 <br>Mrs Chong Pei Ling</p>
 </td>
 </tr>
@@ -191,7 +191,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jiang Yan Yan <a href="jiang_yanyan@moe.edu.sg" rel="noopener nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
+<p>Ms Jiang Yan Yan <a href="mailto:jiang_yanyan@moe.edu.sg" rel="noopener nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
 <br>Mr Zhou Xiao Feng</p>
 </td>
 </tr>
@@ -206,7 +206,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Meow Jin <a href="ho_meow_jin@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_meow_jin@moe.edu.sg</a>
+<p>Ms Ho Meow Jin <a href="mailto:ho_meow_jin@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_meow_jin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -221,7 +221,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Goh <a href="goh_siew_hong_b@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_siew_hong_b@moe.edu.sg</a>
+<p>Ms Diana Goh <a href="mailto:goh_siew_hong_b@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_siew_hong_b@moe.edu.sg</a>
 <br>Mrs Wendy Koh</p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ishatika <a href="ishatika_isman@moe.edu.sg" rel="noopener nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
+<p>Miss Ishatika <a href="mailto:ishatika_isman@moe.edu.sg" rel="noopener nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
 <br>Ms Agnes Ho</p>
 </td>
 </tr>
@@ -251,7 +251,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Wee Ming <a href="lim_wee_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wee_ming@moe.edu.sg</a>
+<p>Mr Lim Wee Ming <a href="mailto:lim_wee_ming@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_wee_ming@moe.edu.sg</a>
 <br>Mdm Christine Har</p>
 </td>
 </tr>
@@ -300,7 +300,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Razak <a href="abdul_razak_ariffin@moe.edu.sg" rel="noopener nofollow" target="_blank">abdul_razak_ariffin@moe.edu.sg</a>
+<p>Mr Abdul Razak <a href="mailto:abdul_razak_ariffin@moe.edu.sg" rel="noopener nofollow" target="_blank">abdul_razak_ariffin@moe.edu.sg</a>
 <br>Ms Ho Meow Jin</p>
 </td>
 </tr>
@@ -315,7 +315,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Xin Yi <a href="pang_xin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_xin_yi@moe.edu.sg</a>
+<p>Ms Pang Xin Yi <a href="mailto:pang_xin_yi@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_xin_yi@moe.edu.sg</a>
 <br>Mdm Loh Seow Hwei
 <br>Ms Guo Ting Ting
 <br>Mr Lee Wei Yang
@@ -333,7 +333,7 @@ description: ""
 <p>2 – 3.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jun Liang <a href="ong_jun_liang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_jun_liang_a@moe.edu.sg</a>
+<p>Mr Ong Jun Liang <a href="mailto:ong_jun_liang_a@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_jun_liang_a@moe.edu.sg</a>
 <br>Ms Nafsiyah
 <br>Mdm Dawn Ling
 <br>Mdm Husna</p>
@@ -350,7 +350,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hu Ying <a href="hu_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_ying@moe.edu.sg</a>
+<p>Ms Hu Ying <a href="mailto:hu_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_ying@moe.edu.sg</a>
 <br>Ms Rene Ng
 <br>Mdm Winnie Chen</p>
 </td>
@@ -414,7 +414,7 @@ description: ""
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Woon Ta-li <a href="woon_ta-li@moe.edu.sg" rel="noopener nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
+<p>Mr Woon Ta-li <a href="mailto:woon_ta-li@moe.edu.sg" rel="noopener nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
 <br>Mr John Leung
 <br>Mr Mok Ying Jia
 <br>Mrs Celestine Wong</p>
@@ -431,7 +431,7 @@ description: ""
 <p>2– 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rebecca Wong <a href="rebecca_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">rebecca_wong@moe.edu.sg&nbsp; </a>
+<p>Mrs Rebecca Wong <a href="mailto:rebecca_wong@moe.edu.sg" rel="noopener nofollow" target="_blank">rebecca_wong@moe.edu.sg&nbsp; </a>
 <br>Mrs Nicola Ho
 <br>Mrs Cynthia Yang
 <br>Ms Rebekah Lim</p>
