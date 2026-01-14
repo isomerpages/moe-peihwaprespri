@@ -31,7 +31,7 @@ sections:
           date: 14 January 2026
           announcement: Year 2026 CCA Schedule is now
           link_text: Click on the link to find out more
-          link_url: https://www.peihwapresbyterianpri.moe.edu.sg//co-curricular-activities-cca/cca-schedule-table/
+          link_url: https://www.peihwapresbyterianpri.moe.edu.sg/co-curricular-activities-cca/cca-schedule-table/
         - title: 2026 Booklist for P1 to P6
           date: 20 November 2025
           announcement: Year 2026 School Booklist is now available for all P1 to P6.
