@@ -35,27 +35,40 @@ you could learn about the upcoming events and keep in touch with your classmates
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h5><strong><a href="https://www.facebook.com/peihwaofficialalumni/" rel="noopener noreferrer nofollow" target="_blank">Phpps Facebook Link Page</a></strong></h5>
+<h5><strong><a href="https://www.facebook.com/peihwaofficialalumni/" rel="noopener noreferrer nofollow" target="_blank">PHPPS Facebook Link Page</a></strong></h5>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<h5><strong><a href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D" rel="noopener noreferrer nofollow" target="_blank">Phpps Alumni Insta Link</a></strong></h5>
+<h5><strong><a href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D" rel="noopener noreferrer nofollow" target="_blank">PHPPS Alumni Insta Link</a></strong></h5>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/peihwaofficialalumni/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/website icon facebook.JPG"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/website icon instagram.JPG"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
 <h5></h5>
-<p>Alumni association continues to be an important avenue to support our
-school and students, as well as a platform for former students to reconnect
-and network. Alumni remains key partners of the school, and we strongly
+<p>The Alumni Association continues to be an important avenue for supporting
+our school and students, as well as a platform for former students to reconnect
+and network. Alumni remain key partners of the school, and we strongly
 encourage former students to join the alumni association to uphold the
-ethos and traditions of our alma maters.&nbsp; We hope and encourage those
-who join the alumni association to continue to contribute to the school.</p>
-<h4><strong>Application for Alumni Membership</strong></h4>
-<p>If you want to join the PHPPS Alumni Association, please print out the
-membership application form and send the completed form to the contact
-address stated within.&nbsp; <strong>Only former students from Pei Hwa Presbyterian Primary School (PHPPS) are eligible for membership</strong>.&nbsp;
-Kindly give us 3 months to process the application.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
+ethos and traditions of our alma mater. We hope and encourage those who
+join the alumni association to continue to contribute to the school.</p>
+<h4><strong>Application for Alumni Membership</strong></h4><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
+<p>&nbsp; Kindly give us 3 months to process the application.</p>
 <p></p>
 <h4><strong>Information for P1 Registration</strong></h4>
 <p>For those who are registering your child, you may check the MOE website
