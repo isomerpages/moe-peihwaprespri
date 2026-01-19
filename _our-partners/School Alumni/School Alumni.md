@@ -54,8 +54,10 @@ who join the alumni association to continue to contribute to the school.</p>
 <h4><strong>Application for Alumni Membership</strong></h4>
 <p>If you want to join the PHPPS Alumni Association, please print out the
 membership application form and send the completed form to the contact
-address stated within.&nbsp; <strong>Only former students from Pei Hwa Presbyterian Primary School (PHPPS) are eligible for membership</strong>.&nbsp;
-Kindly give us 3 months to process the application.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
+address stated within.&nbsp; Kindly give us 3 months to process the application.</p>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG">
+</a>
 <p></p>
 <h4><strong>Information for P1 Registration</strong></h4>
 <p>For those who are registering your child, you may check the MOE website
