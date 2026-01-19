@@ -45,19 +45,14 @@ you could learn about the upcoming events and keep in touch with your classmates
 </tbody>
 </table>
 <h5></h5>
-<p>Alumni association continues to be an important avenue to support our
-school and students, as well as a platform for former students to reconnect
-and network. Alumni remains key partners of the school, and we strongly
+<p>The Alumni Association continues to be an important avenue for supporting
+our school and students, as well as a platform for former students to reconnect
+and network. Alumni remain key partners of the school, and we strongly
 encourage former students to join the alumni association to uphold the
-ethos and traditions of our alma maters.&nbsp; We hope and encourage those
-who join the alumni association to continue to contribute to the school.</p>
-<h4><strong>Application for Alumni Membership</strong></h4>
-<p>If you want to join the PHPPS Alumni Association, please print out the
-membership application form and send the completed form to the contact
-address stated within.&nbsp; Kindly give us 3 months to process the application.</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG">
-</a>
+ethos and traditions of our alma mater. We hope and encourage those who
+join the alumni association to continue to contribute to the school.</p>
+<h4><strong>Application for Alumni Membership</strong></h4><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
+<p>&nbsp; Kindly give us 3 months to process the application.</p>
 <p></p>
 <h4><strong>Information for P1 Registration</strong></h4>
 <p>For those who are registering your child, you may check the MOE website
