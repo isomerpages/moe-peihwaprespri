@@ -51,18 +51,18 @@ and network. Alumni remains key partners of the school, and we strongly
 encourage former students to join the alumni association to uphold the
 ethos and traditions of our alma maters.&nbsp; We hope and encourage those
 who join the alumni association to continue to contribute to the school.</p>
-<h4><strong><em>Application for Alumni Membership</em></strong></h4>
+<h4><strong>Application for Alumni Membership</strong></h4>
 <p>If you want to join the PHPPS Alumni Association, please print out the
 membership application form and send the completed form to the contact
 address stated within.&nbsp; <strong>Only former students from Pei Hwa Presbyterian Primary School (PHPPS) are eligible for membership</strong>.&nbsp;
-Kindly give us 3 months to process the application.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
+Kindly give us 3 months to process the application.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
 <p></p>
 <h4><strong>Information for P1 Registration</strong></h4>
 <p>For those who are registering your child, you may check the MOE website
 at the following link for more information <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
 </p>
 <p></p>
-<h4><strong><em>Request Form for Change of Address or Updates on Personal Particulars</em></strong></h4>
+<h4><strong>Request Form for Change of Address or Updates on Personal Particulars</strong></h4>
 <p>If you would like to update your address, email or personal particulars,
 please complete and submit an attached form with relevant documents to</p>
 <p></p>
