@@ -35,12 +35,28 @@ you could learn about the upcoming events and keep in touch with your classmates
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h5><strong><a href="https://www.facebook.com/peihwaofficialalumni/" rel="noopener noreferrer nofollow" target="_blank">Phpps Facebook Link Page</a></strong></h5>
+<h5><strong><a href="https://www.facebook.com/peihwaofficialalumni/" rel="noopener noreferrer nofollow" target="_blank">PHPPS Facebook Link Page</a></strong></h5>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<h5><strong><a href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D" rel="noopener noreferrer nofollow" target="_blank">Phpps Alumni Insta Link</a></strong></h5>
+<h5><strong><a href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D" rel="noopener noreferrer nofollow" target="_blank">PHPPS Alumni Insta Link</a></strong></h5>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/peihwaofficialalumni/"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/website icon facebook.JPG"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/phppsalumni/?igshid=MzRlODBiNWFlZA%3D%3D"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Buttons/Button Poster/website icon instagram.JPG"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
