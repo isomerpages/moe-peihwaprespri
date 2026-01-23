@@ -39,14 +39,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br><strong>Teachers IC</strong>
+<p><strong>Teachers IC</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Alice Tan (CCA Head) <a href="mailto:tan_li_choo_alice@moe.edu.sg" rel="noopener noreferrer" target="_blank">tan_li_choo_alice@moe.edu.sg</a> 
-<br>Mrs. Wendy Koh</p>
+<p>Mdm Yu Li Ting (CCA Head) <a href="mailto:yu_liting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_liting@moe.edu.sg</a>
+<br>Ms Teo Jing Wen</p>
 </td>
 </tr>
 </tbody>
