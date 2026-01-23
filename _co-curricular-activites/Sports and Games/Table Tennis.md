@@ -64,7 +64,7 @@ events.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table Tennnis Room</p>
+<p>Table Tennis Room</p>
 </td>
 </tr>
 <tr>
