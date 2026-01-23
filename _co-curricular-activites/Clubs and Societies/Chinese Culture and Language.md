@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jiang Yan Yan <a href="mailto:jiang_yanyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
+<p>Ms Jiang Yan Yan (CCA Head) <a href="mailto:jiang_yanyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@moe.edu.sg</a>
 </p>
 <p>Mr Zhou Xiao Feng
 <br>
