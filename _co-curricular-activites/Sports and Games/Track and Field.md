@@ -18,12 +18,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="2">
 <p>
-<br>- Pupils will learn dynamic warm ups, drills and will be exposed to a
+<br>- Pupils will learn dynamic warm-ups, drills and will be exposed to a
 variety of events such as long jump, high jump, hurdles, throwing, relay,
 sprints and distance.
 <br>
-<br>- Preparation for competition includes developing resilience during trainings,
-ways to handle anxiety and practicing sportsmanship.
+<br>- Preparation for competition includes developing resilience during training,
+ways to handle anxiety and practising sportsmanship.
 <br>
 <br>- Inculcation of values such as respect, responsibility, resilience, integrity,
 care and harmony and socio-emotional competencies such as self-awareness,
@@ -38,8 +38,8 @@ self-management, social awareness and responsible decision-making.
 <p>
 <br><strong>Key Programmes Activities</strong>
 <br>
-<br>March : SAA Kids Athletics (TBC)
-<br>April : National School Games (TBC)
+<br>March: SAA Kids Athletics (TBC)
+<br>April: National School Games (TBC)
 <br>
 <br>
 </p>
