@@ -7,10 +7,18 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20Co%20Curricular%20Activities4.jpg">
 </div>
+<p>CCAs play a key role in the holistic development of our students. Through
+sustained participation in CCAs, students develop CCA-specific knowledge,
+skills and attitudes progressively. More importantly, CCAs provide authentic
+learning experiences which allow students to put values into actions, acquire
+social and emotional competencies and develop emerging 21st Century Competencies.</p>
+<p>&nbsp;The school aims to provide a balanced, inclusive and diverse CCA
+programme to cater to students’ broad spectrum of interests and talents.
+All primary 3 to 6 students are strongly encouraged to participate in a
+CCA. Students will be invited to register for a CCA when they are in primary
+3. Below are the CCAs offered by the school.</p>
 <h3><strong><u>CCA Schedule for 2026</u></strong></h3>
-<p><strong>For enquiries about specific CCA, you may email the teachers in charge.</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>For enquiries about specific CCA, you may email the teachers in charge.&nbsp;</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
