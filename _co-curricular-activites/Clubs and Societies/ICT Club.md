@@ -64,8 +64,9 @@ create their first website.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mdm Ishatika (CCA Head) <a href="mailto:ishatika_isman@moe.edu.sg" rel="noopener noreferrer" target="_blank">ishatika_isman@moe.edu.sg</a>
+<p>Miss Ishatika (CCA Head) <a href="mailto:ishatika_isman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ishatika_isman@moe.edu.sg</a>
 </p>
+<p>Ms Agnes Ho</p>
 </td>
 </tr>
 <tr>
