@@ -81,7 +81,7 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Yang</p>
+<p>Ms Yu Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_yang@moe.edu.sg</a>
