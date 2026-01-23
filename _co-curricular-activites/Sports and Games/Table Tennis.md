@@ -35,7 +35,7 @@ events.
 <tr>
 <td rowspan="1" colspan="2">
 <p>
-<br><strong>Key Programmes Activities</strong>
+<br><strong>Key Programes Activities</strong>
 <br>
 <br>1. West Zone Table Tennis Tournament
 <br>2. National Table Tennis Tournament
