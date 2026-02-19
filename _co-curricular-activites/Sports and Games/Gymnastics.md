@@ -68,12 +68,12 @@ in;
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday , Wednesday</p>
+<p>Tuesday, Wednesday</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5><strong>Note: The CCA will be discontinued end 2026. Recruitment will cease in 2025.</strong></h5>
+<h5><strong>Note: The CCA will be discontinued in end April 2026.</strong></h5>
 <h3>Photos</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rgym1.jpg">
