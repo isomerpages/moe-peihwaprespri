@@ -32,12 +32,20 @@ variant: markdown
 <tbody>
 <tr>
 		</tr>	<tr>
+	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26000821</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for 3 Days 2 Nights Primary 5 Outdoor Education and Team-Building Camp 2026</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">24 Feb 2026 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">05 Mar 2026 01:00 PM</span></td>
+			</tr>	<tr>
+	</tr>	<tr>
 		</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26000083</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Student Leaders' Leadership Camp in Pei Hwa Presbyterian Primary School</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">09 Jan 2026 </span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">19 Jan 2026 01:00 PM</span></td>
-			</tr>	<tr></tr>	<tr>
+			</tr>	<tr>
+	</tr>	<tr>
 			</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26000049</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Peer Support Training for Peer Support Leaders &amp; CCA Leaders in Pei Hwa Presbyterian Primary School</span></td>
