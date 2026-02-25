@@ -9,8 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners Subpage/948x260 masterhead - student development2.jpg">
 </div>
 <p>Pei Hwa Presbyterian Primary School has the following canteen stalls for
-occupancy. We are a single-session school with an estimated school enrolment
-of 1,400 pupils and 120 staff.</p>
+occupancy.
+<br>We are a single-session school with an estimated <strong>school enrolment of 1,400 pupils and 120 staff.</strong>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -104,7 +105,7 @@ and previous SFA licenses, etc</p>
 </tbody>
 </table>
 <p>3. Submit the completed application form and documents by closing date
-to the <a href="https://www.peihwapresbyterianpri.moe.edu.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">School General Office  </a>or
+to the <a href="https://www.peihwapresbyterianpri.moe.edu.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">School General Office </a>or
 via school email <a href="mailto:phpps@moe.edu.sg" rel="noopener nofollow" target="_blank">phpps@moe.edu.sg</a>
 </p>
 <table style="minWidth: 25px">
