@@ -127,7 +127,8 @@ via school email <a href="mailto:phpps@moe.edu.sg" rel="noopener nofollow" targe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>* Email: phpps.moe.edu.sg</p>
+<p>* Email: <a href="mailto:phpps@moe.edu.sg" rel="noopener nofollow" target="_blank">phpps@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
