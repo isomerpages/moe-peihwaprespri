@@ -33,6 +33,13 @@ variant: markdown
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26001010</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Manpower Support Services (Operation Support Officer) from 1 Apr 2026 to 31 Mar 2027,with option to extend from 1 Apr 2027 to 31 Mar 2028</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">06 Mar 2026 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">16 Mar 2026 01:00 PM</span></td>
+			</tr>	<tr>
+	</tr>	<tr></tr>	<tr>
+	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26000974</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of Instructors for Chinese Brush Calligraphy in Pei Hwa Presbyterian Primary School</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">05 Mar 2026 </span></td>
