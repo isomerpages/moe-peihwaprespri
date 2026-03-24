@@ -309,7 +309,7 @@ third_nav_title: School Staff
 <p>Mr Lee Wei Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wei_yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_yang@moe.edu.sg</a>
+<p><a href="mailto:lee_wei_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
