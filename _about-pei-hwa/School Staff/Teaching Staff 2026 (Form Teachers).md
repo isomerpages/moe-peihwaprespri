@@ -516,10 +516,11 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Jie Xin</p>
+<p>Mdm Chua Shan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Chua_Shanyi_C@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Shanyi_C@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
