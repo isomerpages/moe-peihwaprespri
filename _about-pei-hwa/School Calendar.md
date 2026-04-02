@@ -169,8 +169,8 @@ to partnering with you in the education of our students. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 April</p>
-<p>(Saturday morning)</p>
+<p>18 April
+<br>(Saturday Morning)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>*P6 Parent Engagement and Secondary Schools Roadshow (AM)</p>
