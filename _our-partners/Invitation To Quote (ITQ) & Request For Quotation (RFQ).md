@@ -33,6 +33,13 @@ variant: markdown
 <tr>
 		</tr>	<tr>
 	</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26001572</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Production of Video Highlights and Photography and Videography Services for 9th National Text Recital Competition 2026.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">15 Apr 2026 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">24 Apr 2026 01:00 PM</span></td>
+			</tr>	<tr>
+	</tr>	<tr></tr>	<tr>
+	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHERQ26000348</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Provision of 5 Days 4 Nights Overseas Immersion trip for school staff and students to Shanghai, People’s Republic of China.</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">13 Mar 2026 </span></td>
