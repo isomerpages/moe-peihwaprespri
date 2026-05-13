@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 ### **General Terms and Conditions on the Use of Pei Hwa Presbyterian Primary School Website**
 
@@ -22,7 +23,7 @@ permalink: /terms-of-use/
 
 #### Privacy Policy
 
-5\. Click [here](https://peihwapresbyterianpri-moe-edu-sg-admin.cwp.sg/useful-links/privacy-statement) to review this website Privacy Statement. 
+5\. Click to review this website [Privacy Statement](https://www.peihwapresbyterianpri.moe.edu.sg/privacy)
 
 #### Restrictions on Use of Materials
 

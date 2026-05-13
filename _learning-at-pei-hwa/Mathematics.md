@@ -115,9 +115,7 @@ These are the topics selected for the P3 to P6 students:
 
 1&nbsp;→&nbsp;**Primary school mathematics syllabus**
 
-[Primary 1 to Primary 3](https://www.moe.gov.sg/-/media/files/primary/mathematics_syllabus_primary_1_to_6.pdf)
 
-[Primary 4 to Primary 6](https://www.moe.gov.sg/-/media/files/syllabus/2021-pri-mathematics-1-to-3.ashx)
 
   
 
