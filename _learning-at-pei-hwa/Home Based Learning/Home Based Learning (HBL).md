@@ -10,11 +10,11 @@ variant: tiptap
 </div>
 <p>Dear Parents,</p>
 <p>As part of our efforts in monitoring our students’ well-being, all students
-will be required to access SLS to do a daily check-in, they may do so anytime
+will be required to access SLS to do a daily check-in; they may do so anytime
 between 7:30 a.m. to 10 a.m. During the check-in, students will be asked
 to record their temperature.</p>
-<p>Should you require assistance during FHBL period, the following are the
-helplines.</p>
+<p>Should you require assistance during the FHBL period, the following are
+the helplines.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -38,7 +38,7 @@ helplines.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SLS matters such as password reset and unlocking of accounts.</p>
+<p>SLS matters, such as password reset and unlocking of accounts.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>For School Operating Hours</u></strong>
