@@ -237,19 +237,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener nofollow" target="_blank">SSOE 2 Service Portal</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://ssoe2.moe.edu.sg/</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VPN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
