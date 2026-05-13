@@ -23,7 +23,7 @@ variant: markdown
 
 #### Privacy Policy
 
-5\. Click  to review this website Privacy Statement. 
+5\. Click to review this website [Privacy Statement](https://www.peihwapresbyterianpri.moe.edu.sg/privacy)
 
 #### Restrictions on Use of Materials
 
