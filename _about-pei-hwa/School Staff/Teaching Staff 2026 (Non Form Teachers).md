@@ -44,19 +44,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Ting Ting</p>
+<p>Mdm Goh Ai Lian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:guo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_ting_ting@moe.edu.sg</a>
+<p><a href="mailto:goh_ai_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ai_lian_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Idris Chua</p>
+<p>Mdm Guo Ting Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_idris_mohd_shafiq@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_idris_mohd_shafiq@moe.edu.sg</a>
+<p><a href="mailto:guo_ting_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_ting_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
