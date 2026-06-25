@@ -99,10 +99,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Idris Chua Mohd Shafiq</p>
+<p>Mr. Fedrick Lim Hung Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Science</p>
+<p>HOD Science (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -134,15 +134,15 @@ variant: tiptap
 <p>Mr. Wong Phuay Hang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
+<p>HOD SAP</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Tan Kok Yew</p>
+<p>Ms. Ho Meow Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA</p>
+<p>HOD Physical Education &amp; CCA (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Low Chuin Li</p>
+<p>Mr. Idris Chua Mohd Shafiq</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head ( P3 &amp; P4 )</p>
@@ -219,26 +219,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Fedrick Lim Hung Guan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm. Celestine Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Character &amp; Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms. Ho Meow Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
