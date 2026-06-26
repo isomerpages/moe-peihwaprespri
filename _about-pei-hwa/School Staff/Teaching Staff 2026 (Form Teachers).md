@@ -1113,7 +1113,7 @@ third_nav_title: School Staff
 <p>&nbsp;Mr Chua Kah Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:Chua_Kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Kah_leong@moe.edu.sg</a>
+<p><a href="mailto:Chua_Kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Kah_leong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
