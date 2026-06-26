@@ -604,7 +604,8 @@ third_nav_title: School Staff
 <p>Ms Chew Liang Liang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Khoo-chew_liang_liang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo-chew_liang_liang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -884,7 +885,7 @@ third_nav_title: School Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1109,7 +1110,19 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Chua Kah Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> <a href="mailto:Chua_Kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Kah_leong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
