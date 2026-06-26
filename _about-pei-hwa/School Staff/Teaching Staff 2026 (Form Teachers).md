@@ -128,7 +128,19 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mdm Zhang Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zhang_Meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zhang_Meng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,10 +198,10 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Kah Leong</p>
+<p>Mrs Joyce Kong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:Chua_Kah_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Kah_leong@moe.edu.sg</a>
+<p><a href="mailto:Lim_xue_yan_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_xue_yan_joyce@moe.edu.sg</a>
 </p>
 </td>
 </tr>
