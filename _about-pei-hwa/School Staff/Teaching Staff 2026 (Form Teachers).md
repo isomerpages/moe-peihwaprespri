@@ -708,7 +708,7 @@ third_nav_title: School Staff
 <p>Mrs Debbie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:lim_mui_theng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
+<p><a href="mailto:lim_mui_theng_debbie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_mui_theng_debbie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -872,7 +872,19 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Harikumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:harikumar_anandhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harikumar_anandhan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
