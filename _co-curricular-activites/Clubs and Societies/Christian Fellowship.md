@@ -41,7 +41,7 @@ in speech, in life, in love, in faith and in purity.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Meow Jin (CCA Head) <a href="mailto:ho_meow_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_meow_jin@moe.edu.sg</a>
+<p>Mrs Doris Lu (CCA Head) <a href="mailto:loh_phoi_shien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_phoi_shien@moe.edu.sg</a>
 </p>
 </td>
 </tr>
