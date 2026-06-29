@@ -59,7 +59,7 @@ CCA. Students will be invited to register for a CCA when they are in primary
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Felicia Ting <a href="mailto:felicia_ting_en_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
-<br>MrRozaimeBinAbdulRahim</p>
+<br>Mr Rozaime Bin Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <td rowspan="1" colspan="1">
 <p>Ms Teo Jing Wen <a href="mailto:teo_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_wen@moe.edu.sg</a> 
 <br>Mdm Low Yoke Kiat
-<br>MsChewLiangLiang</p>
+<br>Ms Chew Liang Liang</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +89,7 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Hee Mui<a href="mailto:yu_hee_mui@moe.edu.sg" rel="noopener nofollow" target="_blank">yu_hee_mui@moe.edu.sg</a>
+<p>Mdm Yu Hee Mui <a href="mailto:yu_hee_mui@moe.edu.sg" rel="noopener nofollow" target="_blank">yu_hee_mui@moe.edu.sg</a>
 <br>Mdm Zhang Meng</p>
 </td>
 </tr>
@@ -374,21 +374,6 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <p>Ms Hu Ying <a href="mailto:hu_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">hu_ying@moe.edu.sg</a>
 <br>Ms Rene Ng
 <br>Mdm Winnie Chen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rhythmic Gymnastics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue and Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 – 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kimberly Hay <a href="kimberly_edessa_hay@moe.edu.sg" rel="noopener nofollow" target="_blank">kimberly_edessa_hay@moe.edu.sg</a>
-<br>Mdm Hazwani</p>
 </td>
 </tr>
 </tbody>

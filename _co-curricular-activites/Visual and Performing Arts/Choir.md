@@ -45,7 +45,7 @@ of life through active engagement in singing and performing.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharon Wang (CCA Head) <a href="mailto:quek_shing_ting_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_shing_ting_sharon@moe.edu.sg</a>&nbsp;
-<br>Mrs Doris Lu</p>
+<br>Mrs Debbie Tan-Lim Mui Theng</p>
 </td>
 </tr>
 <tr>
