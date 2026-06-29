@@ -41,7 +41,8 @@ self-confidence in individuals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Kimberly Hay <a href="mailto:kimberly_edessa_hay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_edessa_hay@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +51,7 @@ self-confidence in individuals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Basketball Court</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +60,7 @@ self-confidence in individuals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Monday, 2-4 pm</p>
 </td>
 </tr>
 </tbody>
