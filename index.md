@@ -28,7 +28,7 @@ sections:
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
         - title: CCA Schedule 2026
-          date: 14 January 2026
+          date: 29 June 2026
           announcement: Year 2026 CCA Schedule is now
           link_text: Click on the link to find out more
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/co-curricular-activities-cca/cca-schedule-table/
