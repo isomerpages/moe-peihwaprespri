@@ -10,6 +10,8 @@ third_nav_title: Sports and Games
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners Subpage/948x260 masterhead - Co Curricular Activities4.jpg">
 </div>
+<p></p>
+<h3>Aims &amp; Objectives</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
