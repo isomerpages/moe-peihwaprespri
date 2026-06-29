@@ -47,8 +47,8 @@ projects that are not covered in the class art curriculum.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Jao Pei Jung (CCA Head) <a href="mailto:jao_pei-jung@moe.edu.sg" rel="noopener noreferrer" target="_blank">jao_pei-jung@moe.edu.sg</a> 
-<br>Ms. Felicia Ting</p>
+<p>Ms. Felicia Ting (CCA Head) <a href="mailto:felicia_ting_en_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
+<br>Mr Rozaime Bin Abdul Rahim</p>
 </td>
 </tr>
 <tr>
