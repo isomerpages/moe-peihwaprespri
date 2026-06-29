@@ -47,8 +47,7 @@ by the Tchoukball Association of Singapore.
 <td rowspan="1" colspan="1">
 <p>Abdul Razak (CCA Head) <a href="mailto:abdul_razak_ariffin@moe.edu.sg" rel="noopener noreferrer" target="_blank">abdul_razak_ariffin@moe.edu.sg</a> 
 <br>Mdm Hazwani
-<br>
-</p>
+<br>Mr Harikumar S/O Anandhan</p>
 </td>
 </tr>
 <tr>
