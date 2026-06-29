@@ -58,8 +58,9 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jao Pei-Jung<a href="mailto:jao_pei-jung@moe.edu.sg" rel="noopener nofollow" target="_blank"> jao_pei-jung@moe.edu.sg&nbsp; </a>
-<br>Miss Felicia Ting</p>
+<p>Miss Felicia Ting
+<br><a href="mailto:felicia_ting_en_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
+<br>MrRozaimeBinAbdulRahim</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +74,10 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <p>2 – 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Li Ting <a href="mailto:yu_liting@moe.edu.sg" rel="noopener nofollow" target="_blank">yu_liting@moe.edu.sg</a>
-<br>Ms Teo Jing Wen</p>
+<p>Ms Teo Jing Wen
+<br><a href="mailto:teo_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_wen@moe.edu.sg</a> 
+<br>Mdm Low Yoke Kiat
+<br>MsChewLiangLiang</p>
 </td>
 </tr>
 <tr>
