@@ -30,10 +30,10 @@ self-confidence in individuals.
 <p>
 <br><strong>Key Programmes Activities</strong>
 <br>
-<br>The CCA provide a platform to instill school values and develop student
-leadership in our pupils. Emphasis is placed on helping pupils to maximize
+<br>The CCA provide a platform to instil school values and develop student
+leadership in our pupils. Emphasis is placed on helping pupils to maximise
 their potential or excel in the CCA.
-<br>Players will participate in inter-school tchoukball tournaments organized
+<br>Players will participate in inter-school tchoukball tournaments organised
 by the Tchoukball Association of Singapore.
 <br>
 </p>
