@@ -40,9 +40,8 @@ Drum performance
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Hee Mui (CCA Head)
-<br><a href="mailto:yu_hee_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_hee_mui@moe.edu.sg</a>
-</p>
+<p>Mdm Yu Hee Mui (CCA Head) <a href="mailto:yu_hee_mui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_hee_mui@moe.edu.sg</a>
+<br>Mdm Zhang Meng</p>
 </td>
 </tr>
 </tbody>
