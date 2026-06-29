@@ -43,8 +43,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yu Li Ting (CCA Head) <a href="mailto:yu_liting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_liting@moe.edu.sg</a>
-<br>Ms Teo Jing Wen</p>
+<p>Ms Teo Jing Wen (CCA Head) <a href="mailto:teo_jing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_jing_wen@moe.edu.sg</a>
+<br>Mdm Low Yoke Kiat</p>
+<p>Ms Chew Liang Liang</p>
 </td>
 </tr>
 </tbody>
