@@ -376,21 +376,6 @@ CCA. Students will be invited to register for a CCA when they are in primary
 <br>Mdm Winnie Chen</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rhythmic Gymnastics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue and Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 – 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Kimberly Hay <a href="kimberly_edessa_hay@moe.edu.sg" rel="noopener nofollow" target="_blank">kimberly_edessa_hay@moe.edu.sg</a>
-<br>Mdm Hazwani</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
