@@ -44,7 +44,8 @@ Reverence, Discipline and Self-Respect).
 <p>Mr Woon Ta-li (CCA Head) <a href="mailto:woon_ta-li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon_ta-li@moe.edu.sg</a>
 <br>Mr John Leung
 <br>Mr Mok Ying Jia
-<br>Mrs Celestine Wong</p>
+<br>Mrs Celestine Wong
+<br>Ms Jennifer Lai</p>
 </td>
 </tr>
 <tr>
