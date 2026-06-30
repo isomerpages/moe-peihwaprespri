@@ -27,9 +27,15 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
+        - title: School Calender Term 3
+          date: 30 June 2026
+          announcement: Term 3 School Calendar is updated. Do also refer to the school PG,
+            which was sent to you
+          link_text: Click on the link to find out more
+          link_url: /about-pei-hwa/school-calendar/
         - title: CCA Schedule 2026
-          date: 14 January 2026
-          announcement: Year 2026 CCA Schedule is now
+          date: 29 June 2026
+          announcement: "Updated: Year 2026 CCA Schedule is now"
           link_text: Click on the link to find out more
           link_url: https://www.peihwapresbyterianpri.moe.edu.sg/co-curricular-activities-cca/cca-schedule-table/
         - title: 2026 Booklist for P1 to P6
