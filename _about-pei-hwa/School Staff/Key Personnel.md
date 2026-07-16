@@ -86,7 +86,7 @@ variant: tiptap
 <p>Ms. Ang Geok Lian Ellen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English</p>
+<p>HOD English Language</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>Mdm. Chye Xiao Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Chinese (Covering)</p>
+<p>HOD Chinese Language (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ variant: tiptap
 <p>Mrs. Chang-Ho Mei Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management and Student Leadership</p>
+<p>HOD Student Management &amp; Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ variant: tiptap
 <p>Ms. Ho Meow Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Physical Education &amp; CCA (Covering)</p>
+<p>HOD Physical Education &amp; CCA (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ variant: tiptap
 <p>Mdm. Wang Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MTT Chinese</p>
+<p>MTT Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ variant: tiptap
 <p>Ms. Teo Kar Sze Margaret</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST English</p>
+<p>ST English Language</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +317,7 @@ variant: tiptap
 <p>Mdm. Jiang Yanyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST Chinese</p>
+<p>ST Chinese Language</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +333,7 @@ variant: tiptap
 <p>Mrs. Sharon Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST CCE</p>
+<p>ST Character &amp; Citizenship Education</p>
 </td>
 </tr>
 </tbody>
