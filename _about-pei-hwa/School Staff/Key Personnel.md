@@ -134,7 +134,7 @@ variant: tiptap
 <p>Mr. Wong Phuay Hang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD SAP</p>
+<p>HOD Special Assistance Plan</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 <p>Ms. Chow Yee Sun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH SAP</p>
+<p>SH Special Assistance Plan</p>
 </td>
 </tr>
 <tr>
