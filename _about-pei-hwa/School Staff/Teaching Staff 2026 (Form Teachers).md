@@ -624,10 +624,10 @@ third_nav_title: School Staff
 <p>Responsibility 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Chwan Soon</p>
+<p>Mr Erman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:foo_chwan_soon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_chwan_soon@moe.edu.sg</a>
+<p><a href="mailto:Erman_Abu_Bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Erman_Abu_Bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -636,11 +636,10 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Erman</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:Erman_Abu_Bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Erman_Abu_Bakar@moe.edu.sg</a>
-</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
