@@ -1237,7 +1237,7 @@ third_nav_title: School Staff
 <p>Loyalty 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Tan</p>
+<p>Mrs Jessica Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:jessica_tan_xiu_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jessica_tan_xiu_en@moe.edu.sg</a>
