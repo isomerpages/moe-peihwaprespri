@@ -268,7 +268,7 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valencia Ang</p>
+<p>Mrs Valencia Wee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_kee_valencia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kee_valencia@moe.edu.sg</a>
