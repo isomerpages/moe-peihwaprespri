@@ -32,6 +32,13 @@ variant: markdown
 <tbody>
 <tr>
 	</tr>	<tr>
+		</tr>	<tr>
+	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26002780</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply of manpower services for Receptionist from 1 Sep 2026 to 31 Aug 2027, with option to extend for another year from 1 Sep 2027 to 31 Aug 2028.</span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">28 July 2026 </span></td>
+    <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">06 Aug 2026 01:00 PM</span></td>
+			</tr>	<tr>
+		</tr>	<tr>
 	</tr>	<tr>
 	</tr>	<tr><td class="tg-q1lf"><span style="color:#282828;background-color:transparent">MOESCHETQ26001933</span></td>
     <td class="tg-q1lf"><span style="color:#282828;background-color:transparent">Supply &amp; Delivery of Book Vouchers for 9th National Text Recital Competition.</span></td>
