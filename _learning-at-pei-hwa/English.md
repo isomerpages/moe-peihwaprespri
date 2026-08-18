@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website Banners Subpage/948x260 masterhead - Learning at Pei Hwa2.jpg">
+</div>
 <h4>Our Goal:</h4>
 <p>We aim to nurture every student to become a competent, confident, empathetic
 communicator with discernment in thought, creativity, and clarity in expression.</p>
