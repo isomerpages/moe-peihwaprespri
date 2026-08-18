@@ -11,7 +11,14 @@ variant: tiptap
 <h4>Our Goal:</h4>
 <p>We aim to nurture every student to become a competent, confident, empathetic
 communicator with discernment in thought, creativity, and clarity in expression.</p>
-<h3>Our School-based Programmes:</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_2.jpg">
+</div>
+<h3><br><strong><u>Our School-based Programmes:</u></strong></h3>
 <h4>1. Reading</h4>
 <p>The Read@PHPPS programme aims to nurture the love of reading in our students.
 We provide students with exposure to a wide variety of genres and teach
@@ -77,8 +84,11 @@ students to read widely.</p>
 </li>
 </ul>
 <p></p>
-<p>
-<br><em>Book sharing during DEAR Week</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Book sharing during DEAR Week" src="/images/ACADEMICS/EL 20260818/el_3.jpg">
+</div>
+<p><em>Book sharing during DEAR Week</em>
 </p>
 <p></p>
 <p><em><br>Enjoying a good book</em>
@@ -453,14 +463,14 @@ in school. Writings from these lessons are then published in the<strong> PHPPS C
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>
-<br>Introduction to 3 types of writing (across the two years), focusing on
+<p>Introduction to 3 types of writing (across the two years), focusing on
 expressing observations &amp; feelings&nbsp;&nbsp;</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Objective: Exploring different poetry (Acrostic, Rhyming)&nbsp;</p>
+<p>Objective:
+<br>Exploring different poetry (Acrostic, Rhyming)&nbsp;</p>
 <p>&nbsp;</p>
 <p>
 <br>
@@ -497,15 +507,15 @@ I wonder”.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>
-<br>Learning to share about events in an elaborated manner and in sequence
+<p>Learning to share about events in an elaborated manner and in sequence
 (Use 5W1H)&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Objective: Reflecting on experiences through writing (Using 5W1H)&nbsp;</p>
+<p>Objective:
+<br>Reflecting on experiences through writing (Using 5W1H)&nbsp;</p>
 <p>&nbsp;</p>
 <p>
 <br>
@@ -544,8 +554,7 @@ I wonder”.&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>
-<br>Catering to PAC when writing&nbsp;&nbsp;</p>
+<p>Catering to PAC when writing&nbsp;&nbsp;</p>
 </li>
 </ul>
 <ul>
@@ -555,7 +564,8 @@ I wonder”.&nbsp;&nbsp;</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Objective: Writing a recount/structuring an opinion&nbsp;</p>
+<p>Objective:
+<br>Writing a recount/structuring an opinion&nbsp;</p>
 <p>&nbsp;</p>
 <p>
 <br>
