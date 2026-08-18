@@ -414,7 +414,7 @@ third_nav_title: School Staff
 <p>Ms Felicia Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:Ting_En_Qin_Felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ting_En_Qin_Felicia@moe.edu.sg</a>
+<p><a href="mailto:felicia_ting_en_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">felicia_ting_en_qin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
