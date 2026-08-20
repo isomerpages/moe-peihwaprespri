@@ -105,19 +105,20 @@ students to read widely.</p>
 </div>
 <p><em>Playing with language games!</em>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_7.jpg">
+</div>
 <p><em>Students dressed up as various book characters!</em>
 </p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_9.jpg">
+</div>
 <p><em>Even teachers dress up as book characters during DEAR Week!</em>
 </p>
-<p><em>.</em>
-</p>
-<p><em>.</em>
-</p>
+<p></p>
 <h5>1c. Critical Reading Prog: Literature prog</h5>
 <p><strong><u>Objectives:</u></strong>
 </p>
@@ -278,10 +279,6 @@ Driven Story [CDS])
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
 <h3>3. Harnessing ICT in EL learning</h3>
 <p>Learning is fun and engaging with the help of technology. At PHPPS, teachers
 harness ICT to facilitate learning and make English language learning an
