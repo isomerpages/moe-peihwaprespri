@@ -284,19 +284,14 @@ Driven Story [CDS])
 harness ICT to facilitate learning and make English language learning an
 engaging experience. Eg, Snorkl for oral recording, Padlet for collaborative
 pair/group work, Wordwall for language games.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_ict_tools.jpg">
+</div>
 <p><em>Having fun learning with ICT tools!</em>
 </p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <h3>4. Applied Learning Programme (ALP):</h3>
-<p>
-<br>
-</p>
 <p>The focus of the ALP named C3 (competent, confident communicator) was
 on communication. The objective was to equip every student with the language
 skills to communicate confidently and effectively. Since its implementation,
@@ -308,16 +303,11 @@ have <strong>effective and empathetic </strong><u>voices</u> expressed through <
 This change signals a shift in focus. We are not just equipping the students
 with the essential language skills for communication, but we want them
 to apply these skills to have a voice to advocate for a cause.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>Voices @ PHPPS Lessons</strong>
-</p>
-<p>Lessons for Voices @ PHPPS are twofold, tackling two key sets of skills
+<br>Lessons for Voices @ PHPPS are twofold, tackling two key sets of skills
 in communication: oracy and writing.</p>
-<p>
-<br>
-</p>
+<p></p>
 <ol>
 <li>
 <p>Oracy&nbsp;</p>
@@ -333,64 +323,85 @@ group task for P1 and P2 respectively, in which students needed to record
 their recitation of the poem applying the different speech skills. In 2026,
 this will culminate in a level-wide <strong>Poetry Slam</strong> to showcase
 the speech skills they have learnt.&nbsp;</p>
-<p>
-<br>
-</p>
-<p>For the P3 &amp; 4 students, the focus was on stating a personal opinion
-based on the Literature book they were reading. Lessons focused on equipping
-them with strategies and skills to effectively convey their point of view
-based on the context of the Literature texts. This included the introduction
-of a basic speech structure, so that students can present their points
-of view in an organised and persuasive manner.&nbsp;</p>
-<p>
-<br>
-</p>
-<p>For the P5 &amp; 6 students, we added the element of advocacy in their
-oral presentations to tie in with their VIA projects. In presenting their
-VIA projects, the students must take into consideration the purpose, audience
-&amp; context and rally their audience with a call to action. Each of these
-lessons and activities provided opportunities for applying the communication
-skills taught in authentic presentation contexts.</p>
-<p>
-<br>
-</p>
+<p><strong>For the P3 &amp; 4 students, t</strong>he focus was on stating
+a personal opinion based on the Literature book they were reading. Lessons
+focused on equipping them with strategies and skills to effectively convey
+their point of view based on the context of the Literature texts. This
+included the introduction of a basic speech structure, so that students
+can present their points of view in an organised and persuasive manner.&nbsp;</p>
+<p><strong>For the P5 &amp; 6 students, </strong>we added the element of
+advocacy in their oral presentations to tie in with their VIA projects.
+In presenting their VIA projects, the students must take into consideration
+the purpose, audience &amp; context and rally their audience with a call
+to action. Each of these lessons and activities provided opportunities
+for applying the communication skills taught in authentic presentation
+contexts.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_10.jpg">
+</div>
 <p>P5s creating awareness of reducing plastic wastage.&nbsp;</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_11.jpg">
+</div>
 <p>P6s advocating for dementia patients and how to support them.&nbsp;</p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <p>In 2026, we embarked on a new <strong>SPEAK </strong>framework to support
 students as they prepare to speak in front of different audiences. This
 was included in a newly rolled-out lesson package to support students as
 they prepare for emcee duties or pre-assembly sharings.&nbsp;</p>
-<p>
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_12.jpg">
+</div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_13.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><em>Speak Posters for Primary 1 &amp; 2&nbsp;</em>
 </p>
-<p>
-<br>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_14.jpg">
+</div>
 <p></p>
-<p><em>Speak Posters for the middle (P3 &amp; P4) and upper (P5 &amp; P6) blocks.</em>
-</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_15.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><em>Speak Posters for the middle (P3 &amp; P4) and upper (P5 &amp; P6) blocks.</em>&nbsp;</p>
 <ol start="2">
 <li>
-<p>Writing&nbsp;</p>
-</li>
-</ol>
-<p>
+<p>Writing&nbsp;
 <br>
 </p>
+</li>
+</ol>
 <p><strong><em>Our Voices</em> publication</strong>
 </p>
 <p>Our Voices is a bilingual publication of students’ writings in various
@@ -406,13 +417,7 @@ the year and expressed their opinions and shared their key learning. Students’
 creativity was evident in how they explored different genres and text types.
 They also demonstrated their artistic talent by drawing out their stories
 in a comic strip.</p>
-<p>
-<br>
-</p>
 <p></p>
-<p>
-<br>
-</p>
 <p><strong>Voices @ PHPPS Writing Lessons:&nbsp;</strong>
 </p>
 <p>Mirroring the progressive introduction of different oracy skills, the
@@ -476,29 +481,16 @@ expressing observations &amp; feelings&nbsp;&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p>Objective:
 <br>Exploring different poetry (Acrostic, Rhyming)&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Reflecting on experiences through writing&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Writing a short descriptive paragraph using “I see, I think,
 I wonder”.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Writing a short “fable” - moral story (with a lesson learnt)&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -516,33 +508,16 @@ I wonder”.&nbsp;&nbsp;</p>
 (Use 5W1H)&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective:
 <br>Reflecting on experiences through writing (Using 5W1H)&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Recounting an event with creative descriptions&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Objective: Crafting a persuasive paragraph about an event&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+<p>Objective: Crafting a persuasive paragraph about an event&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Crafting a persuasive email to influence an opinion&nbsp;</p>
@@ -589,32 +564,18 @@ I wonder”.&nbsp;&nbsp;</p>
 <p>Writing a reflection&nbsp;</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Crafting an informative article to share more about an issue/social
 cause/event&nbsp;</p>
-<p>&nbsp;</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Objective: Crafting a paragraph that explains a topic (One-Word Inspiration)&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
 <p><strong>PHPPS Chronicles</strong>
 </p>
 <p>Chronicles is a semesterly digital newsletter where students express their
@@ -627,14 +588,9 @@ memories in various modes like photographs, writing a caption, writing
 a story, expressing their opinions, etc. As SLS lessons adopt an exploratory
 approach to learning about different styles and genres of writing, it promotes
 the joy of learning to write and encourages self-directed learning.</p>
-<p>
-<br>
+<p><a href="https://fliphtml5.com/bookcase/byozk/" rel="noopener nofollow" target="_blank">PHPPS Chronicles</a>
 </p>
-<p>Embed:&nbsp;</p>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://fliphtml5.com/bookcase/byozk/"></iframe>
-</div>
 <p>&nbsp;</p>
 <p>Original Link: <a href="https://fliphtml5.com/bookcase/byozk/" rel="noopener noreferrer nofollow" target="_blank"><u>https://fliphtml5.com/bookcase/byozk/</u></a>&nbsp;</p>
 <p>Password - given in the PG</p>
