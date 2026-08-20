@@ -86,20 +86,28 @@ students to read widely.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Book sharing during DEAR Week" src="/images/ACADEMICS/EL 20260818/el_3.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="Book sharing during DEAR Week" src="/images/ACADEMICS/EL 20260818/el_3.jpg">
 </div>
 <p><em>Book sharing during DEAR Week</em>
 </p>
 <p></p>
-<p><em><br>Enjoying a good book</em>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_4.jpg">
+</div>
+<p><em>Enjoying a good book</em>
 </p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_6.jpg">
+</div>
 <p><em>Playing with language games!</em>
 </p>
 <p></p>
-<p><em><br>Students dressed up as various book characters!</em>
+<p></p>
+<p><em>Students dressed up as various book characters!</em>
 </p>
 <p>
 <br>
