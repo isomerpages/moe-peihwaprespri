@@ -1407,7 +1407,7 @@ third_nav_title: School Staff
 <p>Ms Margaret Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kar_sze@moe.edu.sg</a>
+<p><strong><a href="mailto:margaret_teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_teo_kar_sze@moe.edu.sg</a></strong>
 </p>
 </td>
 </tr>
