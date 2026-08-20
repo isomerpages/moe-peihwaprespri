@@ -591,9 +591,10 @@ the joy of learning to write and encourages self-directed learning.</p>
 <p><a href="https://fliphtml5.com/bookcase/byozk/" rel="noopener nofollow" target="_blank">PHPPS Chronicles</a>
 </p>
 <p></p>
-<p>&nbsp;</p>
-<p>Original Link: <a href="https://fliphtml5.com/bookcase/byozk/" rel="noopener noreferrer nofollow" target="_blank"><u>https://fliphtml5.com/bookcase/byozk/</u></a>&nbsp;</p>
-<p>Password - given in the PG</p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACADEMICS/EL 20260818/el_phpps_chronicles.png">
+</div>
+<p>Original Link: <a href="https://fliphtml5.com/bookcase/byozk/" rel="noopener noreferrer nofollow" target="_blank"><u>https://fliphtml5.com/bookcase/byozk/</u></a>&nbsp;
+<br>Password - given in the PG
 <br>
 </p>
