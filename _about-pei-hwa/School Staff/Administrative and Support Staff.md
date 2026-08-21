@@ -200,10 +200,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Lee Poh Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SEN Officer
+<br><a href="mailto:lee_poh_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_poh_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
