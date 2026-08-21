@@ -27,6 +27,15 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
+        - title: "Visit by Ex-PHPPS Students:"
+          date: 21 August 2026
+          announcement: The school will be open from 11.00 a.m. to 12.00 noon for ex-PHPPS
+            students who have made prior appointments with their teachers. We
+            seek your cooperation returning students make an appointment in
+            advance before visiting. All visitors are to remain at Level
+            1(Canteen) or 2(Outside staff room) only.
+          link_text: ""
+          link_url: ""
         - title: School Calender Term 3
           date: 30 June 2026
           announcement: Term 3 School Calendar is updated. Do also refer to the school PG,
