@@ -68,7 +68,10 @@ encourage former students to join the alumni association to uphold the
 ethos and traditions of our alma mater. We hope and encourage those who
 join the alumni association to continue to contribute to the school.</p>
 <h4><strong>Application for Alumni Membership</strong></h4><a class="isomer-image-wrapper" href="https://go.gov.sg/phppsalumniapplicationform"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Buttons/click%20here.PNG"></a>
-<p>&nbsp; Kindly give us 3 months to process the application.</p>
+<p>&nbsp; The Alumni Association accepts applications via digital submission
+only. Please submit your application electronically, as physical hard copies
+will not be accepted or processed. Kindly give us 3 months to process your
+application. Thank you.</p>
 <p></p>
 <h4><strong>Information for P1 Registration</strong></h4>
 <p>For those who are registering your child, you may check the MOE website
