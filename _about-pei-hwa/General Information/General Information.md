@@ -8,8 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website%20Banners%20Subpage/948x260%20masterhead%20-%20About%20Pei%20Hwa4.jpg">
 </div>
-<p><strong>Zest for Learning</strong>
-</p>
+<h4><strong>Zest for Learning</strong></h4>
 <p><strong><u>Applied Learning Programme (ALP): </u></strong>
 <br>The focus of the ALP named C3 (competent, confident communicator) was
 on communication. The objective was to equip every student with the language
