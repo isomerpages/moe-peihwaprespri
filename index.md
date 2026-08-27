@@ -34,7 +34,7 @@ sections:
           link_text: Click on the link to find out more
           link_url: /about-pei-hwa/school-calendar/
         - title: Visit by Ex-PHPPS Students on 3rd Sept
-          date: 21 August 2026
+          date: 27 August 2026
           announcement: The school will be open from 11.00 a.m. to 12.00 noon for ex-PHPPS
             students who have made prior appointments with their teachers. We
             seek your cooperation returning students make an appointment in
