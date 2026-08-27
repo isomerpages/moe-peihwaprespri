@@ -36,9 +36,9 @@ sections:
             1(Canteen) or 2(Outside staff room) only.
           link_text: ""
           link_url: ""
-        - title: School Calender Term 3
-          date: 30 June 2026
-          announcement: Term 3 School Calendar is updated. Do also refer to the school PG,
+        - title: School Calender Term 4
+          date: 27 August 2026
+          announcement: Term 4 School Calendar is updated. Do also refer to the school PG,
             which was sent to you
           link_text: Click on the link to find out more
           link_url: /about-pei-hwa/school-calendar/
