@@ -27,6 +27,12 @@ sections:
       id: announcements
       subtitle: Pei Hwa Presbyterian Primary
       announcement_items:
+        - title: School Calender Term 4
+          date: 27 August 2026
+          announcement: Term 4 School Calendar is updated. Do also refer to the school PG,
+            which was sent to you
+          link_text: Click on the link to find out more
+          link_url: /about-pei-hwa/school-calendar/
         - title: "Visit by Ex-PHPPS Students:"
           date: 21 August 2026
           announcement: The school will be open from 11.00 a.m. to 12.00 noon for ex-PHPPS
@@ -36,12 +42,6 @@ sections:
             1(Canteen) or 2(Outside staff room) only.
           link_text: ""
           link_url: ""
-        - title: School Calender Term 4
-          date: 27 August 2026
-          announcement: Term 4 School Calendar is updated. Do also refer to the school PG,
-            which was sent to you
-          link_text: Click on the link to find out more
-          link_url: /about-pei-hwa/school-calendar/
         - title: CCA Schedule 2026
           date: 29 June 2026
           announcement: "Updated: Year 2026 CCA Schedule is now"
