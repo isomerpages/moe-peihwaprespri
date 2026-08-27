@@ -205,6 +205,176 @@ and Chinese Language</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<h4><strong><u>2026 School Calendar of Events for Term 4</u></strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Term Week</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p><strong>Day / Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p><strong>School Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p><strong>Remarks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T4W1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tues 15 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Listening Comprehension –</p>
+<p>English Language and Chinese Language*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+<p>&nbsp;</p>
+<p>No school for P1 to P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
+<p>T4W2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon 21 Sept – Wed 23 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Study Break*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+<p>School as usual for P1 to P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Thurs 24 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE English Language (Written)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 to P4 SA EL and CL Oral*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P3 &amp; P4 students</p>
+<p>School as usual for P1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HBL for P2 &amp; P5 students*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for P2 &amp; P5</p>
+<p>students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Fri 25 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Mathematics (Written)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 to P4 SA EL and CL Oral*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P3 &amp; P4 students</p>
+<p>&nbsp;</p>
+<p>School as usual for P1 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HBL for P2 &amp; P5 students*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for P2 &amp; P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>T4W3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon 28 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Chinese Language (Written)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+<p>&nbsp;</p>
+<p>School as usual for P1 to P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Tues 29 Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Science (Written)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 SA EL and CL Oral*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P5 students</p>
+<p>&nbsp;</p>
+<p>School as usual for P2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HBL for P1, P3 &amp; P4 students*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for P1, P3 &amp;</p>
+<p>P4 students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>We seek your understanding that there might be changes made to the calendar
 due to unforeseen circumstances.&nbsp; The school calendar will be uploaded
 to the school website.&nbsp; We look forward to partnering with you in
