@@ -78,14 +78,5 @@ application. Thank you.</p>
 at the following link for more information <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
 </p>
 <p></p>
-<h4><strong>Request Form for Change of Address or Updates on Personal Particulars</strong></h4>
-<p>If you would like to update your address, email or personal particulars,
-please complete and submit an attached form with relevant documents to</p>
+<h4></h4>
 <p></p>
-<p><strong>The Honorary Secretary <br>Pei Hwa Presbyterian Primary School Alumni <br>7 Pei Wah Avenue <br>Singapore 597610</strong>
-</p>
-<p></p>
-<p>Click&nbsp;<strong><a href="/files/PHPPS%20Alumni%20Request%20Form%20to%20Update%20Address%20V20201130.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong> for
-Application Form or below</p>
-<p><strong><a href="/files/PHPPS%20Alumni%20Request%20Form%20to%20Update%20Address%20V20201130.pdf" rel="noopener noreferrer nofollow" target="_blank">Request Form for Change of Address V20201130.pdf</a></strong>
-</p>
