@@ -50,8 +50,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>PSLE Listening Comprehension – English Language and Chinese Language*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P6 students</p>
-<p>&nbsp;</p>
+<p>For P6 students&nbsp;</p>
 <p>No school for P1 to P5 students</p>
 </td>
 </tr>
@@ -67,8 +66,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>P6 Study Break*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P6 students</p>
-<p>&nbsp;</p>
+<p>For P6 students&nbsp;</p>
 <p>School as usual for P1 to P5 students</p>
 </td>
 </tr>
@@ -118,8 +116,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>P3 to P4 SA EL and CL Oral*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P3 &amp; P4 students</p>
-<p>&nbsp;</p>
+<p>For P3 &amp; P4 students&nbsp;</p>
 <p>School as usual for P1 students</p>
 </td>
 </tr>
@@ -144,8 +141,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P6 students</p>
-<p>&nbsp;</p>
+<p>For P6 students&nbsp;</p>
 <p>School as usual for P1 to P5 students</p>
 </td>
 </tr>
@@ -166,8 +162,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P5 students</p>
-<p>&nbsp;</p>
+<p>For P5 students&nbsp;</p>
 <p>School as usual for P2 students</p>
 </td>
 </tr>
@@ -197,8 +192,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P5 students</p>
-<p>&nbsp;</p>
+<p>For P5 students&nbsp;</p>
 <p>School as usual for P2 students</p>
 </td>
 </tr>
@@ -242,14 +236,10 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 to P5 CL Paper 1 End Year Written Examinations*</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>P3 to P5 CL Paper 1 End Year Written Examinations*&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P3 to P5 students</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>For P3 to P5 students&nbsp;</p>
 <p>School as usual for P1, P2 and P6 students</p>
 </td>
 </tr>
@@ -259,12 +249,9 @@ to partnering with you in the education of our students. Thank you.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P3 to P5 EL Paper 1 End Year Written Examinations*</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P3 to P5 students</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>For P3 to P5 students&nbsp;</p>
 <p>School as usual for P1, P2 and P6 students</p>
 </td>
 </tr>
@@ -276,8 +263,7 @@ to partnering with you in the education of our students. Thank you.</p>
 <p>P5 HCL Paper 1 End Year Written Examinations*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P5 students taking Higher Chinese</p>
-<p>&nbsp;&nbsp;</p>
+<p>For P5 students taking Higher Chinese&nbsp;&nbsp;</p>
 <p>School as usual for P1 to P6 students</p>
 </td>
 </tr>
@@ -310,10 +296,8 @@ to partnering with you in the education of our students. Thank you.</p>
 and Chinese Language*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3 to P5 students</p>
-<p>&nbsp;</p>
+<p>P3 to P5 students&nbsp;</p>
 <p>School as usual for P1, P2 and P6 students.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -324,10 +308,8 @@ and Chinese Language*</p>
 <p>End Year Written Examinations*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P3 to P5 students</p>
-<p>&nbsp;</p>
-<p>School as usual for P1, P2 and P6 students.</p>
-<p>&nbsp;</p>
+<p>For P3 to P5 students&nbsp;</p>
+<p>School as usual for P1, P2 and P6 students.&nbsp;</p>
 <p>School dismissal at 12.30pm.</p>
 </td>
 </tr>
@@ -343,10 +325,8 @@ and Chinese Language*</p>
 <p>End Year Written Examinations*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P3 to P5 students</p>
-<p>&nbsp;</p>
-<p>School as usual for P1, P2 and P6 students.</p>
-<p>&nbsp;</p>
+<p>For P3 to P5 students&nbsp;</p>
+<p>School as usual for P1, P2 and P6 students.&nbsp;</p>
 <p>School dismissal at 12.30pm.</p>
 </td>
 </tr>
@@ -358,9 +338,7 @@ and Chinese Language*</p>
 <p>P5 HCL Paper 2 End Year Written Examinations*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P5 students taking Higher Chinese</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>For P5 students taking Higher Chinese&nbsp;</p>
 <p>School as usual for P1 to P6 students</p>
 </td>
 </tr>
@@ -401,8 +379,7 @@ and Chinese Language*</p>
 <p>P6 Prize Giving and Graduation Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For P6 students</p>
-<p>&nbsp;</p>
+<p>For P6 students&nbsp;</p>
 <p>No school for P1 to P5 students&nbsp;</p>
 </td>
 </tr>
