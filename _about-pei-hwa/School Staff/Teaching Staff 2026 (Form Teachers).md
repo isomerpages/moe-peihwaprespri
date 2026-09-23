@@ -872,7 +872,7 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Harikumar</p>
+<p>Mr Harikumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:harikumar_anandhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harikumar_anandhan@moe.edu.sg</a>
@@ -1407,7 +1407,7 @@ third_nav_title: School Staff
 <p>Ms Margaret Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:margaret_teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_teo_kar_sze@moe.edu.sg</a></strong>
+<p><a href="mailto:margaret_teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_teo_kar_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
