@@ -256,18 +256,6 @@ third_nav_title: School Staff
 <p>Integrity 7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Fronia Toh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:eng_pei_sze_fronia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_pei_sze_fronia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Valencia Wee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,7 +265,7 @@ third_nav_title: School Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Anitha Prasad</p>
@@ -285,6 +273,17 @@ third_nav_title: School Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Anitha_Prasad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Anitha_Prasad@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -636,10 +635,11 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Fronia Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:eng_pei_sze_fronia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_pei_sze_fronia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -872,7 +872,7 @@ third_nav_title: School Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Harikumar</p>
+<p>Mr Harikumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:harikumar_anandhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harikumar_anandhan@moe.edu.sg</a>
@@ -1407,7 +1407,7 @@ third_nav_title: School Staff
 <p>Ms Margaret Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="mailto:margaret_teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_teo_kar_sze@moe.edu.sg</a></strong>
+<p><a href="mailto:margaret_teo_kar_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">margaret_teo_kar_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>

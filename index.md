@@ -33,15 +33,6 @@ sections:
             which was sent to you
           link_text: Click on the link to find out more
           link_url: /about-pei-hwa/school-calendar/
-        - title: Visit by Ex-PHPPS Students on 3rd Sept
-          date: 27 August 2026
-          announcement: The school will be open from 11.00 a.m. to 12.00 noon for ex-PHPPS
-            students who have made prior appointments with their teachers. We
-            seek your cooperation returning students make an appointment in
-            advance before visiting. All visitors are to remain at Level
-            1(Canteen) or 2(Outside staff room) only.
-          link_text: ""
-          link_url: ""
         - title: CCA Schedule 2026
           date: 29 June 2026
           announcement: "Updated: Year 2026 CCA Schedule is now"
